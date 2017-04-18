@@ -140,6 +140,7 @@ def add_ne(ne, ne_list):
         return search_ret
 
 def ner_drive():
+    pynlpir.open()
     texts_list = os.listdir('./medical_texts')
     for text in texts_list:
         print ('taging %s' % text)
@@ -155,7 +156,17 @@ def ner_drive():
             i = 0
             ne_list = []
             fp_out.write('='*50+'\n')
-            fp_out.write(line.encode('UTF-8')+'\n')
+            seg_line = pynlpir.segment(line, pos_tagging=True)
+            for s_i in range(len(seg_line)-1, -1, -1):
+                seg_line[s_i] = list(seg_line[s_i])
+                if seg_line[s_i][1] == None:
+                    seg_line[s_i][1] = u'None'
+                    if seg_line[s_i][0] == u' ':
+                        del seg_line[s_i]
+                else:
+                    seg_line[s_i][1] = seg_line[s_i][1].replace(' ', '-')
+            seg_line = ' '.join('/'.join(y) for y in seg_line)
+            fp_out.write(seg_line.encode('UTF-8')+'\n')
             while i < len(line):
                 target = line[i]
                 bin_ret = binarysearch(low, high, index, target, loc)

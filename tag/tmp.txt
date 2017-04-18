@@ -1,350 +1,219 @@
-taging 中国高血压防治指南_.txt
-taging 儿童常见先天性心脏病介入治疗专家共识.txt
-taging 室性心律失常药物治疗选择_蒋文平.txt
-taging 常见先天性心脏病介入治疗中国专家共识一、房间隔缺损介入治疗.txt
-taging 常见先天性心脏病介入治疗中国专家共识三、动脉导管未闭的介入治疗.txt
-taging 常见先天性心脏病介入治疗中国专家共识二、室间隔缺损介入治疗.txt
-taging 常见先天性心脏病介入治疗中国专家共识五、先天性心脏病复合畸形的介入治疗.txt
-taging 常见先天性心脏病介入治疗中国专家共识四、经皮球囊肺动脉瓣与主动脉瓣成形术.txt
-taging 心房颤动 目前认识和治疗建议.txt
->>>>>>>>>>>>>>>>> 中国高血压防治指南_.txt_mm
-慢性病
-[[<MED>1]]物
-α-阻滞剂 β-阻滞剂
-钙拮抗剂
-[[<DIS>0]]、血脂、
-β-阻滞剂
-钙拮抗剂
-轻中度[[<DIS>1]]
-并发[[<DIS><SYM>2]]
-并发[[<DIS>0]]
-β-阻滞剂
-轻中度[[<DIS>0]]
-[[<MED>0]]依赖性[[<DIS>1]]
-β-阻滞剂
-钙拮抗剂
-钙拮抗剂
-非二氢吡啶类[[<MED>2]]
-钙拮抗剂
-二氢吡啶类[[<MED>2]]
-[[<MED>1]]普通片
-[[<MED>0]]速效胶囊
-[[<DIS>1]]合并[[<DIS>2]]
-β-阻滞剂
-钙拮抗剂
-β-阻滞剂 α-阻滞剂
-[[<MED>0]]、降压静、[[<MED>1]]
-[[<MED>2]]、血压达静、
-缺血性[[<DIS>3]]
-[[<DIS>0]]、食盐、
-β-阻滞剂
-α-受体阻滞剂
-钙拮抗剂
-[[<MED>0]]物
-重症[[<DIS>0]]
-β-阻滞剂
-钙拮抗剂
-[[<MED>2]]物
-[[<MED>2]]、ACE-I等
-β-受体阻断剂
-β-阻滞剂
-钙拮抗剂
-β-阻滞剂
-钙通道拮抗剂
-钙通道拮抗剂
-[[<DIS>2]]合并[[<DIS>3]]
-[[<DIS>0]]合并[[<DIS><SYM>1]]
-β-阻滞剂
-β-阻滞剂
-钙拮抗剂
-二氢吡啶类[[<MED>1]]
-[[<DIS>0]]合并[[<DIS>1]]
-2型[[<DIS>0]] 1型[[<DIS>0]]
-1型[[<DIS>0]]
-2型[[<DIS>0]]
-2型[[<DIS>1]]
-1型[[<DIS>0]]
-2型[[<DIS>0]]
-2型[[<DIS>0]]
-2型[[<DIS>0]]
-α-受体阻滞剂
-钙拮抗剂
-β-受体阻滞剂
-、脂质代谢和[[<MED>1]]
->>>>>>>>>>>>>>>>> 儿童常见先天性心脏病介入治疗专家共识.txt_mm
-介入性[[<TRE>0]]
-重度[[<DIS>0]]
-β受体阻滞剂
-经皮球囊[[<TRE>0]]
-经皮球囊[[<TRE>0]]
-重度[[<DIS>1]]
-[[<DIS>1]]、低心排出量等
-[[<DIS><SYM>0]]、生长发育迟滞、
-重度[[<DIS>0]]
-[[<DIS>1]]、发凉、
-[[<MED>1]]静脉滴注
->>>>>>>>>>>>>>>>> 室性心律失常药物治疗选择_蒋文平.txt_mm
-[[<MED>1]]物
-β受体阻滞剂
-持续性[[<DIS><SYM>0]]
-[[<DIS><SYM>1]]、急性心肌供血不足、[[<DIS>2]]
-β受体阻滞剂
-、醛固酮拮抗剂和[[<MED>2]]
-β受体阻滞剂
-β受体阻滞剂
-抗[[<DIS>1]]药物
-重症[[<DIS>0]]
-β受体阻滞剂
-[[<MED>0]]物
-抗[[<DIS>0]]药物
-[[<MED>3]]和普酰胺;
-与[[<MED>4]]、氟卡胺相似
-III类药物
-其他的一些药
-[[<MED>3]]物
-[[<MED>1]]、杜非利特等
-β受体阻滞剂
-β受体阻滞剂
-急性[[<DIS>3]]
-、Ica-L和[[<MED>1]]
-β受体阻滞剂
-[[<MED>1]]多通道阻滞剂
-β受体阻滞剂
-β受体阻滞剂
-[[<MED>0]]、苯妥因钠等
-β受体阻滞剂
-β受体阻滞剂
-β受体阻滞剂
-β受体阻滞剂
-β受体阻滞剂
->>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识一、房间隔缺损介入治疗.txt_mm
-经食管[[<TRE>0]]
-重度[[<DIS>0]]
-[[<TRE>0]]检查
-[[<TRE>0]]检查
-[[<DIS>3]]、恶心、[[<DIS>4]]
-持续性[[<DIS><SYM>0]]
 >>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识三、动脉导管未闭的介入治疗.txt_mm
-中度[[<DIS>0]]
-重度[[<DIS>0]]
-[[<DIS><SYM>2]]、心前区不适、
-[[<DIS><SYM>0]]、撕裂、
-[[<MED>3]]静脉滴注
+>>>>>>>>>>>>>>>>> 中国高血压防治指南_.txt_mm
+>>>>>>>>>>>>>>>>> 中国高血压防治指南_.txt_mm_ner
+==================================================
+5.4.4.1/numeral 利尿剂/noun ：/punctuation-mark 利尿剂/noun 主要/adverb 用于/verb 轻/adjective 中度/distinguishing-word 高血压/noun ，/punctuation-mark 尤其/adverb 在/preposition 老年/time-word 高血压/noun 或/conjunction 并发/verb 心力衰竭/noun 者/suffix 。/punctuation-mark
+5.4.4.1[[<MED>0]]：[[<MED>0]]主要用于[[<DIS>2]]，尤其在[[<DIS>1]]或[[<DIS>3]]者。
+命名实体: 利尿剂 老年高血压 轻中度高血压 并发心力衰竭
+匹配规则: [[<MED>0]]主要用于[[<DIS>2]]
+实体关系: <0,MED-DIS|+,2>
+==================================================
+5.4.4.2/numeral β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier ：/punctuation-mark β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier 主要/adverb 用于/verb 轻/adjective 中度/distinguishing-word 高血压/noun ，/punctuation-mark 尤其/adverb 在/preposition 静/adjective 息/verb 时/noun 心/noun 率/suffix 较/adverb 快/adjective (/punctuation-mark >/punctuation-mark 80/numeral 次/classifier //punctuation-mark 分/verb )/punctuation-mark 的/particle 中青年/noun 患者/noun 或/conjunction 合并/verb 心绞痛/noun 时/noun 。/punctuation-mark
+5.4.4.2 [[<MED>1]]：[[<MED>1]]主要用于[[<DIS>2]]，尤其在静息时心率较快(>80次/分)的中青年患者或合并[[<DIS><SYM>0]]时。
+命名实体: 心绞痛 β-阻滞剂 轻中度高血压
+匹配规则: [[<MED>1]]主要用于[[<DIS>2]]
+实体关系: <1,MED-DIS|+,2>
+==================================================
+β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier 可/verb 用于/verb 心/noun 衰/adjective ，/punctuation-mark 但/conjunction 用/preposition 法/noun 与/conjunction 降压/verb 完全/adjective 不同/adjective ，/punctuation-mark 应/verb 加/verb 注意/verb 。/punctuation-mark
+[[<MED>1]]可用于[[<DIS>0]]，但用法与降压完全不同，应加注意。
+命名实体: 心衰 β-阻滞剂
+匹配规则: [[<MED>1]]可用于[[<DIS>0]]
+实体关系: <1,MED-DIS|+,0>
+==================================================
+5.4.4.3/numeral 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier ：/punctuation-mark 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier 可/verb 用于/verb 各种/pronoun 程度/noun 的/particle 高血压/noun ，/punctuation-mark 尤其/adverb 在/preposition 老年/time-word 高血压/noun 或/conjunction 合并/verb 稳定/verb 型/suffix 心绞痛/noun 时/noun 。/punctuation-mark
+5.4.4.3[[<MED>3]]：[[<MED>3]]可用于各种程度的[[<DIS>0]]，尤其在[[<DIS>1]]或合并[[<DIS>2]]时。
+命名实体: 高血压 老年高血压 稳定型心绞痛 钙拮抗剂
+匹配规则: [[<MED>3]]可用于各种程度的[[<DIS>0]]
+实体关系: <3,MED-DIS|+,0>
+==================================================
+心脏/noun 传导/verb 阻滞/verb 和/conjunction 心力衰竭/noun 患者/noun 禁用/verb 非/distinguishing-word 二/numeral 氢/noun 吡啶/noun 类/classifier 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier 。/punctuation-mark
+[[<DIS>0]]和[[<DIS><SYM>1]]患者禁用[[<MED>2]]。
+命名实体: 心脏传导阻滞 心力衰竭 非二氢吡啶类钙拮抗剂
+匹配规则: [[<DIS>0]]和[[<DIS><SYM>1]]患者禁用[[<MED>2]]
+实体关系: <2,MED-DIS|-,1> <2,MED-DIS|-,0>
+==================================================
+5.4.44/numeral 血管/noun 紧张/adjective 素/adverb 转换/verb 酶/noun 抑/verb 制剂/noun ：/punctuation-mark 血管/noun 紧张/adjective 素/adverb 转换/verb 酶/noun 抑/verb 制剂/noun 主要/adverb 用于/verb 高血压/noun 合并/verb 糖尿病/noun ，/punctuation-mark 或者/conjunction 并发/verb 心脏/noun 功能/noun 不/adverb 全/adjective 、/punctuation-mark 肾脏/noun 损害/verb 有/verb 蛋白尿/noun 的/particle 患者/noun 。/punctuation-mark
+5.4.44[[<MED>0]]：[[<MED>0]]主要用于[[<DIS>3]]，或者并发心脏功能不全、[[<DIS>1]]有[[<DIS><SYM>2]]的患者。
+命名实体: 血管紧张素转换酶抑制剂 肾脏损害 蛋白尿 高血压合并糖尿病
+匹配规则: [[<MED>0]]主要用于[[<DIS>3]]
+实体关系: <0,MED-DIS|+,3>
+==================================================
+国外/locative-word 研究/verb 曾/adverb 提示/verb 异/adjective 搏/verb 定/verb 和/conjunction 地/noun 尔/pronoun 硫/noun 卓/adjective 可/verb 减少/verb 心肌/noun 梗/noun 死/verb 的/particle 危险/adjective ，/punctuation-mark 但/conjunction 立即/adverb 释放/verb 的/particle 硝/noun 苯/noun 地/particle 平/verb 却/adverb 增加/verb 危险/adjective 。/punctuation-mark
+国外研究曾提示[[<MED>0]]和[[<MED>1]]可减少[[<DIS><SYM>2]]的危险，但立即释放的[[<MED>3]]却增加危险。
+命名实体: 异搏定 地尔硫卓 心肌梗死 硝苯地平
+匹配规则: [[<MED>0]]和[[<MED>1]]可减少[[<DIS><SYM>2]]的危险
+实体关系: <0,MED-DIS|+,2> <1,MED-DIS|+,2>
+==================================================
+临床/verb 试验/verb 反映/verb ，/punctuation-mark 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier 对/preposition 心/noun 衰/adjective 病人/noun 无益/verb ，/punctuation-mark 如/verb 必需/verb 继续/verb 使用/verb 二/numeral 氢/noun 吡啶/noun 类/classifier 钙/noun 通道/noun 阻断/verb 剂/classifier ，/punctuation-mark 可/conjunction 选用/verb 氨/noun 氯/noun 地/particle 平/verb 或/conjunction 非/distinguishing-word 洛地/noun 平/verb 。/punctuation-mark
+临床试验反映，[[<MED>3]]对[[<DIS>0]]病人无益，如必需继续使用[[<MED>4]]，可选用[[<MED>1]]或[[<MED>2]]。
+命名实体: 心衰 氨氯地平 非洛地平 钙拮抗剂 二氢吡啶类钙通道阻断剂
+匹配规则: [[<MED>3]]对[[<DIS>0]]病人无益
+实体关系: <3,MED-DIS|-,0>
+>>>>>>>>>>>>>>>>> 中国高血压防治指南_.txt_mm_ner_rrule
+>>>>>>>>>>>>>>>>> 儿童常见先天性心脏病介入治疗专家共识.txt_mm
+>>>>>>>>>>>>>>>>> 儿童常见先天性心脏病介入治疗专家共识.txt_mm_ner
+>>>>>>>>>>>>>>>>> 儿童常见先天性心脏病介入治疗专家共识.txt_mm_ner_rrule
+>>>>>>>>>>>>>>>>> 室性心律失常药物治疗选择_蒋文平.txt_mm
+>>>>>>>>>>>>>>>>> 室性心律失常药物治疗选择_蒋文平.txt_mm_ner
+==================================================
+心室/noun 颤动/verb (/punctuation-mark 室/noun 颤/verb )/punctuation-mark 远/adjective 比/preposition 室/noun 速/adjective 少/adjective 见/verb ，/punctuation-mark 但是/conjunction 致命/verb 性/noun 的/particle 室/noun 颤/verb 多/adjective 见于/verb 心肌/noun 梗/noun 死/verb 、/punctuation-mark 心力衰竭/noun (/punctuation-mark 心/noun 衰/adjective )/punctuation-mark 、/punctuation-mark 心肌/noun 病/noun 或/conjunction 通道/noun 疾病/noun ，/punctuation-mark 心/noun 衰/adjective 早期/noun-of-locality 死亡/verb 者/suffix 以/preposition 室/noun 颤/verb 多/adjective 见/verb ，/punctuation-mark 心/noun 衰/adjective 末期/noun-of-locality 死亡/verb 者/suffix 多/adverb 以/preposition 泵/noun 功能/noun 不/adverb 全/adjective 多/adjective 见/verb ，/punctuation-mark 因此/conjunction 心/noun 衰/adjective 早期/noun-of-locality 就/adverb 应/verb 接受/verb β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 治疗/verb ，/punctuation-mark 以/preposition 降低/verb 交/verb 感/verb 张力/noun 。/punctuation-mark
+[[<DIS><SYM>0]]([[<DIS><SYM>1]])远比室速少见，但是致命性的[[<DIS><SYM>1]]多见于[[<DIS><SYM>2]]、[[<DIS><SYM>3]]([[<DIS>4]])、[[<DIS>5]]或通道疾病，[[<DIS>4]]早期死亡者以[[<DIS><SYM>1]]多见，[[<DIS>4]]末期死亡者多以泵功能不全多见，因此[[<DIS>4]]早期就应接受[[<MED>6]]治疗，以降低交感张力。
+命名实体: 心室颤动 室颤 心肌梗死 心力衰竭 心衰 心肌病 β受体阻滞剂
+匹配规则: [[<DIS>4]]早期就应接受[[<MED>6]]治疗
+实体关系: <6,MED-DIS|+,4>
+==================================================
+1./numeral 利多卡因/noun ：/punctuation-mark 在/preposition 过去/time-word 的/particle 30/numeral 年/classifier 内利多卡因/noun 是/verb 用于/verb 终止/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 主要/distinguishing-word 药物/noun 。/punctuation-mark
+1.[[<MED>0]]：在过去的30年内[[<MED>0]]是用于终止室速/[[<DIS><SYM>1]]的主要药物。
+命名实体: 利多卡因 室颤
+匹配规则: [[<MED>0]]是用于终止室速/[[<DIS><SYM>1]]的主要药物
+实体关系: <0,MED-DIS|+,1>
+==================================================
+5./numeral 胺/noun 碘/noun 酮/punctuation-mark ：/punctuation-mark 为/preposition 目前/time-word 广为/adverb 推荐/verb 静脉/noun 应用/verb 终止/verb 室/noun 性/noun 心律/noun 失常/adjective 的/particle 药物/noun ，/punctuation-mark 它/pronoun 是/verb III/noun 类/classifier 药物/noun ，/punctuation-mark 属/verb 多/adjective 通道/noun 阻滞/verb 剂/classifier ，/punctuation-mark 口服/verb 起/verb 效/noun 慢/adjective ，/punctuation-mark 静/adjective 注/verb 起/verb 效/noun 快/adjective ，/punctuation-mark 因为/conjunction 静/adjective 注/verb 和/conjunction 口服/verb 的/particle 电/noun 生理/noun 不尽/adverb 相同/adjective ，/punctuation-mark 为/preposition 求/verb 快速/adverb 起/verb 效/noun ，/punctuation-mark 常/adverb 选/verb 静脉/noun 注射/verb 。/punctuation-mark
+5.[[<MED>0]]：为目前广为推荐静脉应用终止[[<DIS>1]]的药物，它是[[<MED>2]]，属多通道阻滞剂，口服起效慢，静注起效快，因为静注和口服的电生理不尽相同，为求快速起效，常选静脉注射。
+命名实体: 胺碘酮 室性心律失常 III类药物
+匹配规则: [[<MED>0]]：为目前广为推荐静脉应用终止[[<DIS>1]]的药物
+实体关系: <0,MED-DIS|+,1>
+==================================================
+(/punctuation-mark 3/numeral )/punctuation-mark III/noun 类/noun AAD/noun 仅/adverb 胺/noun 碘/noun 酮/punctuation-mark 提示/verb 可/verb 降低/verb 心律/noun 失常/adjective 死亡/verb ，/punctuation-mark 但/conjunction 对/preposition 总体/noun 死亡率/noun 影响/verb 不/adverb 大/adjective ，/punctuation-mark 只/adverb 用于/verb 二级/distinguishing-word 预防/verb ，/punctuation-mark 它/pronoun 在/preposition 防治/verb 猝死/verb 的/particle 远期/distinguishing-word 效果/noun 上/noun-of-locality 不/adverb 及/verb ICD/noun ，/punctuation-mark 不/adverb 能/verb 植/verb 人/noun ICD/noun 者/suffix ，/punctuation-mark 它/pronoun 可/verb 作/verb 代替/verb 治疗/verb 。/punctuation-mark
+(3)III类AAD仅[[<MED>0]]提示可降低[[<DIS><SYM>1]]死亡，但对总体死亡率影响不大，只用于二级预防，它在防治[[<DIS><SYM>2]]的远期效果上不及ICD，不能植人ICD者，它可作代替治疗。
+命名实体: 胺碘酮 心律失常 猝死
+匹配规则: [[<MED>0]]提示可降低[[<DIS><SYM>1]]死亡
+实体关系: <0,MED-DIS|+,1>
+>>>>>>>>>>>>>>>>> 室性心律失常药物治疗选择_蒋文平.txt_mm_ner_rrule
+>>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识一、房间隔缺损介入治疗.txt_mm
+>>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识一、房间隔缺损介入治疗.txt_mm_ner
+>>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识一、房间隔缺损介入治疗.txt_mm_ner_rrule
+>>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识三、动脉导管未闭的介入治疗.txt_mm_ner
+>>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识三、动脉导管未闭的介入治疗.txt_mm_ner_rrule
 >>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识二、室间隔缺损介入治疗.txt_mm
-并发[[<DIS>0]]
-I型[[<DIS><SYM>1]]
-重度[[<DIS>0]]
-[[<MED>7]]、呋噻米等
-[[<TRE>0]]检查
-[[<TRE>1]]检查
-并发[[<DIS>0]]
-重度[[<DIS>0]]
-重度[[<DIS>0]]
-[[<DIS><SYM>2]]合并[[<DIS>0]]
-静脉滴注[[<MED>4]]
+>>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识二、室间隔缺损介入治疗.txt_mm_ner
+>>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识二、室间隔缺损介入治疗.txt_mm_ner_rrule
 >>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识五、先天性心脏病复合畸形的介入治疗.txt_mm
-[[<DIS>5]]合并[[<DIS><SYM>2]] [[<DIS>1]]合并[[<DIS><SYM>2]] [[<DIS><SYM>0]]合并[[<DIS>1]]
-重度[[<DIS>0]]
-重度[[<DIS>0]]
-轻度[[<DIS>0]]
-重度[[<DIS>0]]
-重度[[<DIS>0]]
-急性[[<SYM>0]]
-[[<TRE>1]]检查
+>>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识五、先天性心脏病复合畸形的介入治疗.txt_mm_ner
+>>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识五、先天性心脏病复合畸形的介入治疗.txt_mm_ner_rrule
 >>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识四、经皮球囊肺动脉瓣与主动脉瓣成形术.txt_mm
-重症[[<DIS>1]]
-[[<TRE>2]]检查
-经皮球囊[[<TRE>0]]
-经皮球囊[[<TRE>0]]
-重症[[<DIS>0]]
-重症[[<DIS>0]]
+>>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识四、经皮球囊肺动脉瓣与主动脉瓣成形术.txt_mm_ner
+>>>>>>>>>>>>>>>>> 常见先天性心脏病介入治疗中国专家共识四、经皮球囊肺动脉瓣与主动脉瓣成形术.txt_mm_ner_rrule
 >>>>>>>>>>>>>>>>> 心房颤动 目前认识和治疗建议.txt_mm
-持续性[[<DIS><SYM>2]]
-孤立性[[<DIS><SYM>0]]
-持续性[[<DIS><SYM>2]]
-缺血性[[<DIS>1]]
-24h动态[[<TRE>0]]
-缺血性[[<DIS>1]] 孤立性[[<DIS><SYM>0]] 缺血性[[<DIS>1]]
-急性肺疾病
-孤立性[[<DIS><SYM>0]]
-[[<SYM>1]]、甲状腺功能亢进、[[<DIS>2]]
-缺血性[[<DIS>1]]
-房室交界区折返性[[<DIS><SYM>3]]
-、T4和[[<MED>2]]
-[[<TRE>2]]检查
-24h动态[[<TRE>0]]
-[[<TRE>1]]或运动试验
-继发性[[<DIS><SYM>0]] 原发性[[<DIS><SYM>0]]
-伴有[[<SYM>2]]的[[<DIS><SYM>1]]
-孤立性[[<DIS><SYM>0]] 阵发性[[<DIS><SYM>0]]
-孤立性[[<DIS><SYM>0]]
-阵发性[[<DIS><SYM>0]]
-孤立性[[<DIS><SYM>1]]
-倡导的迷宫手术
-阵发性[[<DIS><SYM>1]]
-阵发性[[<DIS><SYM>0]]
-局灶性[[<DIS><SYM>0]]
-局灶性[[<DIS><SYM>0]]
-房室交界区折返性[[<DIS><SYM>5]] 局灶性[[<DIS><SYM>1]]
-持续性[[<DIS><SYM>0]] 阵发性[[<DIS><SYM>0]]
-[[<MED>1]]物
-[[<MED>0]]静脉滴注
-[[<MED>1]]物
-钾通道阻滞剂 钠通道阻滞剂
-[[<MED>2]]物
-阵发性[[<DIS><SYM>1]] 永久性[[<DIS><SYM>1]]
-持续性[[<DIS><SYM>0]]
-房室交界区折返性[[<DIS><SYM>1]]
-原发性[[<DIS><SYM>0]]
-[[<MED>0]]物
-阵发性[[<DIS><SYM>0]]
-[[<MED>0]]原性[[<DIS><SYM>1]]
-孤立性[[<DIS><SYM>0]] 迷走神经原性[[<DIS><SYM>0]]
-β受体阻滞剂
-[[<MED>0]]类药物
-迷走神经原性[[<DIS><SYM>1]]
-[[<MED>0]]原性[[<DIS><SYM>1]]
-β受体阻滞剂
-迷走神经原性[[<DIS><SYM>0]]
-[[<MED>1]]物
-[[<MED>3]]物
-24h动态[[<TRE>0]]
-钙通道拮抗剂
-[[<MED>2]]制剂
-阵发性[[<DIS><SYM>0]]
-β受体阻滞剂
-钙通道拮抗剂
-[[<MED>1]]物
-[[<MED>0]]类药物
-[[<MED>0]]制剂
-[[<MED>0]]类药物
-[[<MED>0]]类药物
-伴有[[<DIS><SYM>0]]的[[<DIS><SYM>1]]
-钙拮抗剂
-钙拮抗剂
-有[[<DIS><SYM>0]]的[[<DIS><SYM>1]]
-β受体阻滞剂
-β受体阻滞剂
-β受体阻滞剂
-钙拮抗剂
-合并有[[<DIS><SYM>0]]的[[<DIS><SYM>1]]
-钙通道拮抗剂
-减慢房室结传导的药物
-β受体阻滞剂
-β受体阻滞剂
-钙通道拮抗剂
-β受体阻滞剂
-钙通道拮抗剂
-阵发性[[<DIS><SYM>0]]
-孤立性[[<DIS><SYM>0]]
-尖端扭转性[[<DIS><SYM>1]]
-尖端扭转性[[<DIS><SYM>0]]
-缺血性[[<DIS>2]]
-缺血性[[<DIS>1]] 非风湿性[[<DIS><SYM>0]]
-缺血性[[<DIS>1]] 非风湿性[[<DIS><SYM>0]]
-非风湿性[[<DIS><SYM>0]]
-阵发性[[<DIS><SYM>0]]
-并发[[<DIS>1]]
-栓塞性[[<DIS>0]]
-缺血性[[<DIS>0]]
-经食管[[<TRE>0]]
-伴随[[<DIS><SYM>0]]的[[<DIS>1]]
-风湿性[[<DIS>2]]
-脑[[<DIS><SYM>1]]
-[[<DIS>3]]、左心室附壁血栓、[[<DIS>2]]
-非风湿性[[<SYM>0]]
-非风湿性[[<SYM>0]]
-[[<MED>1]]制剂
-非风湿性[[<DIS><SYM>1]]
-缺血性[[<DIS>1]]
-轻度[[<DIS><SYM>0]]
-非风湿性[[<DIS><SYM>0]]
-[[<MED>0]]物
-非风湿性[[<DIS><SYM>0]]
-缺血性[[<DIS>0]]
-经食管[[<TRE>0]]
-栓塞性[[<DIS>1]]
-缺血性[[<DIS>1]]
-非风湿性[[<DIS><SYM>0]]
-阵发性[[<DIS><SYM>0]]
-其他的抗凝药
-[[<MED>0]]制剂
-阵发性[[<DIS><SYM>0]]
-[[<MED>0]]物
-[[<MED>1]]物
-III类[[<MED>4]]
-尖端扭转性[[<DIS><SYM>0]]
-尖端扭转性[[<DIS><SYM>1]]
-阵发性[[<DIS><SYM>0]]
-I类药物
-[[<MED>0]]物
-I类药物
-[[<MED>1]]物
-无[[<SYM>0]]的[[<DIS><SYM>1]]
-[[<DIS>1]]、左心室EF降低、[[<DIS><SYM>2]]
-III类药物
-尖端扭转性[[<DIS><SYM>3]]
-并发[[<DIS>4]]
-尖端扭转性[[<DIS><SYM>1]]
-并发[[<DIS>1]]
-持续性[[<DIS>2]]
-[[<MED>0]]物
-经食管[[<TRE>1]]
-[[<TRE>3]]检查
-[[<MED>2]]物
-阵发性[[<DIS><SYM>0]]
-[[<MED>0]]毒性反应
-急性[[<DIS>1]]
-[[<MED>0]]物
-[[<MED>0]]物
-β阻滞剂
-[[<MED>9]]物
-III类药物
-尖端扭转性[[<DIS><SYM>0]]
-[[<MED>2]]物
-重度[[<DIS>2]]
-重度[[<DIS>5]] 尖端扭转性[[<DIS><SYM>3]]
-I类药物
-β受体阻滞剂
-β受体阻滞剂
-[[<MED>1]]物
-[[<MED>0]]物
-β受体阻滞剂
-[[<MED>1]]物
-β受体阻滞剂
-导管[[<TRE>1]]
-[[<MED>0]]物
-[[<MED>1]]物
-[[<MED>5]]物
-[[<MED>0]]物
-孤立性[[<DIS><SYM>0]]
-[[<MED>2]]物
-[[<MED>1]]物
-[[<MED>0]]物
-[[<MED>0]]物
-III类[[<MED>0]]
-[[<MED>0]]物
-阵发性[[<DIS><SYM>0]]
-持续性[[<DIS><SYM>0]]
-孤立性[[<DIS><SYM>1]]
-孤立性[[<DIS><SYM>0]]
-孤立性[[<DIS><SYM>0]]
-[[<SYM>1]]、房内传导障碍、
-[[<MED>2]]物
-24h动态[[<TRE>0]]
-阵发性[[<DIS><SYM>0]]
-局灶性[[<DIS><SYM>0]]
-[[<MED>1]]物
-急性[[<SYM>2]]
-[[<DIS>1]]、心脏穿孔、[[<DIS>3]]
-局灶性[[<DIS><SYM>0]]
-阵发性[[<DIS><SYM>0]]
-局灶性[[<DIS><SYM>0]]
-局灶性[[<DIS><SYM>0]]
-局灶性[[<DIS><SYM>0]]
-静脉滴注[[<MED>0]]
-阵发性[[<DIS><SYM>0]]
-经皮球囊[[<TRE>2]]
-阵发性[[<DIS><SYM>1]]
-导管[[<TRE>0]]
-used time: 2.952684
+>>>>>>>>>>>>>>>>> 心房颤动 目前认识和治疗建议.txt_mm_ner
+==================================================
+房/noun 颤/verb 很/adverb 容易/adjective 由/preposition 心电图/noun 作出/verb 诊断/verb 。/punctuation-mark
+[[<DIS><SYM>0]]很容易由[[<TRE>1]]作出诊断。
+命名实体: 房颤 心电图
+匹配规则: [[<DIS><SYM>0]]很容易由[[<TRE>1]]作出诊断
+实体关系: <1,TRE-SYM,0>
+==================================================
+4./numeral 对/preposition 有些/pronoun 病例/noun 需要/verb 做/verb 24h/noun 动态/noun 心电图/noun 或/conjunction 运动/verb 试验/verb 来/noun-of-locality 确定/verb 有/verb 无/verb 房/noun 颤/verb 这些/pronoun 试验/verb 也/adverb 有助于/verb 评定/verb 房/noun 颤/verb 起始/verb 时/noun 自主/verb 神经/noun 系统/noun 的/particle 作用/noun 。/punctuation-mark
+4.对有些病例需要做[[<TRE>1]]或[[<TRE>2]]来确定有无[[<DIS><SYM>0]]这些试验也有助于评定[[<DIS><SYM>0]]起始时自主神经系统的作用。
+命名实体: 房颤 24h动态心电图 运动试验
+匹配规则: [[<TRE>1]]或[[<TRE>2]]来确定有无[[<DIS><SYM>0]]
+实体关系: <1,TRE-DIS,0> <2,TRE-DIS,0>
+==================================================
+在/preposition 某些/pronoun 病例/noun ，/punctuation-mark 房/noun 颤/verb 是/verb 病态/noun 窦/noun 房/noun 结/verb 综合征/noun 的/particle 最/adverb 早/adjective 的/particle 表现/verb ，/punctuation-mark 往往/adverb 是/verb 一/numeral 种/classifier 全/adjective 心房/noun 病变/verb 。/punctuation-mark
+在某些病例，[[<DIS><SYM>0]]是[[<DIS><SYM>1]]的最早的表现，往往是一种全心房病变。
+命名实体: 房颤 病态窦房结综合征
+匹配规则: [[<DIS><SYM>0]]是[[<DIS><SYM>1]]的最早的表现
+实体关系: <1,DIS-SYM,0>
+==================================================
+Cox/noun 倡导/verb 的/particle 迷宫/noun 手术/verb 能够/verb 成功/adjective 地/particle 治疗/verb 房/noun 颤/verb ，/punctuation-mark 支持/verb 这/pronoun 一/numeral 概念/noun 。/punctuation-mark
+Cox倡导的[[<TRE>1]]能够成功地治疗[[<DIS><SYM>0]]，支持这一概念。
+命名实体: 房颤 迷宫手术
+匹配规则: [[<TRE>1]]能够成功地治疗[[<DIS><SYM>0]]
+实体关系: <1,TRE-DIS,0>
+==================================================
+迷/verb 走/verb 神经/noun 张力/noun 增高/verb 可/verb 引起/verb 房/noun 颤/verb (/punctuation-mark 迷/verb 走/verb 性/noun 活动/verb 引起/verb 的/particle 房/noun 颤/verb )/punctuation-mark ，/punctuation-mark 发生/verb 在/preposition 夜间/time-word 或/conjunction 餐/noun 后/noun-of-locality ，/punctuation-mark 尤其/adverb 在/preposition 无/verb 器/noun 质/noun 性/noun 心脏病/noun 的/particle 男性/noun 患者/noun 。/punctuation-mark
+[[<SYM>0]]可引起[[<DIS><SYM>1]](迷走性活动引起的[[<DIS><SYM>1]])，发生在夜间或餐后，尤其在无[[<SYM>2]]的男性患者。
+命名实体: 迷走神经张力增高 房颤 器质性心脏病
+匹配规则: [[<SYM>0]]可引起[[<DIS><SYM>1]]
+实体关系: <1,DIS-SYM,0>
+==================================================
+β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 和/conjunction 洋地黄/noun 类/classifier 药物/noun 可/verb 增加/verb 房/noun 颤/verb 发作/verb 。/punctuation-mark
+[[<MED>1]]和[[<MED>2]]可增加[[<DIS><SYM>0]]发作。
+命名实体: 房颤 β受体阻滞剂 洋地黄类药物
+匹配规则: [[<MED>1]]和[[<MED>2]]可增加[[<DIS><SYM>0]]发作
+实体关系: <1,MED-DIS|+,0> <2,MED-DIS|+,0>
+==================================================
+控制/verb 心室/noun 率/suffix 的/particle 缺点/noun 是/verb (/punctuation-mark 1/numeral )/punctuation-mark 仍/adverb 有/verb 心室/noun 率/verb 不规则/adjective ，/punctuation-mark 在/preposition 不少/numeral 患者/noun 因/preposition 此/pronoun 仍/adverb 有/verb 症状/noun ；/punctuation-mark (/punctuation-mark 2/numeral )/punctuation-mark 快速/distinguishing-word 心室/noun 率/verb 被/preposition 控制/verb (/punctuation-mark 减慢/verb )/punctuation-mark 后/noun-of-locality ，/punctuation-mark 血流/noun 动力学/noun 状态/noun 肯定/adverb 得到/verb 改善/verb ，/punctuation-mark 但/conjunction 不规则/adjective 心室/noun 率/suffix 与/preposition 规则/noun (/punctuation-mark 窦性/noun )/punctuation-mark 心室/noun 率/suffix 相比/verb ，/punctuation-mark 后者/pronoun 的/particle 血流/noun 动力学/noun 状态/noun 肯定/adverb 更/adverb 好/adjective 些/classifier ；/punctuation-mark (/punctuation-mark 3/numeral )/punctuation-mark 少数/numeral 患者/noun 为/preposition 维持/verb 适当/adjective 心室/noun 率/verb 所/particle 需/verb 用/verb 的/particle 药物/noun ，/punctuation-mark 可能/verb 引起/verb 很/adverb 慢/adjective 的/particle 心室/noun 率/suffix ，/punctuation-mark 而/conjunction 需/verb 永久性/noun 起/verb 搏/verb 器/noun 植入/verb ;/punctuation-mark 和/conjunction (/punctuation-mark 4/numeral )/punctuation-mark 房/noun 颤/verb 持续/verb 存在/verb ，/punctuation-mark 有/verb 脑/noun 卒/verb 中/distinguishing-word 高危/distinguishing-word 的/particle 患者/noun 仍/adverb 需/verb 华法/noun 林抗凝/noun 治疗/verb 。/punctuation-mark
+控制心室率的缺点是(1)仍有心室率不规则，在不少患者因此仍有症状；(2)快速心室率被控制(减慢)后，血流动力学状态肯定得到改善，但不规则心室率与规则(窦性)心室率相比，后者的血流动力学状态肯定更好些；(3)少数患者为维持适当心室率所需用的药物，可能引起很慢的心室率，而需永久性起搏器植入;和(4)[[<DIS><SYM>0]]持续存在，有[[<DIS>1]]高危的患者仍需[[<MED>2]]抗凝治疗。
+命名实体: 房颤 脑卒中 华法林
+匹配规则: 有[[<DIS>1]]高危的患者仍需[[<MED>2]]抗凝治疗
+实体关系: <2,MED-DIS|+,1>
+==================================================
+β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 也/adverb 是/verb 房/noun 颤/verb 时/noun 控制/verb 心室/noun 率/suffix 的/particle 一线/noun 药物/noun 。/punctuation-mark
+[[<MED>1]]也是[[<DIS><SYM>0]]时控制心室率的一线药物。
+命名实体: 房颤 β受体阻滞剂
+匹配规则: [[<MED>1]]也是[[<DIS><SYM>0]]时控制心室率的一线药物
+实体关系: <1,MED-DIS|+,0>
+==================================================
+在/preposition 有/verb 心力衰竭/noun 的/particle 患者/noun ，/punctuation-mark β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 要/verb 慎/adjective 用/verb 。/punctuation-mark
+在有[[<DIS><SYM>0]]的患者，[[<MED>1]]要慎用。
+命名实体: 心力衰竭 β受体阻滞剂
+匹配规则: 有[[<DIS><SYM>0]]的患者，[[<MED>1]]要慎用
+实体关系: <1,MED-DIS|-,0>
+==================================================
+近年/time-word 的/particle 多/numeral 个/classifier 一级/distinguishing-word 预防/verb 试验/verb 结果/noun 一致/adjective 表明/verb ，/punctuation-mark 对/preposition 房/noun 颤/verb 患者/noun 用/preposition 华法/noun 林抗凝/noun 治疗/verb 作为/preposition 脑血管/noun 栓塞/noun 的/particle 一级/distinguishing-word 预防/verb ，/punctuation-mark 使/verb 脑/noun 梗/noun 死/verb 的/particle 危险/adjective 显著/adjective 降低/verb (/punctuation-mark 降低/verb 44%/numeral 至/preposition 81%/numeral )/punctuation-mark 。/punctuation-mark
+近年的多个一级预防试验结果一致表明，对[[<DIS><SYM>0]]患者用[[<MED>1]]抗凝治疗作为脑血管栓塞的一级预防，使脑梗死的危险显著降低(降低44%至81%)。
+命名实体: 房颤 华法林
+匹配规则: 对[[<DIS><SYM>0]]患者用[[<MED>1]]抗凝治疗作为脑血管栓塞的一级预防
+实体关系: <1,MED-DIS|+,0>
+==================================================
+对/preposition 房/noun 颤/verb 患者/noun 的/particle 治疗/verb 中/noun-of-locality ，/punctuation-mark 也许/adverb “/punctuation-mark 保护/verb 大脑/noun ”/punctuation-mark 是/verb 头等/distinguishing-word 重要/adjective 的/particle 治疗/verb 措施/noun ，/punctuation-mark 因此/conjunction 所有/distinguishing-word 具有/verb 脑/noun 卒/verb 中/distinguishing-word 高危/distinguishing-word 的/particle 患者/noun 都/adverb 需要/verb 以/preposition 华法林/noun 作/verb 长期/adverb 抗/verb 凝/verb 治疗/verb 。/punctuation-mark
+对[[<DIS><SYM>0]]患者的治疗中，也许“保护大脑”是头等重要的治疗措施，因此所有具有[[<DIS>1]]高危的患者都需要以[[<MED>2]]作长期抗凝治疗。
+命名实体: 房颤 脑卒中 华法林
+匹配规则: 具有[[<DIS>1]]高危的患者都需要以[[<MED>2]]作长期抗凝治疗
+实体关系: <2,MED-DIS|+,1>
+==================================================
+随机/adverb 对照/verb 的/particle 试验/verb 已/adverb 表明/verb 用/preposition 华法/noun 林抗凝/noun 治疗/verb 显著/adjective 降低/verb 缺/verb 血性/noun 脑/noun 卒/noun 中/noun-of-locality 的/particle 发生率/noun ，/punctuation-mark 然而/conjunction 增高/verb 出/verb 血性/noun 事件/noun 的/particle 危险/adjective 。/punctuation-mark
+随机对照的试验已表明用[[<MED>0]]抗凝治疗显著降低[[<DIS>2]]的发生率，然而增高[[<DIS><SYM>1]]性事件的危险。
+命名实体: 华法林 出血 缺血性脑卒中
+匹配规则: 用[[<MED>0]]抗凝治疗显著降低[[<DIS>2]]的发生率
+实体关系: <0,MED-DIS|+,2>
+==================================================
+因此/conjunction ，/punctuation-mark 推荐/verb 阿司匹林/noun 可/verb 作为/preposition 房/noun 颤/verb 抗/verb 凝/verb 的/particle 药物/noun ，/punctuation-mark 可/conjunction 用于/verb (/punctuation-mark 1/numeral )/punctuation-mark 对/preposition 华法林/noun 有/verb 禁忌/noun 证/noun ；/punctuation-mark 或/conjunction (/punctuation-mark 2/numeral )/punctuation-mark 脑/noun 卒/noun 中/noun-of-locality 的/particle 危险性/noun 低/adjective 的/particle 房/noun 颤/verb 患者/noun ，/punctuation-mark 例如/verb 小于/verb 60/numeral 岁/classifier 又/adverb 无/verb 器/noun 质/noun 性/noun 心脏病/noun 证据/noun 的/particle 房/noun 颤/verb 患者/noun 。/punctuation-mark
+因此，推荐[[<MED>0]]可作为[[<DIS><SYM>1]]抗凝的药物，可用于(1)对[[<MED>2]]有禁忌证；或(2)[[<DIS>3]]的危险性低的[[<DIS><SYM>1]]患者，例如小于60岁又无[[<SYM>4]]证据的[[<DIS><SYM>1]]患者。
+命名实体: 阿司匹林 房颤 华法林 脑卒中 器质性心脏病
+匹配规则: 推荐[[<MED>0]]可作为[[<DIS><SYM>1]]抗凝的药物
+实体关系: <0,MED-DIS|+,1>
+==================================================
+无/verb 器/noun 质/noun 性/noun 心脏病/noun 的/particle 房/noun 颤/verb 患者/noun ，/punctuation-mark 静脉/noun 应用/verb 或/conjunction 口服/verb 普/adjective 罗/distinguishing-word 帕/noun 酮/punctuation-mark 是/verb 有效/adjective 和/conjunction 安全/adjective 的/particle ，/punctuation-mark 而/conjunction 对/preposition 有/verb 缺/verb 血性/noun 心脏病/noun 、/punctuation-mark 左/adjective 心室/noun EF/noun 降低/verb 、/punctuation-mark 心力衰竭/noun 或/conjunction 严重/adjective 传导/verb 障碍/noun 的/particle 患者/noun ，/punctuation-mark 应该/verb 避免/verb 用/verb I/pronoun C/onomatopoeia 类/classifier 药物/noun 来/verb 转/verb 复/verb 心律/noun 。/punctuation-mark
+[[<DIS>3]]患者，静脉应用或口服[[<MED>0]]是有效和安全的，而对有[[<DIS>1]]、[[<DIS>4]]、[[<DIS><SYM>2]]或严重传导障碍的患者，应该避免用I C类药物来转复心律。
+命名实体: 普罗帕酮 缺血性心脏病 心力衰竭 无器质性心脏病的房颤 左心室EF降低
+匹配规则: [[<DIS>3]]患者，静脉应用或口服[[<MED>0]]是有效和安全的
+实体关系: <0,MED-DIS|+,3>
+==================================================
+近年/time-word 不断/adverb 增多/verb 的/particle 抗/verb 心律/noun 失常/adjective 药物/noun 可/verb 用于/verb 房/noun 颤/verb 转/verb 复/adverb 为/verb 窦性/noun 心律/noun 后/noun-of-locality (/punctuation-mark 自行/adverb 转/verb 复/adverb 的/particle 或/conjunction 经/preposition 药物/noun 和/preposition //punctuation-mark 或/conjunction 电击/verb 转/verb 复/adverb 的/particle )/punctuation-mark 患者/noun 长期/adverb 维持/verb 窦/noun 性/noun 心律/noun ，/punctuation-mark 亦/adverb 即/verb 防止/verb 房/noun 颤/verb 复发/verb 的/particle 目的/noun 。/punctuation-mark
+近年不断增多的[[<MED>1]]可用于[[<DIS><SYM>0]]转复为窦性心律后(自行转复的或经药物和/或电击转复的)患者长期维持窦性心律，亦即防止[[<DIS><SYM>0]]复发的目的。
+命名实体: 房颤 抗心律失常药物
+匹配规则: [[<MED>1]]可用于[[<DIS><SYM>0]]
+实体关系: <1,MED-DIS|+,0>
+==================================================
+另/pronoun 一些/numeral 患者/noun 因/preposition 运动/noun 、/punctuation-mark 情绪/noun 紧张/adjective 或/conjunction 喝/verb 咖啡/noun 、/punctuation-mark 饮/verb 浓茶/noun 诱发/verb 房/noun 颤/verb ，/punctuation-mark 用/verb β/punctuation-mark 阻滞/verb 剂/classifier 有助于/verb 防止/verb 房/noun 颤/verb 发作/verb ，/punctuation-mark 而/conjunction 不仅仅/adverb 是/verb 控制/verb 房/noun 颤/verb 时/noun 的/particle 心室/noun 率/verb 。/punctuation-mark
+另一些患者因运动、情绪[[<SYM>0]]或喝咖啡、饮浓茶诱发[[<DIS><SYM>1]]，用[[<MED>2]]有助于防止[[<DIS><SYM>1]]发作，而不仅仅是控制[[<DIS><SYM>1]]时的心室率。
+命名实体: 紧张 房颤 β阻滞剂
+匹配规则: 用[[<MED>2]]有助于防止[[<DIS><SYM>1]]发作
+实体关系: <2,MED-DIS|+,1>
+==================================================
+3./numeral 若/conjunction 房/noun 颤/verb 患者/noun 有/verb 心肌/noun 缺血/verb ，/punctuation-mark 避免/verb 使用/verb I/pronoun 类/classifier 药物/noun 。/punctuation-mark
+3.若[[<DIS><SYM>0]]患者有[[<DIS><SYM>1]]，避免使用[[<MED>2]]。
+命名实体: 房颤 心肌缺血 I类药物
+匹配规则: 若[[<DIS><SYM>0]]患者有[[<DIS><SYM>1]]，避免使用[[<MED>2]]
+实体关系: <2,MED-DIS|-,0>
+==================================================
+如果/conjunction 尽管/conjunction 用/verb 了/particle β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 仍/adverb 发生/verb 房/noun 颤/verb ，/punctuation-mark 有/verb 资料/noun 提示/verb 加/verb 用/preposition 洋地黄/noun 可以/verb 减少/verb 房/noun 颤/verb 的/particle 发生率/noun 并且/conjunction 进一步/adverb 减慢/verb 心室/noun 率/verb 。/punctuation-mark
+如果尽管用了[[<MED>2]]仍发生[[<DIS><SYM>0]]，有资料提示加用[[<MED>1]]可以减少[[<DIS><SYM>0]]的发生率并且进一步减慢心室率。
+命名实体: 房颤 洋地黄 β受体阻滞剂
+匹配规则: 用[[<MED>1]]可以减少[[<DIS><SYM>0]]的发生率
+实体关系: <1,MED-DIS|+,0>
+==================================================
+值得/verb 注意/verb 的/particle 是/verb 冠状动脉/noun 搭桥/verb 手术/noun (/punctuation-mark CABG/noun )/punctuation-mark 后/noun-of-locality 的/particle 几/numeral 个/classifier 研究/verb 中/noun-of-locality 发现/verb ，/punctuation-mark 用/preposition 索他洛尔/noun 都/adverb 可/verb 降低/verb 房/noun 颤/verb 的/particle 发生率/noun 。/punctuation-mark
+值得注意的是[[<SYM>0]]动脉搭桥手术(CABG)后的几个研究中发现，用[[<MED>1]]都可降低[[<DIS><SYM>2]]的发生率。
+命名实体: 冠状 索他洛尔 房颤
+匹配规则: 用[[<MED>1]]都可降低[[<DIS><SYM>2]]的发生率
+实体关系: <1,MED-DIS|+,2>
+==================================================
+采用/verb 抗/verb 心律/noun 失常/adjective 药物/noun 预防/verb 房/noun 颤/verb 复发/verb 过程/noun 中/noun-of-locality ，/punctuation-mark 要/verb 密切/adjective 注意/verb 和/conjunction 妥善/adjective 处理/verb 其/pronoun 致/verb 心律/noun 失常/adjective 作用/noun ；/punctuation-mark 对/preposition 用/preposition 胺/noun 碘/noun 酮/punctuation-mark 治疗/verb 的/particle 患者/noun 则/adverb 需/verb 注意/verb 和/conjunction 尽可能/adverb 防止/verb 其/pronoun 对/preposition 脏器/noun 的/particle 毒性/noun 作/verb 甩/verb 植入/verb 型心/noun 房/noun 除/preposition 颤/verb 器/noun
+采用[[<MED>3]]预防[[<DIS><SYM>0]]复发过程中，要密切注意和妥善处理其致[[<DIS><SYM>1]]作用；对用[[<MED>2]]治疗的患者则需注意和尽可能防止其对脏器的毒性作甩植入型心房除颤器
+命名实体: 房颤 心律失常 胺碘酮 抗心律失常药物
+匹配规则: 采用[[<MED>3]]预防[[<DIS><SYM>0]]复发
+实体关系: <3,MED-DIS|+,0>
+>>>>>>>>>>>>>>>>> 心房颤动 目前认识和治疗建议.txt_mm_ner_rrule
