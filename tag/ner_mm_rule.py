@@ -144,7 +144,7 @@ def ner_drive():
     for text in texts_list:
         print ('taging %s' % text)
         fp = file(os.path.join('./medical_texts', text), 'rb')
-        fp_out = file(os.path.join('./after_tag', text), 'wb')
+        fp_out = file(os.path.join('./after_tag', text+'_mm'), 'wb')
         for line in fp:
             line = (line.strip()).decode('UTF-8')
             low = 0
@@ -232,10 +232,12 @@ def ner_rule():
     for text in texts_list:
         print '>>>>>>>>>>>>>>>>>',
         print text
-        if len(re.findall(ur'.*_pat$', text)) > 0:
+        if len(re.findall(ur'.*_mm$', text)) > 0:
+            pass
+        else:
             continue
         fp = file(os.path.join('./after_tag', text), 'rb')
-        fp_out = file(os.path.join('./after_tag', text+'_pat'), 'wb')
+        fp_out = file(os.path.join('./after_tag', text+'_ner'), 'wb')
         part_no = 4
         count = 0
         part_lines = []
@@ -251,10 +253,19 @@ def ner_rule():
                     ne_type = pat_list[pat_i][1]
                     sub_str = pat_list[pat_i][2]
                     pattern = re.compile(pat_str)
-                    ret_list = pattern.findall(string)
-                    ret_list = list(set(ret_list)) #remove the duplication
-                    ne_count = len(ne_list)
                     #ret_list = re.findall(ur'\[\[.{0,5}<MED>.{0,5}\d\]\].{0,4}(?:胶囊|片)', string)
+                    ret_list = pattern.findall(string)
+                    #ret_list = list(set(ret_list)) #remove the duplication
+                    if len(ret_list) > 0: #this way can also exist some problem
+                        next_ele = ret_list[len(ret_list)-1]
+                        max_index = len(ret_list)-2
+                        for i in range(max_index, -1, -1):
+                            if ret_list[i] == next_ele:
+                                del ret_list[i]
+                            else:
+                                next_ele = ret_list[i]
+                        ret_list = ret_list[::-1] 
+                        ne_count = len(ne_list)
                     if len(ret_list) > 0:
                         print ' '.join(y.encode('UTF-8') for y in ret_list)
                         if sub_str == u':':
