@@ -5,8 +5,8 @@
 实体关系: 
 ==================================================
 二/numeral 、/punctuation-mark 室/noun 间隔/verb 缺损/verb 介/verb 人/noun 治疗/verb
-二、[[<DIS><SYM>0]]介人治疗
-命名实体: 室间隔缺损
+二、[[<TRE>0]]
+命名实体: 室间隔缺损介人治疗
 实体关系: 
 ==================================================
 【/punctuation-mark 摘要/noun 】/punctuation-mark 室/noun 间隔/verb 缺损/verb (/punctuation-mark ySD/noun )/punctuation-mark 为/preposition 最/adverb 常见/adjective 的/particle 先天性/distinguishing-word 心脏/noun 畸形/noun ，/punctuation-mark 占/verb 先天性/distinguishing-word 心脏病/noun 的/particle 25%/numeral ~/punctuation-mark 3/numeral "/punctuation-mark %/numeral 。/punctuation-mark
@@ -240,8 +240,8 @@
 实体关系: 
 ==================================================
 1.3.1/numeral 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun ，/punctuation-mark 心/noun 内/noun-of-locality 有/verb 赘/adjective 生物/noun ，/punctuation-mark 或/conjunction 存在/verb 其他/pronoun 感染/verb 性/noun 疾病/noun 。/punctuation-mark
-1.3.1[[<DIS>0]]，心内有赘生物，或存在其他[[<DIS>1]]性疾病。
-命名实体: 感染性心内膜炎 感染
+1.3.1[[<DIS>0]]，心内有赘生物，或存在其他[[<DIS>1]]。
+命名实体: 感染性心内膜炎 感染性疾病
 实体关系: 
 ==================================================
 1.3.2/numeral 封堵/verb 器/noun 安置/verb 处/noun 有/verb 血栓/noun 存在/verb ，/punctuation-mark 导管/noun 插/verb 人/noun 径/noun 路/noun 中/noun-of-locality 有/verb 静脉/noun 血栓/noun 形成/verb 。/punctuation-mark
@@ -260,8 +260,8 @@
 实体关系: 
 ==================================================
 1.3.5/numeral 合并/verb 出/verb 血性/noun 疾病/noun 和/conjunction 血小板/noun 减少/verb 。/punctuation-mark
-1.3.5合并[[<DIS><SYM>0]]性疾病和[[<SYM>1]]。
-命名实体: 出血 血小板减少
+1.3.5合并[[<DIS>1]]和[[<SYM>0]]。
+命名实体: 血小板减少 出血性疾病
 实体关系: 
 ==================================================
 1.3.6/numeral 合并/verb 明显/adjective 的/particle 肝/noun 肾/noun 功能/noun 异常/adjective 。/punctuation-mark
@@ -305,8 +305,8 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 3.1.1/numeral 术前/noun 体检/verb 心电图/noun 、/punctuation-mark x/noun 线/noun 胸/noun 片/noun 及/conjunction 超声/noun 心动/verb 图/noun 。/punctuation-mark
-3.1.1术前体检[[<TRE>0]]、x线胸片及[[<TRE>1]]。
-命名实体: 心电图 超声心动图
+3.1.1术前体检[[<TRE>0]]、[[<TRE>2]]及[[<TRE>1]]。
+命名实体: 心电图 超声心动图 x线胸片
 实体关系: 
 ==================================================
 3.1.2/numeral 血常规/noun 、/punctuation-mark 出/verb 凝/verb 血/noun 时间/noun 、/punctuation-mark 肝/noun 、/punctuation-mark 肾/noun 功能/noun 、/punctuation-mark 电解质/noun 、/punctuation-mark 肝炎/noun 病毒/noun 标志/noun 物/noun 。/punctuation-mark
@@ -805,8 +805,8 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 根据/preposition “/punctuation-mark 第四/numeral 届/classifier 先天性/distinguishing-word 心脏病/noun 介/verb 人/noun 治疗/verb 沙龙/noun 学术/noun 研讨会/noun ”/punctuation-mark 资料/noun 显示/verb ，/punctuation-mark 目前/time-word 我国/noun VSD/noun 封堵/verb 术/noun 总体/noun 成功率/noun 可/verb 达/verb 96.45%/numeral ，/punctuation-mark 严重/adjective 并发症/noun 发生率/noun 为/preposition 2.61%/numeral ，/punctuation-mark 病/noun 死/verb 率/suffix 为/preposition 0.05%/numeral 。/punctuation-mark
-根据“第四届[[<DIS>0]]介人治疗沙龙学术研讨会”资料显示，目前我国VSD封堵术总体成功率可达96.45%，严重并发症发生率为2.61%，病死率为0.05%。
-命名实体: 先天性心脏病
+根据“第四届[[<TRE>0]]沙龙学术研讨会”资料显示，目前我国VSD封堵术总体成功率可达96.45%，严重并发症发生率为2.61%，病死率为0.05%。
+命名实体: 先天性心脏病介人治疗
 实体关系: 
 ==================================================
 迟/adjective 发/verb 严重/adjective 并发症/noun 包括/verb 三/numeral 度/classifier 房室/noun 传导/verb 阻滞/verb 、/punctuation-mark 左/adjective 室/noun 进行/verb 性/noun 增大/verb 及/conjunction 右/noun-of-locality 房室/noun 瓣/noun 返/verb 流/verb 等/particle ，/punctuation-mark 少数/numeral 迟/adjective 发/verb 并发症/noun 的/particle 发生/verb 机制/noun 尚/adverb 不/adverb 十分/adverb 明确/adjective ，/punctuation-mark 有待/verb 今后/time-word 进一步/adverb 探讨/verb 。/punctuation-mark
@@ -1065,8 +1065,8 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 如/verb 早期/noun-of-locality 发现/verb ，/punctuation-mark 可行/adjective 溶/verb 栓/noun 治疗/verb 。/punctuation-mark
-如早期发现，可行溶栓治疗。
-命名实体:
+如早期发现，可行[[<TRE>0]]。
+命名实体: 溶栓治疗
 实体关系: 
 ==================================================
 6.10/numeral 心脏/noun 及/conjunction 血管/noun 穿孔/verb
@@ -1090,6 +1090,6 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 6.12/numeral 局部/noun 血栓/noun 形成/verb 及/conjunction 周围/noun-of-locality 血管/noun 栓塞/noun 。/punctuation-mark
-6.12局部[[<DIS>0]]及周围血管栓塞。
-命名实体: 血栓形成
+6.12[[<DIS>0]]及[[<DIS>1]]。
+命名实体: 局部血栓形成 周围血管栓塞
 实体关系: 

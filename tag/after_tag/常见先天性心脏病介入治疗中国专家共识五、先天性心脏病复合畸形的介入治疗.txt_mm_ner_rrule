@@ -10,8 +10,8 @@
 实体关系: 
 ==================================================
 【/punctuation-mark 摘要/noun 】/punctuation-mark 先天性/distinguishing-word 心脏/noun 复合/verb 畸形/noun 为/verb 同时/conjunction 患/verb 有/verb 2/numeral 种/classifier 或/conjunction 2/numeral 种/classifier 以上/noun-of-locality 心血管/noun 畸形/noun ，/punctuation-mark 能够/verb 同期/noun-of-locality 进行/verb 介入/verb 治疗/verb ，/punctuation-mark 其/pronoun 技术/noun 操作/verb 并非/verb 单一/adjective 技术/noun 的/particle 简单/adjective 相加/verb ，/punctuation-mark 而/conjunction 有/verb 其/pronoun 特殊性/noun 。/punctuation-mark
-【摘要】先天性心脏复合畸形为同时患有2种或2种以上心[[<DIS><SYM>0]]，能够同期进行介入治疗，其技术操作并非单一技术的简单相加，而有其特殊性。
-命名实体: 血管畸形
+【摘要】先天性心脏复合畸形为同时患有2种或2种以上心[[<DIS><SYM>0]]，能够同期进行[[<TRE>1]]，其技术操作并非单一技术的简单相加，而有其特殊性。
+命名实体: 血管畸形 介入治疗
 实体关系: 
 ==================================================
 本文/pronoun 介绍/verb 室/noun 间隔/verb 缺损/verb 合并/verb 房/noun 间隔/verb 缺损/verb 、/punctuation-mark 动脉/noun 导管/noun 未/adverb 闭/verb 、/punctuation-mark 肺动脉/noun 瓣/classifier 狭窄/adjective ；/punctuation-mark 房/noun 间隔/verb 缺损/verb 合并/verb 动脉/noun 导管/noun 未/adverb 闭/verb 、/punctuation-mark 肺动脉/noun 瓣/classifier 狭窄/adjective 、/punctuation-mark 左/adjective 房室/noun 瓣/classifier 狭窄/adjective (/punctuation-mark 鲁登巴赫/noun 综合征/noun )/punctuation-mark 及/conjunction 主动脉/noun 缩/verb 窄/adjective 合并/verb 动脉/noun 导管/noun 未/adverb 闭/verb 等/particle 复合/verb 畸形/noun 的/particle 病理/noun 生理/noun 改变/verb 与/conjunction 临床/verb 特点/noun 、/punctuation-mark 介入/verb 治疗/verb 适应/verb 证/noun 和/conjunction 禁忌/noun 证/noun 、/punctuation-mark 治疗/verb 原则/noun 和/conjunction 注意/verb 事项/noun 、/punctuation-mark 术/noun 后处理/verb 以及/conjunction 疗效/noun 判定/verb 等/particle 。/punctuation-mark
@@ -30,13 +30,13 @@
 实体关系: 
 ==================================================
 近年来/adverb ，/punctuation-mark 随着/preposition 先/adverb 心病/noun 介/verb 人/noun 治疗/verb 器材/noun 的/particle 改进/verb 和/conjunction 治疗/verb 技术/noun 的/particle 提高/verb ，/punctuation-mark 一些/numeral 单一/adjective 型/suffix 先/adverb 心病/noun 介/verb 人/noun 治疗/verb 的/particle 临床/verb 疗效/noun 与/conjunction 安全性/noun 已/adverb 得到/verb 公认/verb ，/punctuation-mark 并/conjunction 在/preposition 此/pronoun 基础/noun 上/noun-of-locality 逐渐/adverb 开展/verb 了/particle 对/preposition 先天性/distinguishing-word 心脏/noun 复合/verb 畸形/noun 同期/noun-of-locality 进行/verb 介/verb 人/noun 治疗/verb 技术/noun 。/punctuation-mark
-近年来，随着先心病介人治疗器材的改进和治疗技术的提高，一些单一型先心病介人治疗的临床疗效与安全性已得到公认，并在此基础上逐渐开展了对先天性心脏复合畸形同期进行介人治疗技术。
-命名实体:
+近年来，随着先心病[[<TRE>0]]器材的改进和治疗技术的提高，一些单一型先心病[[<TRE>0]]的临床疗效与安全性已得到公认，并在此基础上逐渐开展了对先天性心脏复合畸形同期进行[[<TRE>0]]技术。
+命名实体: 介人治疗
 实体关系: 
 ==================================================
 目前/time-word ，/punctuation-mark 能够/verb 同期/noun-of-locality 进行/verb 介/verb 人/noun 治疗/verb 的/particle 先天性/distinguishing-word 心脏/noun 复合/verb 畸形/noun 包括/verb ：/punctuation-mark 室/noun 间隔/verb 缺损/verb (/punctuation-mark ventricular/noun septal/noun defect/noun ，/punctuation-mark VSD/noun )/punctuation-mark 合并/verb 房/noun 间隔/verb 缺损/verb (/punctuation-mark atrial/noun septal/noun defect/noun ，/punctuation-mark ASD/noun )/punctuation-mark 、/punctuation-mark VSD/noun 合并/verb 动脉/noun 导管/noun 未/adverb 闭/verb (/punctuation-mark patent/noun ductus/noun arteriosus/noun ，/punctuation-mark PDA/noun )/punctuation-mark 、/punctuation-mark VSD/noun 合并/verb 肺动脉/noun 瓣/classifier 狭窄/adjective (/punctuation-mark PS/noun )/punctuation-mark 、/punctuation-mark ASD/noun 合并/verb PDA/noun 、/punctuation-mark ASD/noun 合并/verb 肺动脉/noun 瓣/classifier 狭窄/adjective 、/punctuation-mark ASD/noun 合并/verb 左/adjective 房室/noun 瓣/classifier 狭窄/adjective (/punctuation-mark Lutembacher/noun ’/punctuation-mark s/verb syndrome/noun ，/punctuation-mark 鲁藤/noun 巴/distinguishing-word 赫/classifier 综合征/noun )/punctuation-mark 及/conjunction 主动脉/noun 缩/verb 窄/adjective 合并/verb PDA/noun 等/particle [1]/string 。/punctuation-mark
-目前，能够同期进行介人治疗的先天性心脏复合畸形包括：[[<DIS><SYM>0]](ventricular septal defect，VSD)合并[[<DIS>1]](atrial septal defect，ASD)、VSD合并[[<DIS><SYM>2]](patent ductus arteriosus，PDA)、VSD合并[[<DIS>3]](PS)、ASD合并PDA、ASD合并[[<DIS>3]]、ASD合并左房室瓣狭窄(Lutembacher’s syndrome，鲁藤巴赫[[<DIS><SYM>4]])及[[<DIS>5]]合并PDA等[1]。
-命名实体: 室间隔缺损 房间隔缺损 动脉导管未闭 肺动脉瓣狭窄 综合征 主动脉缩窄
+目前，能够同期进行[[<TRE>6]]的先天性心脏复合畸形包括：[[<DIS><SYM>0]](ventricular septal defect，VSD)合并[[<DIS>1]](atrial septal defect，ASD)、VSD合并[[<DIS><SYM>2]](patent ductus arteriosus，PDA)、VSD合并[[<DIS>3]](PS)、ASD合并PDA、ASD合并[[<DIS>3]]、ASD合并左房室瓣狭窄(Lutembacher’s syndrome，鲁藤巴赫[[<DIS><SYM>4]])及[[<DIS>5]]合并PDA等[1]。
+命名实体: 室间隔缺损 房间隔缺损 动脉导管未闭 肺动脉瓣狭窄 综合征 主动脉缩窄 介人治疗
 实体关系: 
 ==================================================
 虽然/conjunction 先天性/distinguishing-word 心脏/noun 复合/verb 畸形/noun 的/particle 介/verb 人/noun 治疗/verb 是/verb 在/preposition 单一/adjective 型/suffix 先/adverb 心病/noun 介/verb 人/noun 治疗/verb 基础/noun 上/noun-of-locality 发展/verb 起来/verb 的/particle ，/punctuation-mark 但/conjunction 其/pronoun 介/noun 人/noun 治疗/verb 技术/noun 操作/verb 并非/verb 单一/adjective 型/suffix 先/adverb 心病/noun 介/verb 人/noun 治疗/verb 技术/noun 的/particle 简单/adjective 相加/verb 。/punctuation-mark
@@ -60,8 +60,8 @@ VSD合并ASD是常见的先天性心脏复合畸形。
 实体关系: 
 ==================================================
 随着/preposition 先/adverb 心病/noun 介/verb 人/noun 治疗/verb 技术/noun 的/particle 不断/adverb 发展/verb 完善/verb ，/punctuation-mark 大部分/numeral VSD/noun 和/conjunction ASD/noun 患者/noun 可以/verb 通过/preposition 介/verb 人/noun 治疗/verb 方法/noun 得到/verb 治愈/verb ，/punctuation-mark 从而/conjunction 使/verb VSD/noun 合并/verb ASD/noun 患者/noun 具有/verb 同期/noun-of-locality 进行/verb 介/verb 人/noun 治疗/verb 并/conjunction 获得/verb 根治/verb 的/particle 可能性/noun [2]/string 。/punctuation-mark
-随着先心病介人治疗技术的不断发展完善，大部分VSD和ASD患者可以通过介人治疗方法得到治愈，从而使VSD合并ASD患者具有同期进行介人治疗并获得根治的可能性[2]。
-命名实体:
+随着先心病[[<TRE>0]]技术的不断发展完善，大部分VSD和ASD患者可以通过[[<TRE>0]]方法得到治愈，从而使VSD合并ASD患者具有同期进行[[<TRE>0]]并获得根治的可能性[2]。
+命名实体: 介人治疗
 实体关系: 
 ==================================================
 1.1/numeral 病理/noun 生理/noun 改变/verb 与/conjunction 临床/verb 特点/noun
@@ -85,8 +85,8 @@ VSD和ASD均属于左向右分流性先心病，两者合并存在时患者心�
 实体关系: 
 ==================================================
 1.2.2/numeral 不/adverb 合并/verb 必须/adverb 行/adjective 外科/noun 手术/verb 治疗/verb 的/particle 其他/pronoun 心脏/noun 畸形/noun 。/punctuation-mark
-1.2.2不合并必须行外科手术治疗的其他[[<SYM>0]]。
-命名实体: 心脏畸形
+1.2.2不合并必须行[[<TRE>1]]的其他[[<SYM>0]]。
+命名实体: 心脏畸形 外科手术治疗
 实体关系: 
 ==================================================
 1.3/numeral 介/verb 人/noun 治疗/verb 禁忌/noun 证/noun
@@ -105,8 +105,8 @@ VSD和ASD均属于左向右分流性先心病，两者合并存在时患者心�
 实体关系: 
 ==================================================
 1.3.3/numeral 合并/verb 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun 及/conjunction 出/verb 血性/noun 疾病/noun 患者/noun 。/punctuation-mark
-1.3.3合并[[<DIS>0]]及[[<DIS><SYM>1]]性疾病患者。
-命名实体: 感染性心内膜炎 出血
+1.3.3合并[[<DIS>0]]及[[<DIS>1]]患者。
+命名实体: 感染性心内膜炎 出血性疾病
 实体关系: 
 ==================================================
 1.4/numeral 介/verb 人/noun 治疗/verb 原则/noun 与/conjunction 注意/verb 事项/noun
@@ -120,18 +120,18 @@ VSD和ASD均属于左向右分流性先心病，两者合并存在时患者心�
 实体关系: 
 ==================================================
 1.4.2/numeral 当/preposition 确定/verb VSD/noun 和/conjunction ASD/noun 均/adverb 有/verb 介/verb 人/noun 治疗/verb 适应/verb 证/noun 时/noun ，/punctuation-mark 方/adverb 可/verb 进行/verb 介/verb 人/noun 治疗/verb 。/punctuation-mark
-1.4.2当确定VSD和ASD均有介人治疗适应证时，方可进行介人治疗。
-命名实体:
+1.4.2当确定VSD和ASD均有[[<TRE>0]]适应证时，方可进行[[<TRE>0]]。
+命名实体: 介人治疗
 实体关系: 
 ==================================================
 1.4.3/numeral 先/adverb 封堵/verb VSD/noun ，/punctuation-mark 再行/adverb ASD/noun 封堵/verb 治疗/verb ;/punctuation-mark 若/conjunction VSD/noun 封堵/verb 不/adverb 成功/adjective ，/punctuation-mark 则/conjunction 放弃/verb 介/verb 人/noun 治疗/verb 。/punctuation-mark
-1.4.3先封堵VSD，再行ASD封堵治疗;若VSD封堵不成功，则放弃介人治疗。
-命名实体:
+1.4.3先封堵VSD，再行[[<TRE>0]];若VSD封堵不成功，则放弃介人治疗。
+命名实体: ASD封堵治疗
 实体关系: 
 ==================================================
 1.4.4/numeral 对于/preposition ASD/noun 巨大/adjective 或/conjunction 边缘/noun 不好/adjective 、/punctuation-mark 介/verb 人/noun 治疗/verb 成功/adjective 把握/verb 不/adverb 大/adjective 者/suffix ，/punctuation-mark 可/verb 同时/conjunction 穿/verb 剌/verb 左/adjective 、/punctuation-mark 右/noun-of-locality 股/classifier 静脉/noun ，/punctuation-mark 分别/adverb 放/verb 人/noun 2/numeral 支/classifier 输送/verb 鞘/punctuation-mark 管/verb ，/punctuation-mark 并/conjunction 按/preposition “/punctuation-mark 先/adverb 难/adjective 后/noun-of-locality 易/verb ”/punctuation-mark 的/particle 原则/noun ，/punctuation-mark 先/adverb 封堵/verb ASD/noun ，/punctuation-mark 再行/adverb VSD/noun 封堵/verb 治疗/verb 。/punctuation-mark
-1.4.4对于ASD巨大或边缘不好、介人治疗成功把握不大者，可同时穿剌左、右股静脉，分别放人2支输送鞘管，并按“先难后易”的原则，先封堵ASD，再行VSD封堵治疗。
-命名实体:
+1.4.4对于ASD巨大或边缘不好、介人治疗成功把握不大者，可同时穿剌左、右股静脉，分别放人2支输送鞘管，并按“先难后易”的原则，先封堵ASD，再行[[<TRE>0]]。
+命名实体: VSD封堵治疗
 实体关系: 
 ==================================================
 若/verb ASD/noun 封堵/verb 不/adverb 成功/adjective ，/punctuation-mark 则/conjunction 放弃/verb 介/verb 人/noun 治疗/verb ;/punctuation-mark 若/conjunction ASD/noun 封堵/verb 成功/adjective 后/noun-of-locality ，/punctuation-mark 可/conjunction 暂/adverb 不/adverb 释放/verb 封堵/verb 器/noun (/punctuation-mark 以免/conjunction 后续/verb 操作/verb 致/verb 封堵/verb 器/noun 移位/verb )/punctuation-mark ，/punctuation-mark 待/verb 确定/verb VSD/noun 同时/noun 封堵/verb 成功/adjective 后/noun-of-locality 再/adverb 逐一/adverb 释放/verb ，/punctuation-mark 以/preposition 确保/verb 手术/noun 安全/adjective 。/punctuation-mark
@@ -140,8 +140,8 @@ VSD和ASD均属于左向右分流性先心病，两者合并存在时患者心�
 实体关系: 
 ==================================================
 1.4.5/numeral 对于/preposition 巨大/adjective 型/noun VSD/noun 合并/verb 小型/distinguishing-word ASD/noun 并/conjunction 伴/verb 重度/distinguishing-word 肺动脉/noun 高压/noun 者/suffix ，/punctuation-mark 可/verb 先行/verb VSD/noun 封堵/verb 治疗/verb ，/punctuation-mark 暂/adverb 不/adverb 封堵/verb ASD/noun ，/punctuation-mark 同时/conjunction 密切/adjective 观察/verb 病情/noun 变化/verb ，/punctuation-mark 并/conjunction 酌情/adverb 择/verb 期/classifier 行/noun ASD/noun 封堵/verb 治疗/verb 。/punctuation-mark
-1.4.5对于巨大型VSD合并小型ASD并伴[[<DIS>0]]者，可先行VSD封堵治疗，暂不封堵ASD，同时密切观察病情变化，并酌情择期行ASD封堵治疗。
-命名实体: 重度肺动脉高压
+1.4.5对于巨大型VSD合并小型ASD并伴[[<DIS>2]]者，可先行[[<TRE>1]]，暂不封堵ASD，同时密切观察病情变化，并酌情择期行[[<TRE>0]]。
+命名实体: ASD封堵治疗 VSD封堵治疗 重度肺动脉高压
 实体关系: 
 ==================================================
 1.5/numeral 术/noun 后/noun-of-locality 处理/verb 与/preposition 疗效/noun 判定/verb
@@ -175,8 +175,8 @@ VSD和PDA均是常见的左向右分流性先心病，两者合并存在临床�
 实体关系: 
 ==================================================
 目前/time-word ，/punctuation-mark 大部分/numeral VSD/noun 及/conjunction PDA/noun 均/adverb 可/verb 通过/preposition 介/verb 人/noun 治疗/verb 方法/noun 获得/verb 治愈/verb ，/punctuation-mark 而/conjunction 两者/pronoun 合并/verb 存在/verb 时/noun 同期/noun-of-locality 进行/verb 介/verb 人/noun 治疗/verb 并/conjunction 获得/verb 成功/adjective 的/particle 文献/noun 报道/verb 也/adverb 逐渐/adverb 增多/verb [4]/string 。/punctuation-mark
-目前，大部分VSD及PDA均可通过介人治疗方法获得治愈，而两者合并存在时同期进行介人治疗并获得成功的文献报道也逐渐增多[4]。
-命名实体:
+目前，大部分VSD及PDA均可通过[[<TRE>0]]方法获得治愈，而两者合并存在时同期进行[[<TRE>0]]并获得成功的文献报道也逐渐增多[4]。
+命名实体: 介人治疗
 实体关系: 
 ==================================================
 2.1/numeral 病理/noun 生理/noun 改变/verb 与/conjunction 临床/verb 特点/noun
@@ -225,8 +225,8 @@ VSD和PDA虽同属于左向右分流性先心病，但VSD为心室水平的左�
 实体关系: 
 ==================================================
 2.3.3/numeral 术前/noun 3/numeral 个/classifier 月/noun 内/noun-of-locality 患/verb 有/verb 严重/adjective 感染/verb 或/conjunction 合并/verb 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun 及/conjunction 出/verb 血性/noun 疾病/noun 患者/noun 。/punctuation-mark
-2.3.3术前3个月内患有严重[[<DIS>0]]或合并[[<DIS>1]]及[[<DIS><SYM>2]]性疾病患者。
-命名实体: 感染 感染性心内膜炎 出血
+2.3.3术前3个月内患有[[<DIS>2]]或合并[[<DIS>0]]及[[<DIS>1]]患者。
+命名实体: 感染性心内膜炎 出血性疾病 严重感染
 实体关系: 
 ==================================================
 2.4/numeral 介/verb 人/noun 治疗/verb 原则/noun 与/conjunction 注意/verb 事项/noun
@@ -240,13 +240,13 @@ VSD和PDA虽同属于左向右分流性先心病，但VSD为心室水平的左�
 实体关系: 
 ==================================================
 2.4.2/numeral 当/preposition 确定/verb VSD/noun 和/conjunction PDA/noun 均/adverb 有/verb 介/verb 人/noun 治疗/verb 适应/verb 证/noun 时/noun ，/punctuation-mark 方/adverb 可/verb 进行/verb 介/verb 人/noun 治疗/verb 。/punctuation-mark
-2.4.2当确定VSD和PDA均有介人治疗适应证时，方可进行介人治疗。
-命名实体:
+2.4.2当确定VSD和PDA均有[[<TRE>0]]适应证时，方可进行[[<TRE>0]]。
+命名实体: 介人治疗
 实体关系: 
 ==================================================
 2.4.3/numeral 按照/preposition “/punctuation-mark 先/adverb 难/adjective 后/noun-of-locality 易/verb ”/punctuation-mark 的/particle 介/verb 人/noun 治疗/verb 原则/noun ，/punctuation-mark 先/adverb 进行/verb VSD/noun 封堵/verb 治疗/verb ，/punctuation-mark 待/verb 确定/verb VSD/noun 封堵/verb 成功/adjective 后/noun-of-locality ，/punctuation-mark 再行/adverb PDA/noun 封堵/verb 治疗/verb ;/punctuation-mark 若/conjunction VSD/noun 封堵/verb 失败/verb ，/punctuation-mark 则/conjunction 不/adverb 需/verb 再行/adverb PDA/noun 介/noun 人/noun 治疗/verb 。/punctuation-mark
-2.4.3按照“先难后易”的介人治疗原则，先进行VSD封堵治疗，待确定VSD封堵成功后，再行PDA封堵治疗;若VSD封堵失败，则不需再行PDA介人治疗。
-命名实体:
+2.4.3按照“先难后易”的介人治疗原则，先进行[[<TRE>0]]，待确定VSD封堵成功后，再行[[<TRE>2]];若VSD封堵失败，则不需再行[[<TRE>1]]。
+命名实体: VSD封堵治疗 PDA介人治疗 PDA封堵治疗
 实体关系: 
 ==================================================
 2.4.4/numeral 若/conjunction 术/verb 者/suffix 先/adverb 心病/noun 介/verb 人/noun 治疗/verb 经验/noun 不足/adjective ，/punctuation-mark 担心/verb 行/verb PDA/noun 封堵/verb 操作/verb 时/noun 会/verb 影响/verb 已/adverb 置/verb 人/noun 的/particle VSD/noun 封堵/verb 器/noun ，/punctuation-mark 可以/verb 同时/conjunction 穿/verb 剌/verb 左/adjective 、/punctuation-mark 右/noun-of-locality 股/classifier 静脉/noun ，/punctuation-mark 分别/adverb 放/verb 人/noun 2/numeral 支/classifier 输送/verb 鞘/punctuation-mark 管/verb ，/punctuation-mark 在/preposition 成功/adjective 封堵/verb VSD/noun 后/noun-of-locality 暂/adverb 不/adverb 释放/verb 封堵/verb 器/noun ，/punctuation-mark 待/verb 确定/verb VSD/noun 及/conjunction PDA/noun 均/adverb 被/preposition 成功/adjective 封堵/verb 后/noun-of-locality 再/adverb 逐一/adverb 释放/verb ，/punctuation-mark 以/preposition 确保/verb 手术/noun 安全/adjective 。/punctuation-mark
@@ -255,13 +255,13 @@ VSD和PDA虽同属于左向右分流性先心病，但VSD为心室水平的左�
 实体关系: 
 ==================================================
 2.4.5/numeral 对于/preposition 年龄/noun </punctuation-mark 3/numeral 岁/classifier 的/particle 小/adjective VSD/noun 合并/verb 大/adjective PDA/noun 者/suffix ，/punctuation-mark 可以/verb 先行/verb PDA/noun 介/noun 人/noun 治疗/verb ，/punctuation-mark 暂/adverb 不/adverb 封堵/verb VSD/noun (/punctuation-mark 因/preposition 部分/noun 小/adjective VSD/noun 有/verb 自行/adverb 闭合/verb 的/particle 可能性/noun )/punctuation-mark ，/punctuation-mark 待/verb 年龄/noun 稍/adverb 大/adjective 时/noun 再/adverb 择/verb 期/classifier 行/noun VSD/noun 介/noun 人/noun 治疗/verb ，/punctuation-mark 以/preposition 确保/verb 手术/noun 安全/adjective 。/punctuation-mark
-2.4.5对于年龄<3岁的小VSD合并大PDA者，可以先行PDA介人治疗，暂不封堵VSD(因部分小VSD有自行闭合的可能性)，待年龄稍大时再择期行VSD介人治疗，以确保手术安全。
-命名实体:
+2.4.5对于年龄<3岁的小VSD合并大PDA者，可以先行[[<TRE>1]]，暂不封堵VSD(因部分小VSD有自行闭合的可能性)，待年龄稍大时再择期行[[<TRE>0]]，以确保手术安全。
+命名实体: VSD介人治疗 PDA介人治疗
 实体关系: 
 ==================================================
 2.4.6/numeral 若/conjunction 检查/verb 发现/verb VSD/noun 不/adverb 适合/verb 介/verb 人/noun 治疗/verb ，/punctuation-mark 但/conjunction 患者/noun 经济/noun 条件/noun 允许/verb ，/punctuation-mark 也/adverb 可/verb 先行/verb PDA/noun 封堵/verb 治疗/verb ，/punctuation-mark 以后/noun-of-locality 再行/adverb 外科/noun 手术/verb 修补/verb VSD/noun ，/punctuation-mark 从而/conjunction 使/verb 外科/noun 手术/verb 操作/verb 简化/verb ，/punctuation-mark 缩短/verb 心脏/noun 停/verb 搏/verb 时间/noun ，/punctuation-mark 增加/verb 手术/verb 的/particle 安全性/noun 。/punctuation-mark
-2.4.6若检查发现VSD不适合介人治疗，但患者经济条件允许，也可先行PDA封堵治疗，以后再行外科手术修补VSD，从而使外科手术操作简化，缩短[[<SYM>0]]时间，增加手术的安全性。
-命名实体: 心脏停搏
+2.4.6若检查发现VSD不适合介人治疗，但患者经济条件允许，也可先行[[<TRE>1]]，以后再行外科手术修补VSD，从而使外科手术操作简化，缩短[[<SYM>0]]时间，增加手术的安全性。
+命名实体: 心脏停搏 PDA封堵治疗
 实体关系: 
 ==================================================
 2.5/numeral 术/noun 后/noun-of-locality 处理/verb 与/preposition 疗效/noun 判定/verb
@@ -300,8 +300,8 @@ VSD合并PS的主要病理生理变化是右心室的血液流出受阻，引起
 实体关系: 
 ==================================================
 其/pronoun 体/noun 征/verb 主要/adverb 是/verb 肺动脉/noun 瓣/classifier 区/noun 喷射/verb 性/noun 收缩/verb 期/classifier 杂音/noun ，/punctuation-mark 肺动脉/noun 瓣/classifier 区/noun 第二/numeral 音/noun 减弱/verb 或/conjunction 消失/verb ，/punctuation-mark 并/conjunction 可/verb 见/verb 口/noun 唇/noun 、/punctuation-mark 甲/numeral 床/noun 紫/adjective 绀/punctuation-mark 及/verb 杵/noun 状/noun 指/verb (/punctuation-mark 趾/punctuation-mark )/punctuation-mark 。/punctuation-mark
-其体征主要是肺动脉瓣区喷射性[[<SYM>0]]，肺动脉瓣区第二音减弱或消失，并可见口唇、甲床[[<DIS><SYM>1]]及杵状指(趾)。
-命名实体: 收缩期杂音 紫绀
+其体征主要是肺动脉瓣区喷射性[[<SYM>0]]，肺动脉瓣区第二音减弱或消失，并可见口唇、甲床[[<DIS><SYM>1]]及[[<DIS>2]]。
+命名实体: 收缩期杂音 紫绀 杵状指(趾)
 实体关系: 
 ==================================================
 3.2/numeral 介/verb 人/noun 治疗/verb 适应/verb 证/noun
@@ -340,8 +340,8 @@ VSD合并PS的主要病理生理变化是右心室的血液流出受阻，引起
 实体关系: 
 ==================================================
 3.3.4/numeral 术前/noun 3/numeral 个/classifier 月/noun 内/noun-of-locality 患/verb 有/verb 严重/adjective 感染/verb 或/conjunction 合并/verb 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun 者/suffix 。/punctuation-mark
-3.3.4术前3个月内患有严重[[<DIS>0]]或合并[[<DIS>1]]者。
-命名实体: 感染 感染性心内膜炎
+3.3.4术前3个月内患有[[<DIS>1]]或合并[[<DIS>0]]者。
+命名实体: 感染性心内膜炎 严重感染
 实体关系: 
 ==================================================
 3.4/numeral 介/verb 人/noun 治疗/verb 原则/noun 与/conjunction 注意/verb 事项/noun
@@ -355,13 +355,13 @@ VSD合并PS的主要病理生理变化是右心室的血液流出受阻，引起
 实体关系: 
 ==================================================
 3.4.2/numeral 当/preposition 确定/verb VSD/noun 和/conjunction PS/noun 均/adverb 有/verb 介/verb 人/noun 治疗/verb 适应/verb 证/noun 时/noun ，/punctuation-mark 方/adverb 可/verb 进行/verb 介/verb 人/noun 治疗/verb 。/punctuation-mark
-3.4.2当确定VSD和PS均有介人治疗适应证时，方可进行介人治疗。
-命名实体:
+3.4.2当确定VSD和PS均有[[<TRE>0]]适应证时，方可进行[[<TRE>0]]。
+命名实体: 介人治疗
 实体关系: 
 ==================================================
 3.4.3/numeral 应/verb 遵循/verb “/punctuation-mark 先/adverb 行经/verb 皮球/noun 囊/noun 肺动脉/noun 瓣/noun 成/verb 形/noun 术/noun (/punctuation-mark PBPV/noun )/punctuation-mark 、/punctuation-mark 后/noun-of-locality 行/verb VSD/noun 封堵/verb 术/noun ”/punctuation-mark 的/particle 介/verb 人/noun 治疗/verb 原则/noun 。/punctuation-mark
-3.4.3应遵循“先行经皮球囊肺动脉瓣成形术(PBPV)、后行VSD封堵术”的介人治疗原则。
-命名实体:
+3.4.3应遵循“先行[[<TRE>0]](PBPV)、后行[[<TRE>1]]”的介人治疗原则。
+命名实体: 经皮球囊肺动脉瓣成形术 VSD封堵术
 实体关系: 
 ==================================================
 若/verb PBPV/noun 效果/noun 不/adverb 佳/adjective 或/conjunction 失败者/noun ，/punctuation-mark 则/conjunction 放弃/verb VSD/noun 的/particle 介/verb 人/noun 治疗/verb 。/punctuation-mark
@@ -415,8 +415,8 @@ ASD和PDA均是常见的左向右分流性先心病，两者合并存在也较�
 实体关系: 
 ==================================================
 目前/time-word ，/punctuation-mark ASD/noun 及/conjunction PDA/noun 均/adverb 可/verb 通过/preposition 介/verb 人/noun 治疗/verb 方法/noun 获得/verb 根治/verb ，/punctuation-mark 对/preposition 两者/pronoun 合并/verb 存在/verb 时/noun 同期/noun-of-locality 进行/verb 介/verb 人/noun 治疗/verb 也/adverb 是/verb 可行/adjective 的/particle [6-7]/string 。/punctuation-mark
-目前，ASD及PDA均可通过介人治疗方法获得根治，对两者合并存在时同期进行介人治疗也是可行的[6-7]。
-命名实体:
+目前，ASD及PDA均可通过[[<TRE>0]]方法获得根治，对两者合并存在时同期进行[[<TRE>0]]也是可行的[6-7]。
+命名实体: 介人治疗
 实体关系: 
 ==================================================
 4.1/numeral 病理/noun 生理/noun 改变/verb 与/conjunction 临床/verb 特点/noun
@@ -470,8 +470,8 @@ ASD和PDA虽同属于左向右分流性先心病，但ASD为心房水平的左�
 实体关系: 
 ==================================================
 4.3.4/numeral 术前/noun 3/numeral 个/classifier 月/noun 内/noun-of-locality 患/verb 有/verb 严重/adjective 感染/verb 或/conjunction 合并/verb 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun 及/conjunction 出/verb 血性/noun 疾/adjective 患者/noun 。/punctuation-mark
-4.3.4术前3个月内患有严重[[<DIS>0]]或合并[[<DIS>1]]及[[<DIS><SYM>2]]性疾患者。
-命名实体: 感染 感染性心内膜炎 出血
+4.3.4术前3个月内患有[[<DIS>2]]或合并[[<DIS>0]]及[[<DIS><SYM>1]]性疾患者。
+命名实体: 感染性心内膜炎 出血 严重感染
 实体关系: 
 ==================================================
 4.4/numeral 介/verb 人/noun 治疗/verb 原则/noun 与/conjunction 注意/verb 事项/noun
@@ -480,28 +480,28 @@ ASD和PDA虽同属于左向右分流性先心病，但ASD为心房水平的左�
 实体关系: 
 ==================================================
 4.4.1/numeral 先行/verb 心脏/noun 超声/noun 检查/verb 、/punctuation-mark 右/noun-of-locality 心/noun 导管/noun 检查/verb 及/conjunction 主/adjective 动脉弓/noun 部/classifier 造影/verb ，/punctuation-mark 以/preposition 判断/verb 有/verb 无/verb 介/verb 人/noun 治疗/verb 适应/verb 证/noun 。/punctuation-mark
-4.4.1先行心脏超声检查、[[<TRE>0]]及主动脉弓部造影，以判断有无介人治疗适应证。
-命名实体: 右心导管检查
+4.4.1先行心脏超声检查、[[<TRE>0]]及[[<TRE>1]]，以判断有无介人治疗适应证。
+命名实体: 右心导管检查 主动脉弓部造影
 实体关系: 
 ==================================================
 4.4.2/numeral 当/preposition 确定/verb ASD/noun 和/conjunction PDA/noun 均/adverb 有/verb 介/verb 人/noun 治疗/verb 适应/verb 证/noun 时/noun ，/punctuation-mark 方/adverb 可/verb 进行/verb 介/verb 人/noun 治疗/verb 。/punctuation-mark
-4.4.2当确定ASD和PDA均有介人治疗适应证时，方可进行介人治疗。
-命名实体:
+4.4.2当确定ASD和PDA均有[[<TRE>0]]适应证时，方可进行[[<TRE>0]]。
+命名实体: 介人治疗
 实体关系: 
 ==================================================
 4.4.3/numeral 按照/preposition “/punctuation-mark 后续/verb 治疗/verb 不/adverb 影响/verb 前期/noun-of-locality 治疗/verb 效果/noun ”/punctuation-mark 的/particle 原则/noun ，/punctuation-mark 先行/verb PDA/noun 封堵/verb 术/noun ，/punctuation-mark 再行/adverb ASD/noun 介/noun 人/noun 治疗/verb ，/punctuation-mark 以/preposition 增加/verb 手术/verb 安全性/noun 。/punctuation-mark
-4.4.3按照“后续治疗不影响前期治疗效果”的原则，先行PDA封堵术，再行ASD介人治疗，以增加手术安全性。
-命名实体:
+4.4.3按照“后续治疗不影响前期治疗效果”的原则，先行[[<TRE>1]]，再行[[<TRE>0]]，以增加手术安全性。
+命名实体: ASD介人治疗 PDA封堵术
 实体关系: 
 ==================================================
 4.4.4/numeral 对于/preposition 巨大/adjective ASD/noun 或/conjunction ASD/noun 介/noun 人/noun 治疗/verb 难度/noun 大/adjective 、/punctuation-mark 预计/verb 封堵/verb 成功/adjective 把握/verb 不/adverb 大/adjective 者/suffix ，/punctuation-mark 则/conjunction 按/preposition “/punctuation-mark 先/adverb 难/adjective 后/noun-of-locality 易/verb ”/punctuation-mark 的/particle 原则/noun ，/punctuation-mark 先/adverb 封堵/verb ASD/noun 、/punctuation-mark 后/noun-of-locality 行/verb PDA/noun 介/noun 人/noun 治疗/verb ；/punctuation-mark 但/conjunction 需/verb 同时/conjunction 穿刺/verb 左/adjective 、/punctuation-mark 右/noun-of-locality 股/classifier 静脉/noun ，/punctuation-mark 分别/adverb 放/verb 人/noun 两/numeral 支/classifier 输送/verb 鞘/punctuation-mark 管/verb ，/punctuation-mark ASD/noun 封堵/verb 成功/adjective 后/noun-of-locality 暂/adverb 不/adverb 释放/verb 封堵/verb 器/noun (/punctuation-mark 以免/conjunction 后续/verb 操作/verb 造成/verb 封堵/verb 器/noun 移位/verb 或/conjunction 脱落/verb )/punctuation-mark ，/punctuation-mark 待/verb 确定/verb ASD/noun 和/conjunction PDA/noun 均/adverb 被/preposition 成功/adjective 封堵/verb 后/noun-of-locality 再/adverb 逐一/adverb 释放/verb ，/punctuation-mark 以/preposition 确保/verb 手术/noun 安全/adjective 。/punctuation-mark
-4.4.4对于巨大ASD或ASD介人治疗难度大、预计封堵成功把握不大者，则按“先难后易”的原则，先封堵ASD、后行PDA介人治疗；但需同时穿刺左、右股静脉，分别放人两支输送鞘管，ASD封堵成功后暂不释放封堵器(以免后续操作造成封堵器移位或脱落)，待确定ASD和PDA均被成功封堵后再逐一释放，以确保手术安全。
-命名实体:
+4.4.4对于巨大ASD或ASD介人治疗难度大、预计封堵成功把握不大者，则按“先难后易”的原则，先封堵ASD、后行[[<TRE>0]]；但需同时穿刺左、右股静脉，分别放人两支输送鞘管，ASD封堵成功后暂不释放封堵器(以免后续操作造成封堵器移位或脱落)，待确定ASD和PDA均被成功封堵后再逐一释放，以确保手术安全。
+命名实体: PDA介人治疗
 实体关系: 
 ==================================================
 4.4.5/numeral 对于/preposition 小/adjective ASD/noun 合并/verb 大/adjective PDA/noun 并/conjunction 伴/verb 重度/distinguishing-word 肺动脉/noun 高压/noun 者/suffix ，/punctuation-mark 应/verb 先/adverb 封堵/verb PDA/noun ，/punctuation-mark 暂/adverb 不/adverb 封堵/verb ASD/noun ，/punctuation-mark 并/conjunction 密切/adjective 观察/verb 临床/verb 症状/noun 及/conjunction 肺动脉/noun 压力/noun 变化/verb ，/punctuation-mark 待/verb 肺动脉/noun 压力/noun 下降/verb 、/punctuation-mark 临床/verb 症状/noun 改善/verb 后/noun-of-locality 再/adverb 择/verb 期/classifier 行/noun ASD/noun 介/noun 人/noun 治疗/verb 。/punctuation-mark
-4.4.5对于小ASD合并大PDA并伴[[<DIS>0]]者，应先封堵PDA，暂不封堵ASD，并密切观察临床症状及肺动脉压力变化，待肺动脉压力下降、临床症状改善后再择期行ASD介人治疗。
-命名实体: 重度肺动脉高压
+4.4.5对于小ASD合并大PDA并伴[[<DIS>1]]者，应先封堵PDA，暂不封堵ASD，并密切观察临床症状及肺动脉压力变化，待肺动脉压力下降、临床症状改善后再择期行[[<TRE>0]]。
+命名实体: ASD介人治疗 重度肺动脉高压
 实体关系: 
 ==================================================
 4.5/numeral 术/noun 后/noun-of-locality 处理/verb 与/preposition 疗效/noun 判定/verb
@@ -590,8 +590,8 @@ ASD合并PS是临床较为常见的先天性心脏复合畸形，若患者出现
 实体关系: 
 ==================================================
 5.3.3/numeral 术前/noun 3/numeral 个/classifier 月/noun 内/noun-of-locality 患/verb 有/verb 严重/adjective 感染/verb 或/conjunction 合并/verb 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun 及/conjunction 出/verb 血性/noun 疾病/noun 者/suffix 。/punctuation-mark
-5.3.3术前3个月内患有严重[[<DIS>0]]或合并[[<DIS>1]]及[[<DIS><SYM>2]]性疾病者。
-命名实体: 感染 感染性心内膜炎 出血
+5.3.3术前3个月内患有[[<DIS>2]]或合并[[<DIS>0]]及[[<DIS>1]]者。
+命名实体: 感染性心内膜炎 出血性疾病 严重感染
 实体关系: 
 ==================================================
 5.4/numeral 介/verb 人/noun 治疗/verb 原则/noun 与/conjunction 注意/verb 事项/noun
@@ -605,28 +605,28 @@ ASD合并PS是临床较为常见的先天性心脏复合畸形，若患者出现
 实体关系: 
 ==================================================
 5.4.2/numeral 当/preposition 确定/verb ASD/noun 和/conjunction PS/noun 均/adverb 有/verb 介/verb 人/noun 治疗/verb 适应/verb 证/noun 时/noun ，/punctuation-mark 方/adverb 可/verb 进行/verb 介/verb 人/noun 治疗/verb 。/punctuation-mark
-5.4.2当确定ASD和PS均有介人治疗适应证时，方可进行介人治疗。
-命名实体:
+5.4.2当确定ASD和PS均有[[<TRE>0]]适应证时，方可进行[[<TRE>0]]。
+命名实体: 介人治疗
 实体关系: 
 ==================================================
 5.4.3/numeral 应/verb 遵循/verb “/punctuation-mark 先行/verb PBPV/noun 、/punctuation-mark 后/noun-of-locality 行/verb ASD/noun 封堵/verb 术/noun ”/punctuation-mark 的/particle 介/verb 人/noun 治疗/verb 原则/noun ，/punctuation-mark 若/conjunction PBPV/noun 治疗/verb 效果/noun 不/adverb 佳/adjective 或/conjunction 失败者/noun ，/punctuation-mark 则/conjunction 不/adverb 需/verb 再行/adverb ASD/noun 封堵/verb 术/noun ，/punctuation-mark 而/conjunction 放弃/verb 介/verb 人/noun 治疗/verb 。/punctuation-mark
-5.4.3应遵循“先行PBPV、后行ASD封堵术”的介人治疗原则，若PBPV治疗效果不佳或失败者，则不需再行ASD封堵术，而放弃介人治疗。
-命名实体:
+5.4.3应遵循“先行PBPV、后行[[<TRE>0]]”的介人治疗原则，若PBPV治疗效果不佳或失败者，则不需再行[[<TRE>0]]，而放弃介人治疗。
+命名实体: ASD封堵术
 实体关系: 
 ==================================================
 5.4.4/numeral 对于/preposition 巨大/adjective 型/noun ASD/noun 合并/verb 轻度/distinguishing-word PS/noun 者/suffix ，/punctuation-mark 可/verb 先行/verb ASD/noun 封堵/verb 术/noun ，/punctuation-mark 而后/adverb 连续/adjective 测量/verb 跨/verb 肺动脉/noun 瓣/classifier 压力/noun ，/punctuation-mark 若/conjunction 压力/noun 阶/noun 差/verb </punctuation-mark 20mmHg/noun ，/punctuation-mark 则/conjunction 不/adverb 需/verb 行/verb PBPV/noun 治疗/verb 。/punctuation-mark
-5.4.4对于巨大型ASD合并轻度PS者，可先行ASD封堵术，而后连续测量跨肺动脉瓣压力，若压力阶差<20mmHg，则不需行PBPV治疗。
-命名实体:
+5.4.4对于巨大型ASD合并轻度PS者，可先行[[<TRE>1]]，而后连续测量跨肺动脉瓣压力，若压力阶差<20mmHg，则不需行[[<TRE>0]]。
+命名实体: PBPV治疗 ASD封堵术
 实体关系: 
 ==================================================
 5.4.5/numeral 对于/preposition ASD/noun 合并/verb 重度/distinguishing-word PS/noun 或/conjunction 有/verb 继/verb 发/verb 右/noun-of-locality 室/noun 流/verb 出道/verb 肥厚/adjective 者/suffix ，/punctuation-mark 可以/verb 先行/verb PBPV/noun 治疗/verb ，/punctuation-mark 6/numeral 个/classifier 月/noun 后/noun-of-locality 复查/verb 右/noun-of-locality 心/noun 导管/noun 检查/verb 及/conjunction 右/noun-of-locality 心室/noun 造影/verb ，/punctuation-mark 并/conjunction 确定/verb 是否/verb 行/verb ASD/noun 封堵/verb 治疗/verb 。/punctuation-mark
-5.4.5对于ASD合并重度PS或有继发右室流出道肥厚者，可以先行PBPV治疗，6个月后复查[[<TRE>0]]及[[<TRE>1]]，并确定是否行ASD封堵治疗。
-命名实体: 右心导管检查 右心室造影
+5.4.5对于ASD合并重度PS或有继发右室流出道肥厚者，可以先行[[<TRE>3]]，6个月后复查[[<TRE>0]]及[[<TRE>1]]，并确定是否行[[<TRE>2]]。
+命名实体: 右心导管检查 右心室造影 ASD封堵治疗 PBPV治疗
 实体关系: 
 ==================================================
 5.4.6/numeral 对于/preposition 年龄/noun </punctuation-mark 3/numeral 岁/classifier 、/punctuation-mark 小/adjective ASD/noun (/punctuation-mark 直径/noun </punctuation-mark 5mm/noun )/punctuation-mark 合并/verb PS/noun 者/suffix ，/punctuation-mark 可/verb 先行/verb PBPV/noun 治疗/verb ，/punctuation-mark 而后/adverb 酌情/adverb 确定/verb 是否/verb 行/verb ASD/noun 封堵/verb 治疗/verb (/punctuation-mark 因/preposition 部分/noun 小/adjective ASD/noun 有/verb 自行/adverb 闭合/verb 的/particle 可能/noun )/punctuation-mark 。/punctuation-mark
-5.4.6对于年龄<3岁、小ASD(直径<5mm)合并PS者，可先行PBPV治疗，而后酌情确定是否行ASD封堵治疗(因部分小ASD有自行闭合的可能)。
-命名实体:
+5.4.6对于年龄<3岁、小ASD(直径<5mm)合并PS者，可先行[[<TRE>1]]，而后酌情确定是否行[[<TRE>0]](因部分小ASD有自行闭合的可能)。
+命名实体: ASD封堵治疗 PBPV治疗
 实体关系: 
 ==================================================
 5.5/numeral 术/noun 后/noun-of-locality 处理/verb 与/preposition 疗效/noun 判定/verb
@@ -665,8 +665,8 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 经/preposition 皮/noun 穿/verb 剌/verb 左/adjective 房室/noun 瓣/classifier 球/noun 囊/noun 成/verb 形/noun 术/noun (/punctuation-mark PBMV/noun )/punctuation-mark 及/conjunction ASD/noun 封堵/verb 技术/noun 均/adverb 巳/numeral 成熟/adjective ，/punctuation-mark 而/conjunction 由于/preposition ASD/noun 的/particle 存在/verb 使/verb PBMV/noun 操作/verb 更加/adverb 简便/adjective ，/punctuation-mark 对/preposition 两者/pronoun 同期/noun-of-locality 进行/verb 介/verb 人/noun 治疗/verb 已/adverb 有/verb 不少/numeral 成功/adjective 的/particle 病例/noun 报道/verb [9]/string 。/punctuation-mark
-经皮穿剌左房室瓣球囊成形术(PBMV)及ASD封堵技术均巳成熟，而由于ASD的存在使PBMV操作更加简便，对两者同期进行介人治疗已有不少成功的病例报道[9]。
-命名实体:
+经皮穿剌左房室瓣[[<TRE>0]](PBMV)及ASD封堵技术均巳成熟，而由于ASD的存在使PBMV操作更加简便，对两者同期进行[[<TRE>1]]已有不少成功的病例报道[9]。
+命名实体: 球囊成形术 介人治疗
 实体关系: 
 ==================================================
 6.1/numeral 病理/noun 生理/noun 改变/verb 与/conjunction 临床/verb 特点/noun
@@ -710,8 +710,8 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 6.2.3/numeral 不/adverb 合并/verb 必须/adverb 行/adjective 外科/noun 手术/verb 治疗/verb 的/particle 其他/pronoun 心脏/noun 畸形/noun 。/punctuation-mark
-6.2.3不合并必须行外科手术治疗的其他[[<SYM>0]]。
-命名实体: 心脏畸形
+6.2.3不合并必须行[[<TRE>1]]的其他[[<SYM>0]]。
+命名实体: 心脏畸形 外科手术治疗
 实体关系: 
 ==================================================
 6.3/numeral 介/verb 人/noun 治疗/verb 禁忌/noun 证/noun
@@ -730,8 +730,8 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 6.3.3/numeral 术前/noun 3/numeral 个/classifier 月/noun 内/noun-of-locality 患/verb 有/verb 严重/adjective 感染/verb 或/conjunction 合并/verb 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun 者/suffix 。/punctuation-mark
-6.3.3术前3个月内患有严重[[<DIS>0]]或合并[[<DIS>1]]者。
-命名实体: 感染 感染性心内膜炎
+6.3.3术前3个月内患有[[<DIS>1]]或合并[[<DIS>0]]者。
+命名实体: 感染性心内膜炎 严重感染
 实体关系: 
 ==================================================
 6.4/numeral 介/verb 人/noun 治疗/verb 原则/noun 与/conjunction 注意/verb 事项/noun
@@ -745,13 +745,13 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 6.4.2/numeral 当/preposition 确定/verb ASD/noun 及/conjunction 左/adjective 房室/noun 瓣/classifier 狭窄/adjective 均/adverb 有/verb 介/verb 人/noun 治疗/verb 适应/verb 证/noun 时/noun ，/punctuation-mark 方/adverb 可/verb 进行/verb 介/verb 人/noun 治疗/verb 。/punctuation-mark
-6.4.2当确定ASD及左房室瓣狭窄均有介人治疗适应证时，方可进行介人治疗。
-命名实体:
+6.4.2当确定ASD及左房室瓣狭窄均有[[<TRE>0]]适应证时，方可进行[[<TRE>0]]。
+命名实体: 介人治疗
 实体关系: 
 ==================================================
 6.4.3/numeral 先行/verb PBMV/noun 、/punctuation-mark 后/noun-of-locality 行/verb ASD/noun 封堵/verb 术/noun 。/punctuation-mark
-6.4.3先行PBMV、后行ASD封堵术。
-命名实体:
+6.4.3先行PBMV、后行[[<TRE>0]]。
+命名实体: ASD封堵术
 实体关系: 
 ==================================================
 若/verb PBMV/noun 效果/noun 不/adverb 佳/adjective 或/conjunction 并发/verb 左/adjective 房室/noun 瓣/noun 关闭/verb 不/adverb 全/adjective 时/noun ，/punctuation-mark 应/verb 放弃/verb 介/verb 人/noun 治疗/verb 。/punctuation-mark
@@ -760,23 +760,23 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 严禁/verb 只/adverb 封堵/verb ASD/noun ，/punctuation-mark 不行/adjective PBMV/noun 治疗/verb ，/punctuation-mark 以免/conjunction 导致/verb 左/adjective 房/noun 压力/noun 突然/adjective 增高/verb ，/punctuation-mark 使/verb 症状/noun 加重/verb 或/conjunction 诱发/verb 急性/distinguishing-word 肺水肿/noun 。/punctuation-mark
-严禁只封堵ASD，不行PBMV治疗，以免导致左房压力突然增高，使症状加重或诱发[[<DIS>0]]。
-命名实体: 急性肺水肿
+严禁只封堵ASD，不行[[<TRE>1]]，以免导致左房压力突然增高，使症状加重或诱发[[<DIS>0]]。
+命名实体: 急性肺水肿 PBMV治疗
 实体关系: 
 ==================================================
 6.4.4/numeral 对于/preposition 小型/distinguishing-word ASD/noun 合并/verb 左/adjective 房室/noun 瓣/classifier 狭窄/adjective 者/suffix ，/punctuation-mark 可/verb 先行/verb PBMV/noun 治疗/verb ，/punctuation-mark 暂/adverb 不/adverb 封堵/verb ASD/noun 。/punctuation-mark
-6.4.4对于小型ASD合并左房室瓣狭窄者，可先行PBMV治疗，暂不封堵ASD。
-命名实体:
+6.4.4对于小型ASD合并左房室瓣狭窄者，可先行[[<TRE>0]]，暂不封堵ASD。
+命名实体: PBMV治疗
 实体关系: 
 ==================================================
 6.4.5/numeral 对于/preposition 伴/verb 重度/distinguishing-word 肺动脉/noun 高压/noun 的/particle ASD/noun 合并/verb 左/adjective 房室/noun 瓣/classifier 狭窄/adjective 者/suffix ，/punctuation-mark 可/verb 先行/verb PBMV/noun 治疗/verb ，/punctuation-mark 待/verb 临床/verb 症状/noun 和/conjunction 血液/noun 动力学/noun 改善/verb 后/noun-of-locality ，/punctuation-mark 再/adverb 考虑/verb 行/verb ASD/noun 封堵/verb 术/noun 或/conjunction 外科/noun 手术/verb 治疗/verb (/punctuation-mark ASD/noun 无/verb 介/verb 人/noun 治疗/verb 指/verb 征/verb 者/suffix )/punctuation-mark 。/punctuation-mark
-6.4.5对于伴[[<DIS>0]]的ASD合并左房室瓣狭窄者，可先行PBMV治疗，待临床症状和血液动力学改善后，再考虑行ASD封堵术或外科手术治疗(ASD无介人治疗指征者)。
-命名实体: 重度肺动脉高压
+6.4.5对于伴[[<DIS>2]]的ASD合并左房室瓣狭窄者，可先行[[<TRE>1]]，待临床症状和血液动力学改善后，再考虑行[[<TRE>0]]或外科手术治疗(ASD无介人治疗指征者)。
+命名实体: ASD封堵术 PBMV治疗 重度肺动脉高压
 实体关系: 
 ==================================================
 6.5/numeral 左/adjective 房室/noun 瓣/classifier 球/noun 囊/noun 成/verb 形/noun 术/noun
-6.5左房室瓣球囊成形术
-命名实体:
+6.5左房室瓣[[<TRE>0]]
+命名实体: 球囊成形术
 实体关系: 
 ==================================================
 6.5.1/numeral 球/noun 囊/noun 导管/noun 目前/time-word 常用/adjective 的/particle PBMV/noun 球/noun 囊/noun 导管/noun 主要/adverb 有/verb 2/numeral 种/classifier ，/punctuation-mark 日本/noun 进口/verb 的/particle Inoue/noun 球/noun 囊/noun 导管/noun 和/conjunction 国产/distinguishing-word PBMV/noun 球/noun 囊/noun 导管/noun 。/punctuation-mark
@@ -885,8 +885,8 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 预防/verb ：/punctuation-mark ①/numeral 术前/noun 仔细/adjective 检查/verb 心脏/noun 超声/noun ，/punctuation-mark 以/preposition 除外/verb 左/noun-of-locality 房/noun 血栓/noun ；/punctuation-mark ②/numeral 对/preposition 合并/verb 心房/noun 颤动/verb 患者/noun ，/punctuation-mark 用/preposition 华法/noun 林抗凝/noun 4/numeral ~/punctuation-mark 6/numeral 周/classifier ，/punctuation-mark 而后/adverb 再行/adverb PBMV/noun 治疗/verb ；/punctuation-mark ③/numeral PBMV/noun 操作/verb 时/noun 尽量/adverb 使/verb 球/noun 囊/noun 远离/verb 左/adjective 心/noun 耳/noun ;/punctuation-mark ④/numeral 术中/noun 充分/adjective 抗/verb 凝/verb 和/conjunction 排/verb 尽/verb 气体/noun 。/punctuation-mark
-预防：①术前仔细检查心脏超声，以除外左房血栓；②对合并[[<DIS><SYM>0]]患者，用[[<MED>1]]抗凝4~6周，而后再行PBMV治疗；③PBMV操作时尽量使球囊远离左心耳;④术中充分抗凝和排尽气体。
-命名实体: 心房颤动 华法林
+预防：①术前仔细检查心脏超声，以除外左房血栓；②对合并[[<DIS><SYM>0]]患者，用[[<MED>1]]抗凝4~6周，而后再行[[<TRE>2]]；③PBMV操作时尽量使球囊远离左心耳;④术中充分抗凝和排尽气体。
+命名实体: 心房颤动 华法林 PBMV治疗
 实体关系: 
 ==================================================
 6.5.4.3/numeral 急性/distinguishing-word 心脏/noun 压/verb 塞/verb ：/punctuation-mark 多/numeral 由于/conjunction 穿/verb 剌/verb 房间/noun 隔/verb 或/conjunction 球/noun 囊/noun 操作/verb 过程/noun 中/noun-of-locality 剌/verb 破/verb 左/adjective 房/noun 壁/noun 所/particle 致/verb ，/punctuation-mark 国内/locative-word 报道/verb 发生率/noun 为/preposition 0.25%/numeral ~/punctuation-mark 1.71%/numeral 不等/verb 。/punctuation-mark
@@ -905,8 +905,8 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 一旦/adverb 发生/verb 重度/distinguishing-word 左/adjective 房室/noun 瓣/noun 关闭/verb 不/adverb 全/adverb 应/verb 尽早/adverb 行/adjective 心脏/noun 瓣膜/noun 置换/verb 术/noun 。/punctuation-mark
-一旦发生重度左房室瓣关闭不全应尽早行心脏瓣膜置换术。
-命名实体:
+一旦发生重度左房室瓣关闭不全应尽早行[[<TRE>0]]。
+命名实体: 心脏瓣膜置换术
 实体关系: 
 ==================================================
 6.6/numeral 术/noun 后/noun-of-locality 处理/verb 与/preposition 疗效/noun 判定/verb
@@ -920,8 +920,8 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 6.6.2/numeral 左/adjective 房室/noun 瓣/classifier 球/noun 囊/noun 成/verb 形/noun 术/noun 及/conjunction ASD/noun 封堵/verb 术/noun 的/particle 疗效/noun 判定/verb 均/adverb 依赖/verb 心脏/noun 超声/noun 检查/verb ，/punctuation-mark 术/noun 后/noun-of-locality 应/verb 加强/verb 随访/verb 观察/verb 。/punctuation-mark
-6.6.2左房室瓣球囊成形术及ASD封堵术的疗效判定均依赖心脏超声检查，术后应加强随访观察。
-命名实体:
+6.6.2左房室瓣[[<TRE>0]]及ASD封堵术的疗效判定均依赖心脏超声检查，术后应加强随访观察。
+命名实体: 球囊成形术
 实体关系: 
 ==================================================
 7/numeral 主动脉/noun 缩/verb 窄/adjective 合并/verb PDA/noun 的/particle 介入/verb 治疗/verb
@@ -970,8 +970,8 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 目前/time-word ，/punctuation-mark 主动脉/noun 缩/verb 窄/adjective 合并/verb PDA/noun 的/particle 介/verb 人/noun 治疗/verb 方法/noun 主要/adverb 有/verb 2/numeral 种/classifier ：/punctuation-mark 主动脉/noun 覆/verb 膜/noun 支架/noun 置/verb 人/noun 术/noun 及/conjunction 主动脉/noun 球/noun 囊/noun 成/verb 形/noun 术/noun +PDA/noun 封堵/verb 术/noun 。/punctuation-mark
-目前，[[<DIS>0]]合并PDA的介人治疗方法主要有2种：主动脉覆膜支架置人术及主动脉球囊成形术+PDA封堵术。
-命名实体: 主动脉缩窄
+目前，[[<DIS>0]]合并PDA的介人治疗方法主要有2种：主动脉覆膜支架置人术及主动脉[[<TRE>1]]+PDA封堵术。
+命名实体: 主动脉缩窄 球囊成形术
 实体关系: 
 ==================================================
 7.2.1/numeral 主动脉/noun 覆/verb 膜/noun 支架/noun 置/verb 人/noun 术/noun
@@ -985,8 +985,8 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 7.2.1.2/numeral 禁忌/noun 证/noun ：/punctuation-mark ①/numeral 缩/verb 窄/adjective 段/classifier 主动脉/noun 最/adverb 窄/adjective 处/noun 内径/noun 不足/verb 缩/verb 窄/adjective 近/adjective 端/verb 正常/adjective 主动脉/noun 内径/noun 的/particle 1/numeral //punctuation-mark 3/numeral ;/punctuation-mark ②/numeral 缩/verb 窄/adjective 段/classifier 主动脉/noun 有/verb 重要/adjective 血管/noun 分支/noun 者/suffix ;/punctuation-mark ③/numeral 年龄/noun </punctuation-mark 10/numeral 岁/classifier 的/particle 儿童/noun 患者/noun ；/punctuation-mark ④/numeral 近期/time-word 内/noun-of-locality 有/verb 严重/adjective 感染/verb 或/conjunction 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun 者/suffix 。/punctuation-mark
-7.2.1.2禁忌证：①缩窄段主动脉最窄处内径不足缩窄近端正常主动脉内径的1/3;②缩窄段主动脉有重要血管分支者;③年龄<10岁的儿童患者；④近期内有严重[[<DIS>0]]或[[<DIS>1]]者。
-命名实体: 感染 感染性心内膜炎
+7.2.1.2禁忌证：①缩窄段主动脉最窄处内径不足缩窄近端正常主动脉内径的1/3;②缩窄段主动脉有重要血管分支者;③年龄<10岁的儿童患者；④近期内有[[<DIS>1]]或[[<DIS>0]]者。
+命名实体: 感染性心内膜炎 严重感染
 实体关系: 
 ==================================================
 7.2.1.3/numeral 主要/distinguishing-word 器材/noun ：/punctuation-mark BIB/noun (/punctuation-mark balloon/noun in/preposition balloon/noun )/punctuation-mark 球/noun 囊/noun 及/conjunction CP/noun 覆/verb 膜/noun 支架/noun 。/punctuation-mark
@@ -1010,8 +1010,8 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 7.2.2/numeral 主动脉/noun 球/noun 囊/noun 成/verb 形/noun 术/noun +PDA/noun 封堵/verb 术/noun
-7.2.2主动脉球囊成形术+PDA封堵术
-命名实体:
+7.2.2主动脉[[<TRE>0]]+PDA封堵术
+命名实体: 球囊成形术
 实体关系: 
 ==================================================
 7.2.2.1/numeral 适应/verb 证/noun ：/punctuation-mark 主要/adverb 用于/verb 年龄/noun </punctuation-mark 10/numeral 岁/classifier 、/punctuation-mark 体重/noun ≤/numeral 25kg/noun 的/particle 患儿/noun ，/punctuation-mark 但/conjunction 一般/adjective 要求/verb 年龄/noun ≥/numeral 2/numeral 岁/classifier 、/punctuation-mark 体重/noun ≥/numeral 10kg/noun (/punctuation-mark 年龄/noun 过/particle 小/adjective 、/punctuation-mark 体重/noun 过/particle 轻/adjective 者/suffix 易/adjective 发生/verb 并发症/noun 及/conjunction 术/noun 后/noun-of-locality 再/adverb 缩/verb 窄/adjective )/punctuation-mark 。/punctuation-mark
@@ -1030,13 +1030,13 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 7.2.2.3/numeral 操作/verb 方法/noun ：/punctuation-mark 一般/adjective 选择/verb 分期/adverb 手术/verb ，/punctuation-mark 先行/verb 主动脉/noun 球/noun 囊/noun 成/verb 形/noun 术/noun ，/punctuation-mark 再/adverb 择/verb 期/classifier 行/noun PDA/noun 封堵/verb 术/noun 。/punctuation-mark
-7.2.2.3操作方法：一般选择分期手术，先行主动脉球囊成形术，再择期行PDA封堵术。
-命名实体:
+7.2.2.3操作方法：一般选择分期手术，先行主动脉[[<TRE>0]]，再择期行[[<TRE>1]]。
+命名实体: 球囊成形术 PDA封堵术
 实体关系: 
 ==================================================
 具体/adjective 步骤/noun 如下/verb ：/punctuation-mark ①/numeral 先行/verb 主动脉/noun 弓/noun 部/classifier 造影/verb ，/punctuation-mark 确定/verb 主动脉/noun 缩/verb 窄/adjective 的/particle 部位/noun 、/punctuation-mark 形状/noun 、/punctuation-mark 缩/verb 窄/adjective 程度/noun 、/punctuation-mark 病变/verb 远近/noun 端/verb 主动脉/noun 内径/noun 等/particle ，/punctuation-mark 并/conjunction 以此/adverb 选择/verb 合适/adjective 的/particle 球/noun 囊/noun 导管/noun (/punctuation-mark 球/noun 囊/noun 直径/noun 与/conjunction 主动脉/noun 峡/noun 部/classifier 直径/noun 相等/verb 或/conjunction 略/adverb 大/adjective ，/punctuation-mark 但/conjunction 一般/adjective 不/adverb 超过/verb 膈/punctuation-mark 肌/noun 水平/noun 主动脉/noun 直径/noun )/punctuation-mark ；/punctuation-mark ②/numeral 经/preposition 鞘/punctuation-mark 管/verb 放/verb 人/noun 球/noun 囊/noun 导管/noun ，/punctuation-mark 并/conjunction 送/verb 人/noun 于/preposition 主动脉/noun 缩/verb 窄/adjective 处/noun ；/punctuation-mark ③/numeral 用/preposition 压力/noun 泵/noun 充盈/verb 球/noun 囊/noun ，/punctuation-mark 扩张/verb 主动脉/noun 缩/verb 窄/adjective 段/classifier ;/punctuation-mark ④/numeral 重复/verb 造影/verb 及/conjunction 测/verb 压/verb ，/punctuation-mark 如/verb 效果/noun 不/adverb 满意/verb ，/punctuation-mark 可以/verb 重复/verb 扩张/verb ；/punctuation-mark ⑤/numeral 主动脉/noun 球/noun 囊/noun 成/verb 形/noun 术/noun 后/noun-of-locality 3/numeral ~/punctuation-mark 6/numeral 个/classifier 月/noun 重复/verb 主动脉/noun 弓/noun 部/classifier 造影/verb 及/conjunction 测/verb 压/verb ，/punctuation-mark 根据/preposition 结果/noun 确定/verb 是否/verb 行/verb PDA/noun 封堵/verb 术/noun 。/punctuation-mark
-具体步骤如下：①先行主动脉弓部造影，确定[[<DIS>0]]的部位、形状、缩窄程度、病变远近端主动脉内径等，并以此选择合适的球囊导管(球囊直径与主动脉峡部直径相等或略大，但一般不超过膈肌水平主动脉直径)；②经鞘管放人球囊导管，并送人于[[<DIS>0]]处；③用压力泵充盈球囊，扩张[[<DIS>0]]段;④重复造影及测压，如效果不满意，可以重复扩张；⑤主动脉球囊成形术后3~6个月重复主动脉弓部造影及测压，根据结果确定是否行PDA封堵术。
-命名实体: 主动脉缩窄
+具体步骤如下：①先行主动脉弓部造影，确定[[<DIS>0]]的部位、形状、缩窄程度、病变远近端主动脉内径等，并以此选择合适的球囊导管(球囊直径与主动脉峡部直径相等或略大，但一般不超过膈肌水平主动脉直径)；②经鞘管放人球囊导管，并送人于[[<DIS>0]]处；③用压力泵充盈球囊，扩张[[<DIS>0]]段;④重复造影及测压，如效果不满意，可以重复扩张；⑤主动脉[[<TRE>1]]后3~6个月重复主动脉弓部造影及测压，根据结果确定是否行[[<TRE>2]]。
+命名实体: 主动脉缩窄 球囊成形术 PDA封堵术
 实体关系: 
 ==================================================
 7.2.2.4/numeral 特点/noun ①/numeral 虽然/conjunction 需要/verb 通过/preposition 股/noun 动脉/noun 及/conjunction 股/noun 静脉/noun 两/numeral 个/classifier 独立/adjective 操作/verb 过程/noun ，/punctuation-mark 但/conjunction 其/pronoun 创伤/noun 也/adverb 远/adjective 较/adverb 外科/noun 手术/noun 小/adjective ；/None /punctuation-mark ②/numeral 术/noun 后/noun-of-locality 再/adverb 狭窄/adjective 发生率/noun 高/adjective ，/punctuation-mark 尤其/adverb 是/verb 2/numeral 岁/classifier 以下/noun-of-locality 婴幼儿/noun ，/punctuation-mark 发生率/noun 可/verb 高/adjective 达/verb 35%/numeral ~/punctuation-mark 55%/numeral ；/punctuation-mark ③/numeral 易/adjective 发生/verb 主动脉/noun 夹层/noun 或/conjunction 动脉瘤/noun 形成/verb ，/punctuation-mark 发生率/noun 为/preposition 5%/numeral ~/punctuation-mark 12%/numeral 。/punctuation-mark
@@ -1065,8 +1065,8 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 实体关系: 
 ==================================================
 7.3.4/numeral 对于/preposition 年龄/noun 较/adverb 小/adjective 、/punctuation-mark 体重/noun 较/adverb 轻/adjective 患者/noun ，/punctuation-mark 若/conjunction 主动脉/noun 球/noun 囊/noun 成/verb 形/noun 术/noun 后/noun-of-locality 发生/verb 主动脉/noun 夹层/noun 者/suffix ，/punctuation-mark 可以/verb 置/verb 人/noun “/punctuation-mark 裸/adjective 支架/noun ”/punctuation-mark (/punctuation-mark 适合/verb 于/preposition 股/noun 动脉/noun 相对/adverb 较/adverb 细/adjective 者/suffix )/punctuation-mark ，/punctuation-mark 且/conjunction 暂/adverb 不/adverb 封堵/verb PDA/noun ，/punctuation-mark 待/verb 3/numeral ~/punctuation-mark 6/numeral 个/classifier 月/noun 后/noun-of-locality 再/adverb 酌情/adverb 考虑/verb 行/verb PDA/noun 封堵/verb 术/noun 。/punctuation-mark
-7.3.4对于年龄较小、体重较轻患者，若主动脉球囊成形术后发生[[<DIS>0]]者，可以置人“裸支架”(适合于股动脉相对较细者)，且暂不封堵PDA，待3~6个月后再酌情考虑行PDA封堵术。
-命名实体: 主动脉夹层
+7.3.4对于年龄较小、体重较轻患者，若主动脉[[<TRE>1]]后发生[[<DIS>0]]者，可以置人“裸支架”(适合于股动脉相对较细者)，且暂不封堵PDA，待3~6个月后再酌情考虑行[[<TRE>2]]。
+命名实体: 主动脉夹层 球囊成形术 PDA封堵术
 实体关系: 
 ==================================================
 7.4/numeral 术/noun 后/noun-of-locality 处理/verb 与/preposition 疗效/noun 判定/verb

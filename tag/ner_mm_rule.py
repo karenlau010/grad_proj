@@ -281,6 +281,7 @@ def ner_rule():
                         print ' '.join(y.encode('UTF-8') for y in ret_list)
                         if sub_str == u':':
                             for ret in ret_list:
+                                #print pat_str.encode('UTF-8')
                                 old_ne_pat = re.findall(ur'\[\[.{0,5}<[A-Z]{3}>.{0,5}\d+\]\]', ret)
                                 old_ne_pat = list(set(old_ne_pat)) #remove the duplication
                                 if len(old_ne_pat) > 0:

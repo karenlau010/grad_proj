@@ -80,8 +80,8 @@ HOPE研究似提示有此可能。
 命名实体: 
 ==================================================
 在/preposition 选择/verb 过程/noun 中/noun-of-locality ，/punctuation-mark 还/adverb 应该/verb 考虑/verb 患者/noun 靶/classifier 器官/noun 受损/verb 情况/noun 和/conjunction 有/verb 无/verb 糖尿病/noun 、/punctuation-mark 血脂/noun 、/punctuation-mark 尿酸/noun 等/particle 代谢/verb 异常/adjective ，/punctuation-mark 以及/conjunction 降压/verb 药/noun 与/preposition 其它/pronoun 使用/verb 药物/noun 之间/noun-of-locality 的/particle 相互作用/noun 。/punctuation-mark
-在选择过程中，还应该考虑患者靶器官受损情况和有无[[<DIS>0]]、[[<DIS>1]]、尿酸等代谢异常，以及降压药与其它使用药物之间的相互作用。
-命名实体: 糖尿病 血脂
+在选择过程中，还应该考虑患者靶器官受损情况和有无[[<DIS>0]]、[[<DIS>1]]、[[<DIS>2]]等代谢异常，以及降压药与其它使用药物之间的相互作用。
+命名实体: 糖尿病 血脂 尿酸
 ==================================================
 另外/conjunction 影响/verb 降压/verb 药/noun 选择/verb 的/particle 重要/adjective 因素/noun 是/verb 患者/noun 的/particle 经济/noun 承受/verb 能力/noun 和/conjunction 药物/noun 的/particle 供应/verb 状况/noun ，/punctuation-mark 就/preposition 目前/time-word 我国/noun 的/particle 医疗/noun 经济/noun 现状/noun 和/conjunction 较/adverb 低/adjective 的/particle 治疗/verb 率/verb 而言/particle ，/punctuation-mark 尽可能/adverb 在/preposition 一般/adjective 高血压/noun 患者/noun 中/noun-of-locality 推荐/verb 使用/verb 价/noun 廉/adjective 的/particle 降压/verb 药物/noun ，/punctuation-mark 首先/adverb 提高/verb 治疗/verb 率/verb ，/punctuation-mark 然后/conjunction 在/preposition 此/pronoun 基础/noun 上/noun-of-locality 逐步/adverb 提高/verb 控制/verb 率/verb 。/punctuation-mark
 另外影响降压药选择的重要因素是患者的经济承受能力和药物的供应状况，就目前我国的医疗经济现状和较低的治疗率而言，尽可能在一般[[<DIS>0]]患者中推荐使用价廉的降压药物，首先提高治疗率，然后在此基础上逐步提高控制率。
@@ -212,8 +212,8 @@ HOPE研究似提示有此可能。
 命名实体: 
 ==================================================
 1959年/time-word 以来/noun-of-locality 我国/noun 自行/adverb 研制/verb 生产/verb 了/particle 多种/numeral 复方/distinguishing-word 制剂/noun ，/punctuation-mark 如/verb 复方/distinguishing-word 降压片/noun 、/punctuation-mark 降压/verb 静/adjective 、/punctuation-mark 降压/verb 0/numeral 号/classifier 等等/particle ，/punctuation-mark 多/adjective 采纳/verb 六七十/numeral 年代/noun 阶梯/noun 治疗/verb 药物/noun ，/punctuation-mark 以/preposition 利血平/noun 、/punctuation-mark 血压/noun 达/verb 静/adjective 、/punctuation-mark 双/numeral 氢/noun 克/classifier 尿/noun 噻/punctuation-mark 为/preposition 核心/noun 。/punctuation-mark
-1959年以来我国自行研制生产了多种复方制剂，如复方[[<MED>0]]、[[<MED>3]]、[[<MED>1]]等等，多采纳六七十年代阶梯治疗药物，以[[<MED>2]]、[[<MED>4]]、双氢克尿噻为核心。
-命名实体: 降压片 降压0号 利血平 降压静 血压达静
+1959年以来我国自行研制生产了多种复方制剂，如复方[[<MED>0]]、[[<MED>3]]、[[<MED>1]]等等，多采纳六七十年代阶梯治疗药物，以[[<MED>2]]、[[<MED>4]]、[[<MED>5]]为核心。
+命名实体: 降压片 降压0号 利血平 降压静 血压达静 双氢克尿噻
 ==================================================
 因/preposition 其/pronoun 降压/verb 有/verb 一定/distinguishing-word 效果/noun ，/punctuation-mark 服用/verb 方便/verb 且/conjunction 价格/noun 低廉/adjective ，/punctuation-mark 在/preposition 各/pronoun 医疗/noun 单位/noun ，/punctuation-mark 尤其/adverb 人群/noun 防治/verb 中/noun-of-locality 已/adverb 广泛/adjective 应用/verb 多/numeral 年/classifier ，/punctuation-mark 面对/verb 八十/numeral 年代/noun 以来/noun-of-locality 新药/noun 的/particle 不断/adverb 涌现/verb ，/punctuation-mark 我国/noun 对/preposition 新/adjective 的/particle 复方/distinguishing-word 降压/verb 药/noun 亟待/verb 加以/verb 研究/verb 以/preposition 适应/verb 新/adjective 形势/noun 的/particle 需要/noun 。/punctuation-mark
 因其降压有一定效果，服用方便且价格低廉，在各医疗单位，尤其人群防治中已广泛应用多年，面对八十年代以来新药的不断涌现，我国对新的复方降压药亟待加以研究以适应新形势的需要。
@@ -232,8 +232,8 @@ HOPE研究似提示有此可能。
 命名实体: 糖尿病 高胆固醇血症 冠心病 脑血管病
 ==================================================
 5.4.6.1/numeral 抗/verb 血小板/noun 治疗/verb ：/punctuation-mark 阿司匹林/noun 或/conjunction 其他/pronoun 抗/verb 血小板/noun 药物/noun 的/particle 应用/verb 己/pronoun 被/preposition 证明/verb 可/verb 减少/verb 冠心病/noun 和/conjunction 脑血管/noun 病人/noun 的/particle 致死/verb 性/noun 和/conjunction 非/distinguishing-word 致死/verb 性/noun 冠心病/noun 事件/noun 、/punctuation-mark 脑/noun 卒/adverb 中和/verb 心血管/noun 病/noun 死亡/verb 的/particle 危险/adjective 。/punctuation-mark
-5.4.6.1抗[[<MED>0]]治疗：[[<MED>1]]或其他抗[[<MED>0]]药物的应用己被证明可减少[[<DIS>2]]和[[<DIS>3]]人的致死性和非致死性[[<DIS>2]]事件、[[<DIS>4]]和心血管病死亡的危险。
-命名实体: 血小板 阿司匹林 冠心病 脑血管病 脑卒中
+5.4.6.1抗[[<MED>0]]治疗：[[<MED>1]]或其他[[<MED>5]]的应用己被证明可减少[[<DIS>2]]和[[<DIS>3]]人的致死性和非致死性[[<DIS>2]]事件、[[<DIS>4]]和心血管病死亡的危险。
+命名实体: 血小板 阿司匹林 冠心病 脑血管病 脑卒中 抗血小板药物
 ==================================================
 根据/preposition HOT/adjective 研究/verb ，/punctuation-mark 如果/conjunction 血压/noun 己/pronoun 得到/verb 严格/adjective 的/particle 控制/verb ，/punctuation-mark 或者/conjunction 是/verb 高危/distinguishing-word 冠心病/noun 的/particle 高血压/noun 病人/noun ，/punctuation-mark 且/conjunction 没有/verb 胃肠/noun 道/noun 和/conjunction 其他/pronoun 部位/noun 出血/verb 危险/adjective ，/punctuation-mark 可/conjunction 推荐/verb 较/adverb 小/adjective 剂量/noun 的/particle 阿司匹林/noun 治疗/verb 。/punctuation-mark
 根据HOT研究，如果血压己得到严格的控制，或者是高危[[<DIS>0]]的[[<DIS>1]]人，且没有胃肠道和其他部位[[<DIS><SYM>2]]危险，可推荐较小剂量的[[<MED>3]]治疗。
@@ -248,8 +248,8 @@ HOPE研究似提示有此可能。
 命名实体: 
 ==================================================
 改善/verb 生活/verb 方式/noun 应/verb 是/verb 首要/distinguishing-word 者/suffix ：/punctuation-mark 减少/verb 饱和/verb 脂肪酸/noun 、/punctuation-mark 胆固醇/noun 、/punctuation-mark 食盐/noun 、/punctuation-mark 酒精/noun 摄入/verb 、/punctuation-mark 减轻/verb 体重/noun 、/punctuation-mark 加强/verb 身体/noun 锻炼/verb 。/punctuation-mark
-改善生活方式应是首要者：减少饱和脂肪酸、[[<DIS>0]]、[[<DIS>1]]、酒精摄入、减轻体重、加强身体锻炼。
-命名实体: 胆固醇 食盐
+改善生活方式应是首要者：减少饱和脂肪酸、[[<DIS>0]]、[[<DIS>1]]、[[<DIS>2]]、减轻体重、加强身体锻炼。
+命名实体: 胆固醇 食盐 酒精摄入
 ==================================================
 避免/verb 使用/verb 可/verb 影响/verb 血脂/noun 的/particle 降压/verb 药/noun 。/punctuation-mark
 避免使用可影响血脂的降压药。
@@ -264,8 +264,8 @@ HOPE研究似提示有此可能。
 命名实体: 甘油 胆固醇 猝死 心肌梗死 β-阻滞剂
 ==================================================
 影响/verb 血脂/noun 比较/adverb 小/adjective 者/suffix 有/verb ：/punctuation-mark 钙/noun 拮/punctuation-mark 抗/verb 剂/noun 、/punctuation-mark ACEI/noun 血管/noun 紧张/adjective 素/adjective 受体/noun 拮/punctuation-mark 抗/verb 剂/noun 、/punctuation-mark α/punctuation-mark -/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 和/conjunction 咪/noun 唑/noun 啉/noun 受体/noun 激动/adjective 剂/classifier 等/particle 。/punctuation-mark
-影响血脂比较小者有：[[<MED>2]]、ACEI血管[[<SYM>0]]素受体拮抗剂、[[<MED>1]]和咪唑啉受体激动剂等。
-命名实体: 紧张 α-受体阻滞剂 钙拮抗剂
+影响血脂比较小者有：[[<MED>2]]、ACEI血管[[<SYM>0]]素受体拮抗剂、[[<MED>1]]和[[<MED>3]]等。
+命名实体: 紧张 α-受体阻滞剂 钙拮抗剂 咪唑啉受体激动剂
 ==================================================
 经/preposition 饮食/noun 调控/verb 后/noun-of-locality ，/punctuation-mark 胆固醇/noun 仍/adverb 增高/verb 者/suffix ，/punctuation-mark 首选/verb HMG/noun -/punctuation-mark CoA/noun 还原/verb 酶/noun 抑/verb 制剂/noun (/punctuation-mark 他汀类/noun )/punctuation-mark 治疗/verb ，/punctuation-mark 随着/preposition 低/adjective 密度/noun 脂/punctuation-mark 蛋白/noun 胆固醇/noun 的/particle 降低/verb ，/punctuation-mark 有/verb 防治/verb 冠心病/noun 的/particle 作用/noun 。/punctuation-mark
 经饮食调控后，[[<DIS>0]]仍增高者，首选HMG-CoA还原酶抑制剂(他汀类)治疗，随着低密度脂蛋白[[<DIS>0]]的降低，有防治[[<DIS>1]]的作用。
@@ -320,8 +320,8 @@ HOPE研究似提示有此可能。
 命名实体: 
 ==================================================
 尤其/adverb 是/verb 认真/adjective 地/particle 进行/verb 着/particle 非/distinguishing-word 药物/noun 治疗/verb ，/punctuation-mark 密切/adjective 地/particle 观察/verb 着/particle 改进/verb 生活/verb 方式/noun 进度/noun 和/conjunction 效果/noun 的/particle 病人/noun 。/punctuation-mark
-尤其是认真地进行着非药物治疗，密切地观察着改进生活方式进度和效果的病人。
-命名实体: 
+尤其是认真地进行[[<TRE>0]]，密切地观察着改进生活方式进度和效果的病人。
+命名实体: 着非药物治疗
 ==================================================
 病人/noun 在/preposition 试行/verb 这种/pronoun “/punctuation-mark 逐步/adverb 减/verb 药/noun ”/punctuation-mark 时/noun ，/punctuation-mark 应/verb 十分/adverb 仔细/adjective 地/particle 监测/verb 血压/noun 。/punctuation-mark
 病人在试行这种“逐步减药”时，应十分仔细地监测血压。
@@ -404,8 +404,8 @@ HYVET所研究者为≥ 80岁，应用的药物为ACE-I及[[<MED>0]]，目前研
 命名实体: 利尿剂
 ==================================================
 尚/adverb 缺乏/verb 直接/adjective 资料/noun 说明/verb 降低/verb 血压/noun 对/preposition 高龄/noun 老人/noun 的/particle 影响/verb ，/punctuation-mark 不同/adjective 的/particle 血压/noun 水平/noun 对/preposition 他们/pronoun 的/particle 预后/noun 意义/noun 亦/adverb 未/adverb 明了/verb ，/punctuation-mark 高龄/noun 老人/noun 进行/verb 降压/verb 治疗/verb 是否/verb 同样/adverb 得益/verb ？/punctuation-mark 抗/verb 高血压/noun 治疗/verb 对/preposition 高龄/noun 老人/noun 的/particle 意义/noun 如何/pronoun ？/punctuation-mark 尚/adverb 有待/verb 研究/verb 。/punctuation-mark
-尚缺乏直接资料说明降[[<DIS><SYM>0]]对高龄老人的影响，不同的血压水平对他们的预后意义亦未明了，高龄老人进行降压治疗是否同样得益？抗[[<DIS>1]]治疗对高龄老人的意义如何？尚有待研究。
-命名实体: 低血压 高血压
+尚缺乏直接资料说明降[[<DIS><SYM>0]]对高龄老人的影响，不同的血压水平对他们的预后意义亦未明了，高龄老人进行[[<TRE>2]]是否同样得益？抗[[<DIS>1]]治疗对高龄老人的意义如何？尚有待研究。
+命名实体: 低血压 高血压 降压治疗
 ==================================================
 6.2/numeral 妊娠/verb 高血压/noun ：/punctuation-mark
 6.2[[<DIS>0]]：
@@ -692,8 +692,8 @@ EF值低于正常，病人有左、右[[<DIS>0]]的症状及体征。
 命名实体: 
 ==================================================
 血压/noun 超过/verb 140/numeral //punctuation-mark 90mm/noun Hg/noun 在/preposition 非/distinguishing-word 药物/noun 治疗/verb 的/particle 基础/noun 上/noun-of-locality 给予/verb 降压/verb 药物/noun 治疗/verb ，/punctuation-mark 希望/verb 能/verb 下降/verb 到/verb 130/numeral //punctuation-mark 85mmHg/noun 以下/noun-of-locality 。/punctuation-mark
-血压超过140/90mm Hg在非药物治疗的基础上给予降压药物治疗，希望能下降到130/85mmHg以下。
-命名实体: 
+血压超过140/90mm Hg在非药物治疗的基础上给予[[<TRE>0]]，希望能下降到130/85mmHg以下。
+命名实体: 降压药物治疗
 ==================================================
 糖尿病/noun 患者/noun 常/adverb 合并/verb 性/noun 功能/noun 不/adverb 全/adjective 、/punctuation-mark 血脂/noun 异常/adjective 、/punctuation-mark 位置/noun 性/noun 低血压/noun 、/punctuation-mark 肾/noun 功能/noun 不/adverb 全/adjective 、/punctuation-mark 冠心病/noun 和/conjunction 胰岛素/noun 抵抗/verb 。/punctuation-mark
 [[<DIS>0]]患者常合并性功能不全、[[<DIS><SYM>1]]、位置性[[<DIS><SYM>2]]、[[<DIS>3]]、[[<DIS>4]]和[[<MED>5]]抵抗。

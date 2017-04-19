@@ -116,3 +116,6 @@ Cox倡导的迷宫手术能够成功地治疗[[<DIS><SYM>0]]，支持这一概�
 
 临床试验表明：(1)I类AAD不能用于室性心律失常的远期防治。
 临床试验表明：(1)I类AAD不能用于[[<DIS>0]]的远期防治。
+
+心/noun 电/noun 监测/verb 可见/verb 房/noun 性/suffix 或/conjunction 室/noun 性/suffix 早/adjective 搏/verb 甚至/adverb 心动/verb 过速/adjective 。/punctuation-mark
+[[<TRE>0]]可见房性或[[<DIS><SYM>1]]甚至[[<DIS><SYM>2]]。

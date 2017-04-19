@@ -84,8 +84,8 @@
 命名实体: 感染性心内膜炎
 ==================================================
 1.3.2/numeral 严重/adjective 肺动脉/noun 高压/noun 出现/verb 右/noun-of-locality 向/preposition 左/noun-of-locality 分流/verb ，/punctuation-mark 肺/noun 总/distinguishing-word 阻力/noun >/punctuation-mark 14wood/noun 单位/noun 。/punctuation-mark
-1.3.2严重[[<DIS>0]]出现右向左分流，肺总阻力>14wood单位。
-命名实体: 肺动脉高压
+1.3.2[[<DIS>0]]出现右向左分流，肺总阻力>14wood单位。
+命名实体: 严重肺动脉高压
 ==================================================
 1.3.3/numeral 合并/verb 需/verb 外科/noun 手术/verb 矫治/verb 的/particle 心/noun 内/noun-of-locality 畸形/noun 。/punctuation-mark
 1.3.3合并需外科手术矫治的心内畸形。
@@ -184,8 +184,8 @@ Amplatzer封堵器主动脉侧直径大于肺动脉侧2mm，长度有5、7和8mm
 命名实体: 
 ==================================================
 造影/verb 吃/verb 成人/noun 动脉/noun 导管/noun 由于/conjunction 钙化/verb 、/punctuation-mark 短/adjective 缩/verb ，/punctuation-mark 在/preposition 此/pronoun 位置/noun 不/adverb 能/verb 清楚/adjective 显示/verb 时/noun 可/verb 加大/verb 左侧/noun-of-locality 位/classifier 角度/noun 至/preposition 100/numeral 。/punctuation-mark
-造影吃成人动脉导管由于[[<SYM>0]]、短缩，在此位置不能清楚显示时可加大左侧位角度至100。
-命名实体: 钙化
+造影吃成人动脉导管由于[[<SYM>0]]、[[<SYM>1]]，在此位置不能清楚显示时可加大左侧位角度至100。
+命名实体: 钙化 短缩
 ==================================================
 ~/punctuation-mark 110/numeral 。/punctuation-mark
 ~110。
@@ -272,16 +272,16 @@ Amplatzer封堵器主动脉侧直径大于肺动脉侧2mm，长度有5、7和8mm
 命名实体: 重度肺动脉高压
 ==================================================
 正确/adjective 判断/verb 肺/noun 血管/noun 病变/verb 的/particle 类型/noun 是/verb 手术/noun 成功/adjective 的/particle 关键/noun 。/punctuation-mark
-正确判断[[<DIS>0]]变的类型是手术成功的关键。
-命名实体: 肺血管病
+正确判断[[<DIS>0]]的类型是手术成功的关键。
+命名实体: 肺血管病变
 ==================================================
 当/preposition 患者/noun 心/noun 导管/noun 检查/verb Qp/Qs/string >/punctuation-mark 1.5/numeral 、/punctuation-mark 股/noun 动脉血/noun 氧/noun 饱和度/noun >/punctuation-mark 90%/numeral ，/punctuation-mark 可/conjunction 考虑/verb 拟/verb 行介人/noun 治疗/verb 。/punctuation-mark
-当患者心导管检查Qp/Qs>1.5、股动脉血氧饱和度>90%，可考虑拟行介人治疗。
-命名实体: 
+当患者心导管检查Qp/Qs>1.5、股动脉血氧饱和度>90%，可考虑拟行[[<TRE>0]]。
+命名实体: 介人治疗
 ==================================================
 可/conjunction 先/adverb 作/verb 试验/verb 性/noun 封堵/verb ，/punctuation-mark 并/conjunction 严密/adjective 监测/verb 肺动脉/noun 、/punctuation-mark 主动脉/noun 压力/noun 和/conjunction 动脉血/noun 氧/noun 饱和度/noun 的/particle 变化/verb ，/punctuation-mark 如/verb 肺动脉/noun 收缩/verb 压/verb 或/conjunction 平均/adjective 压/verb 降低/verb 20%/numeral 或/conjunction 30mmHg/noun 以上/noun-of-locality ，/punctuation-mark 肺/noun 小/adjective 血管/noun 阻力/noun 下降/verb ，/punctuation-mark 而/conjunction 主动脉/noun 压力/noun 和/conjunction 动脉血/noun 氧/noun 饱和度/noun 无/verb 下降/verb 或/conjunction 上升/verb ，/punctuation-mark 且/conjunction 无/verb 全身/noun 反应/verb ，/punctuation-mark 主动脉/noun 造影/verb 证实/verb 封堵/verb 器/noun 位置/noun 合适/adjective ，/punctuation-mark 无/verb 对比/verb 剂/classifier 分流/verb ，/punctuation-mark 可/verb 进行/verb 永久/adverb 封堵/verb ；/punctuation-mark 如/verb 肺动脉/noun 压力/noun 升高/verb 或/conjunction 主动脉/noun 压力/noun 下降/verb ，/punctuation-mark 患者/noun 出现/verb 心悸/verb 气/noun 短/adjective 、/punctuation-mark 心/noun 前/noun-of-locality 区/noun 不适/adjective 、/punctuation-mark 烦躁/adjective 、/punctuation-mark 血压/noun 下降/verb 等/particle 明显/adjective 的/particle 全身/noun 反应/verb 时/noun ，/punctuation-mark 应/verb 立即/adverb 收回/verb 封堵/verb 器/noun ，/punctuation-mark 并/conjunction 对/preposition 症/suffix 处理/verb 。/punctuation-mark
-可先作试验性封堵，并严密监测肺动脉、主动脉压力和动脉血氧饱和度的变化，如肺动脉收缩压或平均压降低20%或30mmHg以上，肺小血管阻力下降，而主动脉压力和动脉血氧饱和度无下降或上升，且无全身反应，主[[<TRE>0]]证实封堵器位置合适，无对比剂分流，可进行永久封堵；如肺动脉压力升高或主动脉压力下降，患者出现[[<DIS><SYM>1]][[<DIS><SYM>2]]、[[<DIS>4]]、烦躁、[[<DIS><SYM>3]]等明显的全身反应时，应立即收回封堵器，并对症处理。
-命名实体: 动脉造影 心悸 气短 血压下降 心前区不适
+可先作试验性封堵，并严密监测肺动脉、主动脉压力和动脉血氧饱和度的变化，如肺动脉收缩压或平均压降低20%或30mmHg以上，肺小血管阻力下降，而主动脉压力和动脉血氧饱和度无下降或上升，且无全身反应，主[[<TRE>0]]证实封堵器位置合适，无对比剂分流，可进行永久封堵；如肺动脉压力升高或主动脉压力下降，患者出现[[<DIS><SYM>1]][[<DIS><SYM>2]]、[[<DIS>4]]、[[<DIS>5]]、[[<DIS><SYM>3]]等明显的全身反应时，应立即收回封堵器，并对症处理。
+命名实体: 动脉造影 心悸 气短 血压下降 心前区不适 烦躁
 ==================================================
 对于/preposition 试验/verb 性/noun 封堵/verb 后/noun-of-locality 肺动脉/noun 压/verb 无/verb 变化/verb 、/punctuation-mark 患者/noun 无/verb 全身/noun 反应/verb 、/punctuation-mark 血/noun 氧/noun 饱和度/noun 及/conjunction 心/noun 排/verb 血/noun 量/noun 无/verb 下降/verb 者/suffix ，/punctuation-mark 预后/noun 难以/adverb 估测/verb ，/punctuation-mark 此时/pronoun 最/adverb 好/adjective 做/verb 急性/distinguishing-word 肺/noun 血管/noun 反应/verb 试验/verb ，/punctuation-mark 若/conjunction 结果/adverb 为/verb 阳性/noun 者/suffix 可/verb 释放/verb 封堵/verb 器/noun ，/punctuation-mark 术/noun 后/noun-of-locality 需/verb 应用/verb 降低/verb 肺动脉/noun 压/verb 的/particle 药物/noun 治疗/verb ;/punctuation-mark 若/conjunction 结果/adverb 为/verb 阴性/noun 者/suffix 应该/verb 选用/verb 药物/noun 治疗/verb 一/numeral 段/classifier 时间/noun 后/noun-of-locality ，/punctuation-mark 再/adverb 进行/verb 心/noun 导管/noun 检查/verb 判断/noun 能否/verb 封堵/verb 治疗/verb ，/punctuation-mark 对/preposition 这/pronoun 部分/numeral 患者/noun 的/particle 介/verb 人/noun 治疗/verb 尤/adverb 应/verb 慎重/adjective [6]/string 。/punctuation-mark
 对于试验性封堵后肺动脉压无变化、患者无全身反应、血氧饱和度及心排血量无下降者，预后难以估测，此时最好做急性肺血管反应试验，若结果为阳性者可释放封堵器，术后需应用降低肺动脉压的药物治疗;若结果为阴性者应该选用药物治疗一段时间后，再进行心导管检查判断能否封堵治疗，对这部分患者的介人治疗尤应慎重[6]。
@@ -332,8 +332,8 @@ Amplatzer封堵器主动脉侧直径大于肺动脉侧2mm，长度有5、7和8mm
 命名实体: 钙化 出血 动脉瘤
 ==================================================
 ≥/numeral 50/numeral 岁/classifier 患者/noun 常规/noun 行/verb 冠状动脉/noun 造影/verb 排除/verb 冠状动脉/noun 病变/verb 。/punctuation-mark
-≥ 50岁患者常规行[[<TRE>0]]排除[[<DIS>1]]变。
-命名实体: 冠状动脉造影 冠状动脉病
+≥ 50岁患者常规行[[<TRE>0]]排除[[<DIS>1]]。
+命名实体: 冠状动脉造影 冠状动脉病变
 ==================================================
 由于/preposition 中老年/noun PDA/noun 管/verb 壁/noun 纤维/noun 化/verb 严重/adjective ，/punctuation-mark 血管/noun 弹性/noun 差/adjective ，/punctuation-mark 不宜/verb 选择/verb 过/particle 大/adjective 的/particle 封堵/verb 器/noun ，/punctuation-mark 以免/conjunction 造成/verb 术/noun 后/noun-of-locality 胸/noun 闷/verb 不适/adjective 等/particle 症状/noun 。/punctuation-mark
 由于中老年PDA管壁纤维化严重，血管弹性差，不宜选择过大的封堵器，以免造成术后[[<DIS>0]]不适等症状。
@@ -352,8 +352,8 @@ Amplatzer封堵器主动脉侧直径大于肺动脉侧2mm，长度有5、7和8mm
 命名实体: 
 ==================================================
 PDA/noun 术/noun 后/noun-of-locality 再/adverb 通/verb 者/suffix 由于/preposition 局部/noun 组织/noun 粘连/verb 、/punctuation-mark 纤维/noun 化/verb 及/conjunction 瘢痕/noun 形成/verb ，/punctuation-mark 管/verb 壁/noun 弹性/noun 差/adjective ，/punctuation-mark 可/conjunction 伸/verb 展性/noun 小/adjective ，/punctuation-mark 且/conjunction 结扎/verb 后/noun-of-locality 漏斗/noun 部/classifier 有/verb 变/verb 小/adjective 、/punctuation-mark 变/verb 浅/adjective 的/particle 倾向/noun 。/punctuation-mark
-PDA术后再通者由于局部组织粘连、纤维化及[[<DIS>0]]形成，管壁弹性差，可伸展性小，且结扎后漏斗部有变小、变浅的倾向。
-命名实体: 瘢痕
+PDA术后再通者由于局部组织粘连、[[<DIS>1]]及[[<DIS>0]]形成，管壁弹性差，可伸展性小，且结扎后漏斗部有变小、变浅的倾向。
+命名实体: 瘢痕 纤维化
 ==================================================
 封堵/verb 器/noun 直径/noun 与/preposition PDA/noun 最/adverb 窄/adjective 直径/noun 不/adverb 能/verb 相差/verb 太/adverb 大/adjective ，/punctuation-mark 以免/conjunction 造成/verb 主动脉/noun 弓/noun 或/conjunction 肺动脉/noun 的/particle 狭窄/adjective ，/punctuation-mark 一般/adjective 比/verb 最/adverb 窄/adjective 直径/noun 大/adjective 1/numeral ~/punctuation-mark 2mm/noun 即可/verb ，/punctuation-mark 若/conjunction PDA/noun 管/verb 径/noun 无/verb 变化/verb ，/punctuation-mark 则/adverb 大/adjective 3/numeral ~/punctuation-mark 4mm/noun 。/punctuation-mark
 封堵器直径与PDA最窄直径不能相差太大，以免造成主动脉弓或肺动脉的狭窄，一般比最窄直径大1~2mm即可，若PDA管径无变化，则大3~4mm。
