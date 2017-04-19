@@ -119,3 +119,11 @@ Cox倡导的迷宫手术能够成功地治疗[[<DIS><SYM>0]]，支持这一概�
 
 心/noun 电/noun 监测/verb 可见/verb 房/noun 性/suffix 或/conjunction 室/noun 性/suffix 早/adjective 搏/verb 甚至/adverb 心动/verb 过速/adjective 。/punctuation-mark
 [[<TRE>0]]可见房性或[[<DIS><SYM>1]]甚至[[<DIS><SYM>2]]。
+
+若/conjunction 发现/verb 有/verb 肢体/noun 末梢/noun 发/verb 绀/punctuation-mark 、/punctuation-mark 苍白/adjective 、/punctuation-mark 发/verb 凉/adjective 、/punctuation-mark 肿胀/verb 等/particle 栓塞/noun 征象/noun 时/noun ，/punctuation-mark 可/verb 给予/verb 全身/noun 肝素/noun 化/suffix 治疗/verb 或/conjunction 尿/noun 激酶/noun 溶/verb 栓/noun ，/punctuation-mark 药物/noun 治疗/verb 无效/verb 可/verb 应用/verb 经/preposition 导管/noun 法/noun 或/conjunction 外科/noun 手术/verb 法/noun 取/verb 栓/noun 。/punctuation-mark
+若发现有[[<DIS>3]]、[[<DIS>0]]、[[<DIS>4]]、[[<DIS>5]]等栓塞征象时，可给予全身[[<TRE>1]]或[[<TRE>2]]，药物治疗无效可应用经导管法或外科手术法取栓。
+命名实体: 苍白 肝素化治疗 尿激酶溶栓 肢体末梢发绀 发凉 肿胀
+
+1983年/time-word Lababidi/noun [12]/string 首/numeral 次/classifier 采用/verb 经/preposition 皮球/noun 囊/noun 主动脉/noun 瓣/noun 成/verb 形/noun 术/noun (/punctuation-mark percutaneous/noun balloon/noun aortic/noun valvuloplasty/noun ，/punctuation-mark PBAV/noun )/punctuation-mark 治疗/verb 先天性/distinguishing-word 主动脉/noun 瓣/classifier 狭窄/adjective (/punctuation-mark valvular/noun aorticstenosis/noun ，/punctuation-mark AS/preposition )/punctuation-mark 。/punctuation-mark
+1983年Lababidi[12]首次采用[[<TRE>1]](percutaneous balloon aortic valvuloplasty，PBAV)治疗[[<DIS>0]](valvular aorticstenosis，AS)。
+命名实体: 先天性主动脉瓣狭窄 经皮球囊主动脉瓣成形术

@@ -137,7 +137,7 @@
 房/noun 颤/verb 也/adverb 可以/verb 见于/verb 限制/verb 型心/noun 肌/noun 病/noun 、/punctuation-mark 心脏/noun 肿瘤/noun 、/punctuation-mark 缩/verb 窄/adjective 性/noun 心包炎/noun 、/punctuation-mark 二尖瓣/noun 脱/verb 垂/verb 、/punctuation-mark 慢性/distinguishing-word 肺/noun 原/distinguishing-word 性/noun 心脏病/noun 、/punctuation-mark 二尖瓣/noun 环/noun 钙化/verb 、/punctuation-mark 特/adjective 发/verb 性/noun 右/noun-of-locality 心房/noun 扩张/verb 以及/conjunction 充/verb 血性/noun 心力衰竭/noun 。/punctuation-mark
 [[<DIS><SYM>0]]也可以见于[[<DIS>1]]、[[<DIS>2]]、[[<DIS><SYM>3]]、[[<DIS><SYM>4]]、[[<DIS>5]]、[[<DIS>6]]、[[<DIS>8]]以及[[<DIS><SYM>7]]。
 命名实体: 房颤 限制型心肌病 心脏肿瘤 缩窄性心包炎 二尖瓣脱垂 慢性肺原性心脏病 二尖瓣环钙化 充血性心力衰竭 特发性右心房扩张
-实体关系: 
+实体关系: <1,DIS-SYM,0>
 ==================================================
 房/noun 颤/verb 可能/verb 与/preposition 一些/numeral 急性/distinguishing-word 原因/noun 有关/verb ，/punctuation-mark 例如/verb 过量/verb 饮酒/verb 、/punctuation-mark 急性/distinguishing-word 心肌/noun 梗/noun 死/verb 、/punctuation-mark 急性/distinguishing-word 心包炎/noun 、/punctuation-mark 急性/distinguishing-word 心肌炎/noun 、/punctuation-mark 肺动脉/noun 栓塞/noun 、/punctuation-mark 急性/distinguishing-word 肺/noun 疾病/noun 、/punctuation-mark 以及/conjunction 甲状腺/noun 功能/noun 亢进/verb 等/particle 。/punctuation-mark
 [[<DIS><SYM>0]]可能与一些急性原因有关，例如过量饮酒、[[<DIS>1]]、[[<DIS>2]]、[[<DIS>3]]、[[<DIS>5]]、[[<DIS>4]]、以及甲状腺功能亢进等。
@@ -842,7 +842,7 @@ Coumel描述了迷走神经原性和[[<DIS>0]]。
 长期以来/adverb ，/punctuation-mark 洋地黄/noun 制剂/noun 是/verb 用来/verb 控制/verb 房/noun 颤/verb 时/noun 心室/noun 率/suffix 的/particle 药物/noun ，/punctuation-mark 实际上/adverb 是/verb 当时/time-word 唯一/adverb 可/verb 得到/verb 的/particle 药物/noun 。/punctuation-mark
 长期以来，[[<MED>1]]是用来控制[[<DIS><SYM>0]]时心室率的药物，实际上是当时唯一可得到的药物。
 命名实体: 房颤 洋地黄制剂
-实体关系: 
+实体关系: <1,MED-DIS|+,0>
 ==================================================
 洋地黄/noun 控制/verb 静/adjective 息/verb 时/noun 的/particle 心室/noun 率/verb 是/verb 有效/adjective 的/particle ，/punctuation-mark 但/conjunction 不/adverb 能/verb 控制/verb 患者/noun 运动/verb 时/noun 的/particle 心室/noun 率/verb 。/punctuation-mark
 [[<MED>0]]控制静息时的心室率是有效的，但不能控制患者运动时的心室率。
@@ -867,7 +867,7 @@ Coumel描述了迷走神经原性和[[<DIS>0]]。
 因此/conjunction ，/punctuation-mark 洋地黄/noun 类/classifier 药物/noun 仅/adverb 在/preposition 伴有/verb 心力衰竭/noun 的/particle 房/noun 颤/verb 患者/noun 作为/verb 一/numeral 线/classifier 治疗/verb ，/punctuation-mark 对/preposition 活动/verb 量/noun 很/adverb 小/adjective 的/particle 患者/noun 也/adverb 较为/adverb 适当/adjective ，/punctuation-mark 而/conjunction 对/preposition 其他/pronoun 房/noun 颤/verb 患者/noun 不/adverb 单独/adverb 作为/verb 一/numeral 线/classifier 药物/noun 。/punctuation-mark
 因此，[[<MED>1]]仅在[[<DIS>2]]患者作为一线治疗，对活动量很小的患者也较为适当，而对其他[[<DIS><SYM>0]]患者不单独作为一线药物。
 命名实体: 房颤 洋地黄类药物 伴有心力衰竭的房颤
-实体关系: 
+实体关系: <1,MED-DIS|+,2>
 ==================================================
 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier 例如/verb 维拉帕米/noun 和/conjunction 地/noun 尔/pronoun 硫/noun 䓬/punctuation-mark 是/verb 常/adverb 用/verb 的/particle 一线/noun 药物/noun ，/punctuation-mark 急症/noun 情况/noun 下/verb 静脉/noun 注射/verb 是/verb 迅速/adjective 有效/adjective 的/particle 。/punctuation-mark
 [[<MED>2]]例如[[<MED>0]]和[[<MED>1]]是常用的一线药物，急症情况下静脉注射是迅速有效的。
@@ -1287,7 +1287,7 @@ Benavento等归纳的5个抗凝治疗预防[[<DIS>0]]的随机对照试验结果
 阿司匹林/noun (/punctuation-mark 抗/verb 血小板/noun 制剂/noun )/punctuation-mark 对/preposition 非/distinguishing-word 风湿/noun 性/noun 房/noun 颤/verb 患者/noun 脑/noun 卒/noun 中/noun-of-locality 的/particle 一级/distinguishing-word 预防/verb 也/adverb 有效/adjective ，/punctuation-mark 但/conjunction 其/pronoun 疗效/noun 逊/adjective 于/preposition 华法林/noun 。/punctuation-mark
 [[<MED>0]](抗[[<MED>3]])对[[<DIS>4]]患者[[<DIS>1]]的一级预防也有效，但其疗效逊于[[<MED>2]]。
 命名实体: 阿司匹林 脑卒中 华法林 血小板制剂 非风湿性房颤
-实体关系: 
+实体关系: <0,MED-DIS|+,3> <0,MED-DIS|+,4>
 ==================================================
 Benavente/noun 等/particle 对/preposition 可/verb 收集/verb 到/verb 的/particle 未/adverb 发表/verb 的/particle 2/numeral 个/classifier 一级/distinguishing-word 预防/verb 试验/verb 的/particle 资料/noun 作/verb 了/particle 综合/verb 分析/verb ，/punctuation-mark 总共/adverb 1680/numeral 例/classifier 患者/noun 被/preposition 选/verb 入/verb ，/punctuation-mark 均/adverb 无/verb 脑/noun 卒/noun 中/noun-of-locality 或/conjunction TIA/noun 病史/noun ，/punctuation-mark 随机/adverb 分/verb 入/verb 阿司匹林/noun 治疗/verb 组/noun (/punctuation-mark 838/numeral 例/classifier )/punctuation-mark ，/punctuation-mark 其余/pronoun 患者/noun 为/preposition 安慰/verb 剂/classifier 对照/verb 组/noun 。/punctuation-mark
 Benavente等对可收集到的未发表的2个一级预防试验的资料作了综合分析，总共1680例患者被选入，均无[[<DIS>0]]或TIA病史，随机分入[[<MED>1]]治疗组(838例)，其余患者为安慰剂对照组。
@@ -1837,7 +1837,7 @@ ibutilide的主要不良作用是发生[[<DIS>1]]的危险，但这个不良作�
 另/pronoun 一个/numeral 方法/noun 是/verb 房/noun 颤/verb 住院/verb 患者/noun 做/verb 经/preposition 食管/noun 超声/noun 心动/verb 图/noun 检查/verb (/punctuation-mark transesophageal/noun echocardiogram/noun ，/punctuation-mark TEE/noun )/punctuation-mark 并/conjunction 静脉/noun 注射/verb 肝素/noun (/punctuation-mark heparin/verb )/punctuation-mark 如果/conjunction TEE/noun 没有/adverb 发现/verb 心房/noun 血栓/noun ，/punctuation-mark 就/adverb 可以/verb 进行/verb 心律/noun 转/verb 复/verb ，/punctuation-mark 肝素/noun 以及/conjunction 华法林/noun 继续/verb 应用/verb 直到/verb ENR/noun ≧/punctuation-mark 2.0/numeral 。/punctuation-mark
 另一个方法是[[<DIS><SYM>0]]住院患者做[[<TRE>3]](transesophageal echocardiogram，TEE)并静脉注射[[<MED>1]](heparin)如果TEE没有发现心房血栓，就可以进行心律转复，[[<MED>1]]以及[[<MED>2]]继续应用直到ENR≧2.0。
 命名实体: 房颤 肝素 华法林 经食管超声心动图检查
-实体关系: 
+实体关系: <3,TRE-DIS,0>
 ==================================================
 在/preposition 转/verb 复/adverb 为/verb 窦性/noun 心律/noun 后/noun-of-locality 几/numeral 个/classifier 星期/noun ，/punctuation-mark 患者/noun 仍然/adverb 有/verb 脑/noun 卒/noun 中/noun-of-locality 的/particle 高/adjective 危险/adjective ，/punctuation-mark 不论/conjunction 房/noun 颤/verb 是/verb 自行/adverb 转/verb 复/adverb 为/verb 窦性/noun 心律/noun 的/particle 或是/conjunction 经/preposition 药物/noun 或/conjunction 直流电/noun 转/verb 复/adverb 的/particle 因此/conjunction ，/punctuation-mark 在/preposition 抗凝/noun 治疗/verb 到达/verb 满意/verb 的/particle 时期/noun 之前/noun-of-locality ，/punctuation-mark 不要/adverb 开始/verb 抗/verb 心律/noun 失常/adjective 药物/noun 治疗/verb 。/punctuation-mark
 在转复为窦性心律后几个星期，患者仍然有[[<DIS>0]]的高危险，不论[[<DIS><SYM>1]]是自行转复为窦性心律的或是经药物或直流电转复的因此，在抗凝治疗到达满意的时期之前，不要开始[[<MED>2]]治疗。

@@ -287,7 +287,7 @@ PBPV术后需要长期随访，包括[[<TRE>2]]、[[<TRE>0]]和[[<TRE>1]]等；�
 1983年/time-word Lababidi/noun [12]/string 首/numeral 次/classifier 采用/verb 经/preposition 皮球/noun 囊/noun 主动脉/noun 瓣/noun 成/verb 形/noun 术/noun (/punctuation-mark percutaneous/noun balloon/noun aortic/noun valvuloplasty/noun ，/punctuation-mark PBAV/noun )/punctuation-mark 治疗/verb 先天性/distinguishing-word 主动脉/noun 瓣/classifier 狭窄/adjective (/punctuation-mark valvular/noun aorticstenosis/noun ，/punctuation-mark AS/preposition )/punctuation-mark 。/punctuation-mark
 1983年Lababidi[12]首次采用[[<TRE>1]](percutaneous balloon aortic valvuloplasty，PBAV)治疗[[<DIS>0]](valvular aorticstenosis，AS)。
 命名实体: 先天性主动脉瓣狭窄 经皮球囊主动脉瓣成形术
-实体关系: 
+实体关系: <1,TRE-DIS,0>
 ==================================================
 30/numeral 余/numeral 年/classifier 来/noun-of-locality 随着/preposition 介入/verb 材料/noun 和/conjunction 方法/noun 学/verb 的/particle 进展/verb 以及/conjunction 临床/verb 经验/noun 的/particle 积累/verb ，/punctuation-mark PBAV/noun 术/noun 的/particle 成功率/noun 较/adverb 早期/noun-of-locality 进一步/adverb 提高/verb ，/punctuation-mark 并发症/noun 的/particle 发生率/noun 也/adverb 较/adverb 前/noun-of-locality 减少/verb ，/punctuation-mark 在/preposition 国外/locative-word 大多数/numeral 心血管/noun 中心/noun 已/adverb 成为/verb 先天性/distinguishing-word AS/preposition 的/particle 首选/verb 治疗/verb 方法/noun [/punctuation-mark 13/numeral ，/punctuation-mark 14/numeral ，/punctuation-mark 15/numeral ]/punctuation-mark 。/punctuation-mark
 30余年来随着介入材料和方法学的进展以及临床经验的积累，PBAV术的成功率较早期进一步提高，并发症的发生率也较前减少，在国外大多数心血管中心已成为先天性AS的首选治疗方法[13，14，15]。
@@ -812,7 +812,7 @@ PDA伴有明显左向右分流，并且合并[[<DIS><SYM>0]]、[[<DIS>2]]、[[<D
 若/conjunction 发现/verb 有/verb 肢体/noun 末梢/noun 发/verb 绀/punctuation-mark 、/punctuation-mark 苍白/adjective 、/punctuation-mark 发/verb 凉/adjective 、/punctuation-mark 肿胀/verb 等/particle 栓塞/noun 征象/noun 时/noun ，/punctuation-mark 可/verb 给予/verb 全身/noun 肝素/noun 化/suffix 治疗/verb 或/conjunction 尿/noun 激酶/noun 溶/verb 栓/noun ，/punctuation-mark 药物/noun 治疗/verb 无效/verb 可/verb 应用/verb 经/preposition 导管/noun 法/noun 或/conjunction 外科/noun 手术/verb 法/noun 取/verb 栓/noun 。/punctuation-mark
 若发现有[[<DIS>3]]、[[<DIS>0]]、[[<DIS>4]]、[[<DIS>5]]等栓塞征象时，可给予全身[[<TRE>1]]或[[<TRE>2]]，药物治疗无效可应用经导管法或外科手术法取栓。
 命名实体: 苍白 肝素化治疗 尿激酶溶栓 肢体末梢发绀 发凉 肿胀
-实体关系: 
+实体关系: <1,TRE-DIS,4> <1,TRE-DIS,5> <2,TRE-DIS,3> <1,TRE-DIS,0> <2,TRE-DIS,0> <1,TRE-DIS,3> <2,TRE-DIS,4> <2,TRE-DIS,5>
 ==================================================
 3．/numeral 血小板/noun 减少/verb ：/punctuation-mark
 3．[[<SYM>0]]：

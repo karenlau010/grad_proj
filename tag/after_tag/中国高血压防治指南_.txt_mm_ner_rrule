@@ -175,9 +175,9 @@ HOPE研究似提示有此可能。
 实体关系: <2,MED-DIS|-,1> <2,MED-DIS|-,0>
 ==================================================
 不/adverb 稳定性/noun 心绞痛/noun 和/conjunction 急性/distinguishing-word 心肌/noun 梗/noun 死/verb 时/noun 禁用/verb 速效/noun 二/numeral 氢/noun 吡啶/noun 类/classifier 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier 。/punctuation-mark
-[[<DIS><SYM>0]]和[[<DIS>1]]时禁用速效[[<MED>2]]。
-命名实体: 不稳定性心绞痛 急性心肌梗死 二氢吡啶类钙拮抗剂
-实体关系: 
+[[<DIS><SYM>0]]和[[<DIS>1]]时禁用[[<MED>2]]。
+命名实体: 不稳定性心绞痛 急性心肌梗死 速效二氢吡啶类钙拮抗剂
+实体关系: <2,MED-DIS|-,1> <2,MED-DIS|-,0>
 ==================================================
 优先/verb 选择/verb 使用/verb 长效/distinguishing-word 制剂/noun ，/punctuation-mark 例如/verb 非/distinguishing-word 洛地/noun 平/verb (/punctuation-mark Felodipine/noun )/punctuation-mark 缓释/verb 片/classifier 10mg/noun ，/punctuation-mark 每日/pronoun 1/numeral 次/classifier ;/punctuation-mark 硝/noun 苯/noun 地/particle 平/verb (/punctuation-mark Nifedipine/noun )/punctuation-mark 控/verb 释/verb 片/noun 30mg/noun ，/punctuation-mark 每日/pronoun 1/numeral 次/classifier ;/punctuation-mark 氨/noun 氯/noun 地/particle 平/verb (/punctuation-mark Amlodipine/noun )/punctuation-mark 5/numeral ~/punctuation-mark 10mg/noun ，/punctuation-mark 每日/pronoun 1/numeral 次/classifier ;/punctuation-mark 拉西地/noun 平/verb (/punctuation-mark Lacidipine/noun )/punctuation-mark 4/numeral ~/punctuation-mark 6mg/noun ，/punctuation-mark 每日/pronoun 1/numeral 次/classifier ；/punctuation-mark 维拉帕米/noun (/punctuation-mark Verapamil/noun )/punctuation-mark 缓释/verb 片/classifier 120/numeral ~/punctuation-mark 240mg/noun ，/punctuation-mark 每日/pronoun 1/numeral 次/classifier 。/punctuation-mark
 优先选择使用长效制剂，例如[[<MED>0]](Felodipine)缓释片10mg，每日1次;[[<MED>1]](Nifedipine)控释片30mg，每日1次;[[<MED>2]](Amlodipine)5~10mg，每日1次;[[<MED>3]](Lacidipine)4~6mg，每日1次；[[<MED>4]](Verapamil)缓释片120~240mg，每日1次。
