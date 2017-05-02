@@ -12,7 +12,7 @@ import time
 encode_type = sys.getfilesystemencoding() #UTF-8 in my machine
 
 def relat_pattern():
-    fp = file('./pattern/实体之间关系规则.pat', 'rb')
+    fp = file(u'./pattern/实体之间关系规则.pat', 'rb')
     pat_list = []
     for line in fp:
         line = (line.strip()).decode('UTF-8')
@@ -24,6 +24,7 @@ def relat_pattern():
 def relat_rule():
     texts_list = os.listdir('./after_tag')
     pat_list = relat_pattern()
+    fp_nn = file('eval_ret.txt', 'wb')
     for text in texts_list:
         print '>>>>>>>>>>>>>>>>>',
         print text
@@ -47,6 +48,11 @@ def relat_rule():
                 fp_out.write(part_lines[3]+'\n')
                 ne_list = ((part_lines[3].decode('UTF-8')).split())[1:]
                 string = part_lines[2].decode('UTF-8')
+                for nn in ne_list:
+                    fp_nn.write(part_lines[0]+'\n')
+                    fp_nn.write(string.encode('UTF-8')+'\n')
+                    fp_nn.write(part_lines[3]+'\n')
+                    fp_nn.write('>>> '+nn.encode('UTF-8')+'\n')
                 relat_list = set()
                 for pat_i in range(len(pat_list)):
                     pat_str = pat_list[pat_i][0]
@@ -55,10 +61,10 @@ def relat_rule():
                     ret_list = pattern.findall(string)
                     if len(ret_list) > 0:
                         print '='*50
-                        print part_lines[1]
-                        print string.encode('UTF-8')
-                        print '命名实体: '+' '.join(y.encode(encode_type) for y in ne_list)
-                        print '匹配规则: '+' '.join(y.encode(encode_type) for y in ret_list)
+                        print (part_lines[1].decode('UTF-8')).encode(encode_type)
+                        print string.encode(encode_type)
+                        print (u'命名实体: ').encode(encode_type)+' '.join(y.encode(encode_type) for y in ne_list)
+                        print (u'匹配规则: ').encode(encode_type)+' '.join(y.encode(encode_type) for y in ret_list)
                         ret_list = list(set(ret_list))
                         for ret in ret_list:
                             ne_str_list = re.findall(ur'\[\[.{0,5}<[A-Z]{3}>.{0,5}\d+\]\]', ret)
@@ -74,11 +80,12 @@ def relat_rule():
                                 left_ne = ne_no_list[int(ne_pair[0])]
                                 right_ne = ne_no_list[int(ne_pair[1])]
                                 relat_list.add('<'+str(left_ne)+','+relat_type+','+str(right_ne)+'>')
-                        print '实体关系: '+' '.join(y.encode('UTF-8') for y in relat_list)
+                        print (u'实体关系: ').encode(encode_type)+' '.join(y.encode('UTF-8') for y in relat_list)
                 fp_out.write('实体关系: '+' '.join(y.encode('UTF-8') for y in relat_list)+'\n')
                 part_lines = []
         fp.close()
         fp_out.close()
+    fp_nn.close()
 
 if __name__ == "__main__":
     relat_rule()

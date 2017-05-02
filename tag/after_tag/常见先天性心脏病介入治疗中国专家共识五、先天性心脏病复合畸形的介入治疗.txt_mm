@@ -8,11 +8,11 @@
 命名实体: 先天性心脏病
 ==================================================
 【/punctuation-mark 摘要/noun 】/punctuation-mark 先天性/distinguishing-word 心脏/noun 复合/verb 畸形/noun 为/verb 同时/conjunction 患/verb 有/verb 2/numeral 种/classifier 或/conjunction 2/numeral 种/classifier 以上/noun-of-locality 心血管/noun 畸形/noun ，/punctuation-mark 能够/verb 同期/noun-of-locality 进行/verb 介入/verb 治疗/verb ，/punctuation-mark 其/pronoun 技术/noun 操作/verb 并非/verb 单一/adjective 技术/noun 的/particle 简单/adjective 相加/verb ，/punctuation-mark 而/conjunction 有/verb 其/pronoun 特殊性/noun 。/punctuation-mark
-【摘要】先天性心脏复合畸形为同时患有2种或2种以上心[[<DIS><SYM>0]]，能够同期进行介入治疗，其技术操作并非单一技术的简单相加，而有其特殊性。
+【摘要】先天性心脏复合畸形为同时患有2种或2种以上心[[<SYM><DIS>0]]，能够同期进行介入治疗，其技术操作并非单一技术的简单相加，而有其特殊性。
 命名实体: 血管畸形
 ==================================================
 本文/pronoun 介绍/verb 室/noun 间隔/verb 缺损/verb 合并/verb 房/noun 间隔/verb 缺损/verb 、/punctuation-mark 动脉/noun 导管/noun 未/adverb 闭/verb 、/punctuation-mark 肺动脉/noun 瓣/classifier 狭窄/adjective ；/punctuation-mark 房/noun 间隔/verb 缺损/verb 合并/verb 动脉/noun 导管/noun 未/adverb 闭/verb 、/punctuation-mark 肺动脉/noun 瓣/classifier 狭窄/adjective 、/punctuation-mark 左/adjective 房室/noun 瓣/classifier 狭窄/adjective (/punctuation-mark 鲁登巴赫/noun 综合征/noun )/punctuation-mark 及/conjunction 主动脉/noun 缩/verb 窄/adjective 合并/verb 动脉/noun 导管/noun 未/adverb 闭/verb 等/particle 复合/verb 畸形/noun 的/particle 病理/noun 生理/noun 改变/verb 与/conjunction 临床/verb 特点/noun 、/punctuation-mark 介入/verb 治疗/verb 适应/verb 证/noun 和/conjunction 禁忌/noun 证/noun 、/punctuation-mark 治疗/verb 原则/noun 和/conjunction 注意/verb 事项/noun 、/punctuation-mark 术/noun 后处理/verb 以及/conjunction 疗效/noun 判定/verb 等/particle 。/punctuation-mark
-本文介绍[[<DIS><SYM>0]]合并[[<DIS>1]]、[[<DIS><SYM>2]]、[[<DIS>3]]；[[<DIS>1]]合并[[<DIS><SYM>2]]、[[<DIS>3]]、左房室瓣狭窄(鲁登巴赫[[<DIS><SYM>4]])及[[<DIS>5]]合并[[<DIS><SYM>2]]等复合畸形的病理生理改变与临床特点、介入治疗适应证和禁忌证、治疗原则和注意事项、术后处理以及疗效判定等。
+本文介绍[[<SYM><DIS>0]]合并[[<DIS>1]]、[[<SYM><DIS>2]]、[[<DIS>3]]；[[<DIS>1]]合并[[<SYM><DIS>2]]、[[<DIS>3]]、左房室瓣狭窄(鲁登巴赫[[<SYM><DIS>4]])及[[<DIS>5]]合并[[<SYM><DIS>2]]等复合畸形的病理生理改变与临床特点、介入治疗适应证和禁忌证、治疗原则和注意事项、术后处理以及疗效判定等。
 命名实体: 室间隔缺损 房间隔缺损 动脉导管未闭 肺动脉瓣狭窄 综合征 主动脉缩窄
 ==================================================
 【/punctuation-mark 关键词/noun 】/punctuation-mark 先天性/distinguishing-word 心脏病/noun ；/punctuation-mark 复合/verb 畸形/noun ；/punctuation-mark 介入/verb 治疗/verb
@@ -20,7 +20,7 @@
 命名实体: 先天性心脏病
 ==================================================
 先天性/distinguishing-word 心脏/noun 复合/verb 畸形/noun (/punctuation-mark combined/adjective congenital/noun cardiac/noun anomalies/noun )/punctuation-mark 是/verb 指/verb 同一/distinguishing-word 患者/noun 同时/conjunction 有/verb 2/numeral 种/classifier 或/conjunction 2/numeral 种/classifier 以上/noun-of-locality 心血管/noun 畸形/noun 并存/verb 的/particle 先天性/distinguishing-word 心脏病/noun (/punctuation-mark 简称/verb 先/adjective 心病/noun )/punctuation-mark 。/punctuation-mark
-先天性心脏复合畸形(combined congenital cardiac anomalies)是指同一患者同时有2种或2种以上心[[<DIS><SYM>0]]并存的[[<DIS>1]](简称先心病)。
+先天性心脏复合畸形(combined congenital cardiac anomalies)是指同一患者同时有2种或2种以上心[[<SYM><DIS>0]]并存的[[<DIS>1]](简称先心病)。
 命名实体: 血管畸形 先天性心脏病
 ==================================================
 近年来/adverb ，/punctuation-mark 随着/preposition 先/adverb 心病/noun 介/verb 人/noun 治疗/verb 器材/noun 的/particle 改进/verb 和/conjunction 治疗/verb 技术/noun 的/particle 提高/verb ，/punctuation-mark 一些/numeral 单一/adjective 型/suffix 先/adverb 心病/noun 介/verb 人/noun 治疗/verb 的/particle 临床/verb 疗效/noun 与/conjunction 安全性/noun 已/adverb 得到/verb 公认/verb ，/punctuation-mark 并/conjunction 在/preposition 此/pronoun 基础/noun 上/noun-of-locality 逐渐/adverb 开展/verb 了/particle 对/preposition 先天性/distinguishing-word 心脏/noun 复合/verb 畸形/noun 同期/noun-of-locality 进行/verb 介/verb 人/noun 治疗/verb 技术/noun 。/punctuation-mark
@@ -28,7 +28,7 @@
 命名实体:
 ==================================================
 目前/time-word ，/punctuation-mark 能够/verb 同期/noun-of-locality 进行/verb 介/verb 人/noun 治疗/verb 的/particle 先天性/distinguishing-word 心脏/noun 复合/verb 畸形/noun 包括/verb ：/punctuation-mark 室/noun 间隔/verb 缺损/verb (/punctuation-mark ventricular/noun septal/noun defect/noun ，/punctuation-mark VSD/noun )/punctuation-mark 合并/verb 房/noun 间隔/verb 缺损/verb (/punctuation-mark atrial/noun septal/noun defect/noun ，/punctuation-mark ASD/noun )/punctuation-mark 、/punctuation-mark VSD/noun 合并/verb 动脉/noun 导管/noun 未/adverb 闭/verb (/punctuation-mark patent/noun ductus/noun arteriosus/noun ，/punctuation-mark PDA/noun )/punctuation-mark 、/punctuation-mark VSD/noun 合并/verb 肺动脉/noun 瓣/classifier 狭窄/adjective (/punctuation-mark PS/noun )/punctuation-mark 、/punctuation-mark ASD/noun 合并/verb PDA/noun 、/punctuation-mark ASD/noun 合并/verb 肺动脉/noun 瓣/classifier 狭窄/adjective 、/punctuation-mark ASD/noun 合并/verb 左/adjective 房室/noun 瓣/classifier 狭窄/adjective (/punctuation-mark Lutembacher/noun ’/punctuation-mark s/verb syndrome/noun ，/punctuation-mark 鲁藤/noun 巴/distinguishing-word 赫/classifier 综合征/noun )/punctuation-mark 及/conjunction 主动脉/noun 缩/verb 窄/adjective 合并/verb PDA/noun 等/particle [1]/string 。/punctuation-mark
-目前，能够同期进行介人治疗的先天性心脏复合畸形包括：[[<DIS><SYM>0]](ventricular septal defect，VSD)合并[[<DIS>1]](atrial septal defect，ASD)、VSD合并[[<DIS><SYM>2]](patent ductus arteriosus，PDA)、VSD合并[[<DIS>3]](PS)、ASD合并PDA、ASD合并[[<DIS>3]]、ASD合并左房室瓣狭窄(Lutembacher’s syndrome，鲁藤巴赫[[<DIS><SYM>4]])及[[<DIS>5]]合并PDA等[1]。
+目前，能够同期进行介人治疗的先天性心脏复合畸形包括：[[<SYM><DIS>0]](ventricular septal defect，VSD)合并[[<DIS>1]](atrial septal defect，ASD)、VSD合并[[<SYM><DIS>2]](patent ductus arteriosus，PDA)、VSD合并[[<DIS>3]](PS)、ASD合并PDA、ASD合并[[<DIS>3]]、ASD合并左房室瓣狭窄(Lutembacher’s syndrome，鲁藤巴赫[[<SYM><DIS>4]])及[[<DIS>5]]合并PDA等[1]。
 命名实体: 室间隔缺损 房间隔缺损 动脉导管未闭 肺动脉瓣狭窄 综合征 主动脉缩窄
 ==================================================
 虽然/conjunction 先天性/distinguishing-word 心脏/noun 复合/verb 畸形/noun 的/particle 介/verb 人/noun 治疗/verb 是/verb 在/preposition 单一/adjective 型/suffix 先/adverb 心病/noun 介/verb 人/noun 治疗/verb 基础/noun 上/noun-of-locality 发展/verb 起来/verb 的/particle ，/punctuation-mark 但/conjunction 其/pronoun 介/noun 人/noun 治疗/verb 技术/noun 操作/verb 并非/verb 单一/adjective 型/suffix 先/adverb 心病/noun 介/verb 人/noun 治疗/verb 技术/noun 的/particle 简单/adjective 相加/verb 。/punctuation-mark
@@ -56,7 +56,7 @@ VSD合并ASD是常见的先天性心脏复合畸形。
 命名实体:
 ==================================================
 VSD/noun 和/conjunction ASD/noun 均/adverb 属于/verb 左/noun-of-locality 向/preposition 右/noun-of-locality 分流/verb 性/noun 先/adverb 心病/noun ，/punctuation-mark 两者/pronoun 合并/verb 存在/verb 时/noun 患者/noun 心房/noun 及/conjunction 心室/noun 水平/noun 均/adverb 出现/verb 左/noun-of-locality 向/preposition 右/noun-of-locality 分流/verb ，/punctuation-mark 其/pronoun 分/classifier 流血/verb 量/noun 及/conjunction 肺循环/noun 血流/noun 量/noun 均/adverb 较/adverb VSD/noun 或/conjunction ASD/noun 单独/adverb 存在/verb 时/noun 明显/adjective 增加/verb ，/punctuation-mark 对/preposition 心脏/noun 形态/noun 结构/noun 及/conjunction 心功能/noun 的/particle 影响/verb 也/adverb 相对/adverb 出现/verb 较/adverb 早/adjective ，/punctuation-mark 但/conjunction 临床/verb 症状/noun 与/conjunction 单一/adjective 型/suffix 左/noun-of-locality 向/preposition 右/noun-of-locality 分流/verb 性/noun 先/adverb 心病/noun 比较/adverb 无/verb 特异/status-word 性/noun ，/punctuation-mark 体/noun 征/verb 改变/verb 以/preposition VSD/noun 的/particle 心脏/noun 杂音/noun 为主/verb ，/punctuation-mark 肺动脉/noun 高压/noun 的/particle 体/noun 征/verb 可能/verb 较为/adverb 明显/adjective ，/punctuation-mark 但/conjunction 肺动脉/noun 瓣/classifier 区/noun 第二/numeral 心音/noun “/punctuation-mark 固定/adjective ”/punctuation-mark 性/noun 分裂/verb 的/particle 特征/noun 则/conjunction 相对/adverb 不/adverb 明显/adjective 。/punctuation-mark
-VSD和ASD均属于左向右分流性先心病，两者合并存在时患者心房及心室水平均出现左向右分流，其分流血量及肺循环血流量均较VSD或ASD单独存在时明显增加，对心脏形态结构及[[<DIS>0]]的影响也相对出现较早，但临床症状与单一型左向右分流性先心病比较无特异性，体征改变以VSD的[[<DIS><SYM>1]]为主，[[<DIS>2]]的体征可能较为明显，但肺动脉瓣区第二心音“固定”性分裂的特征则相对不明显。
+VSD和ASD均属于左向右分流性先心病，两者合并存在时患者心房及心室水平均出现左向右分流，其分流血量及肺循环血流量均较VSD或ASD单独存在时明显增加，对心脏形态结构及[[<DIS>0]]的影响也相对出现较早，但临床症状与单一型左向右分流性先心病比较无特异性，体征改变以VSD的[[<SYM><DIS>1]]为主，[[<DIS>2]]的体征可能较为明显，但肺动脉瓣区第二心音“固定”性分裂的特征则相对不明显。
 命名实体: 心功能 心脏杂音 肺动脉高压
 ==================================================
 1.2/numeral 介/verb 人/noun 治疗/verb 适应/verb 证/noun
@@ -84,7 +84,7 @@ VSD和ASD均属于左向右分流性先心病，两者合并存在时患者心�
 命名实体: 心脏畸形
 ==================================================
 1.3.3/numeral 合并/verb 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun 及/conjunction 出/verb 血性/noun 疾病/noun 患者/noun 。/punctuation-mark
-1.3.3合并[[<DIS>0]]及[[<DIS><SYM>1]]性疾病患者。
+1.3.3合并[[<DIS>0]]及[[<SYM><DIS>1]]性疾病患者。
 命名实体: 感染性心内膜炎 出血
 ==================================================
 1.4/numeral 介/verb 人/noun 治疗/verb 原则/noun 与/conjunction 注意/verb 事项/noun
@@ -92,7 +92,7 @@ VSD和ASD均属于左向右分流性先心病，两者合并存在时患者心�
 命名实体:
 ==================================================
 1.4.1/numeral 先行/verb 心脏/noun 超声/noun 检查/verb 、/punctuation-mark 右/noun-of-locality 心/noun 导管/noun 检查/verb 及/conjunction 左/adjective 心室/noun 造影/verb ，/punctuation-mark 以/preposition 除外/verb 可能/verb 合并/verb 的/particle 其他/pronoun 心血管/noun 畸形/noun 。/punctuation-mark
-1.4.1先行心脏超声检查、[[<TRE>0]]及[[<TRE>1]]，以除外可能合并的其他心[[<DIS><SYM>2]]。
+1.4.1先行心脏超声检查、[[<TRE>0]]及[[<TRE>1]]，以除外可能合并的其他心[[<SYM><DIS>2]]。
 命名实体: 右心导管检查 左心室造影 血管畸形
 ==================================================
 1.4.2/numeral 当/preposition 确定/verb VSD/noun 和/conjunction ASD/noun 均/adverb 有/verb 介/verb 人/noun 治疗/verb 适应/verb 证/noun 时/noun ，/punctuation-mark 方/adverb 可/verb 进行/verb 介/verb 人/noun 治疗/verb 。/punctuation-mark
@@ -180,7 +180,7 @@ VSD和PDA虽同属于左向右分流性先心病，但VSD为心室水平的左�
 命名实体: 心脏畸形
 ==================================================
 2.3.3/numeral 术前/noun 3/numeral 个/classifier 月/noun 内/noun-of-locality 患/verb 有/verb 严重/adjective 感染/verb 或/conjunction 合并/verb 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun 及/conjunction 出/verb 血性/noun 疾病/noun 患者/noun 。/punctuation-mark
-2.3.3术前3个月内患有严重[[<DIS>0]]或合并[[<DIS>1]]及[[<DIS><SYM>2]]性疾病患者。
+2.3.3术前3个月内患有严重[[<DIS>0]]或合并[[<DIS>1]]及[[<SYM><DIS>2]]性疾病患者。
 命名实体: 感染 感染性心内膜炎 出血
 ==================================================
 2.4/numeral 介/verb 人/noun 治疗/verb 原则/noun 与/conjunction 注意/verb 事项/noun
@@ -240,7 +240,7 @@ VSD合并PS的主要病理生理变化是右心室的血液流出受阻，引起
 命名实体:
 ==================================================
 其/pronoun 体/noun 征/verb 主要/adverb 是/verb 肺动脉/noun 瓣/classifier 区/noun 喷射/verb 性/noun 收缩/verb 期/classifier 杂音/noun ，/punctuation-mark 肺动脉/noun 瓣/classifier 区/noun 第二/numeral 音/noun 减弱/verb 或/conjunction 消失/verb ，/punctuation-mark 并/conjunction 可/verb 见/verb 口/noun 唇/noun 、/punctuation-mark 甲/numeral 床/noun 紫/adjective 绀/punctuation-mark 及/verb 杵/noun 状/noun 指/verb (/punctuation-mark 趾/punctuation-mark )/punctuation-mark 。/punctuation-mark
-其体征主要是肺动脉瓣区喷射性[[<SYM>0]]，肺动脉瓣区第二音减弱或消失，并可见口唇、甲床[[<DIS><SYM>1]]及杵状指(趾)。
+其体征主要是肺动脉瓣区喷射性[[<SYM>0]]，肺动脉瓣区第二音减弱或消失，并可见口唇、甲床[[<SYM><DIS>1]]及杵状指(趾)。
 命名实体: 收缩期杂音 紫绀
 ==================================================
 3.2/numeral 介/verb 人/noun 治疗/verb 适应/verb 证/noun
@@ -376,7 +376,7 @@ ASD和PDA虽同属于左向右分流性先心病，但ASD为心房水平的左�
 命名实体: 心脏畸形
 ==================================================
 4.3.4/numeral 术前/noun 3/numeral 个/classifier 月/noun 内/noun-of-locality 患/verb 有/verb 严重/adjective 感染/verb 或/conjunction 合并/verb 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun 及/conjunction 出/verb 血性/noun 疾/adjective 患者/noun 。/punctuation-mark
-4.3.4术前3个月内患有严重[[<DIS>0]]或合并[[<DIS>1]]及[[<DIS><SYM>2]]性疾患者。
+4.3.4术前3个月内患有严重[[<DIS>0]]或合并[[<DIS>1]]及[[<SYM><DIS>2]]性疾患者。
 命名实体: 感染 感染性心内膜炎 出血
 ==================================================
 4.4/numeral 介/verb 人/noun 治疗/verb 原则/noun 与/conjunction 注意/verb 事项/noun
@@ -435,7 +435,7 @@ ASD合并PS是临床较为常见的先天性心脏复合畸形，若患者出现
 5.1病理生理改变与临床特点
 命名实体:
 ==================================================
-法/distinguishing-word 洛/distinguishing-word 三联/noun 症/noun 的/particle 主要/distinguishing-word 结构/noun 异常/adverb 包括/verb ASD/noun 、/punctuation-mark PS/noun 和/conjunction 右/noun-of-locality 室/noun 肥厚/adjective ，/punctuation-mark 其/pronoun 基本/adjective 病变/verb 为/verb ASD/noun 和/conjunction PS/noun ，/punctuation-mark 右/noun-of-locality 心室/noun 肥厚/adjective 为/verb PS/noun 的/particle 继/adverb 发/verb 改变/verb 。/punctuation-mark
+法/distinguishing-word 洛/distinguishing-word 三联/noun 症/noun 的/particle 主要/distinguishing-word 结构/noun 异常/adverb 包括/verb ASD/noun 、/punctuation-mark PS/noun 和/conjunction 右/noun-of-locality 室/noun 肥厚/adjective ，/punctuation-mark 其/pronoun 基本/adjective 病变/verb 为/verb ASD/noun 和/conjunction PS/noun ，/punctuation-mark 右/noun-of-locality 心室/noun 肥厚/adjective 为/verb PS/noun 的/particle 继发/noun 改变/verb 。/punctuation-mark
 法洛三联症的主要结构异常包括ASD、PS和[[<SYM>0]]，其基本病变为ASD和PS，右[[<DIS>1]]为PS的继发改变。
 命名实体: 右室肥厚 心室肥厚
 ==================================================
@@ -444,7 +444,7 @@ ASD合并PS是临床较为常见的先天性心脏复合畸形，若患者出现
 命名实体:
 ==================================================
 其/pronoun 体/noun 征/verb 主要/adverb 是/verb 肺动脉/noun 瓣/classifier 区/noun 喷射/verb 性/noun 收缩/verb 期/classifier 杂音/noun ，/punctuation-mark 肺动脉/noun 瓣/classifier 区/noun 第二/numeral 音/noun 减弱/verb 或/conjunction 消失/verb ；/punctuation-mark 当/preposition 右/noun-of-locality 心房/noun 压力/noun 升高/verb 并/conjunction 超过/verb 左/adjective 房/noun 压力/noun 时/noun ，/punctuation-mark 则/conjunction 出现/verb 心房/noun 水平/noun 的/particle 右/noun-of-locality 向/preposition 左/noun-of-locality 分流/verb ，/punctuation-mark 检查/verb 可见/verb 口/noun 唇/noun 及/verb 甲/numeral 床/noun 紫/adjective 绀/punctuation-mark ，/punctuation-mark 严重/adjective 者/suffix 可/verb 有/verb 杵/noun 状/noun 指/verb (/punctuation-mark 趾/punctuation-mark )/punctuation-mark 。/punctuation-mark
-其体征主要是肺动脉瓣区喷射性[[<SYM>0]]，肺动脉瓣区第二音减弱或消失；当右心房压力升高并超过左房压力时，则出现心房水平的右向左分流，检查可见口唇及甲床[[<DIS><SYM>1]]，严重者可有杵状指(趾)。
+其体征主要是肺动脉瓣区喷射性[[<SYM>0]]，肺动脉瓣区第二音减弱或消失；当右心房压力升高并超过左房压力时，则出现心房水平的右向左分流，检查可见口唇及甲床[[<SYM><DIS>1]]，严重者可有杵状指(趾)。
 命名实体: 收缩期杂音 紫绀
 ==================================================
 5.2/numeral 介/verb 人/noun 治疗/verb 适应/verb 证/noun
@@ -472,7 +472,7 @@ ASD合并PS是临床较为常见的先天性心脏复合畸形，若患者出现
 命名实体: 心脏畸形
 ==================================================
 5.3.3/numeral 术前/noun 3/numeral 个/classifier 月/noun 内/noun-of-locality 患/verb 有/verb 严重/adjective 感染/verb 或/conjunction 合并/verb 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun 及/conjunction 出/verb 血性/noun 疾病/noun 者/suffix 。/punctuation-mark
-5.3.3术前3个月内患有严重[[<DIS>0]]或合并[[<DIS>1]]及[[<DIS><SYM>2]]性疾病者。
+5.3.3术前3个月内患有严重[[<DIS>0]]或合并[[<DIS>1]]及[[<SYM><DIS>2]]性疾病者。
 命名实体: 感染 感染性心内膜炎 出血
 ==================================================
 5.4/numeral 介/verb 人/noun 治疗/verb 原则/noun 与/conjunction 注意/verb 事项/noun
@@ -495,7 +495,7 @@ ASD合并PS是临床较为常见的先天性心脏复合畸形，若患者出现
 5.4.4对于巨大型ASD合并轻度PS者，可先行ASD封堵术，而后连续测量跨肺动脉瓣压力，若压力阶差<20mmHg，则不需行PBPV治疗。
 命名实体:
 ==================================================
-5.4.5/numeral 对于/preposition ASD/noun 合并/verb 重度/distinguishing-word PS/noun 或/conjunction 有/verb 继/verb 发/verb 右/noun-of-locality 室/noun 流/verb 出道/verb 肥厚/adjective 者/suffix ，/punctuation-mark 可以/verb 先行/verb PBPV/noun 治疗/verb ，/punctuation-mark 6/numeral 个/classifier 月/noun 后/noun-of-locality 复查/verb 右/noun-of-locality 心/noun 导管/noun 检查/verb 及/conjunction 右/noun-of-locality 心室/noun 造影/verb ，/punctuation-mark 并/conjunction 确定/verb 是否/verb 行/verb ASD/noun 封堵/verb 治疗/verb 。/punctuation-mark
+5.4.5/numeral 对于/preposition ASD/noun 合并/verb 重度/distinguishing-word PS/noun 或/conjunction 有/verb 继发/noun 右/noun-of-locality 室/noun 流/verb 出道/verb 肥厚/adjective 者/suffix ，/punctuation-mark 可以/verb 先行/verb PBPV/noun 治疗/verb ，/punctuation-mark 6/numeral 个/classifier 月/noun 后/noun-of-locality 复查/verb 右/noun-of-locality 心/noun 导管/noun 检查/verb 及/conjunction 右/noun-of-locality 心室/noun 造影/verb ，/punctuation-mark 并/conjunction 确定/verb 是否/verb 行/verb ASD/noun 封堵/verb 治疗/verb 。/punctuation-mark
 5.4.5对于ASD合并重度PS或有继发右室流出道肥厚者，可以先行PBPV治疗，6个月后复查[[<TRE>0]]及[[<TRE>1]]，并确定是否行ASD封堵治疗。
 命名实体: 右心导管检查 右心室造影
 ==================================================
@@ -524,7 +524,7 @@ ASD合并PS是临床较为常见的先天性心脏复合畸形，若患者出现
 命名实体:
 ==================================================
 ASD/noun 合并/verb 左/adjective 房室/noun 瓣/classifier 狭窄/adjective 又/adverb 称/verb 鲁藤/noun 巴/distinguishing-word 赫/classifier 综合征/noun (/punctuation-mark Lutembacher/noun ’/punctuation-mark s/verb syndrome/noun )/punctuation-mark ，/punctuation-mark 是/verb 一/numeral 临床/verb 少见/adjective 的/particle 心脏/noun 复合/verb 畸形/noun 。/punctuation-mark
-ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syndrome)，是一临床少见的心脏复合畸形。
+ASD合并左房室瓣狭窄又称鲁藤巴赫[[<SYM><DIS>0]](Lutembacher’s syndrome)，是一临床少见的心脏复合畸形。
 命名实体: 综合征
 ==================================================
 左/adjective 房室/noun 瓣/classifier 狭窄/adjective 多数/numeral 为/preposition 风湿热/noun 后/noun-of-locality 遗留/verb 的/particle 风湿/noun 性/noun 左/noun-of-locality 房室/noun 瓣/classifier 狭窄/adjective 。/punctuation-mark
@@ -540,7 +540,7 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 命名实体:
 ==================================================
 鲁登巴赫/noun 综合征/noun 患者/noun 由于/conjunction 左/adjective 房室/noun 瓣/classifier 狭窄/adjective ，/punctuation-mark 使/verb 左/adjective 心房/noun 血液/noun 流/verb 人/noun 左/noun-of-locality 心室/noun 受阻/verb ，/punctuation-mark 导致/verb 左/adjective 心房/noun 压力/noun 升高/verb ，/punctuation-mark 促使/verb 大量/numeral 血液/noun 经/preposition ASD/noun 分流/verb 至/preposition 右/noun-of-locality 心房/noun ，/punctuation-mark 使/verb 右/noun-of-locality 心室/noun 负荷/noun 加重/verb ，/punctuation-mark 肺/noun 血流/noun 量/noun 显著/adjective 增加/verb ，/punctuation-mark 可/conjunction 较/adverb 早/adjective 出现/verb 肺动脉/noun 高压/noun 。/punctuation-mark
-鲁登巴赫[[<DIS><SYM>0]]患者由于左房室瓣狭窄，使左心房血液流人左心室受阻，导致左心房压力升高，促使大量血液经ASD分流至右心房，使右心室负荷加重，肺血流量显著增加，可较早出现[[<DIS>1]]。
+鲁登巴赫[[<SYM><DIS>0]]患者由于左房室瓣狭窄，使左心房血液流人左心室受阻，导致左心房压力升高，促使大量血液经ASD分流至右心房，使右心室负荷加重，肺血流量显著增加，可较早出现[[<DIS>1]]。
 命名实体: 综合征 肺动脉高压
 ==================================================
 其/pronoun 临床/verb 特点/noun 是/verb ASD/noun 与/conjunction 左/adjective 房室/noun 瓣/classifier 狭窄/adjective 的/particle 体/noun 征/verb 共存/verb ，/punctuation-mark 心尖/noun 区/noun 第一/numeral 心音/noun 亢进/verb ，/punctuation-mark 可/conjunction 闻/verb 及/conjunction 开/verb 瓣/classifier 音/noun 及/conjunction 舒张/verb 期/noun 隆隆/onomatopoeia 样/noun 杂音/noun ；/punctuation-mark 肺动脉/noun 瓣/classifier 区/noun 第二/numeral 音/noun 较/adverb 单纯/adjective 左/adjective 房室/noun 瓣/classifier 狭窄/adjective 时/noun 响/verb ，/punctuation-mark 并/conjunction 伴/verb “/punctuation-mark 固定/adjective ”/punctuation-mark 性/noun 分裂/verb 。/punctuation-mark
@@ -656,7 +656,7 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 命名实体:
 ==================================================
 6.5.2.4/numeral 球/noun 囊/noun 导管/noun 人/noun 左/noun-of-locality 心室/noun 退出/verb “/punctuation-mark 二/numeral 圈/classifier 半/numeral ”/punctuation-mark 左/noun-of-locality 房/noun 导/verb 丝/noun ，/punctuation-mark 更换/verb “/punctuation-mark 弯/verb 头/noun ”/punctuation-mark 导向/noun 探/verb 条/classifier ，/punctuation-mark 操纵/verb 球/noun 囊/noun 导管/noun 使/verb 之/particle 进/verb 人/noun 左/noun-of-locality 心室/noun (/punctuation-mark 此时/pronoun 可/verb 出现/verb 室/noun 性/suffix 早/adjective 搏/verb )/punctuation-mark 。/punctuation-mark
-6.5.2.4球囊导管人左心室退出“二圈半”左房导丝，更换“弯头”导向探条，操纵球囊导管使之进人左心室(此时可出现[[<DIS><SYM>0]])。
+6.5.2.4球囊导管人左心室退出“二圈半”左房导丝，更换“弯头”导向探条，操纵球囊导管使之进人左心室(此时可出现[[<SYM><DIS>0]])。
 命名实体: 室性早搏
 ==================================================
 6.5.2.5/numeral 将/adverb 用/preposition 生理/noun 盐水/noun 稀释/verb 后/noun-of-locality 的/particle 对比/verb 剂/classifier (/punctuation-mark 对比/verb 剂/classifier 与/preposition 生理/noun 盐水/noun 的/particle 比例/noun 为/preposition 1：3/numeral )/punctuation-mark 注/verb 人/noun 球/noun 囊/noun 并/conjunction 使/verb 远/adjective 端/verb 球/noun 囊/noun 扩张/verb ，/punctuation-mark 后/noun-of-locality 轻轻/adverb 回/verb 拉/verb 至/preposition 左/adjective 房室/noun 瓣/classifier 口/noun 处/verb ，/punctuation-mark 并/conjunction 由/preposition 助手/noun 迅速/adjective 注/verb 人/noun 剩余/verb 对比/verb 剂/classifier 快速/adverb 充盈/verb 近/verb 端/verb 球/noun 囊/noun ，/punctuation-mark 使/verb 球/noun 囊/noun 充盈/verb 呈/verb 亚/distinguishing-word 铃/noun 状/noun ；/punctuation-mark 然后/conjunction 迅速/adjective 回/verb 抽/verb 对比/verb 剂/classifier 排/verb 空/adjective 球/noun 囊/noun ，/punctuation-mark 并/conjunction 将/preposition 球/noun 囊/noun 导管/noun 退/verb 至/preposition 左/adjective 心房/noun 。/punctuation-mark
@@ -700,7 +700,7 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 命名实体: 室性心律失常
 ==================================================
 对/preposition 室/noun 性/suffix 早/adjective 搏/verb 可/verb 不/adverb 予/verb 处理/verb ；/punctuation-mark 如/conjunction 发生/verb 室/noun 性/noun 心动/verb 过速/adjective 应/verb 迅速/adjective 将/preposition 球/noun 囊/noun 导管/noun 退/verb 至/preposition 左/adjective 心房/noun ，/punctuation-mark 以防/verb 室/noun 颤/verb 。/punctuation-mark
-对[[<DIS><SYM>0]]可不予处理；如发生[[<DIS><SYM>1]]应迅速将球囊导管退至左心房，以防[[<DIS><SYM>2]]。
+对[[<SYM><DIS>0]]可不予处理；如发生[[<SYM><DIS>1]]应迅速将球囊导管退至左心房，以防[[<SYM><DIS>2]]。
 命名实体: 室性早搏 室性心动过速 室颤
 ==================================================
 6.5.4.2—/numeral 过/verb 性/noun 脑/noun 栓塞/noun ：/punctuation-mark 可/verb 因/preposition 左/adjective 房/noun 内/noun-of-locality 血栓/noun 脱落/verb 或/conjunction 手术/noun 操作/verb 过程/noun 中/noun-of-locality 抗/verb 凝/verb 不/adverb 充分/adjective 或/conjunction 气/noun 栓/noun 引起/verb ，/punctuation-mark 发生率/noun 0.39%/numeral ~/punctuation-mark 2.2%/numeral 。/punctuation-mark
@@ -708,7 +708,7 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 命名实体: 脑栓塞 血栓脱落
 ==================================================
 预防/verb ：/punctuation-mark ①/numeral 术前/noun 仔细/adjective 检查/verb 心脏/noun 超声/noun ，/punctuation-mark 以/preposition 除外/verb 左/noun-of-locality 房/noun 血栓/noun ；/punctuation-mark ②/numeral 对/preposition 合并/verb 心房/noun 颤动/verb 患者/noun ，/punctuation-mark 用/preposition 华法/noun 林抗凝/noun 4/numeral ~/punctuation-mark 6/numeral 周/classifier ，/punctuation-mark 而后/adverb 再行/adverb PBMV/noun 治疗/verb ；/punctuation-mark ③/numeral PBMV/noun 操作/verb 时/noun 尽量/adverb 使/verb 球/noun 囊/noun 远离/verb 左/adjective 心/noun 耳/noun ;/punctuation-mark ④/numeral 术中/noun 充分/adjective 抗/verb 凝/verb 和/conjunction 排/verb 尽/verb 气体/noun 。/punctuation-mark
-预防：①术前仔细检查心脏超声，以除外左房血栓；②对合并[[<DIS><SYM>0]]患者，用[[<MED>1]]抗凝4~6周，而后再行PBMV治疗；③PBMV操作时尽量使球囊远离左心耳;④术中充分抗凝和排尽气体。
+预防：①术前仔细检查心脏超声，以除外左房血栓；②对合并[[<SYM><DIS>0]]患者，用[[<MED>1]]抗凝4~6周，而后再行PBMV治疗；③PBMV操作时尽量使球囊远离左心耳;④术中充分抗凝和排尽气体。
 命名实体: 心房颤动 华法林
 ==================================================
 6.5.4.3/numeral 急性/distinguishing-word 心脏/noun 压/verb 塞/verb ：/punctuation-mark 多/numeral 由于/conjunction 穿/verb 剌/verb 房间/noun 隔/verb 或/conjunction 球/noun 囊/noun 操作/verb 过程/noun 中/noun-of-locality 剌/verb 破/verb 左/adjective 房/noun 壁/noun 所/particle 致/verb ，/punctuation-mark 国内/locative-word 报道/verb 发生率/noun 为/preposition 0.25%/numeral ~/punctuation-mark 1.71%/numeral 不等/verb 。/punctuation-mark
@@ -716,7 +716,7 @@ ASD合并左房室瓣狭窄又称鲁藤巴赫[[<DIS><SYM>0]](Lutembacher’s syn
 命名实体: 心脏压塞
 ==================================================
 鲁登巴赫/noun 综合征/noun 患者/noun 因/preposition ASD/noun 的/particle 存在/verb 而/conjunction 不/adverb 需/verb 穿/verb 剌/verb 房/noun 间隔/noun ，/punctuation-mark 故/conjunction 不/adverb 易/adjective 发生/verb 本/pronoun 并发症/noun 。/punctuation-mark
-鲁登巴赫[[<DIS><SYM>0]]患者因ASD的存在而不需穿剌房间隔，故不易发生本并发症。
+鲁登巴赫[[<SYM><DIS>0]]患者因ASD的存在而不需穿剌房间隔，故不易发生本并发症。
 命名实体: 综合征
 ==================================================
 6.5.4.4/numeral 左/adjective 房室/noun 瓣/noun 关闭/verb 不/adverb 全/adjective ：/punctuation-mark PBMV/noun 后/noun-of-locality 重度/adverb 左/adjective 房室/noun 瓣/noun 关闭/verb 不/adverb 全/adjective 的/particle 发生率/noun 为/preposition 0.37%/numeral ~/punctuation-mark 1.21%/numeral (/punctuation-mark 国内/locative-word 报道/verb )/punctuation-mark 及/conjunction 3.3%/numeral (/punctuation-mark 国外/locative-word 报道/verb )/punctuation-mark 不等/verb 。/punctuation-mark

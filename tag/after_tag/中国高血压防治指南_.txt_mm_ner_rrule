@@ -25,7 +25,7 @@
 实体关系: 
 ==================================================
 但/conjunction 治疗/verb 高血压/noun 取得/verb 的/particle 效益/noun 是/verb 某种/pronoun 药物/noun 的/particle 特殊/adjective 作用/noun 而/conjunction 不仅/conjunction 是/verb 血压/noun 降低/verb 本身/pronoun 的/particle 证据/noun 也/adverb 正/adverb 在/preposition 积累/verb ；/punctuation-mark ▲/punctuation-mark 高血压/noun 药物/noun 治疗/verb 取得/verb 的/particle 效益/noun ，/punctuation-mark 除/preposition 降低/verb 血压/noun 外/noun-of-locality ，/punctuation-mark 某些/pronoun 药物/noun 是否/verb 还/adverb 另/adverb 有/verb 作用/noun ？/punctuation-mark 资料/noun 在/preposition 积累/verb 中/noun-of-locality 。/punctuation-mark
-但治疗[[<DIS>0]]取得的效益是某种药物的特殊作用而不仅是血压降低本身的证据也正在积累；▲[[<DIS>0]]药物治疗取得的效益，除降[[<DIS><SYM>1]]外，某些药物是否还另有作用？资料在积累中。
+但治疗[[<DIS>0]]取得的效益是某种药物的特殊作用而不仅是血压降低本身的证据也正在积累；▲[[<DIS>0]]药物治疗取得的效益，除降[[<SYM><DIS>1]]外，某些药物是否还另有作用？资料在积累中。
 命名实体: 高血压 低血压
 实体关系: 
 ==================================================
@@ -35,12 +35,12 @@ HOPE研究似提示有此可能。
 实体关系: 
 ==================================================
 5.4.1/numeral 降压/verb 药物/noun 治疗/verb 原则/noun ：/punctuation-mark 药物/noun 治疗/verb 降低/verb 血压/noun 可以/verb 有效/adjective 地/particle 降低/verb 心血管/noun 并发症/noun 的/particle 发病率/noun 和/conjunction 死亡率/noun ，/punctuation-mark 防止/verb 脑/noun 卒/noun 中/noun-of-locality 、/punctuation-mark 冠心病/noun 、/punctuation-mark 心力衰竭/noun 和/conjunction 肾病/noun 的/particle 发生/verb 和/conjunction 发展/verb 。/punctuation-mark
-5.4.1降压药物治疗原则：药物治疗降[[<DIS><SYM>0]]可以有效地降低心血管并发症的发病率和死亡率，防止[[<DIS>1]]、[[<DIS>2]]、[[<DIS><SYM>3]]和[[<DIS>4]]的发生和发展。
+5.4.1降压药物治疗原则：药物治疗降[[<SYM><DIS>0]]可以有效地降低心血管并发症的发病率和死亡率，防止[[<DIS>1]]、[[<DIS>2]]、[[<SYM><DIS>3]]和[[<DIS>4]]的发生和发展。
 命名实体: 低血压 脑卒中 冠心病 心力衰竭 肾病
 实体关系: 
 ==================================================
 目前/time-word 用于/verb 治疗/verb 高血压/noun 的/particle 药物/noun 品种/noun 繁多/adjective ，/punctuation-mark 作用/noun 各异/status-word ，/punctuation-mark 但/conjunction 其/pronoun 治疗/verb 高血压/noun 的/particle 共同/distinguishing-word 指标/noun 为/preposition 降低/verb 血压/noun 。/punctuation-mark
-目前用于治疗[[<DIS>0]]的药物品种繁多，作用各异，但其治疗[[<DIS>0]]的共同指标为降[[<DIS><SYM>1]]。
+目前用于治疗[[<DIS>0]]的药物品种繁多，作用各异，但其治疗[[<DIS>0]]的共同指标为降[[<SYM><DIS>1]]。
 命名实体: 高血压 低血压
 实体关系: 
 ==================================================
@@ -50,7 +50,7 @@ HOPE研究似提示有此可能。
 实体关系: 
 ==================================================
 如/verb 有效/adjective ，/punctuation-mark 可以/verb 根据/preposition 年龄/noun 和/conjunction 反/verb 应/verb 逐步/adverb 递增/verb 剂量/noun 以/preposition 获得/verb 最佳/status-word 的/particle 疗效/noun ；/punctuation-mark (/punctuation-mark 2/numeral )/punctuation-mark 为了/preposition 有效/adjective 地/particle 防止/verb 靶/classifier 器官/noun 损害/verb ，/punctuation-mark 要求/verb 一/numeral 天/classifier 24/numeral 小时/noun 内/noun-of-locality 降压/verb 稳定/adjective ，/punctuation-mark 并/conjunction 能/verb 防止/verb 从/preposition 夜间/time-word 较/preposition 低血压/noun 到/preposition 清晨/time-word 血压/noun 突然/adjective 升高/verb 而/conjunction 导致/verb 猝死/verb 、/punctuation-mark 脑/noun 卒/adverb 中和/verb 心脏病/noun 发作/verb 。/punctuation-mark
-如有效，可以根据年龄和反应逐步递增剂量以获得最佳的疗效；(2)为了有效地防止靶器官损害，要求一天24小时内降压稳定，并能防止从夜间较[[<DIS><SYM>0]]到清晨血压突然升高而导致[[<DIS><SYM>1]]、[[<DIS>2]]和[[<DIS>3]]发作。
+如有效，可以根据年龄和反应逐步递增剂量以获得最佳的疗效；(2)为了有效地防止靶器官损害，要求一天24小时内降压稳定，并能防止从夜间较[[<SYM><DIS>0]]到清晨血压突然升高而导致[[<SYM><DIS>1]]、[[<DIS>2]]和[[<DIS>3]]发作。
 命名实体: 低血压 猝死 脑卒中 心脏病
 实体关系: 
 ==================================================
@@ -120,12 +120,12 @@ HOPE研究似提示有此可能。
 实体关系: <0,MED-DIS|+,2>
 ==================================================
 但/conjunction 痛风/noun 患者/noun 禁用/verb ，/punctuation-mark 糖尿病/noun 和/conjunction 高/adjective 脂/punctuation-mark 血/noun 症/noun 患者/noun 慎/adjective 用/verb 。/punctuation-mark
-但[[<DIS><SYM>0]]患者禁用，[[<DIS>1]]和[[<DIS>2]]患者慎用。
+但[[<SYM><DIS>0]]患者禁用，[[<DIS>1]]和[[<DIS>2]]患者慎用。
 命名实体: 痛风 糖尿病 高脂血症
 实体关系: 
 ==================================================
 小/adjective 剂量/noun 可以/verb 避免/verb 低/adjective 血/noun 钾/noun 、/punctuation-mark 糖/noun 耐/verb 量/noun 降低/verb 和/conjunction 心律/noun 失常/adjective 等/particle 不良/adjective 反应/verb 。/punctuation-mark
-小剂量可以避免[[<SYM>0]]、[[<SYM>1]]和[[<DIS><SYM>2]]等不良反应。
+小剂量可以避免[[<SYM>0]]、[[<SYM>1]]和[[<SYM><DIS>2]]等不良反应。
 命名实体: 低血钾 糖耐量降低 心律失常
 实体关系: 
 ==================================================
@@ -140,7 +140,7 @@ HOPE研究似提示有此可能。
 实体关系: 
 ==================================================
 5.4.4.2/numeral β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier ：/punctuation-mark β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier 主要/adverb 用于/verb 轻/adjective 中度/distinguishing-word 高血压/noun ，/punctuation-mark 尤其/adverb 在/preposition 静/adjective 息/verb 时/noun 心/noun 率/suffix 较/adverb 快/adjective (/punctuation-mark >/punctuation-mark 80/numeral 次/classifier //punctuation-mark 分/verb )/punctuation-mark 的/particle 中青年/noun 患者/noun 或/conjunction 合并/verb 心绞痛/noun 时/noun 。/punctuation-mark
-5.4.4.2 [[<MED>1]]：[[<MED>1]]主要用于[[<DIS>2]]，尤其在静息时心率较快(>80次/分)的中青年患者或合并[[<DIS><SYM>0]]时。
+5.4.4.2 [[<MED>1]]：[[<MED>1]]主要用于[[<DIS>2]]，尤其在静息时心率较快(>80次/分)的中青年患者或合并[[<SYM><DIS>0]]时。
 命名实体: 心绞痛 β-阻滞剂 轻中度高血压
 实体关系: <1,MED-DIS|+,2>
 ==================================================
@@ -170,12 +170,12 @@ HOPE研究似提示有此可能。
 实体关系: <3,MED-DIS|+,0>
 ==================================================
 心脏/noun 传导/verb 阻滞/verb 和/conjunction 心力衰竭/noun 患者/noun 禁用/verb 非/distinguishing-word 二/numeral 氢/noun 吡啶/noun 类/classifier 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier 。/punctuation-mark
-[[<DIS>0]]和[[<DIS><SYM>1]]患者禁用[[<MED>2]]。
+[[<DIS>0]]和[[<SYM><DIS>1]]患者禁用[[<MED>2]]。
 命名实体: 心脏传导阻滞 心力衰竭 非二氢吡啶类钙拮抗剂
 实体关系: <2,MED-DIS|-,1> <2,MED-DIS|-,0>
 ==================================================
 不/adverb 稳定性/noun 心绞痛/noun 和/conjunction 急性/distinguishing-word 心肌/noun 梗/noun 死/verb 时/noun 禁用/verb 速效/noun 二/numeral 氢/noun 吡啶/noun 类/classifier 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier 。/punctuation-mark
-[[<DIS><SYM>0]]和[[<DIS>1]]时禁用[[<MED>2]]。
+[[<SYM><DIS>0]]和[[<DIS>1]]时禁用[[<MED>2]]。
 命名实体: 不稳定性心绞痛 急性心肌梗死 速效二氢吡啶类钙拮抗剂
 实体关系: <2,MED-DIS|-,1> <2,MED-DIS|-,0>
 ==================================================
@@ -195,7 +195,7 @@ HOPE研究似提示有此可能。
 实体关系: 
 ==================================================
 5.4.44/numeral 血管/noun 紧张/adjective 素/adverb 转换/verb 酶/noun 抑/verb 制剂/noun ：/punctuation-mark 血管/noun 紧张/adjective 素/adverb 转换/verb 酶/noun 抑/verb 制剂/noun 主要/adverb 用于/verb 高血压/noun 合并/verb 糖尿病/noun ，/punctuation-mark 或者/conjunction 并发/verb 心脏/noun 功能/noun 不/adverb 全/adjective 、/punctuation-mark 肾脏/noun 损害/verb 有/verb 蛋白尿/noun 的/particle 患者/noun 。/punctuation-mark
-5.4.44[[<MED>0]]：[[<MED>0]]主要用于[[<DIS>3]]，或者并发心脏功能不全、[[<DIS>1]]有[[<DIS><SYM>2]]的患者。
+5.4.44[[<MED>0]]：[[<MED>0]]主要用于[[<DIS>3]]，或者并发心脏功能不全、[[<DIS>1]]有[[<SYM><DIS>2]]的患者。
 命名实体: 血管紧张素转换酶抑制剂 肾脏损害 蛋白尿 高血压合并糖尿病
 实体关系: <0,MED-DIS|+,3>
 ==================================================
@@ -214,13 +214,13 @@ HOPE研究似提示有此可能。
 命名实体: 血管紧张素II受体拮抗剂 紧张 氯沙坦 缬沙坦
 实体关系: 
 ==================================================
-适用/verb 和/conjunction 禁用/verb 对象/noun 与/preposition ACE/noun -/punctuation-mark I/pronoun 相同/adjective ，/punctuation-mark 目前/time-word 主要/adverb 用于/verb ACE/noun -/punctuation-mark I/pronoun 治疗/verb 后/noun-of-locality 发生/verb 干咳/verb 的/particle 患者/noun 。/punctuation-mark
+适用/verb 和/conjunction 禁用/verb 对象/noun 与/preposition ACE/noun -/punctuation-mark I/noun 相同/adjective ，/punctuation-mark 目前/time-word 主要/adverb 用于/verb ACE/noun -/punctuation-mark I/noun 治疗/verb 后/noun-of-locality 发生/verb 干咳/verb 的/particle 患者/noun 。/punctuation-mark
 适用和禁用对象与ACE-I相同，目前主要用于ACE-I治疗后发生[[<SYM>0]]的患者。
 命名实体: 干咳
 实体关系: 
 ==================================================
 5.4.5/numeral 降压/verb 药/noun 的/particle 联合/verb 应用/verb ：/punctuation-mark 近年来/adverb 研究/verb 认为/verb ，/punctuation-mark 为了/preposition 最/adverb 大/adjective 程度/noun 取得/verb 治疗/verb 高血压/noun 的/particle 疗效/noun ，/punctuation-mark 就/adverb 要求/verb 更/adverb 大/adjective 程度/noun 地/particle 降低/verb 血压/noun ，/punctuation-mark 而/conjunction 做到/verb 这/pronoun 一点/numeral 单/distinguishing-word 药/noun 治疗/verb 常/noun 力/noun 不/adverb 能/verb 及/conjunction ，/punctuation-mark 或是/conjunction 剂量/noun 增大/verb 而/conjunction 易/adjective 出现/verb 不良/adjective 反应/verb 。/punctuation-mark
-5.4.5降压药的联合应用：近年来研究认为，为了最大程度取得治疗[[<DIS>0]]的疗效，就要求更大程度地降[[<DIS><SYM>1]]，而做到这一点单药治疗常力不能及，或是剂量增大而易出现不良反应。
+5.4.5降压药的联合应用：近年来研究认为，为了最大程度取得治疗[[<DIS>0]]的疗效，就要求更大程度地降[[<SYM><DIS>1]]，而做到这一点单药治疗常力不能及，或是剂量增大而易出现不良反应。
 命名实体: 高血压 低血压
 实体关系: 
 ==================================================
@@ -244,7 +244,7 @@ HOPE研究似提示有此可能。
 命名实体:
 实体关系: 
 ==================================================
-现今/time-word 认为/verb 比较/adverb 合理/adjective 的/particle 配/verb 伍/noun 为/verb ：/punctuation-mark (/punctuation-mark 1/numeral )/punctuation-mark ACE/noun -/punctuation-mark I/pronoun (/punctuation-mark 或/conjunction 血管/noun 紧张/adjective 素/noun II/noun 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier )/punctuation-mark 与/conjunction 利/noun 尿/noun 药/noun ；/punctuation-mark (/punctuation-mark 2/numeral )/punctuation-mark 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier 与/preposition β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier ；/punctuation-mark (/punctuation-mark 3/numeral )/punctuation-mark ACE/noun -/punctuation-mark I/pronoun 与/conjunction 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier ;/punctuation-mark (/punctuation-mark 4/numeral )/punctuation-mark 利/noun 尿/noun 药/noun 与/preposition β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier 。/punctuation-mark
+现今/time-word 认为/verb 比较/adverb 合理/adjective 的/particle 配/verb 伍/noun 为/verb ：/punctuation-mark (/punctuation-mark 1/numeral )/punctuation-mark ACE/noun -/punctuation-mark I/noun (/punctuation-mark 或/conjunction 血管/noun 紧张/adjective 素/noun II/noun 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier )/punctuation-mark 与/conjunction 利/noun 尿/noun 药/noun ；/punctuation-mark (/punctuation-mark 2/numeral )/punctuation-mark 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier 与/preposition β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier ；/punctuation-mark (/punctuation-mark 3/numeral )/punctuation-mark ACE/noun -/punctuation-mark I/noun 与/conjunction 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier ;/punctuation-mark (/punctuation-mark 4/numeral )/punctuation-mark 利/noun 尿/noun 药/noun 与/preposition β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier 。/punctuation-mark
 现今认为比较合理的配伍为：(1)ACE-I(或[[<MED>0]])与[[<MED>1]]；(2)[[<MED>3]]与[[<MED>2]]；(3)ACE-I与[[<MED>3]];(4)[[<MED>1]]与[[<MED>2]]。
 命名实体: 血管紧张素II受体拮抗剂 利尿药 β-阻滞剂 钙拮抗剂
 实体关系: 
@@ -294,8 +294,8 @@ HOPE研究似提示有此可能。
 命名实体: 血小板 阿司匹林 冠心病 脑血管病 脑卒中 抗血小板药物
 实体关系: 
 ==================================================
-根据/preposition HOT/adjective 研究/verb ，/punctuation-mark 如果/conjunction 血压/noun 己/pronoun 得到/verb 严格/adjective 的/particle 控制/verb ，/punctuation-mark 或者/conjunction 是/verb 高危/distinguishing-word 冠心病/noun 的/particle 高血压/noun 病人/noun ，/punctuation-mark 且/conjunction 没有/verb 胃肠/noun 道/noun 和/conjunction 其他/pronoun 部位/noun 出血/verb 危险/adjective ，/punctuation-mark 可/conjunction 推荐/verb 较/adverb 小/adjective 剂量/noun 的/particle 阿司匹林/noun 治疗/verb 。/punctuation-mark
-根据HOT研究，如果血压己得到严格的控制，或者是高危[[<DIS>0]]的[[<DIS>1]]人，且没有胃肠道和其他部位[[<DIS><SYM>2]]危险，可推荐较小剂量的[[<MED>3]]治疗。
+根据/preposition HOT/noun 研究/verb ，/punctuation-mark 如果/conjunction 血压/noun 己/pronoun 得到/verb 严格/adjective 的/particle 控制/verb ，/punctuation-mark 或者/conjunction 是/verb 高危/distinguishing-word 冠心病/noun 的/particle 高血压/noun 病人/noun ，/punctuation-mark 且/conjunction 没有/verb 胃肠/noun 道/noun 和/conjunction 其他/pronoun 部位/noun 出血/verb 危险/adjective ，/punctuation-mark 可/conjunction 推荐/verb 较/adverb 小/adjective 剂量/noun 的/particle 阿司匹林/noun 治疗/verb 。/punctuation-mark
+根据HOT研究，如果血压己得到严格的控制，或者是高危[[<DIS>0]]的[[<DIS>1]]人，且没有胃肠道和其他部位[[<SYM><DIS>2]]危险，可推荐较小剂量的[[<MED>3]]治疗。
 命名实体: 冠心病 高血压病 出血 阿司匹林
 实体关系: 
 ==================================================
@@ -325,7 +325,7 @@ HOPE研究似提示有此可能。
 实体关系: 
 ==================================================
 β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier 能/verb 一/numeral 过/verb 性/noun 增高/verb 甘油/noun 三/numeral 酷/adjective ，/punctuation-mark 并/conjunction 降低/verb 高/adjective 密度/noun 脂/punctuation-mark 蛋白/noun 胆固醇/noun ，/punctuation-mark 但/conjunction 仍/adverb 显示/verb 出/verb 能/verb 减少/verb 猝死/verb 和/conjunction 总/distinguishing-word 死亡率/noun ，/punctuation-mark 以及/conjunction 防止/verb 心肌/noun 梗/noun 死/verb 再/adverb 发/verb 的/particle 作用/noun 。/punctuation-mark
-[[<MED>4]]能一过性增高[[<MED>0]]三酷，并降低高密度脂蛋白[[<DIS>1]]，但仍显示出能减少[[<DIS><SYM>2]]和总死亡率，以及防止[[<DIS><SYM>3]]再发的作用。
+[[<MED>4]]能一过性增高[[<MED>0]]三酷，并降低高密度脂蛋白[[<DIS>1]]，但仍显示出能减少[[<SYM><DIS>2]]和总死亡率，以及防止[[<SYM><DIS>3]]再发的作用。
 命名实体: 甘油 胆固醇 猝死 心肌梗死 β-阻滞剂
 实体关系: 
 ==================================================
@@ -335,13 +335,13 @@ HOPE研究似提示有此可能。
 实体关系: 
 ==================================================
 经/preposition 饮食/noun 调控/verb 后/noun-of-locality ，/punctuation-mark 胆固醇/noun 仍/adverb 增高/verb 者/suffix ，/punctuation-mark 首选/verb HMG/noun -/punctuation-mark CoA/noun 还原/verb 酶/noun 抑/verb 制剂/noun (/punctuation-mark 他汀类/noun )/punctuation-mark 治疗/verb ，/punctuation-mark 随着/preposition 低/adjective 密度/noun 脂/punctuation-mark 蛋白/noun 胆固醇/noun 的/particle 降低/verb ，/punctuation-mark 有/verb 防治/verb 冠心病/noun 的/particle 作用/noun 。/punctuation-mark
-经饮食调控后，[[<DIS>0]]仍增高者，首选HMG-CoA还原酶抑制剂(他汀类)治疗，随着低密度脂蛋白[[<DIS>0]]的降低，有防治[[<DIS>1]]的作用。
-命名实体: 胆固醇 冠心病
+经饮食调控后，[[<DIS>0]]仍增高者，首选HMG-CoA还原酶抑制剂([[<MED>1]])治疗，随着低密度脂蛋白[[<DIS>0]]的降低，有防治[[<DIS>2]]的作用。
+命名实体: 胆固醇 他汀类 冠心病
 实体关系: 
 ==================================================
 血/noun 甘油/noun 三/numeral 酯/noun 增高/verb 者/suffix ，/punctuation-mark 可/conjunction 首选/verb 贝/noun 特/adjective 类/noun 药物/noun 治疗/verb ，/punctuation-mark 也/adverb 可/verb 选用/verb 其他/pronoun 种类/noun 的/particle 调/noun 血脂/noun 药物/noun 。/punctuation-mark
-血[[<MED>0]]三酯增高者，可首选贝特类药物治疗，也可选用其他种类的调血脂药物。
-命名实体: 甘油
+血[[<MED>0]]三酯增高者，可首选[[<MED>1]]药物治疗，也可选用其他种类的调血脂药物。
+命名实体: 甘油 贝特类
 实体关系: 
 ==================================================
 5.5/numeral 治疗/verb 随/adverb 诊/verb
@@ -479,7 +479,7 @@ HOPE研究似提示有此可能。
 命名实体: 老年人高血压 收缩期高血压 脑卒中 冠心病
 实体关系: 
 ==================================================
-6.1.2/numeral 老年人/noun 降压/verb 治疗/verb 用/preposition 药/noun ：/punctuation-mark 大量/numeral 随机/adverb 化/verb 临床/verb 试验/verb 均/adverb 已/adverb 明确/adjective ，/punctuation-mark 各/pronoun 年龄段/noun (/punctuation-mark </punctuation-mark 80/numeral 岁/classifier )/punctuation-mark 高血压/noun 病人/noun 均/adverb 受益/verb 于/preposition 利尿剂/noun 、/punctuation-mark 钙/noun 拮/punctuation-mark 抗/verb 剂/noun 、/punctuation-mark β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/noun 、/punctuation-mark ACE/noun -/punctuation-mark I/pronoun 等/particle 抗/verb 高血压/noun 药物/noun 的/particle 治疗/verb 。/punctuation-mark
+6.1.2/numeral 老年人/noun 降压/verb 治疗/verb 用/preposition 药/noun ：/punctuation-mark 大量/numeral 随机/adverb 化/verb 临床/verb 试验/verb 均/adverb 已/adverb 明确/adjective ，/punctuation-mark 各/pronoun 年龄段/noun (/punctuation-mark </punctuation-mark 80/numeral 岁/classifier )/punctuation-mark 高血压/noun 病人/noun 均/adverb 受益/verb 于/preposition 利尿剂/noun 、/punctuation-mark 钙/noun 拮/punctuation-mark 抗/verb 剂/noun 、/punctuation-mark β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/noun 、/punctuation-mark ACE/noun -/punctuation-mark I/noun 等/particle 抗/verb 高血压/noun 药物/noun 的/particle 治疗/verb 。/punctuation-mark
 6.1.2老年人降压治疗用药：大量随机化临床试验均已明确，各年龄段(<80岁)[[<DIS>0]]人均受益于[[<MED>1]]、[[<MED>3]]、[[<MED>2]]、[[<MED>5]]等[[<MED>4]]的治疗。
 命名实体: 高血压病 利尿剂 β-阻滞剂 钙拮抗剂 抗高血压药物 ACE-I
 实体关系: 
@@ -494,18 +494,18 @@ STONE研究应用的是国产的[[<MED>0]]，Syst-China研究则应用国产的[
 命名实体:
 实体关系: 
 ==================================================
-STOP/verb -/punctuation-mark I/pronoun 和/conjunction STOP/verb -/punctuation-mark II/noun 选/verb 入/verb 病人/noun 的/particle 年龄/noun 为/preposition 70/numeral 至/preposition 84/numeral 岁/classifier ，/punctuation-mark 但/conjunction 80/numeral 岁/classifier 以上/noun-of-locality 者/suffix 不/adverb 多/adjective 。/punctuation-mark
+STOP/noun -/punctuation-mark I/noun 和/conjunction STOP/noun -/punctuation-mark II/noun 选/verb 入/verb 病人/noun 的/particle 年龄/noun 为/preposition 70/numeral 至/preposition 84/numeral 岁/classifier ，/punctuation-mark 但/conjunction 80/numeral 岁/classifier 以上/noun-of-locality 者/suffix 不/adverb 多/adjective 。/punctuation-mark
 STOP-I和STOP-II选入病人的年龄为70至84岁，但80岁以上者不多。
 命名实体:
 实体关系: 
 ==================================================
-HYVET/noun 所/classifier 研究者/noun 为/preposition ≥/numeral 80/numeral 岁/classifier ，/punctuation-mark 应用/verb 的/particle 药物/noun 为/verb ACE/noun -/punctuation-mark I/pronoun 及/conjunction 利尿剂/noun ，/punctuation-mark 目前/time-word 研究/verb 正在/adverb 进行/verb 。/punctuation-mark
+HYVET/noun 所/classifier 研究者/noun 为/preposition ≥/numeral 80/numeral 岁/classifier ，/punctuation-mark 应用/verb 的/particle 药物/noun 为/verb ACE/noun -/punctuation-mark I/noun 及/conjunction 利尿剂/noun ，/punctuation-mark 目前/time-word 研究/verb 正在/adverb 进行/verb 。/punctuation-mark
 HYVET所研究者为≥ 80岁，应用的药物为ACE-I及[[<MED>0]]，目前研究正在进行。
 命名实体: 利尿剂
 实体关系: 
 ==================================================
 尚/adverb 缺乏/verb 直接/adjective 资料/noun 说明/verb 降低/verb 血压/noun 对/preposition 高龄/noun 老人/noun 的/particle 影响/verb ，/punctuation-mark 不同/adjective 的/particle 血压/noun 水平/noun 对/preposition 他们/pronoun 的/particle 预后/noun 意义/noun 亦/adverb 未/adverb 明了/verb ，/punctuation-mark 高龄/noun 老人/noun 进行/verb 降压/verb 治疗/verb 是否/verb 同样/adverb 得益/verb ？/punctuation-mark 抗/verb 高血压/noun 治疗/verb 对/preposition 高龄/noun 老人/noun 的/particle 意义/noun 如何/pronoun ？/punctuation-mark 尚/adverb 有待/verb 研究/verb 。/punctuation-mark
-尚缺乏直接资料说明降[[<DIS><SYM>0]]对高龄老人的影响，不同的血压水平对他们的预后意义亦未明了，高龄老人进行[[<TRE>2]]是否同样得益？抗[[<DIS>1]]治疗对高龄老人的意义如何？尚有待研究。
+尚缺乏直接资料说明降[[<SYM><DIS>0]]对高龄老人的影响，不同的血压水平对他们的预后意义亦未明了，高龄老人进行[[<TRE>2]]是否同样得益？抗[[<DIS>1]]治疗对高龄老人的意义如何？尚有待研究。
 命名实体: 低血压 高血压 降压治疗
 实体关系: 
 ==================================================
@@ -514,27 +514,27 @@ HYVET所研究者为≥ 80岁，应用的药物为ACE-I及[[<MED>0]]，目前研
 命名实体: 妊娠高血压
 实体关系: 
 ==================================================
-6.2.1/numeral 妊娠/verb 高血压/noun 综合征/noun ：/punctuation-mark (/punctuation-mark Pregnancy/noun Induced/verb Hypertension/noun ，/punctuation-mark PIH/noun )/punctuation-mark
+6.2.1/numeral 妊娠/verb 高血压/noun 综合征/noun ：/punctuation-mark (/punctuation-mark Pregnancy/noun Induced/noun Hypertension/noun ，/punctuation-mark PIH/noun )/punctuation-mark
 6.2.1[[<DIS>0]]：(Pregnancy Induced Hypertension，PIH)
 命名实体: 妊娠高血压综合征
 实体关系: 
 ==================================================
 6.2.1.1/numeral 定义/noun ：/punctuation-mark 妊娠/verb 20/numeral 周/classifier 后/noun-of-locality ，/punctuation-mark 孕妇/noun 发生/verb 高血压/noun ，/punctuation-mark 蛋白尿/noun 及/conjunction 水肿/noun 称为/verb 妊娠/verb 高血压/noun 综合征/noun 。/punctuation-mark
-6.2.1.1定义：妊娠20周后，孕妇发生[[<DIS>0]]，[[<DIS><SYM>1]]及[[<DIS><SYM>2]]称为[[<DIS>3]]。
+6.2.1.1定义：妊娠20周后，孕妇发生[[<DIS>0]]，[[<SYM><DIS>1]]及[[<SYM><DIS>2]]称为[[<DIS>3]]。
 命名实体: 高血压 蛋白尿 水肿 妊娠高血压综合征
 实体关系: 
 ==================================================
 高血压/noun ：/punctuation-mark 血压/noun 升高/verb 达/verb ≥/numeral 140/numeral //punctuation-mark 90mmHg/noun ，/punctuation-mark 或/conjunction 血压/noun 较/adverb 孕/verb 前/noun-of-locality 或/conjunction 孕/verb 早期/time-word 血压/noun 升高/verb ≥/numeral 25/numeral //punctuation-mark 15mm/noun Hg/noun ，/punctuation-mark 至少/adverb 二/numeral 次/classifier ，/punctuation-mark 间隔/noun 6/numeral 小时/noun ；/punctuation-mark 蛋白尿/noun ：/punctuation-mark 单/adverb 次/classifier 尿/noun 蛋白/noun 检/noun ≥/numeral 30mg/noun ，/punctuation-mark 至少/adverb 2/numeral 次/classifier ，/punctuation-mark 间隔/noun 6/numeral 小时/noun ，/punctuation-mark 或/conjunction 24/numeral 小时/classifier 尿/noun 蛋白/noun 定量/noun ≥/numeral 0.3g/noun 水肿/noun ：/punctuation-mark 体重/noun 增加/verb >/punctuation-mark 0.5kg//string 周/time-word 为/preposition 隐性/distinguishing-word 水肿/noun 。/punctuation-mark
-[[<DIS>0]]：血压升高达≥ 140/90mmHg，或血压较孕前或孕早期血压升高≥ 25/15mm Hg，至少二次，间隔6小时；[[<DIS><SYM>1]]：单次尿蛋白检≥ 30mg，至少2次，间隔6小时，或24小时尿蛋白定量≥ 0.3g[[<DIS><SYM>2]]：[[<SYM>3]]>0.5kg/周为[[<SYM>4]]。
+[[<DIS>0]]：血压升高达≥ 140/90mmHg，或血压较孕前或孕早期血压升高≥ 25/15mm Hg，至少二次，间隔6小时；[[<SYM><DIS>1]]：单次尿蛋白检≥ 30mg，至少2次，间隔6小时，或24小时尿蛋白定量≥ 0.3g[[<SYM><DIS>2]]：[[<SYM>3]]>0.5kg/周为[[<SYM>4]]。
 命名实体: 高血压 蛋白尿 水肿 体重增加 隐性水肿
 实体关系: 
 ==================================================
 按/preposition 水肿/noun 的/particle 严重/adjective 程度/noun 可/verb 分为/verb (/punctuation-mark +/numeral )/punctuation-mark ：/punctuation-mark 局限/verb 踝/punctuation-mark 部/noun 及/conjunction 小腿/noun ，/punctuation-mark (/punctuation-mark ++/numeral )/punctuation-mark ：/punctuation-mark 水肿/noun 延/verb 及/conjunction 大腿/noun ，/punctuation-mark (/punctuation-mark +++/numeral )/punctuation-mark ：/punctuation-mark 水肿/noun 延/verb 及/conjunction 会/verb 阴部/noun 及/conjunction 腹部/noun ；/punctuation-mark 妊娠/verb 高血压/noun ：/punctuation-mark 仅/adverb 有/verb 高血压/noun ，/punctuation-mark 伴/verb 或/conjunction 不/adverb 伴有/verb 水肿/noun ，/punctuation-mark 不/adverb 伴有/verb 蛋白尿/noun ；/punctuation-mark 先兆/noun 子痫/noun 是/verb 多/adjective 系统/noun 受累/verb 的/particle 情况/noun ，/punctuation-mark 主要/distinguishing-word 的/particle 母体/noun 异常/adverb 发生/verb 于/preposition 肾/noun 、/punctuation-mark 肝/noun 、/punctuation-mark 脑/noun 及/conjunction 凝/verb 血/noun 系统/noun ，/punctuation-mark 由于/conjunction 胎盘/noun 血流/noun 减少/verb 可/verb 引起/verb 胎儿/noun 生长/verb 迟缓/adjective 或/conjunction 胎/classifier 死/verb 宫内/noun-of-locality ；/punctuation-mark 轻度/distinguishing-word 先兆/noun 子痫/noun ：/punctuation-mark 有/verb 高血压/noun 并/conjunction 伴/verb 有/verb 蛋白尿/noun 的/particle 存在/verb ；/punctuation-mark 重度/distinguishing-word 先兆/noun 子痫/noun ：/punctuation-mark 血压/noun ≥/numeral 160/numeral //punctuation-mark 110mmHg/noun ；/punctuation-mark 蛋白尿/noun ≥/numeral 3/numeral 克/classifier //punctuation-mark 24/numeral 小时/noun ；/punctuation-mark 伴/verb 有/verb 头痛/adjective ，/punctuation-mark 视/verb 物/noun 不/adverb 清/adjective ，/punctuation-mark 恶心/adjective ，/punctuation-mark 呕吐/verb ，/punctuation-mark 右/noun-of-locality 上/verb 腹/noun 疼痛/adjective ；/punctuation-mark 眼底/noun 不仅/conjunction 有/verb 痉挛/verb 还有/verb 渗出/verb ，/punctuation-mark 或/conjunction 出血/verb ；/punctuation-mark 肝/noun 、/punctuation-mark 肾/noun 功能/noun 异常/adjective ，/punctuation-mark 或/conjunction 有/verb 凝/verb 血/noun 机制/noun 的/particle 异常/adjective ；/punctuation-mark 伴/verb 有心/verb 衰/adjective 或/adverb //punctuation-mark 及/conjunction 肺水肿/noun 的/particle 存在/verb ；/punctuation-mark 子痫/noun ：/punctuation-mark 妊娠/verb 高血压/noun 综合征/noun 的/particle 孕产妇/noun 发生/verb 抽搐/verb 。/punctuation-mark
-按[[<DIS><SYM>0]]的严重程度可分为(+)：局限踝部及小腿，(++)：[[<DIS><SYM>0]]延及大腿，(+++)：[[<DIS><SYM>0]]延及会阴部及腹部；[[<DIS>1]]：仅有[[<DIS>2]]，伴或不伴有[[<DIS><SYM>0]]，不伴有[[<DIS><SYM>3]]；[[<DIS><SYM>4]]是多系统受累的情况，主要的母体异常发生于肾、肝、脑及凝血系统，由于胎盘血流减少可引起胎儿生长迟缓或胎死宫内；[[<DIS>5]]：有[[<DIS>2]]并伴有[[<DIS><SYM>3]]的存在；[[<DIS>6]]：血压≥ 160/110mmHg；[[<DIS><SYM>3]]≥ 3克/24小时；伴有[[<DIS><SYM>7]]，视物不清，恶心，[[<DIS>8]]，右上腹[[<SYM>9]]；眼底不仅有[[<DIS><SYM>10]]还有渗出，或[[<DIS><SYM>11]]；肝、[[<DIS>12]]，或有凝血机制的异常；伴有[[<DIS>13]]或/及[[<DIS>14]]的存在；[[<DIS><SYM>15]]：[[<DIS>16]]的孕产妇发生[[<DIS><SYM>17]]。
+按[[<SYM><DIS>0]]的严重程度可分为(+)：局限踝部及小腿，(++)：[[<SYM><DIS>0]]延及大腿，(+++)：[[<SYM><DIS>0]]延及会阴部及腹部；[[<DIS>1]]：仅有[[<DIS>2]]，伴或不伴有[[<SYM><DIS>0]]，不伴有[[<SYM><DIS>3]]；[[<SYM><DIS>4]]是多系统受累的情况，主要的母体异常发生于肾、肝、脑及凝血系统，由于胎盘血流减少可引起胎儿生长迟缓或胎死宫内；[[<DIS>5]]：有[[<DIS>2]]并伴有[[<SYM><DIS>3]]的存在；[[<DIS>6]]：血压≥ 160/110mmHg；[[<SYM><DIS>3]]≥ 3克/24小时；伴有[[<SYM><DIS>7]]，视物不清，恶心，[[<DIS>8]]，右上腹[[<SYM>9]]；眼底不仅有[[<SYM><DIS>10]]还有渗出，或[[<SYM><DIS>11]]；肝、[[<DIS>12]]，或有凝血机制的异常；伴有[[<DIS>13]]或/及[[<DIS>14]]的存在；[[<SYM><DIS>15]]：[[<DIS>16]]的孕产妇发生[[<SYM><DIS>17]]。
 命名实体: 水肿 妊娠高血压 高血压 蛋白尿 先兆子痫 轻度先兆子痫 重度先兆子痫 头痛 呕吐 疼痛 痉挛 出血 肾功能异常 心衰 肺水肿 子痫 妊娠高血压综合征 抽搐
 实体关系: 
 ==================================================
-6.21.2/numeral 妊娠/verb 高血压/noun 综合征/noun 的/particle 处理/verb ：/punctuation-mark (/punctuation-mark 1/numeral )/punctuation-mark 加强/verb 母/noun 儿/noun 监测/verb ；/punctuation-mark 母亲/noun ：/punctuation-mark 血压/noun ，/punctuation-mark 体重/noun ，/punctuation-mark 尿/noun 量/noun ，/punctuation-mark 尿/noun 蛋白/noun ，/punctuation-mark 红细胞/noun 压/verb 积/verb ，/punctuation-mark 血小板/noun ，/punctuation-mark 肝/noun 、/punctuation-mark 肾/noun 功能/noun ，/punctuation-mark 凝/verb 血/noun 功能/noun ，/punctuation-mark 眼底/noun ；/punctuation-mark 胎儿/noun ：/punctuation-mark 子宫/noun 底/noun-of-locality 高度/adverb ，/punctuation-mark 腹/noun 围/verb ；/punctuation-mark B/onomatopoeia 超声/noun 测量/verb 胎儿/noun 双/numeral 顶/classifier 径/noun ，/punctuation-mark 腹/noun 围/verb ，/punctuation-mark 股骨/noun 长度/noun 及/conjunction 羊/noun 水量/noun ；/punctuation-mark 胎/noun 心/noun 监护/verb 无/verb 激/verb 惹/verb 试验/verb ；/punctuation-mark 前者/pronoun 阴性/noun 时/noun 做/verb 催产素/noun 激/verb 惹/verb 试验/verb ；/punctuation-mark (/punctuation-mark 2/numeral )/punctuation-mark 治疗/verb 三/numeral 项/classifier 原则/noun ：/punctuation-mark a./noun 镇静/adjective 防/verb 抽/verb 、/punctuation-mark 止/verb 抽/verb ：/punctuation-mark 常用/adjective 的/particle 药物/noun 有/verb 硫酸/noun 镁/noun ，/punctuation-mark 剂量/noun 取决于/verb 体重/noun 及/conjunction 尿/noun 量/noun 。/punctuation-mark
+6.21.2/numeral 妊娠/verb 高血压/noun 综合征/noun 的/particle 处理/verb ：/punctuation-mark (/punctuation-mark 1/numeral )/punctuation-mark 加强/verb 母/noun 儿/noun 监测/verb ；/punctuation-mark 母亲/noun ：/punctuation-mark 血压/noun ，/punctuation-mark 体重/noun ，/punctuation-mark 尿/noun 量/noun ，/punctuation-mark 尿/noun 蛋白/noun ，/punctuation-mark 红细胞/noun 压/verb 积/verb ，/punctuation-mark 血小板/noun ，/punctuation-mark 肝/noun 、/punctuation-mark 肾/noun 功能/noun ，/punctuation-mark 凝/verb 血/noun 功能/noun ，/punctuation-mark 眼底/noun ；/punctuation-mark 胎儿/noun ：/punctuation-mark 子宫/noun 底/noun-of-locality 高度/adverb ，/punctuation-mark 腹/noun 围/verb ；/punctuation-mark B/noun 超声/noun 测量/verb 胎儿/noun 双/numeral 顶/classifier 径/noun ，/punctuation-mark 腹/noun 围/verb ，/punctuation-mark 股骨/noun 长度/noun 及/conjunction 羊/noun 水量/noun ；/punctuation-mark 胎/noun 心/noun 监护/verb 无/verb 激/verb 惹/verb 试验/verb ；/punctuation-mark 前者/pronoun 阴性/noun 时/noun 做/verb 催产素/noun 激/verb 惹/verb 试验/verb ；/punctuation-mark (/punctuation-mark 2/numeral )/punctuation-mark 治疗/verb 三/numeral 项/classifier 原则/noun ：/punctuation-mark a./noun 镇静/adjective 防/verb 抽/verb 、/punctuation-mark 止/verb 抽/verb ：/punctuation-mark 常用/adjective 的/particle 药物/noun 有/verb 硫酸/noun 镁/noun ，/punctuation-mark 剂量/noun 取决于/verb 体重/noun 及/conjunction 尿/noun 量/noun 。/punctuation-mark
 6.21.2[[<DIS>0]]的处理：(1)加强母儿监测；母亲：血压，体重，尿量，尿蛋白，[[<MED>1]]压积，[[<MED>2]]，肝、肾功能，凝血功能，眼底；胎儿：子宫底高度，腹围；B超声测量胎儿双顶径，腹围，股骨长度及羊水量；胎心监护无激惹试验；前者阴性时做催产素激惹试验；(2)治疗三项原则：a.镇静防抽、止抽：常用的药物有[[<MED>3]]，剂量取决于体重及尿量。
 命名实体: 妊娠高血压综合征 红细胞 血小板 硫酸镁
 实体关系: 
@@ -544,7 +544,7 @@ HYVET所研究者为≥ 80岁，应用的药物为ACE-I及[[<MED>0]]，目前研
 命名实体: 腱反射消失
 实体关系: 
 ==================================================
-镇静剂/noun ：/punctuation-mark 常用/adjective 有/verb 冬眠/verb I/pronoun 号/noun 1/numeral //punctuation-mark 3/numeral 量/noun 肌肉/noun 注射/verb ，/punctuation-mark 6/numeral 小时/noun 1/numeral 次/classifier ；/punctuation-mark 或/conjunction 安定/verb 10mg/noun 肌肉/noun 注射/verb ，/punctuation-mark 或/conjunction 静脉/noun 缓慢/adjective 推/verb 注/noun ，/punctuation-mark 6/numeral 小时/noun 一/numeral 次/classifier ；/punctuation-mark b./noun 积极/adjective 降压/verb ：/punctuation-mark 见/verb 下/verb ；/punctuation-mark c./noun 终止/verb 妊娠/verb 。/punctuation-mark
+镇静剂/noun ：/punctuation-mark 常用/adjective 有/verb 冬眠/verb I/noun 号/noun 1/numeral //punctuation-mark 3/numeral 量/noun 肌肉/noun 注射/verb ，/punctuation-mark 6/numeral 小时/noun 1/numeral 次/classifier ；/punctuation-mark 或/conjunction 安定/verb 10mg/noun 肌肉/noun 注射/verb ，/punctuation-mark 或/conjunction 静脉/noun 缓慢/adjective 推/verb 注/noun ，/punctuation-mark 6/numeral 小时/noun 一/numeral 次/classifier ；/punctuation-mark b./noun 积极/adjective 降压/verb ：/punctuation-mark 见/verb 下/verb ；/punctuation-mark c./noun 终止/verb 妊娠/verb 。/punctuation-mark
 镇静剂：常用有冬眠I号1/3量肌肉注射，6小时1次；或[[<MED>0]]10mg肌肉注射，或静[[<SYM>1]]慢推注，6小时一次；b.积极降压：见下；c.终止妊娠。
 命名实体: 安定 脉缓
 实体关系: 
@@ -565,7 +565,7 @@ HYVET所研究者为≥ 80岁，应用的药物为ACE-I及[[<MED>0]]，目前研
 实体关系: 
 ==================================================
 6.2.2/numeral 降压/verb 药/noun 的/particle 应用/verb ：/punctuation-mark 当/preposition 血压/noun 升高/verb >/punctuation-mark 170/numeral //punctuation-mark 110mm/noun Hg/noun 时/noun ，/punctuation-mark 积极/adjective 降压/verb ，/punctuation-mark 以防/verb 中风/verb 及/conjunction 子痫/noun 发生/verb 。/punctuation-mark
-6.2.2降压药的应用：当血压升高>170/110mm Hg时，积极降压，以防[[<DIS>0]]及[[<DIS><SYM>1]]发生。
+6.2.2降压药的应用：当血压升高>170/110mm Hg时，积极降压，以防[[<DIS>0]]及[[<SYM><DIS>1]]发生。
 命名实体: 中风 子痫
 实体关系: 
 ==================================================
@@ -594,18 +594,18 @@ HYVET所研究者为≥ 80岁，应用的药物为ACE-I及[[<MED>0]]，目前研
 命名实体: 哌唑嗪 伊拉地平 β-受体阻断剂
 实体关系: 
 ==================================================
-6.2.2.3/numeral 孕期/time-word 不宜/verb 使用/verb 的/particle 降压/verb 药/noun ：/punctuation-mark ACE/noun -/punctuation-mark I/pronoun 可能/noun 引起/verb 胎儿/noun 生长/verb 迟缓/adjective ，/punctuation-mark 羊水/noun 过/particle 少/adjective ，/punctuation-mark 或/conjunction 新生儿/noun 肾/noun 衰/adjective ，/punctuation-mark 亦/adverb 可能/verb 引起/verb 胎儿/noun 畸形/noun ；/punctuation-mark 血管/noun 紧张/adjective 素/noun II/noun 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier (/punctuation-mark ATII/noun 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier )/punctuation-mark ，/punctuation-mark 副作用/noun 同上/verb ；/punctuation-mark 利尿剂/noun ：/punctuation-mark 可/verb 进一步/adverb 减少/verb 血/noun 容量/noun ，/punctuation-mark 使/verb 胎儿/noun 缺氧/verb 加重/verb 。/punctuation-mark
+6.2.2.3/numeral 孕期/time-word 不宜/verb 使用/verb 的/particle 降压/verb 药/noun ：/punctuation-mark ACE/noun -/punctuation-mark I/noun 可能/noun 引起/verb 胎儿/noun 生长/verb 迟缓/adjective ，/punctuation-mark 羊水/noun 过/particle 少/adjective ，/punctuation-mark 或/conjunction 新生儿/noun 肾/noun 衰/adjective ，/punctuation-mark 亦/adverb 可能/verb 引起/verb 胎儿/noun 畸形/noun ；/punctuation-mark 血管/noun 紧张/adjective 素/noun II/noun 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier (/punctuation-mark ATII/noun 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier )/punctuation-mark ，/punctuation-mark 副作用/noun 同上/verb ；/punctuation-mark 利尿剂/noun ：/punctuation-mark 可/verb 进一步/adverb 减少/verb 血/noun 容量/noun ，/punctuation-mark 使/verb 胎儿/noun 缺氧/verb 加重/verb 。/punctuation-mark
 6.2.2.3孕期不宜使用的降压药：ACE-I可能引起胎儿生长迟缓，羊水过少，或新生儿肾衰，亦可能引起胎儿畸形；[[<MED>0]](ATII受体拮抗剂)，副作用同上；[[<MED>1]]：可进一步减少血容量，使胎儿[[<SYM>2]]加重。
 命名实体: 血管紧张素II受体拮抗剂 利尿剂 缺氧
 实体关系: 
 ==================================================
 6.2.2.4/numeral 妊娠/verb 高血压/noun 综合征/noun 的/particle 预后/noun ：/punctuation-mark 胎儿/noun 可/verb 发生/verb 宫内/noun-of-locality 生长/verb 迟缓/adjective ，/punctuation-mark 胎/classifier 死/verb 宫/noun 内/noun-of-locality ，/punctuation-mark 出生/verb 时/noun 发生/verb 新生儿/noun 窒息/verb ；/punctuation-mark 孕产妇/noun 可/verb 发生/verb 胎盘/noun 早期/noun-of-locality 剥离/verb 导致/verb 弥漫/verb 性/noun 血管/noun 内/noun-of-locality 凝/verb 血/noun 及/verb //punctuation-mark 或/conjunction 急性/distinguishing-word 肾/noun 功能/noun 衰竭/verb ；/punctuation-mark 心/noun 衰/adjective 、/punctuation-mark 肺水肿/noun ；/punctuation-mark HELLP/noun 综合征/noun (/punctuation-mark 溶/verb 血性/noun 贫血/verb ，/punctuation-mark 肝/noun 酶/noun 升高/verb ，/punctuation-mark 血小板/noun 减少/verb ，/punctuation-mark 肝/noun 包/verb 膜/noun 下/noun-of-locality 出/verb 血/noun ，/punctuation-mark 肝/noun 破裂/verb )/punctuation-mark 。/punctuation-mark
-6.2.2.4[[<DIS>0]]的预后：胎儿可发生宫内生长迟缓，胎死宫内，出生时发生[[<DIS>1]]；孕产妇可发生[[<DIS>2]]导致弥漫性[[<SYM>3]]及/或[[<DIS>4]]；[[<DIS>5]]、[[<DIS>6]]；HELLP[[<DIS><SYM>7]]([[<DIS><SYM>8]]，肝酶升高，[[<SYM>9]]，肝包膜下[[<DIS><SYM>10]]，肝破裂)。
+6.2.2.4[[<DIS>0]]的预后：胎儿可发生宫内生长迟缓，胎死宫内，出生时发生[[<DIS>1]]；孕产妇可发生[[<DIS>2]]导致弥漫性[[<SYM>3]]及/或[[<DIS>4]]；[[<DIS>5]]、[[<DIS>6]]；HELLP[[<SYM><DIS>7]]([[<SYM><DIS>8]]，肝酶升高，[[<SYM>9]]，肝包膜下[[<SYM><DIS>10]]，肝破裂)。
 命名实体: 妊娠高血压综合征 新生儿窒息 胎盘早期剥离 血管内凝血 急性肾功能衰竭 心衰 肺水肿 综合征 溶血性贫血 血小板减少 出血
 实体关系: 
 ==================================================
 子痫/noun 抽搐/verb 后/noun-of-locality 可/verb 发生/verb 脑/noun 水肿/noun ，/punctuation-mark 脑/noun 出血/verb 及/conjunction 脑/noun 疝/punctuation-mark ，/punctuation-mark 甚至/adverb 引起/verb 孕产妇/noun 死亡/verb 。/punctuation-mark
-[[<DIS><SYM>0]][[<DIS><SYM>1]]后可发生[[<DIS>2]]，[[<DIS>3]]及[[<DIS>4]]，甚至引起孕产妇死亡。
+[[<SYM><DIS>0]][[<SYM><DIS>1]]后可发生[[<DIS>2]]，[[<DIS>3]]及[[<DIS>4]]，甚至引起孕产妇死亡。
 命名实体: 子痫 抽搐 脑水肿 脑出血 脑疝
 实体关系: 
 ==================================================
@@ -615,7 +615,7 @@ HYVET所研究者为≥ 80岁，应用的药物为ACE-I及[[<MED>0]]，目前研
 实体关系: 
 ==================================================
 6.3.1/numeral 脑血管/noun 病/noun ：/punctuation-mark 我国/noun PATS/noun 研究/verb 表明/verb 发生/verb 过/particle 脑/noun 卒/noun 中/noun-of-locality 或/conjunction TIA/noun (/punctuation-mark 一/numeral 过/verb 性/noun 脑/noun 缺血/verb )/punctuation-mark 的/particle 病人/noun ，/punctuation-mark 脑血管/noun 事件/noun 复发/verb 率/verb 为/preposition 每年/pronoun 4%/numeral ，/punctuation-mark 发生/verb 冠/noun 心/noun 事件/noun 的/particle 危险/adjective 也/adverb 高/adjective ，/punctuation-mark 与/preposition 血压/noun 水平/noun 有/verb 直接/adjective 关系/noun ，/punctuation-mark 如/verb 中度/distinguishing-word 降压/verb ，/punctuation-mark 则/adverb 危险/adjective 亦/adverb 有/verb 相当/verb 的/particle 降低/verb 。/punctuation-mark
-6.3.1[[<DIS>0]]：我国PATS研究表明发生过[[<DIS>1]]或TIA([[<DIS><SYM>2]])的病人，脑血管事件复发率为每年4%，发生冠心事件的危险也高，与血压水平有直接关系，如中度降压，则危险亦有相当的降低。
+6.3.1[[<DIS>0]]：我国PATS研究表明发生过[[<DIS>1]]或TIA([[<SYM><DIS>2]])的病人，脑血管事件复发率为每年4%，发生冠心事件的危险也高，与血压水平有直接关系，如中度降压，则危险亦有相当的降低。
 命名实体: 脑血管病 脑卒中 一过性脑缺血
 实体关系: 
 ==================================================
@@ -645,7 +645,7 @@ HYVET所研究者为≥ 80岁，应用的药物为ACE-I及[[<MED>0]]，目前研
 实体关系: 
 ==================================================
 发生/verb 过/particle 心肌/noun 梗/noun 死/verb 或/conjunction 不/adverb 稳定/adjective 心绞痛/noun 的/particle 病人/noun 发生/verb 冠心病/noun 猝死/verb 或/conjunction 不/adverb 致命/verb 心肌/noun 梗/noun 死/verb 的/particle 危险/adjective 高/adjective 达/verb 每年/pronoun 5%/numeral 以上/noun-of-locality 。/punctuation-mark
-发生过[[<DIS><SYM>0]]或不稳定[[<DIS><SYM>1]]的病人发生[[<DIS>2]][[<DIS><SYM>3]]或不致命[[<DIS><SYM>0]]的危险高达每年5%以上。
+发生过[[<SYM><DIS>0]]或不稳定[[<SYM><DIS>1]]的病人发生[[<DIS>2]][[<SYM><DIS>3]]或不致命[[<SYM><DIS>0]]的危险高达每年5%以上。
 命名实体: 心肌梗死 心绞痛 冠心病 猝死
 实体关系: 
 ==================================================
@@ -655,12 +655,12 @@ HYVET所研究者为≥ 80岁，应用的药物为ACE-I及[[<MED>0]]，目前研
 实体关系: 
 ==================================================
 兼/verb 患/verb 冠心病/noun 与/conjunction 高血压/noun 的/particle 患者/noun 接受/verb 降压/verb 治疗/verb 的/particle 资料/noun 虽/conjunction 不/adverb 多/adjective ，/punctuation-mark 但/adverb β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/noun 、/punctuation-mark 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier 等/particle 许多/numeral 较/adverb 常用/adjective 的/particle 降压/verb 药都/noun 曾/adverb 广泛/adjective 应用/verb 于/preposition 各种/pronoun 不同/adjective 情况/noun 的/particle 冠心病/noun 人/noun ，/punctuation-mark 虽然/conjunction 并非/verb 用于/verb 降低/verb 血压/noun 。/punctuation-mark
-兼患[[<DIS>0]]与[[<DIS>1]]的患者接受降压治疗的资料虽不多，但[[<MED>3]]、[[<MED>4]]等许多较常用的降压药都曾广泛应用于各种不同情况的[[<DIS>0]]人，虽然并非用于降[[<DIS><SYM>2]]。
+兼患[[<DIS>0]]与[[<DIS>1]]的患者接受降压治疗的资料虽不多，但[[<MED>3]]、[[<MED>4]]等许多较常用的降压药都曾广泛应用于各种不同情况的[[<DIS>0]]人，虽然并非用于降[[<SYM><DIS>2]]。
 命名实体: 冠心病 高血压 低血压 β-阻滞剂 钙拮抗剂
 实体关系: 
 ==================================================
-临床/verb 试验/verb 反映/verb β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier 减少/verb 急性/distinguishing-word 心肌/noun 梗/noun 死/verb 病人/noun 再/adverb 梗/verb 死/verb 及/conjunction 心血管/noun 死亡/verb 约/adverb 1/numeral //punctuation-mark 4/numeral ；/punctuation-mark 几/numeral 项/classifier 大规模/distinguishing-word 的/particle 临床/verb 试验/verb 反映/verb ，/punctuation-mark ACE/noun -/punctuation-mark I/pronoun 用/verb 于/preposition 心/noun 衰/adjective 或/conjunction 左/adjective 室/noun 功能/noun 不良/adjective 病人/noun ，/punctuation-mark 心肌/noun 梗/noun 死/verb 或/conjunction 猝死/verb 危险/adjective 减少/verb 约/adverb 1/numeral //punctuation-mark 5/numeral 。/punctuation-mark
-临床试验反映[[<MED>4]]减少[[<DIS>0]]病人再梗死及心血管死亡约1/4；几项大规模的临床试验反映，ACE-I用于[[<DIS>1]]或左室功能不良病人，[[<DIS><SYM>2]]或[[<DIS><SYM>3]]危险减少约1/5。
+临床/verb 试验/verb 反映/verb β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier 减少/verb 急性/distinguishing-word 心肌/noun 梗/noun 死/verb 病人/noun 再/adverb 梗/verb 死/verb 及/conjunction 心血管/noun 死亡/verb 约/adverb 1/numeral //punctuation-mark 4/numeral ；/punctuation-mark 几/numeral 项/classifier 大规模/distinguishing-word 的/particle 临床/verb 试验/verb 反映/verb ，/punctuation-mark ACE/noun -/punctuation-mark I/noun 用/verb 于/preposition 心/noun 衰/adjective 或/conjunction 左/adjective 室/noun 功能/noun 不良/adjective 病人/noun ，/punctuation-mark 心肌/noun 梗/noun 死/verb 或/conjunction 猝死/verb 危险/adjective 减少/verb 约/adverb 1/numeral //punctuation-mark 5/numeral 。/punctuation-mark
+临床试验反映[[<MED>4]]减少[[<DIS>0]]病人再梗死及心血管死亡约1/4；几项大规模的临床试验反映，ACE-I用于[[<DIS>1]]或左室功能不良病人，[[<SYM><DIS>2]]或[[<SYM><DIS>3]]危险减少约1/5。
 命名实体: 急性心肌梗死 心衰 心肌梗死 猝死 β-阻滞剂
 实体关系: 
 ==================================================
@@ -670,7 +670,7 @@ HYVET所研究者为≥ 80岁，应用的药物为ACE-I及[[<MED>0]]，目前研
 实体关系: 
 ==================================================
 国外/locative-word 研究/verb 曾/adverb 提示/verb 异/adjective 搏/verb 定/verb 和/conjunction 地/noun 尔/pronoun 硫/noun 卓/adjective 可/verb 减少/verb 心肌/noun 梗/noun 死/verb 的/particle 危险/adjective ，/punctuation-mark 但/conjunction 立即/adverb 释放/verb 的/particle 硝/noun 苯/noun 地/particle 平/verb 却/adverb 增加/verb 危险/adjective 。/punctuation-mark
-国外研究曾提示[[<MED>0]]和[[<MED>1]]可减少[[<DIS><SYM>2]]的危险，但立即释放的[[<MED>3]]却增加危险。
+国外研究曾提示[[<MED>0]]和[[<MED>1]]可减少[[<SYM><DIS>2]]的危险，但立即释放的[[<MED>3]]却增加危险。
 命名实体: 异搏定 地尔硫卓 心肌梗死 硝苯地平
 实体关系: <0,MED-DIS|+,2> <1,MED-DIS|+,2>
 ==================================================
@@ -710,7 +710,7 @@ HYVET所研究者为≥ 80岁，应用的药物为ACE-I及[[<MED>0]]，目前研
 实体关系: 
 ==================================================
 治疗/verb 措施/noun 应/verb 积极/adjective 降低/verb 血压/noun 。/punctuation-mark
-治疗措施应积极降[[<DIS><SYM>0]]。
+治疗措施应积极降[[<SYM><DIS>0]]。
 命名实体: 低血压
 实体关系: 
 ==================================================
@@ -719,13 +719,13 @@ HYVET所研究者为≥ 80岁，应用的药物为ACE-I及[[<MED>0]]，目前研
 命名实体:
 实体关系: 
 ==================================================
-研究/verb 反映/verb 降压/verb 药物/noun 中/noun-of-locality ACE/noun -/punctuation-mark I/pronoun 更/adverb 有助于/verb 逆转/verb 左/noun-of-locality 室/noun 肥厚/adjective 或/conjunction 阻止/verb 肥厚/adjective 加重/verb 。/punctuation-mark
+研究/verb 反映/verb 降压/verb 药物/noun 中/noun-of-locality ACE/noun -/punctuation-mark I/noun 更/adverb 有助于/verb 逆转/verb 左/noun-of-locality 室/noun 肥厚/adjective 或/conjunction 阻止/verb 肥厚/adjective 加重/verb 。/punctuation-mark
 研究反映降压药物中ACE-I更有助于逆转左室肥厚或阻止肥厚加重。
 命名实体:
 实体关系: 
 ==================================================
 左/adjective 室/noun 功能/noun 减退/verb 进一步/adverb 发展/verb 则/conjunction 出现/verb 收缩/verb 期/classifier 心/noun 衰/adjective ，/punctuation-mark 即/adverb 充/verb 血性/noun 心力衰竭/noun 。/punctuation-mark
-左室功能减退进一步发展则出现收缩期[[<DIS>0]]，即[[<DIS><SYM>1]]。
+左室功能减退进一步发展则出现收缩期[[<DIS>0]]，即[[<SYM><DIS>1]]。
 命名实体: 心衰 充血性心力衰竭
 实体关系: 
 ==================================================
@@ -739,7 +739,7 @@ EF值低于正常，病人有左、右[[<DIS>0]]的症状及体征。
 命名实体: 心衰
 实体关系: 
 ==================================================
-治疗/verb 措施/noun 宜/adjective 合并/verb 使用/verb 利尿剂/noun 及/conjunction ACE/noun -/punctuation-mark I/pronoun 利尿剂/noun 有效/adjective 地/particle 改善/verb 临床/verb 症状/noun ，/punctuation-mark 剂量/noun 充足/adjective 的/particle ACE/noun -/punctuation-mark I/pronoun 和/preposition β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier 己/pronoun 在/preposition 大规模/distinguishing-word 的/particle 临床/verb 试验/verb 中/noun-of-locality 证明/verb 能/verb 降低/verb 心/noun 衰/adjective 的/particle 死亡率/noun 和/conjunction 心血管/noun 事件/noun 的/particle 发生率/noun 。/punctuation-mark
+治疗/verb 措施/noun 宜/adjective 合并/verb 使用/verb 利尿剂/noun 及/conjunction ACE/noun -/punctuation-mark I/noun 利尿剂/noun 有效/adjective 地/particle 改善/verb 临床/verb 症状/noun ，/punctuation-mark 剂量/noun 充足/adjective 的/particle ACE/noun -/punctuation-mark I/noun 和/preposition β/punctuation-mark -/punctuation-mark 阻滞/verb 剂/classifier 己/pronoun 在/preposition 大规模/distinguishing-word 的/particle 临床/verb 试验/verb 中/noun-of-locality 证明/verb 能/verb 降低/verb 心/noun 衰/adjective 的/particle 死亡率/noun 和/conjunction 心血管/noun 事件/noun 的/particle 发生率/noun 。/punctuation-mark
 治疗措施宜合并使用[[<MED>0]]及ACE-I[[<MED>0]]有效地改善临床症状，剂量充足的ACE-I和[[<MED>2]]己在大规模的临床试验中证明能降低[[<DIS>1]]的死亡率和心血管事件的发生率。
 命名实体: 利尿剂 心衰 β-阻滞剂
 实体关系: 
@@ -759,7 +759,7 @@ EF值低于正常，病人有左、右[[<DIS>0]]的症状及体征。
 命名实体: 心衰 氨氯地平 非洛地平 钙拮抗剂 二氢吡啶类钙通道阻断剂
 实体关系: <3,MED-DIS|-,0>
 ==================================================
-如/verb ACE/noun -/punctuation-mark I/pronoun 副/distinguishing-word 反应/verb 过/particle 大/adjective ，/punctuation-mark 则/conjunction 可/verb 用/preposition 血管/noun 紧张/adjective 素/noun II/noun 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier 替代/verb 之/particle 。/punctuation-mark
+如/verb ACE/noun -/punctuation-mark I/noun 副/distinguishing-word 反应/verb 过/particle 大/adjective ，/punctuation-mark 则/conjunction 可/verb 用/preposition 血管/noun 紧张/adjective 素/noun II/noun 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier 替代/verb 之/particle 。/punctuation-mark
 如ACE-I副反应过大，则可用[[<MED>0]]替代之。
 命名实体: 血管紧张素II受体拮抗剂
 实体关系: 
@@ -770,7 +770,7 @@ EF值低于正常，病人有左、右[[<DIS>0]]的症状及体征。
 实体关系: 
 ==================================================
 大/adjective 血管/noun 与/conjunction 微血管/noun 均/adverb 累及/verb 是/verb 冠心病/noun 、/punctuation-mark 脑/noun 卒/adverb 中和/verb 肾/noun 功能/noun 衰竭/verb 、/punctuation-mark 心力衰竭/noun 的/particle 重要/adjective 危险/adjective 因素/noun 。/punctuation-mark
-大血管与微血管均累及是[[<DIS>0]]、[[<DIS>1]]和[[<DIS>2]]、[[<DIS><SYM>3]]的重要危险因素。
+大血管与微血管均累及是[[<DIS>0]]、[[<DIS>1]]和[[<DIS>2]]、[[<SYM><DIS>3]]的重要危险因素。
 命名实体: 冠心病 脑卒中 肾功能衰竭 心力衰竭
 实体关系: 
 ==================================================
@@ -779,18 +779,18 @@ EF值低于正常，病人有左、右[[<DIS>0]]的症状及体征。
 命名实体: 高血压 糖尿病
 实体关系: 
 ==================================================
-1/numeral 型/suffix 糖尿病/noun (/punctuation-mark WHO/pronoun 建议/noun 取消/verb 胰岛素/noun 依赖/verb 型/suffix 及/conjunction 非/distinguishing-word 胰岛素/noun 依赖/verb 型/suffix 的/particle 提法/noun )/punctuation-mark 较/adverb 少/adjective ，/punctuation-mark 2/numeral 型/suffix 糖尿病/noun 较/adverb 多/adjective (/punctuation-mark 占/verb 90%/numeral 以上/noun-of-locality )/punctuation-mark ，/punctuation-mark 二者/pronoun 合并/verb 高血压/noun 的/particle 机制/noun 不同/adjective 。/punctuation-mark
+1/numeral 型/suffix 糖尿病/noun (/punctuation-mark WHO/noun 建议/noun 取消/verb 胰岛素/noun 依赖/verb 型/suffix 及/conjunction 非/distinguishing-word 胰岛素/noun 依赖/verb 型/suffix 的/particle 提法/noun )/punctuation-mark 较/adverb 少/adjective ，/punctuation-mark 2/numeral 型/suffix 糖尿病/noun 较/adverb 多/adjective (/punctuation-mark 占/verb 90%/numeral 以上/noun-of-locality )/punctuation-mark ，/punctuation-mark 二者/pronoun 合并/verb 高血压/noun 的/particle 机制/noun 不同/adjective 。/punctuation-mark
 [[<DIS>3]](WHO建议取消[[<MED>0]]依赖型及非[[<MED>0]]依赖型的提法)较少，[[<DIS>2]]较多(占90%以上)，二者合并[[<DIS>1]]的机制不同。
 命名实体: 胰岛素 高血压 2型糖尿病 1型糖尿病
 实体关系: 
 ==================================================
 1/numeral 型/suffix 糖尿病/noun 早期/noun-of-locality 血压/noun 多/numeral 正常/adjective ，/punctuation-mark 多/numeral 年/classifier 后/noun-of-locality 合并/verb 微血管/noun 病变/verb 可/verb 发生/verb 糖尿病/noun 肾病/noun 使/verb 血压/noun 升高/verb ，/punctuation-mark 属/verb 肾/noun 性/noun 高血压/noun 。/punctuation-mark
-[[<DIS>3]]早期血压多正常，多年后合并微血管病变可发生[[<DIS>0]][[<DIS>1]]使血压升高，属[[<DIS><SYM>2]]。
+[[<DIS>3]]早期血压多正常，多年后合并微血管病变可发生[[<DIS>0]][[<DIS>1]]使血压升高，属[[<SYM><DIS>2]]。
 命名实体: 糖尿病 肾病 肾性高血压 1型糖尿病
 实体关系: 
 ==================================================
 2/numeral 型/suffix 糖尿病/noun 也/adverb 可/verb 发生/verb 肾病/noun ，/punctuation-mark 但/conjunction 高血压/noun 往往/adverb 发生/verb 在/preposition 糖尿病/noun 之前/noun-of-locality ，/punctuation-mark 属/verb 原/adverb 发/verb 性/noun 高血压/noun 。/punctuation-mark
-[[<DIS>4]]也可发生[[<DIS>1]]，但[[<DIS>2]]往往发生在[[<DIS>0]]之前，属[[<DIS><SYM>3]]。
+[[<DIS>4]]也可发生[[<DIS>1]]，但[[<DIS>2]]往往发生在[[<DIS>0]]之前，属[[<SYM><DIS>3]]。
 命名实体: 糖尿病 肾病 高血压 原发性高血压 2型糖尿病
 实体关系: 
 ==================================================
@@ -805,7 +805,7 @@ EF值低于正常，病人有左、右[[<DIS>0]]的症状及体征。
 实体关系: 
 ==================================================
 原/adverb 发/verb 性/noun 高血压/noun 和/conjunction 2/numeral 型/suffix 糖尿病/noun 多/adjective 发生/verb 在/preposition 老年人/noun ，/punctuation-mark 单纯/adjective 收缩/verb 期/classifier 高血压/noun 较/adverb 多/adjective 见/verb ，/punctuation-mark 可/conjunction 致/verb 体/noun 位/noun 性/noun 低血压/noun ，/punctuation-mark 应/verb 注意/verb 测/verb 卧/verb 位/classifier 、/punctuation-mark 坐/verb 位/classifier 、/punctuation-mark 立/verb 位/classifier 血压/noun 。/punctuation-mark
-[[<DIS><SYM>0]]和[[<DIS>3]]多发生在老年人，单纯[[<SYM>1]]较多见，可致[[<DIS><SYM>2]]，应注意测卧位、坐位、立位血压。
+[[<SYM><DIS>0]]和[[<DIS>3]]多发生在老年人，单纯[[<SYM>1]]较多见，可致[[<SYM><DIS>2]]，应注意测卧位、坐位、立位血压。
 命名实体: 原发性高血压 收缩期高血压 体位性低血压 2型糖尿病
 实体关系: 
 ==================================================
@@ -825,7 +825,7 @@ EF值低于正常，病人有左、右[[<DIS>0]]的症状及体征。
 实体关系: 
 ==================================================
 无论/conjunction 1/numeral 型/suffix 或/conjunction 2/numeral 型/suffix 糖尿病/noun 患者/noun 经/preposition 长期/adverb 严格/adjective 控制/verb 血糖/noun 可/verb 改善/verb 血脂/noun (/punctuation-mark 降低/verb LDLc/noun )/punctuation-mark ，/punctuation-mark 减少/verb 大/adjective 中/distinguishing-word 血管/noun 动脉/noun 粥/noun 样/noun 硬化/verb 的/particle 发病率/noun 。/punctuation-mark
-无论1型或[[<DIS>1]]患者经长期严格控制血糖可改善血脂(降低LDLc)，减少大中血管[[<DIS><SYM>0]]的发病率。
+无论1型或[[<DIS>1]]患者经长期严格控制血糖可改善血脂(降低LDLc)，减少大中血管[[<SYM><DIS>0]]的发病率。
 命名实体: 动脉粥样硬化 2型糖尿病
 实体关系: 
 ==================================================
@@ -870,7 +870,7 @@ EF值低于正常，病人有左、右[[<DIS>0]]的症状及体征。
 实体关系: 
 ==================================================
 糖尿病/noun 患者/noun 常/adverb 合并/verb 性/noun 功能/noun 不/adverb 全/adjective 、/punctuation-mark 血脂/noun 异常/adjective 、/punctuation-mark 位置/noun 性/noun 低血压/noun 、/punctuation-mark 肾/noun 功能/noun 不/adverb 全/adjective 、/punctuation-mark 冠心病/noun 和/conjunction 胰岛素/noun 抵抗/verb 。/punctuation-mark
-[[<DIS>0]]患者常合并性功能不全、[[<DIS><SYM>1]]、位置性[[<DIS><SYM>2]]、[[<DIS>3]]、[[<DIS>4]]和[[<MED>5]]抵抗。
+[[<DIS>0]]患者常合并性功能不全、[[<SYM><DIS>1]]、位置性[[<SYM><DIS>2]]、[[<DIS>3]]、[[<DIS>4]]和[[<MED>5]]抵抗。
 命名实体: 糖尿病 血脂异常 低血压 肾功能不全 冠心病 胰岛素
 实体关系: 
 ==================================================
@@ -879,7 +879,7 @@ EF值低于正常，病人有左、右[[<DIS>0]]的症状及体征。
 命名实体: 糖尿病
 实体关系: 
 ==================================================
-首选/verb 的/particle 有/verb 血管/noun 紧张/adjective 素/adverb 转换/verb 酶/noun 抑/verb 制剂/noun (/punctuation-mark ACE/noun -/punctuation-mark I/pronoun )/punctuation-mark 、/punctuation-mark 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier ，/punctuation-mark 需要/verb 时/noun 可/verb 加/verb 用/preposition 小/adjective 剂量/noun 利尿剂/noun 和/preposition α/punctuation-mark -/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 。/punctuation-mark
+首选/verb 的/particle 有/verb 血管/noun 紧张/adjective 素/adverb 转换/verb 酶/noun 抑/verb 制剂/noun (/punctuation-mark ACE/noun -/punctuation-mark I/noun )/punctuation-mark 、/punctuation-mark 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier ，/punctuation-mark 需要/verb 时/noun 可/verb 加/verb 用/preposition 小/adjective 剂量/noun 利尿剂/noun 和/preposition α/punctuation-mark -/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 。/punctuation-mark
 首选的有[[<MED>0]](ACE-I)、[[<MED>3]]，需要时可加用小剂量[[<MED>1]]和[[<MED>2]]。
 命名实体: 血管紧张素转换酶抑制剂 利尿剂 α-受体阻滞剂 钙拮抗剂
 实体关系: 
@@ -889,18 +889,18 @@ EF值低于正常，病人有左、右[[<DIS>0]]的症状及体征。
 命名实体: 胰岛素
 实体关系: 
 ==================================================
-己/pronoun 有/verb 临床/verb 试验/verb 证明/verb ACE/noun -/punctuation-mark I/pronoun 能/verb 防止/verb 或/conjunction 改善/verb 糖尿病/noun 肾病/noun 的/particle 发生/verb 和/conjunction 发展/verb 。/punctuation-mark
+己/pronoun 有/verb 临床/verb 试验/verb 证明/verb ACE/noun -/punctuation-mark I/noun 能/verb 防止/verb 或/conjunction 改善/verb 糖尿病/noun 肾病/noun 的/particle 发生/verb 和/conjunction 发展/verb 。/punctuation-mark
 己有临床试验证明ACE-I能防止或改善[[<DIS>0]][[<DIS>1]]的发生和发展。
 命名实体: 糖尿病 肾病
 实体关系: 
 ==================================================
-如/verb 患者/noun 不/adverb 能/verb 耐受/verb ACE/noun -/punctuation-mark I/pronoun 可/verb 选用/verb 血管/noun 紧/adjective 素/noun II/noun 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier 。/punctuation-mark
+如/verb 患者/noun 不/adverb 能/verb 耐受/verb ACE/noun -/punctuation-mark I/noun 可/verb 选用/verb 血管/noun 紧/adjective 素/noun II/noun 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier 。/punctuation-mark
 如患者不能耐受ACE-I可选用血管紧素II受体拮抗剂。
 命名实体:
 实体关系: 
 ==================================================
 对/preposition β/punctuation-mark -/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 的/particle 应用/verb 尚/adverb 有/verb 争论/verb ，/punctuation-mark 有人/pronoun 认为/verb 它/pronoun 可/verb 使/verb 糖尿病/noun 人/noun 的/particle 运动/verb 耐力/noun 减退/verb 、/punctuation-mark 性/noun 功能/noun 差/adjective 、/punctuation-mark 影响/verb 血糖/noun 、/punctuation-mark 脂/punctuation-mark 质/noun 代谢/verb 和/conjunction 胰岛素/noun 敏/adjective 感性/noun ；/punctuation-mark 接受/verb 胰岛素/noun 治疗/verb 的/particle 患者/noun 如/conjunction 出现/verb 低血糖/noun 时/noun 可能/verb 掩盖/verb 临床/verb 症状/noun ，/punctuation-mark 故/conjunction 除非/conjunction 合并/verb 心肌/noun 梗/noun 死/verb ，/punctuation-mark 一般/adjective 应/verb 慎/adjective 用/verb 。/punctuation-mark
-对[[<MED>3]]的应用尚有争论，有人认为它可使[[<DIS>0]]人的运动耐力减退、性功能差、影响血糖、[[<MED>4]]和[[<MED>1]]敏感性；接受[[<MED>1]]治疗的患者如出现低血糖时可能掩盖临床症状，故除非合并[[<DIS><SYM>2]]，一般应慎用。
+对[[<MED>3]]的应用尚有争论，有人认为它可使[[<DIS>0]]人的运动耐力减退、性功能差、影响血糖、[[<MED>4]]和[[<MED>1]]敏感性；接受[[<MED>1]]治疗的患者如出现低血糖时可能掩盖临床症状，故除非合并[[<SYM><DIS>2]]，一般应慎用。
 命名实体: 糖尿病 胰岛素 心肌梗死 β-受体阻滞剂 脂质代谢
 实体关系: 
 ==================================================
@@ -925,26 +925,26 @@ EF值低于正常，病人有左、右[[<DIS>0]]的症状及体征。
 实体关系: 
 ==================================================
 通常/adverb 使用/verb 的/particle 肾/noun 功能/noun 检查/verb 包括/verb 血/noun 尿素/noun 氮/noun 、/punctuation-mark 肌/noun 酐/punctuation-mark 水平/noun 的/particle 测定/verb ，/punctuation-mark 一般/adjective 只/adverb 能/verb 在/preposition 肾脏/noun 损害/verb 较/adverb 严重/adjective 时/noun 方/adverb 得到/verb 反映/verb ，/punctuation-mark 尿常规/noun 检查/verb 中/noun-of-locality 蛋白尿/noun 的/particle 出现/verb 往往/adverb 早期/noun-of-locality 能/verb 显示/verb 肾脏/noun 损害/verb 的/particle 存在/verb ，/punctuation-mark 尿/noun 微量/distinguishing-word 白/distinguishing-word 蛋白/noun 测定/verb 则/conjunction 可/verb 检查/verb 出/verb 更/adverb 早期/noun-of-locality 的/particle 肾脏/noun 损害/verb 。/punctuation-mark
-通常使用的肾功能检查包括[[<DIS>0]]素氮、肌酐水平的测定，一般只能在[[<DIS>1]]较严重时方得到反映，尿常规检查中[[<DIS><SYM>2]]的出现往往早期能显示[[<DIS>1]]的存在，尿微量[[<MED>3]]测定则可检查出更早期的[[<DIS>1]]。
+通常使用的肾功能检查包括[[<DIS>0]]素氮、肌酐水平的测定，一般只能在[[<DIS>1]]较严重时方得到反映，尿常规检查中[[<SYM><DIS>2]]的出现往往早期能显示[[<DIS>1]]的存在，尿微量[[<MED>3]]测定则可检查出更早期的[[<DIS>1]]。
 命名实体: 血尿 肾脏损害 蛋白尿 白蛋白
 实体关系: 
 ==================================================
 伴/verb 有/verb 肾脏/noun 损害/verb 或/conjunction 有/verb 蛋白尿/noun 的/particle 患者/noun (/punctuation-mark 24/numeral 小时/classifier 尿/noun 蛋白/noun >/punctuation-mark 1/numeral 克/classifier )/punctuation-mark ，/punctuation-mark 控制/verb 血压/noun 宜/adjective 更/adverb 严格/adjective 。/punctuation-mark
-伴有[[<DIS>0]]或有[[<DIS><SYM>1]]的患者(24小时尿蛋白>1克)，控制血压宜更严格。
+伴有[[<DIS>0]]或有[[<SYM><DIS>1]]的患者(24小时尿蛋白>1克)，控制血压宜更严格。
 命名实体: 肾脏损害 蛋白尿
 实体关系: 
 ==================================================
 有/verb 研究/verb 建议/noun 血压/noun 应/verb 控制/verb 到/verb 125/numeral //punctuation-mark 75mm/noun Hg/noun ，/punctuation-mark 但/conjunction 应/verb 避免/verb 使/verb 血压/noun 过/particle 急/adjective 的/particle 下降/verb ，/punctuation-mark 同时/conjunction 注意/verb 观察/verb 在/preposition 血压/noun 下降/verb 时/noun 肾/noun 功能/noun 的/particle 变化/verb 。/punctuation-mark
-有研究建议血压应控制到125/75mm Hg，但应避免使血压过急的下降，同时注意观察在[[<DIS><SYM>0]]时肾功能的变化。
+有研究建议血压应控制到125/75mm Hg，但应避免使血压过急的下降，同时注意观察在[[<SYM><DIS>0]]时肾功能的变化。
 命名实体: 血压下降
 实体关系: 
 ==================================================
 在/preposition 同等/distinguishing-word 降低/verb 血压/noun 的/particle 前提/noun 下/noun-of-locality 各种/pronoun 不同/adjective 降压/verb 药物/noun 对/preposition 延缓/verb 肾脏/noun 病变/verb 的/particle 进展/verb 影响/verb 可能/noun 完全/adjective 一致/adjective 。/punctuation-mark
-在同等降[[<DIS><SYM>0]]的前提下各种不同降压药物对延缓肾脏病变的进展影响可能完全一致。
+在同等降[[<SYM><DIS>0]]的前提下各种不同降压药物对延缓肾脏病变的进展影响可能完全一致。
 命名实体: 低血压
 实体关系: 
 ==================================================
-有/verb 一些/numeral 研究/verb 提示/verb 使用/verb ACE/noun -/punctuation-mark I/pronoun 对/preposition 蛋白尿/noun 的/particle 减少/verb 以及/conjunction 延缓/verb 肾脏/noun 病变/verb 的/particle 进展/verb 有利/adjective 。/punctuation-mark
-有一些研究提示使用ACE-I对[[<DIS><SYM>0]]的减少以及延缓肾脏病变的进展有利。
+有/verb 一些/numeral 研究/verb 提示/verb 使用/verb ACE/noun -/punctuation-mark I/noun 对/preposition 蛋白尿/noun 的/particle 减少/verb 以及/conjunction 延缓/verb 肾脏/noun 病变/verb 的/particle 进展/verb 有利/adjective 。/punctuation-mark
+有一些研究提示使用ACE-I对[[<SYM><DIS>0]]的减少以及延缓肾脏病变的进展有利。
 命名实体: 蛋白尿
 实体关系: 

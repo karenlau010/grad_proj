@@ -9,7 +9,7 @@ import time
 
 #decode: str ==> unicode
 #encode: unicode ==> str
-encode_type = sys.getfilesystemencoding() #UTF-8 in my machine
+encode_type = sys.getfilesystemencoding() #UTF-8 in my ubuntu 14.04
 MAX_WIN = 5
 dict_list = []
 dict_counter = 0
@@ -85,7 +85,7 @@ def cws(path, words_dict):
 
 def cws_drive():
     pynlpir.open()
-    load_path = './dictionary/汇总词典.dic'
+    load_path = u'./dictionary/汇总词典.dic'
     words_dict = load_dict(load_path)
     texts_list = os.listdir('./medical_texts')
     for text in texts_list:
@@ -228,7 +228,7 @@ def ner_drive():
     return 
 
 def ne_pattern():
-    fp = file('./pattern/命名实体规则.pat', 'rb')
+    fp = file(u'./pattern/命名实体规则.pat', 'rb')
     pat_list = []
     for line in fp:
         line = (line.strip()).decode('UTF-8')
@@ -278,7 +278,7 @@ def ner_rule():
                         ret_list = ret_list[::-1] 
                         ne_count = len(ne_list)
                     if len(ret_list) > 0:
-                        print ' '.join(y.encode('UTF-8') for y in ret_list)
+                        print ' '.join(y.encode(encode_type) for y in ret_list)
                         if sub_str == u':':
                             for ret in ret_list:
                                 #print pat_str.encode('UTF-8')
@@ -312,10 +312,12 @@ def ner_rule():
                                     new_mid_str = '[['+ne_type+str(ne_count)+']]'
                                     string = string.replace(old_mid_str, new_mid_str)
                                     ne_list.append(ne_new)
+                                    print '>>> ' + ne_new.encode(encode_type)
                                     ne_count += 1
                                 else:
                                     string = string.replace(ret, '[['+ne_type+str(ne_count)+']]')
                                     ne_list.append(ret)
+                                    print '>>> ' + ret.encode(encode_type)
                                     ne_count += 1
                         elif sub_str == u'x':
                             for ret in ret_list:
@@ -325,6 +327,7 @@ def ner_rule():
                                 if new_ne not in ne_list:
                                     string = string.replace(new_ne, '[['+ne_type+str(ne_count)+']]')
                                     ne_list.append(new_ne)
+                                    print '>>>' + new_ne.encode(encode_type)
                                     ne_count += 1
                 fp_out.write(part_lines[0]+'\n')
                 fp_out.write(part_lines[1]+'\n')
@@ -336,8 +339,8 @@ def ner_rule():
 
 if __name__ == '__main__':
     start = time.clock()
-    targ_name = '汇总词典.dic'
-    all_dicts = {'药物':'MED', '疾病':'DIS', '症状':'SYM', '手术检查':'TRE'}
+    targ_name = u'汇总词典.dic'
+    all_dicts = {u'药物':'MED', u'疾病':'DIS', u'症状':'SYM', u'手术检查':'TRE'}
     map_dict('./dictionary', all_dicts, targ_name)
     ner_drive()
     #cws_drive()

@@ -211,4 +211,3 @@ if __name__ == "__main__":
     mov_cop(fn)
     end_time = time.clock()
     print 'time to generate the dictionary: %f' % (end_time-start_time)
-

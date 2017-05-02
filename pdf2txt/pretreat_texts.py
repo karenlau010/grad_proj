@@ -59,17 +59,17 @@ def pretreat_drive(texts_list):
 
 def copy_to_cws(texts_list):
     sep_punc = [u'。'] #the separate punctuation
-    tran_punc = {u'（':'(', u'）':')', u'０':'0', u'１':'1', u'２':'2', u'３':'3', u'４':'4', u'５':'5', u'６':'6', u'７':'7', u'８':'8', u'９':'9', ',':u'，', u'％':'%', ':':u'：', u'～':'~'}
+    tran_punc = {u'（':'(', u'）':')', u'０':'0', u'１':'1', u'２':'2', u'３':'3', u'４':'4', u'５':'5', u'６':'6', u'７':'7', u'８':'8', u'９':'9', ',':u'，', u'％':'%', ':':u'：', u'～':'~', u'－':'-'}
     for text in texts_list:
         fp = file(os.path.join('./after_pretreat', text), 'rb')
-        fp_out = file(os.path.join('../cws/medical_texts', text), 'wb')
+        fp_out = file(os.path.join('../tag/medical_texts', text), 'wb')
         for line in fp:
-            line = line.decode(encode_type)
+            line = line.decode('UTF-8')
             for i in range(len(line)): #separate the sentance
                 char = line[i]
                 if char in tran_punc.keys():
                     char = tran_punc[char]
-                fp_out.write(char.encode(encode_type))
+                fp_out.write(char.encode('UTF-8'))
                 if char in sep_punc and i+1 < len(line) and line[i+1] != '\n':
                     fp_out.write('\n')
         fp.close()

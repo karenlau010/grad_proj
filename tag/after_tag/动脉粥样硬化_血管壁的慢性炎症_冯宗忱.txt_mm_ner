@@ -1,0 +1,324 @@
+==================================================
+动脉/noun 粥/noun 样/noun 硬化/verb ———/punctuation-mark 血管/noun 壁/noun 的/particle 慢性/distinguishing-word 炎症/noun
+﻿[[<SYM><DIS>0]]———血管壁的慢性炎症
+命名实体: 动脉粥样硬化
+==================================================
+二十/numeral 世纪/noun 八十/numeral 年代/noun 氧化/verb LDL/noun 在/preposition 动脉/noun 粥/noun 样/noun 硬化/verb (/punctuation-mark atherosclerosis/noun ，/punctuation-mark AS/noun )/punctuation-mark 发病/verb 过程/noun 中/noun-of-locality 的/particle 作用/noun 被/preposition 广泛/adjective 接受/verb ，/punctuation-mark 九十/numeral 年代/noun 起/verb 越来越/adverb 多/adjective 的/particle 证据/noun 表明/verb AS/noun 是/verb 血管/noun 壁/noun 的/particle 慢性/distinguishing-word 炎症/noun ，/punctuation-mark 二/numeral 种/classifier 假说/noun 相辅相成/verb ，/punctuation-mark 基本/adjective 阐明/verb 了/particle AS/noun 发生/verb 、/punctuation-mark 发展/verb 的/particle 过程/noun 。/punctuation-mark
+二十世纪八十年代氧化LDL在[[<SYM><DIS>0]](atherosclerosis，AS)发病过程中的作用被广泛接受，九十年代起越来越多的证据表明AS是血管壁的慢性炎症，二种假说相辅相成，基本阐明了AS发生、发展的过程。
+命名实体: 动脉粥样硬化
+==================================================
+一/numeral 、/punctuation-mark 不断/adverb 发展/verb 的/particle 慢性/distinguishing-word 炎症/noun 假说/noun
+一、不断发展的慢性炎症假说
+命名实体: 
+==================================================
+AS/noun 是/verb 血管/noun 壁/noun 的/particle 慢性/distinguishing-word 炎症/noun ，/punctuation-mark 是/verb 对/preposition 血管/noun 壁/noun 损害/verb 的/particle 反应/verb 和/conjunction 修复/verb 过程/noun 。/punctuation-mark
+AS是血管壁的慢性炎症，是对血管壁损害的反应和修复过程。
+命名实体: 
+==================================================
+高/adjective 胆固醇/noun 血/noun 症/noun 、/punctuation-mark 高血压/noun 、/punctuation-mark 糖尿病/noun 、/punctuation-mark 吸烟/verb 等/particle 冠心病/noun 主要/adverb 危险/adjective 因子/noun 都/adverb 能/verb 损伤/verb 血管/noun 内/noun-of-locality 皮/noun ，/punctuation-mark 内/noun-of-locality 皮/noun 受损/verb 后/noun-of-locality LDL/noun 渗入/verb 并/conjunction 积聚/verb 于/preposition 内/noun-of-locality 皮/noun 下/noun-of-locality 腔/classifier (/punctuation-mark 高/adjective 胆固醇/noun 血/noun 症/noun 时/noun 更/adverb 甚/verb )/punctuation-mark ，/punctuation-mark 被/preposition 血管/noun 壁/noun 细胞/noun 的/particle 脂/punctuation-mark 氧/noun 合/verb 酶/noun 及/conjunction 反应/verb 性/noun 氧/noun 基团/noun (/punctuation-mark 各种/pronoun 氧/noun 自由/adjective 基/noun )/punctuation-mark 氧化/verb 为/preposition 氧化/verb LDL/noun 。/punctuation-mark
+[[<DIS>0]]、[[<DIS>1]]、[[<DIS>2]]、[[<DIS>5]]等[[<DIS>3]]主要危险因子都能[[<DIS>4]]血管内皮，内皮受损后LDL渗入并积聚于内皮下腔([[<DIS>0]]时更甚)，被血管壁细胞的脂氧合酶及反应性氧基团(各种氧自由基)氧化为氧化LDL。
+命名实体: 高胆固醇血症 高血压 糖尿病 冠心病 损伤 吸烟
+==================================================
+氧化/verb LDL/noun 分子/noun 中/noun-of-locality 的/particle 某些/pronoun 脂/punctuation-mark 类/classifier ，/punctuation-mark 如/verb 溶/verb 血/noun 磷脂/noun 、/punctuation-mark 氧/noun 固/adverb 醇/adjective 、/punctuation-mark 血小板/noun 活化/verb 因子/noun 样/noun 磷脂/noun 等/particle 作为/verb 信号/noun 分子/noun ，/punctuation-mark 与/preposition 细胞/noun 的/particle 受体/noun 结合/verb 后/noun-of-locality 可/verb 激活/verb 基因/noun 表达/verb ，/punctuation-mark 生成/verb 许多/numeral 促进/verb 炎症/noun 的/particle 细胞/noun 因子/noun 。/punctuation-mark
+氧化LDL分子中的某些脂类，如溶血磷脂、氧固醇、[[<MED>0]]活化因子样磷脂等作为信号分子，与细胞的受体结合后可激活基因表达，生成许多促进炎症的细胞因子。
+命名实体: 血小板
+==================================================
+如/verb 内/noun-of-locality 皮/noun 细胞/noun 表达/verb 许多/numeral 粘附/verb 分子/noun 使/verb 血/noun 流/verb 中/noun-of-locality 的/particle 单/distinguishing-word 核/noun 细胞/noun ，/punctuation-mark T/noun 淋巴细胞/noun 粘附/verb 于/preposition 受损/verb 内/noun-of-locality 皮/noun 区/noun 表面/noun ，/punctuation-mark 单/distinguishing-word 核/noun 细胞/noun 趋/verb 化/verb 蛋白/noun -/punctuation-mark 1/numeral (/punctuation-mark MCP/noun -/punctuation-mark 1/numeral )/punctuation-mark 使/verb 单/distinguishing-word 核/noun 细胞/noun 迁移/verb 入/verb 内/noun-of-locality 皮/noun 下/verb 。/punctuation-mark
+如内皮细胞表达许多粘附分子使血流中的单核细胞，T淋巴细胞粘附于受损内皮区表面，单核细胞趋化蛋白-1(MCP-1)使单核细胞迁移入内皮下。
+命名实体: 
+==================================================
+T/noun 淋巴细胞/noun 也/adverb 有/verb 其/pronoun 相应/verb 的/particle 趋/verb 化/verb 诱导/verb 因子/noun 。/punctuation-mark
+T淋巴细胞也有其相应的趋化诱导因子。
+命名实体: 
+==================================================
+单/distinguishing-word 核/noun 细胞/noun 在/preposition 巨/adjective 噬/verb 细胞/noun 集落/verb 刺激/verb 因子/noun (/punctuation-mark M/noun -/punctuation-mark CSF/noun )/punctuation-mark 作用/noun 下/noun-of-locality 分化/verb 成/verb 巨/adjective 噬/verb 细胞/noun 。/punctuation-mark
+单核细胞在巨噬细胞集落刺激因子(M-CSF)作用下分化成巨噬细胞。
+命名实体: 
+==================================================
+单/distinguishing-word 核/noun //punctuation-mark 巨/noun 噬/verb 细胞/noun 及/conjunction T/noun 淋巴细胞/noun 是/verb 主要/distinguishing-word 的/particle 炎症/noun 细胞/noun ，/punctuation-mark 这个/pronoun 阶段/noun 是/verb 急性/distinguishing-word 炎症/noun 阶段/noun 。/punctuation-mark
+单核/巨噬细胞及T淋巴细胞是主要的炎症细胞，这个阶段是急性炎症阶段。
+命名实体: 
+==================================================
+给/preposition 大/adjective 鼠/noun 注射/verb 人/noun LDL/noun 后/noun-of-locality 4h/noun LDL/noun 即/adverb 出现/verb 、/punctuation-mark 积聚/verb 于/preposition 主动脉/noun 内/noun-of-locality 。/punctuation-mark
+给大鼠注射人LDL后4h LDL即出现、积聚于主动脉内。
+命名实体: 
+==================================================
+6/numeral ~/punctuation-mark 12h/noun 可/verb 检/verb 出/verb 氧化/verb LDL/noun ，/punctuation-mark 12/numeral ~/punctuation-mark 24h/noun 内/noun-of-locality 皮/noun 细胞/noun 表达/verb 粘附/verb 分子/noun 。/punctuation-mark
+6~12h可检出氧化LDL，12~24h内皮细胞表达粘附分子。
+命名实体: 
+==================================================
+巨/adjective 噬/verb 细胞/noun 浸润/verb 至/preposition 内/noun-of-locality 皮/noun 下/noun-of-locality ，/punctuation-mark 可能/verb 是/verb 为了/preposition 清除/verb 积聚/verb 在/preposition 血管/noun 内/noun-of-locality 皮/noun 下/noun-of-locality 的/particle 氧化/verb LDL/noun 。/punctuation-mark
+巨噬细胞浸润至内皮下，可能是为了清除积聚在血管内皮下的氧化LDL。
+命名实体: 
+==================================================
+如果/conjunction 危险/adjective 因子/noun 未/adverb 消除/verb ，/punctuation-mark 清除/verb 毒性/noun 脂/punctuation-mark 蛋白/noun 失败/verb ，/punctuation-mark 经历/verb 许多/numeral 年/classifier 后/noun-of-locality ，/punctuation-mark 血管/noun 壁/noun 转入/verb 慢性/distinguishing-word 炎症/noun 阶段/noun 。/punctuation-mark
+如果危险因子未消除，清除毒性脂蛋白失败，经历许多年后，血管壁转入慢性炎症阶段。
+命名实体: 
+==================================================
+炎症/noun 是/verb 修复/verb 的/particle 主要/distinguishing-word 信号/noun 而/conjunction 纤维/noun 化/verb 是/verb 修复/verb 的/particle 主要/distinguishing-word 结果/noun 。/punctuation-mark
+炎症是修复的主要信号而纤维化是修复的主要结果。
+命名实体: 
+==================================================
+巨/adjective 噬/verb 细胞/noun 分泌/verb 的/particle PDGF/noun 使/verb 平滑肌/noun 细胞/noun 迁移/verb 至/preposition 血管/noun 表面/noun ，/punctuation-mark FGF/noun β/punctuation-mark 及/verb TNF/noun α/punctuation-mark 、/punctuation-mark EGF/noun 等/particle 则/adverb 使/verb 平滑肌/noun 细胞/noun 转变/verb 为/preposition 成/verb 纤维/noun 细胞/noun 表/noun 型/suffix ，/punctuation-mark 然后/conjunction 分泌/verb 各种/pronoun 纤维/noun ，/punctuation-mark 在/preposition 脂/punctuation-mark 类/classifier 核心/noun 表面/noun 构成/verb 纤维/noun 帽/noun 。/punctuation-mark
+巨噬细胞分泌的PDGF使平滑肌细胞迁移至血管表面，FGFβ及TNFα、EGF等则使平滑肌细胞转变为成纤维细胞表型，然后分泌各种纤维，在脂类核心表面构成纤维帽。
+命名实体: 
+==================================================
+AS/noun 发展/verb 为/preposition 进展/verb 型/suffix 或/conjunction 成熟/adjective 斑块/noun ，/punctuation-mark 这种/pronoun 慢性/distinguishing-word 炎症/noun 可/verb 延续/verb 很/adverb 多/numeral 年/classifier 而/conjunction 不/adverb 出现/verb 临床/verb 症状/noun 。/punctuation-mark
+AS发展为进展型或成熟斑块，这种慢性炎症可延续很多年而不出现临床症状。
+命名实体: 
+==================================================
+大多数/numeral 心血管/noun 事件/noun 是/verb 由/preposition 斑块/noun 破裂/verb 、/punctuation-mark 血栓/noun 形成/verb 引起/verb 。/punctuation-mark
+大多数心血管事件是由斑块破裂、[[<DIS>0]]引起。
+命名实体: 血栓形成
+==================================================
+炎症/noun 又是/conjunction 诱发/verb 斑块/noun 破裂/verb 的/particle 主要/distinguishing-word 原因/noun 之一/pronoun 。/punctuation-mark
+炎症又是诱发斑块破裂的主要原因之一。
+命名实体: 
+==================================================
+破裂/verb 处/verb 常有/adverb 活化/verb 的/particle 炎/noun 性/noun 细胞/noun 浸润/verb ，/punctuation-mark 巨/adjective 噬/verb 细胞/noun 能/verb 诱导/verb 平滑肌/noun 细胞/noun 凋/verb 亡/verb 、/punctuation-mark 分泌/verb 各种/pronoun 基/noun 质/noun 金属/noun 蛋白酶/noun (/punctuation-mark MMP/noun )/punctuation-mark 降解/verb 纤维/noun 帽/noun 。/punctuation-mark
+破裂处常有活化的[[<SYM>0]]，巨噬细胞能诱导平滑肌细胞凋亡、分泌各种基质金属蛋白酶(MMP)降解纤维帽。
+命名实体: 炎性细胞浸润
+==================================================
+T/noun 淋巴细胞/noun 通过/preposition 分泌/verb TNF/noun α/punctuation-mark 直接/adjective 抑制/verb 平滑肌/noun 细胞/noun 合成/verb 胶/noun 原/distinguishing-word 蛋白/noun ，/punctuation-mark 并/conjunction 刺激/verb 巨/adjective 噬/verb 细胞/noun 表达/verb MMP/noun 。/punctuation-mark
+T淋巴细胞通过分泌TNFα直接抑制平滑肌细胞合成[[<MED>0]]蛋白，并刺激巨噬细胞表达MMP。
+命名实体: 胶原
+==================================================
+结果/noun 纤维/noun 帽/noun 变/verb 薄/adjective ，/punctuation-mark 终于/adverb 发生/verb 破裂/verb 。/punctuation-mark
+结果纤维帽变薄，终于发生破裂。
+命名实体: 
+==================================================
+慢性/distinguishing-word 炎症/noun 假说/noun 还/adverb 在/preposition 不断/adverb 发展/verb ，/punctuation-mark 研究/verb 主要/adverb 集中/verb 于/preposition 炎/noun 性/noun 细胞/noun 、/punctuation-mark 各种/pronoun 细胞/noun 因子/noun 及/conjunction 免疫/verb 机制/noun 在/preposition AS/noun 发生/verb 发展/verb 中/noun-of-locality 的/particle 作用/noun 及/conjunction 相互/distinguishing-word 关系/noun 。/punctuation-mark
+慢性炎症假说还在不断发展，研究主要集中于炎性细胞、各种细胞因子及免疫机制在AS发生发展中的作用及相互关系。
+命名实体: 
+==================================================
+巨/adjective 噬/verb 细胞/noun 在/preposition AS/noun 发病/verb 中/noun-of-locality 起/verb 关键/adjective 作用/noun 。/punctuation-mark
+巨噬细胞在AS发病中起关键作用。
+命名实体: 
+==================================================
+它们/pronoun 在/preposition 不同/adjective 信号/noun 作用/noun 下/noun-of-locality ，/punctuation-mark 可以/verb 有/verb 不同/adjective 的/particle 表/noun 型/suffix 。/punctuation-mark
+它们在不同信号作用下，可以有不同的表型。
+命名实体: 
+==================================================
+例如/verb ，/punctuation-mark IFN/noun γ/punctuation-mark 可/verb 激活/verb 巨/adjective 噬/verb 细胞/noun ，/punctuation-mark 使/verb 其/pronoun 分泌/verb IL/noun -/punctuation-mark 6/numeral 、/punctuation-mark TNF/noun α/punctuation-mark 、/punctuation-mark IL/noun -/punctuation-mark 1/numeral 等/particle ，/punctuation-mark 上述/distinguishing-word 因子/noun 介/verb 导/verb 急性/distinguishing-word 炎症/noun 反应/verb ;/punctuation-mark IL/noun -/punctuation-mark 4/numeral 、/punctuation-mark IL/noun -/punctuation-mark 13/numeral 活化/verb 巨/adjective 噬/verb 细胞/noun 后/noun-of-locality 则/adverb 伴/verb 有/verb 组织/noun 修复/verb 反应/verb 。/punctuation-mark
+例如，IFNγ可激活巨噬细胞，使其分泌IL-6、TNFα、IL-1等，上述因子介导急性炎症反应;IL-4、IL-13活化巨噬细胞后则伴有组织修复反应。
+命名实体: 
+==================================================
+晚期/time-word AS/noun 损害/verb 中/noun-of-locality ，/punctuation-mark IL/noun -/punctuation-mark 4/numeral 、/punctuation-mark IL/noun -/punctuation-mark 13/numeral 含量/noun 丰富/adjective 。/punctuation-mark
+晚期AS损害中，IL-4、IL-13含量丰富。
+命名实体: 
+==================================================
+在/preposition 氧化/verb LDL/noun 作用/noun 下/noun-of-locality 巨/adjective 噬/verb 细胞/noun 表达/verb CD36/noun 及/conjunction 清道夫/noun 受体/noun ，/punctuation-mark 摄取/verb 脂/punctuation-mark 蛋白/noun 而/conjunction 转变/verb 成/verb 泡沫/noun 细胞/noun ，/punctuation-mark 同时/conjunction 失去/verb 抗原/noun 递/verb 呈/verb 能力/noun 。/punctuation-mark
+在氧化LDL作用下巨噬细胞表达CD36及清道夫受体，摄取脂蛋白而转变成泡沫细胞，同时失去抗原递呈能力。
+命名实体: 
+==================================================
+可见/verb 巨/adjective 噬/verb 细胞/noun 在/preposition AS/noun 的/particle 各个/pronoun 阶段/noun 发挥/verb 重要/adjective 而/conjunction 不尽/adverb 相同/adjective 的/particle 作用/noun 。/punctuation-mark
+可见巨噬细胞在AS的各个阶段发挥重要而不尽相同的作用。
+命名实体: 
+==================================================
+细胞/noun 因子/noun 中/noun-of-locality 近来/adverb 发现/verb CD40/noun 配/verb 体/noun 可/verb 诱导/verb 内/noun-of-locality 皮/noun 细胞/noun 表达/verb 粘附/verb 分子/noun ，/punctuation-mark 激活/verb 内/noun-of-locality 皮/noun 细胞/noun 的/particle CASpASe/noun -/punctuation-mark 1/numeral ，/punctuation-mark 后者/pronoun 可/adverb 使/verb 许多/numeral 无/verb 活性/distinguishing-word 的/particle 细胞/noun 因子/noun 成熟/adjective ，/punctuation-mark 发挥/verb 促/verb 炎/noun 作用/noun 。/punctuation-mark
+细胞因子中近来发现CD40配体可诱导内皮细胞表达粘附分子，激活内皮细胞的CASpASe-1，后者可使许多无活性的细胞因子成熟，发挥促炎作用。
+命名实体: 
+==================================================
+淋巴细胞/noun 分泌/verb 的/particle IL/noun -/punctuation-mark 10/numeral 则/conjunction 抑制/verb 促/verb 炎/noun 细胞/noun 因子/noun 合成/verb 、/punctuation-mark 巨/adjective 噬/verb 细胞/noun 活化/verb 。/punctuation-mark
+淋巴细胞分泌的IL-10则抑制促炎细胞因子合成、巨噬细胞活化。
+命名实体: 
+==================================================
+不同/adjective 细胞/noun 因子/noun 构成/verb 了/particle 复杂/adjective 的/particle 网络/noun 。/punctuation-mark
+不同细胞因子构成了复杂的网络。
+命名实体: 
+==================================================
+血管/noun 壁/noun 细胞/noun 都/adverb 表达/verb PPAR/noun ，/punctuation-mark PPAR/noun 在/preposition AS/noun 形成/verb 中/noun-of-locality 的/particle 作用/noun 亦/adverb 日益/adverb 受到/verb 重视/verb ，/punctuation-mark PPAR/noun γ/punctuation-mark 、/punctuation-mark PPAR/noun α/punctuation-mark 与/preposition 配/verb 体/noun 结合/verb 后/noun-of-locality ，/punctuation-mark 与/preposition 视/verb 黄/noun 酸/noun X/noun 受体/noun 构成/verb 二/numeral 聚/verb 体/noun ，/punctuation-mark 然后/conjunction 调控/verb 许多/numeral 基因/noun 的/particle 表达/verb ，/punctuation-mark 如/conjunction 抑制/verb TNF/noun α/punctuation-mark 、/punctuation-mark IL/noun -/punctuation-mark 6/numeral 、/punctuation-mark MMP/noun -/punctuation-mark 9/numeral 表达/verb 。/punctuation-mark
+血管壁细胞都表达PPAR，PPAR在AS形成中的作用亦日益受到重视，PPARγ、PPARα与配体结合后，与视黄酸X受体构成二聚体，然后调控许多基因的表达，如抑制TNFα、IL-6、MMP-9表达。
+命名实体: 
+==================================================
+此外/conjunction ，/punctuation-mark 抑制/verb MCP/noun -/punctuation-mark 1/numeral 的/particle 趋/verb 化/verb 作用/noun ，/punctuation-mark 抑制/verb PDGF/noun 对/preposition 平滑肌/noun 细胞/noun 的/particle 迁移/verb 作用/noun 等/particle 。/punctuation-mark
+此外，抑制MCP-1的趋化作用，抑制PDGF对平滑肌细胞的迁移作用等。
+命名实体: 
+==================================================
+大多数/numeral 研究/verb 结果/noun 表明/verb PPAR/noun 激活剂/noun 有/verb 抗/verb 炎症/noun 作用/noun ，/punctuation-mark 给/verb apoE/noun -/punctuation-mark //punctuation-mark -/punctuation-mark 小/adjective 鼠/noun 或/conjunction LDL/noun -/punctuation-mark //punctuation-mark -/punctuation-mark 小/adjective 鼠/noun 以/preposition PPAR/noun 激动/adjective 剂/classifier AS/noun 病变/verb 减轻/verb 。/punctuation-mark
+大多数研究结果表明PPAR激活剂有抗炎症作用，给apoE-/-小鼠或LDL-/-小鼠以PPAR激动剂AS病变减轻。
+命名实体: 
+==================================================
+二/numeral 、/punctuation-mark 慢性/distinguishing-word 炎症/noun 假说/noun 与/conjunction 临床/verb 实践/verb
+二、慢性炎症假说与临床实践
+命名实体: 
+==================================================
+1./numeral 炎症/noun 标志/noun 物/noun 与/preposition 冠心病/noun ：/punctuation-mark 炎症/noun 在/preposition AS/noun 的/particle 各个/pronoun 时期/noun 都/adverb 是/verb 突出/adjective 的/particle 变化/verb ，/punctuation-mark 而/conjunction 受累/verb 的/particle 动脉/noun 数量/noun 又/adverb 多/adjective ，/punctuation-mark 可以/verb 导致/verb 全身性/noun 炎症/noun 活性/distinguishing-word 增强/verb ，/punctuation-mark 表现/verb 为/preposition 血浆/noun 中/noun-of-locality 的/particle 炎/noun 性/noun 标志/verb 物/noun 较/adverb 高/adjective 。/punctuation-mark
+1.炎症标志物与[[<DIS>0]]：炎症在AS的各个时期都是突出的变化，而受累的动[[<SYM>1]]量又多，可以导致全身性炎症活性增强，表现为[[<MED>2]]中的炎性标志物较高。
+命名实体: 冠心病 脉数 血浆
+==================================================
+这些/pronoun 炎症/noun 标志/noun 物/noun 中/noun-of-locality 研究/verb 得/particle 最/adverb 多/adjective 的/particle 是/verb 高/adjective 敏感/adjective C/noun 反应/verb 蛋白/noun (/punctuation-mark hs/noun CRP/noun )/punctuation-mark 。/punctuation-mark
+这些炎症标志物中研究得最多的是高敏感C反应蛋白(hs CRP)。
+命名实体: 
+==================================================
+至今/adverb 已/adverb 有/verb 十几/numeral 个/classifier 研究/verb 表明/verb hs/noun CRP/noun 是/verb 无/verb 冠心病/noun 的/particle 人群/noun 以后/noun-of-locality 发生/verb 首/numeral 次/classifier 心血管/noun 事件/noun 的/particle 独立/adjective 预测/verb 因子/noun 。/punctuation-mark
+至今已有十几个研究表明hs CRP是无[[<DIS>0]]的人群以后发生首次心血管事件的独立预测因子。
+命名实体: 冠心病
+==================================================
+由于/preposition 半数/numeral 的/particle 心肌/noun 梗/noun 死/verb 及/conjunction 卒/noun 中/noun-of-locality 患者/noun 血浆/noun 胆固醇/noun 水平/noun 并/conjunction 不/adverb 高/adjective ，/punctuation-mark 因此/conjunction ，/punctuation-mark hs/noun CRP/noun 可以/verb 判别/verb 出/verb 一些/numeral 通常/adverb 认为/verb 并/conjunction 无/verb 冠心病/noun 人群/noun 的/particle 风险性/noun 。/punctuation-mark
+由于半数的[[<SYM><DIS>0]]及卒中患者[[<MED>1]][[<DIS>2]]水平并不高，因此，hs CRP可以判别出一些通常认为并无[[<DIS>3]]人群的风险性。
+命名实体: 心肌梗死 血浆 胆固醇 冠心病
+==================================================
+CRP/noun 可以/verb 诱导/verb 补/verb 体/noun 生成/verb 、/punctuation-mark 调节/verb 内/noun-of-locality 皮/noun 细胞/noun NOS/noun 的/particle 表达/verb 、/punctuation-mark 参与/verb LDL/noun 氧化/verb 及/conjunction 上调/verb 粘附/verb 分子/noun 基因/noun 的/particle 表达/verb 。/punctuation-mark
+CRP可以诱导补体生成、调节内皮细胞NOS的表达、参与LDL氧化及上调粘附分子基因的表达。
+命名实体: 
+==================================================
+因而/conjunction ，/punctuation-mark 降低/verb 血浆/noun hs/noun CRP/noun 水平/noun 可能/verb 有利于/verb 减少/verb 心血管/noun 事件/noun 的/particle 发生/verb 。/punctuation-mark
+因而，降低[[<MED>0]]hs CRP水平可能有利于减少心血管事件的发生。
+命名实体: 血浆
+==================================================
+CARE/noun 试验/verb 中亚/noun 组/noun 分析/verb ，/punctuation-mark 基线/noun CRP/noun 水平/noun 高/adjective 者/suffix ，/punctuation-mark 心血管/noun 事件/noun 可/verb 减少/verb 54%/numeral ，/punctuation-mark 低/adjective 者/suffix 仅/adverb 减少/verb 25%/numeral 。/punctuation-mark
+CARE试验中亚组分析，基线CRP水平高者，心血管事件可减少54%，低者仅减少25%。
+命名实体: 
+==================================================
+AFCAPS/TEXCAPS/string 试验/verb 的/particle 亚/distinguishing-word 组/noun 分析/verb 中/noun-of-locality 突出/adjective 的/particle 发现/verb 是/verb 洛/distinguishing-word 伐/verb 他/pronoun 丁/onomatopoeia 能/verb 有效/adjective 地/particle 减少/verb LDL/noun </punctuation-mark 均/adverb 数/verb 、/punctuation-mark CRP/noun >/punctuation-mark 均/adverb 数/verb 的/particle 人群/noun 发生/verb 冠状动脉/noun 事件/noun 。/punctuation-mark
+AFCAPS/TEXCAPS试验的亚组分析中突出的发现是洛伐他丁能有效地减少LDL<均数、CRP>均数的人群发生[[<SYM>0]]动脉事件。
+命名实体: 冠状
+==================================================
+Physicians′/noun Health/noun Study/noun 亚/distinguishing-word 组/noun 分析/verb 基线/noun CRP/noun 水平/noun >/punctuation-mark 2.1mg/L/string 者/suffix 阿司匹林/noun 治疗/verb 可/verb 降低/verb 将来/time-word 心肌/noun 梗/noun 死/verb 发生率/noun 达/verb 60%/numeral ，/punctuation-mark 而/conjunction CRP/noun </punctuation-mark 0.55mg/L/string 者/suffix 仅/adverb 为/verb 14%/numeral 。/punctuation-mark
+Physicians′ Health Study亚组分析基线CRP水平>2.1mg/L者[[<MED>0]]治疗可降低将来[[<SYM><DIS>1]]发生率达60%，而CRP<0.55mg/L者仅为14%。
+命名实体: 阿司匹林 心肌梗死
+==================================================
+当前/time-word 倍受/verb 关注/verb 的/particle 是/verb ：/punctuation-mark 是否/verb 应/verb 将/adverb hs/noun CRP/noun 设定/verb 为/preposition 目标/noun 水平/noun ?/punctuation-mark 观察/verb 降低/verb hs/noun CRP/noun 是否/verb 可/verb 减少/verb 心血管/noun 事件/noun 的/particle 大规模/distinguishing-word 临床/verb 试验/verb 可/verb 提供/verb 关键性/noun 结论/noun 。/punctuation-mark
+当前倍受关注的是：是否应将hs CRP设定为目标水平?观察降低hs CRP是否可减少心血管事件的大规模临床试验可提供关键性结论。
+命名实体: 
+==================================================
+今年/time-word 发表/verb 的/particle PROVE/noun IT/noun -/punctuation-mark TIMI/noun 22/numeral 及/conjunction REVERSAL/noun 试验/verb 报道/verb 应用/verb 他汀/noun 后/noun-of-locality CRP/noun 水平/noun 降低/verb 与/preposition ACS/noun 患者/noun 再/adverb 发/verb 心肌/noun 梗/noun 死/verb 或/conjunction 心血管/noun 病/noun 死亡率/noun 降低/verb 相关/verb ;/punctuation-mark REVERSAL/noun 试验/verb 中/noun-of-locality 冠状动脉/noun 病变/verb 进展/verb 与/conjunction CRP/noun 水平/noun 降低/verb 呈/verb 独立/adjective 、/punctuation-mark 显著/adjective 的/particle 相关性/noun ;/punctuation-mark 而/conjunction 他汀/noun 降低/verb CRP/noun 水平/noun 与/preposition LDL/noun 水平/noun 降低/verb 无关/verb 。/punctuation-mark
+今年发表的PROVE IT-TIMI 22及REVERSAL试验报道应用他汀后CRP水平降低与ACS患者再发[[<SYM><DIS>0]]或心血管病死亡率降低相关;REVERSAL试验中[[<DIS>1]]进展与CRP水平降低呈独立、显著的相关性;而他汀降低CRP水平与LDL水平降低无关。
+命名实体: 心肌梗死 冠状动脉病变
+==================================================
+JUPITIER/noun 试验/verb 研究/verb rosuvastatin/noun 20mg/noun 对/preposition 15000/numeral 名/classifier 无/verb 冠心病/noun 史/noun 、/punctuation-mark LDL/noun </punctuation-mark 130mg/noun 、/punctuation-mark CRP/noun >/punctuation-mark 2mg/L/string 的/particle 人群/noun 发生/verb 心肌/noun 梗/noun 死/verb 、/punctuation-mark 卒/noun 中/noun-of-locality 、/punctuation-mark 心血管/noun 病/noun 死亡率/noun 等/particle 复合/verb 终点/noun 的/particle 影响/verb ，/punctuation-mark 其/pronoun 结果/noun 对/preposition 是否/verb 应/verb 将/adverb hs/noun CRP/noun 设定/verb 为/preposition 目标/noun 水平/noun 有/verb 重要/adjective 作用/noun 。/punctuation-mark
+JUPITIER试验研究rosuvastatin 20mg对15000名无[[<DIS>0]]史、LDL<130mg、CRP>2mg/L的人群发生[[<SYM><DIS>1]]、[[<DIS>2]]、[[<DIS>3]]等复合终点的影响，其结果对是否应将hs CRP设定为目标水平有重要作用。
+命名实体: 冠心病 心肌梗死 卒中 心血管病死亡率
+==================================================
+其他/pronoun 受/verb 关注/verb 的/particle 血浆/noun 中/noun-of-locality 的/particle 炎/noun 性/noun 标志/verb 物/noun 有/verb IL/noun -/punctuation-mark 6/numeral 、/punctuation-mark CD40/noun 配/verb 体/noun 等/particle 。/punctuation-mark
+其他受关注的[[<MED>0]]中的炎性标志物有IL-6、CD40配体等。
+命名实体: 血浆
+==================================================
+2./numeral 抗/verb 炎/noun 治疗/verb 。/punctuation-mark
+2.抗炎治疗。
+命名实体: 
+==================================================
+他汀类/noun ：/punctuation-mark 心肌/noun 梗/noun 死/verb 后/noun-of-locality 血/noun 胆固醇/noun 水平/noun 降低/verb ，/punctuation-mark 1/numeral ~/punctuation-mark 2/numeral 个/classifier 月/noun 才/adverb 恢复/verb 至/preposition 原来/distinguishing-word 水平/noun ，/punctuation-mark 因而/conjunction 4S/noun 、/punctuation-mark LIPID/noun 等/particle 临床/verb 试验/verb 都/adverb 在/preposition 发生/verb 心肌/noun 梗/noun 死/verb 后/noun-of-locality 2/numeral ~/punctuation-mark 6/numeral 个/classifier 月/noun 才/adverb 开始/verb 给予/verb 他汀/noun ，/punctuation-mark 以/preposition 观察/verb 降低/verb LDL/noun 的/particle 效果/noun 。/punctuation-mark
+[[<MED>0]]：[[<SYM><DIS>1]]后血[[<DIS>2]]水平降低，1~2个月才恢复至原来水平，因而4S、LIPID等临床试验都在发生[[<SYM><DIS>1]]后2~6个月才开始给予他汀，以观察降低LDL的效果。
+命名实体: 他汀类 心肌梗死 胆固醇
+==================================================
+以/preposition 后/noun-of-locality 发现/verb 他汀类/noun 有/verb 抗/verb 炎症/noun 作用/noun 。/punctuation-mark
+以后发现[[<MED>0]]有抗炎症作用。
+命名实体: 他汀类
+==================================================
+他汀类/noun 能/verb 改善/verb 内/noun-of-locality 皮/noun 功能/noun 从而/conjunction 减少/verb 粘附/verb 分子/noun 的/particle 表达/verb 、/punctuation-mark 减少/verb 斑块/noun 内/noun-of-locality 的/particle 炎/noun 性/noun 细胞/noun 浸润/verb ，/punctuation-mark 从而/conjunction 减少/verb MMP/noun 、/punctuation-mark 稳定/adjective 斑块/noun 。/punctuation-mark
+[[<MED>0]]能改善内皮功能从而减少粘附分子的表达、减少斑块内的[[<SYM>1]]，从而减少MMP、稳定斑块。
+命名实体: 他汀类 炎性细胞浸润
+==================================================
+此外/conjunction 他汀/noun 还/adverb 能/verb 抑制/verb 巨/adjective 噬/verb 细胞/noun 表达/verb 组织/verb 因子/noun ，/punctuation-mark 抑制/verb 血小板/noun 聚集/verb 。/punctuation-mark
+此外他汀还能抑制巨噬细胞表达组织因子，抑制[[<MED>0]]聚集。
+命名实体: 血小板
+==================================================
+因此/conjunction 早期/time-word 应用/verb 他汀/noun 成为/verb 关注/verb 的/particle 热点/noun 。/punctuation-mark
+因此早期应用他汀成为关注的热点。
+命名实体: 
+==================================================
+MIRACL/noun 、/punctuation-mark PROVEIT/noun 等/particle 针对/preposition 急性/distinguishing-word 冠/noun 脉/noun 综合征/noun (/punctuation-mark ACS/noun )/punctuation-mark 的/particle 临床/verb 试验/verb 结果/noun 均/adverb 表明/verb 早期/noun-of-locality 应用/verb 他汀/noun 可/verb 有效/adjective 降低/verb 主要/distinguishing-word 终点/noun 发生率/noun 。/punctuation-mark
+MIRACL、PROVEIT等针对[[<DIS>0]](ACS)的临床试验结果均表明早期应用他汀可有效降低主要终点发生率。
+命名实体: 急性冠脉综合征
+==================================================
+ATP/noun Ⅲ/numeral 建议/noun ACS/noun 入院/verb 当时/time-word 或/conjunction 发病/verb 后/noun-of-locality 24h/noun 内/noun-of-locality 即/adverb 开始/verb 给予/verb 他汀/noun 。/punctuation-mark
+ATPⅢ建议ACS入院当时或发病后24h内即开始给予他汀。
+命名实体: 
+==================================================
+AHA/noun 及/conjunction AC/noun C/noun 的/particle 指南/noun 建议/noun 24/numeral ~/punctuation-mark 96h/noun 内/noun-of-locality 即/adverb 可/verb 开始/verb 。/punctuation-mark
+AHA及AC C的指南建议24~96h内即可开始。
+命名实体: 
+==================================================
+由于/preposition 早期/time-word 应用/verb 他汀/noun 时/noun ，/punctuation-mark 还/adverb 未/adverb 出现/verb 降/verb 脂/punctuation-mark 作用/noun ，/punctuation-mark 而/conjunction 应/verb 用/preposition 他汀/noun 后/noun-of-locality 血浆/noun CRP/noun 降低/verb ，/punctuation-mark 故/conjunction 目前/time-word 一般/adjective 认为/verb 主要/adverb 是/verb 由于/preposition 他汀/noun 的/particle 降/verb 脂/punctuation-mark 外/noun-of-locality 作用/noun 。/punctuation-mark
+由于早期应用他汀时，还未出现降脂作用，而应用他汀后[[<MED>0]]CRP降低，故目前一般认为主要是由于他汀的降脂外作用。
+命名实体: 血浆
+==================================================
+至于/preposition ACS/noun 以外/noun-of-locality 的/particle 临床/verb 试验/verb 中/noun-of-locality 他汀类/noun 降低/verb 心血管/noun 事件/noun 是/verb 降低/verb LDL/noun 还/adverb 是/verb 降/verb 脂/punctuation-mark 外/noun-of-locality 作用/noun 所/particle 引起/verb 还/adverb 难以/adverb 判断/verb 。/punctuation-mark
+至于ACS以外的临床试验中[[<MED>0]]降低心血管事件是降低LDL还是降脂外作用所引起还难以判断。
+命名实体: 他汀类
+==================================================
+给/preposition AS/noun 模型/noun 猴/noun 或/conjunction 兔/noun 以/preposition 他汀/noun ，/punctuation-mark 通过/preposition 减少/verb 对照/verb 动物/noun 喂/verb 饲/verb 的/particle 胆固醇/noun 量/noun ，/punctuation-mark 使/verb 二/numeral 组/classifier 血脂/noun 相近/adjective 。/punctuation-mark
+给AS模型猴或兔以他汀，通过减少对照动物喂饲的[[<DIS>0]]量，使二组血脂相近。
+命名实体: 胆固醇
+==================================================
+他汀/noun 组/noun 的/particle AS/noun 病变/verb 明显/adjective 小/adjective ，/punctuation-mark 炎/noun 性/noun 巨/adjective 噬/verb 细胞/noun 少/adjective 而/conjunction 胶/noun 原/adverb 增加/verb 。/punctuation-mark
+他汀组的AS病变明显小，炎性巨噬细胞少而[[<MED>0]]增加。
+命名实体: 胶原
+==================================================
+但/conjunction 人类/noun 无法/verb 排除/verb 继发/noun 于/preposition 降低/verb LDL/noun 的/particle 可能性/noun 。/punctuation-mark
+但人类无法排除继发于降低LDL的可能性。
+命名实体: 
+==================================================
+Semb/noun 等/particle 报告/noun 他汀/noun 能/verb 降低/verb 家族/noun 性/noun 高/adjective 胆固醇/noun 血/noun 症/noun 患者/noun 血/noun CD40/noun 配/verb 体/noun ，/punctuation-mark 而且/conjunction 与/preposition 胆固醇/noun 水平/noun 无关/verb ，/punctuation-mark 上述/distinguishing-word PROVE/noun ITTIMI/noun 22/numeral 等/particle 试验/verb 亦/adverb 间接/adverb 证明/verb 他汀/noun 在/preposition 人/noun 的/particle 抗/verb 炎症/noun 作用/noun 。/punctuation-mark
+Semb等报告他汀能降低[[<DIS>0]]患者血CD40配体，而且与[[<DIS>1]]水平无关，上述PROVE ITTIMI 22等试验亦间接证明他汀在人的抗炎症作用。
+命名实体: 家族性高胆固醇血症 胆固醇
+==================================================
+抗生素/noun ：/punctuation-mark 粥/noun 样/noun 斑块/noun 中/noun-of-locality 常/adverb 发现/verb 有/verb 肺炎/noun 衣/noun 原/adverb 体/noun 、/punctuation-mark 巨细/noun 胞/punctuation-mark 病毒/noun 等/particle ，/punctuation-mark 但是/conjunction 没有/verb 证据/noun 表明/verb 这些/pronoun 病原/noun 微生物/noun 可/verb 引起/verb AS/noun 。/punctuation-mark
+[[<MED>0]]：粥样斑块中常发现有[[<DIS>1]]衣原体、巨细胞病毒等，但是没有证据表明这些病原微生物可引起AS。
+命名实体: 抗生素 肺炎
+==================================================
+本期/pronoun 发表/verb 的/particle 以/distinguishing-word 肺炎/noun 衣/noun 原/adverb 体/noun 感染/verb C57BL/6J/string 小/adjective 鼠/noun ，/punctuation-mark 也/adverb 未/adverb 引起/verb AS/noun 。/punctuation-mark
+本期发表的以[[<DIS>0]][[<DIS>1]]C57BL/6J小鼠，也未引起AS。
+命名实体: 肺炎 衣原体感染
+==================================================
+但/conjunction 有/verb 报导/verb ，/punctuation-mark 在/preposition 已/adverb 发生/verb AS/noun 的/particle 基础/noun 上/noun-of-locality ，/punctuation-mark 肺炎/noun 衣/noun 原/distinguishing-word 体/noun 等/particle 感染/verb 可能/verb 会/verb 加重/verb AS/noun 的/particle 炎症/noun 反应/verb ，/punctuation-mark 导致/verb 斑块/noun 不/adverb 稳定/adjective 。/punctuation-mark
+但有报导，在已发生AS的基础上，[[<DIS>0]]衣原体等[[<DIS>1]]可能会加重AS的炎症反应，导致斑块不稳定。
+命名实体: 肺炎 感染
+==================================================
+但是/conjunction WIZARD/noun 、/punctuation-mark AZACS/noun 等/particle 临床/verb 试验/verb 中/noun-of-locality 应用/verb 抗/verb 肺炎/noun 衣/noun 原/adverb 体/noun 的/particle azithromycin/noun 治疗/verb 并/conjunction 不/adverb 能/verb 降低/verb 心血管/noun 事件/noun 。/punctuation-mark
+但是WIZARD、AZACS等临床试验中应用抗[[<DIS>0]]衣原体的azithromycin治疗并不能降低心血管事件。
+命名实体: 肺炎
+==================================================
+阿司匹林/noun ：/punctuation-mark 阿司匹林/noun 由于/conjunction 其/pronoun 抗/verb 血小板/noun 聚集/verb 作用/noun 在/preposition 冠心病/noun 治疗/verb 中/noun-of-locality 已/adverb 有/verb 肯定/adjective 的/particle 地位/noun 。/punctuation-mark
+[[<MED>0]]：[[<MED>0]]由于其抗[[<MED>1]]聚集作用在[[<DIS>2]]治疗中已有肯定的地位。
+命名实体: 阿司匹林 血小板 冠心病
+==================================================
+阿斯匹林/noun 能/verb 抑制/verb COX/noun 及/conjunction NF/noun -/punctuation-mark κ/punctuation-mark B/noun 。/punctuation-mark
+阿斯匹林能抑制COX及NF-κB。
+命名实体: 
+==================================================
+冠心病/noun 患者/noun 用/preposition 阿司匹林/noun 治疗/verb 后/noun-of-locality 血/noun 中/noun-of-locality IL/noun -/punctuation-mark 6/numeral 、/punctuation-mark CRP/noun 、/punctuation-mark CSF/noun 降低/verb 。/punctuation-mark
+[[<DIS>0]]患者用[[<MED>1]]治疗后血中IL-6、CRP、CSF降低。
+命名实体: 冠心病 阿司匹林
+==================================================
+Ridker/noun 给/preposition “/punctuation-mark 健康/adjective 人/noun ”/punctuation-mark 以/preposition 阿司匹林/noun ，/punctuation-mark 随/adverb 访/verb 中/distinguishing-word 心肌/noun 梗/noun 死/verb 发生率/noun 降低/verb ，/punctuation-mark 而且/conjunction 与/preposition CRP/noun 降低/verb 有关/verb 。/punctuation-mark
+Ridker给“健康人”以[[<MED>0]]，随访中[[<SYM><DIS>1]]发生率降低，而且与CRP降低有关。
+命名实体: 阿司匹林 心肌梗死
+==================================================
+可能/verb 阿司匹林/noun 的/particle 抗/verb 炎/noun 作用/noun 亦/adverb 有/verb 一定/distinguishing-word 作用/noun 。/punctuation-mark
+可能[[<MED>0]]的抗炎作用亦有一定作用。
+命名实体: 阿司匹林
+==================================================
+PPAR/noun γ/punctuation-mark 激动/adjective 剂/classifier ：/punctuation-mark AS/noun 与/conjunction 糖尿病/noun 是/verb 多种/numeral 因素/noun 引起/verb 的/particle 疾病/noun ，/punctuation-mark 糖尿病/noun 患者/noun 大多/adverb 死/verb 于/preposition 心血管/noun 疾病/noun ，/punctuation-mark 而/conjunction 炎症/noun 可能/verb 是/verb 这/pronoun 二/numeral 种/classifier 疾病/noun 的/particle 起因/noun 之一/pronoun ，/punctuation-mark 或者/conjunction 在/preposition 糖尿病/noun 伴/verb 发/verb 心血管/noun 疾病/noun 中/noun-of-locality 起/verb 一定/distinguishing-word 作用/noun 。/punctuation-mark
+PPARγ激动剂：AS与[[<DIS>0]]是多种因素引起的疾病，[[<DIS>0]]患者大多死于[[<DIS>1]]，而炎症可能是这二种疾病的起因之一，或者在[[<DIS>0]]伴发[[<DIS>1]]中起一定作用。
+命名实体: 糖尿病 心血管疾病
+==================================================
+罗/distinguishing-word 格/distinguishing-word 列/noun 酮/punctuation-mark 等/verb 临床/verb 上/noun-of-locality 原/adverb 用/verb 以/preposition 提高/verb 胰岛素/noun 敏/adjective 感性/noun 、/punctuation-mark 治疗/verb 糖尿病/noun 。/punctuation-mark
+[[<MED>0]]等临床上原用以提高[[<MED>1]]敏感性、治疗[[<DIS>2]]。
+命名实体: 罗格列酮 胰岛素 糖尿病
+==================================================
+现在/time-word 作为/verb PPAR/noun γ/punctuation-mark 激动/adjective 剂/classifier ，/punctuation-mark 有/verb 抑制/verb 炎症/noun 及/conjunction AS/noun 功能/noun ，/punctuation-mark 对/preposition 糖尿病/noun 治疗/verb 更为/adverb 有利/adjective 。/punctuation-mark
+现在作为PPARγ激动剂，有抑制炎症及AS功能，对[[<DIS>0]]治疗更为有利。
+命名实体: 糖尿病
+==================================================
+而且/conjunction 这/pronoun 类/classifier 药物/noun 并/conjunction 不/adverb 引起/verb 低血糖/noun ，/punctuation-mark 随着/preposition 对/preposition PPAR/noun γ/punctuation-mark 的/particle 研究/verb 进展/verb ，/punctuation-mark 很/adverb 有/verb 可能/noun 用于/verb 糖尿病/noun 以外/noun-of-locality 的/particle AS/noun 患者/noun 。/punctuation-mark
+而且这类药物并不引起低血糖，随着对PPARγ的研究进展，很有可能用于[[<DIS>0]]以外的AS患者。
+命名实体: 糖尿病
+==================================================
+有待/verb 临床/verb 试验/verb 验证/verb 。/punctuation-mark
+有待临床试验验证。
+命名实体: 
+==================================================
+AS/noun 慢性/distinguishing-word 炎症/noun 假说/noun 不仅/conjunction 在/preposition 理论/noun 上/noun-of-locality 阐明/verb AS/noun 发病/verb 机制/noun ，/punctuation-mark 而且/conjunction 为/verb AS/noun 防治/verb 提供/verb 了/particle 新/adjective 的/particle 思路/noun 、/punctuation-mark 线索/noun 。/punctuation-mark
+AS慢性炎症假说不仅在理论上阐明AS发病机制，而且为AS防治提供了新的思路、线索。
+命名实体: 
+==================================================
+敲/verb 除/preposition MCP/noun -/punctuation-mark 1/numeral 、/punctuation-mark 粘附/verb 分子/noun 基因/noun 小/adjective 鼠/noun ，/punctuation-mark 注射/verb CD40/noun 配/verb 体/noun 抗体/noun 小/adjective 鼠/noun ，/punctuation-mark 其/pronoun AS/noun 病变/verb 显著/adjective 减轻/verb ，/punctuation-mark 目前/time-word 已/adverb 开发/verb 出/verb MCP/noun -/punctuation-mark 1/numeral 抑/verb 制剂/noun ，/punctuation-mark 在/preposition 实验/verb 阶段/noun 。/punctuation-mark
+敲除MCP-1、粘附分子基因小鼠，注射CD40配体抗体小鼠，其AS病变显著减轻，目前已开发出MCP-1抑制剂，在实验阶段。
+命名实体: 
+==================================================
+相信/verb 今后/time-word 会/verb 有/verb 更/adverb 多/adjective 的/particle 防治/verb AS/noun 的/particle 药物/noun 出现/verb 。/punctuation-mark
+相信今后会有更多的防治AS的药物出现。
+命名实体: 

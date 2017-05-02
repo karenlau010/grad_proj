@@ -10,7 +10,7 @@
 实体关系: 
 ==================================================
 【/punctuation-mark 摘要/noun 】/punctuation-mark 室/noun 间隔/verb 缺损/verb (/punctuation-mark ySD/noun )/punctuation-mark 为/preposition 最/adverb 常见/adjective 的/particle 先天性/distinguishing-word 心脏/noun 畸形/noun ，/punctuation-mark 占/verb 先天性/distinguishing-word 心脏病/noun 的/particle 25%/numeral ~/punctuation-mark 3/numeral "/punctuation-mark %/numeral 。/punctuation-mark
-【摘要】[[<DIS><SYM>0]](ySD)为最常见的先天性[[<SYM>1]]，占[[<DIS>2]]的25%~3"%。
+【摘要】[[<SYM><DIS>0]](ySD)为最常见的先天性[[<SYM>1]]，占[[<DIS>2]]的25%~3"%。
 命名实体: 室间隔缺损 心脏畸形 先天性心脏病
 实体关系: 
 ==================================================
@@ -30,7 +30,7 @@
 实体关系: 
 ==================================================
 术/noun 后/noun-of-locality 应/verb 严密/adjective 观察/verb ，/punctuation-mark 及早/adverb 处理/verb 房室/noun 传导/verb 阻滞/verb 等/particle 并发症/noun 。/punctuation-mark
-术后应严密观察，及早处理[[<DIS><SYM>0]]等并发症。
+术后应严密观察，及早处理[[<SYM><DIS>0]]等并发症。
 命名实体: 房室传导阻滞
 实体关系: 
 ==================================================
@@ -40,12 +40,12 @@
 实体关系: 
 ==================================================
 【/punctuation-mark 关键词/noun 】/punctuation-mark 先天性/distinguishing-word 心脏病/noun ;/punctuation-mark 室/noun 间隔/verb 缺损/verb ;/punctuation-mark 介入/verb 治疗/verb ;/punctuation-mark 并发症/noun ;/punctuation-mark 房室/noun 传导/verb 阻滞/verb
-【关键词】[[<DIS>0]];[[<DIS><SYM>1]];介入治疗;并发症;[[<DIS><SYM>2]]
+【关键词】[[<DIS>0]];[[<SYM><DIS>1]];介入治疗;并发症;[[<SYM><DIS>2]]
 命名实体: 先天性心脏病 室间隔缺损 房室传导阻滞
 实体关系: 
 ==================================================
 室/noun 间隔/verb 缺损/verb (/punctuation-mark ventricular/noun septal/noun defect/noun ，/punctuation-mark VSD/noun )/punctuation-mark 为/preposition 最/adverb 常见/adjective 的/particle 先天性/distinguishing-word 心脏/noun 畸形/noun ，/punctuation-mark 多/adverb 单独/adverb 存在/verb ，/punctuation-mark 亦/adverb 可/verb 与/preposition 其他/pronoun 畸形/noun 合并/verb 发生/verb 。/punctuation-mark
-[[<DIS><SYM>0]](ventricular septal defect，VSD)为最常见的先天性[[<SYM>1]]，多单独存在，亦可与其他畸形合并发生。
+[[<SYM><DIS>0]](ventricular septal defect，VSD)为最常见的先天性[[<SYM>1]]，多单独存在，亦可与其他畸形合并发生。
 命名实体: 室间隔缺损 心脏畸形
 实体关系: 
 ==================================================
@@ -85,7 +85,7 @@
 实体关系: 
 ==================================================
 2002年/time-word Amplatzer/noun 在/preposition 房间/noun 隔/verb 缺损/verb 封堵/verb 器/noun 和/conjunction 动脉/noun 导管/noun 未/adverb 闭/verb 封堵/verb 器/noun 研制/verb 的/particle 基础/noun 上/noun-of-locality ，/punctuation-mark 研制/verb 出/verb 膜/noun 周/noun 部/noun 偏心/adjective 型/noun VSD/noun 封堵/verb 器/noun ，/punctuation-mark 并/conjunction 成功/adjective 应/verb 用于/verb 临床/verb 。/punctuation-mark
-2002年Amplatzer在[[<DIS>0]]封堵器和[[<DIS><SYM>1]]封堵器研制的基础上，研制出膜周部偏心型VSD封堵器，并成功应用于临床。
+2002年Amplatzer在[[<DIS>0]]封堵器和[[<SYM><DIS>1]]封堵器研制的基础上，研制出膜周部偏心型VSD封堵器，并成功应用于临床。
 命名实体: 房间隔缺损 动脉导管未闭
 实体关系: 
 ==================================================
@@ -95,12 +95,12 @@
 实体关系: 
 ==================================================
 随着/preposition 治疗/verb 病例/noun 的/particle 增加/verb 和/conjunction 对/preposition VSD/noun 解剖学/noun 认识/verb 的/particle 提高/verb ，/punctuation-mark 对/preposition 封堵/verb 器/noun 进行/verb 了/particle 改进/verb ，/punctuation-mark 先后/adverb 研制/verb 出/verb 非/distinguishing-word 对称性/noun 、/punctuation-mark 零/numeral 边/suffix 、/punctuation-mark 细/adjective 腰/noun 大/adjective 边/noun 等/particle 封堵/verb 器/noun ，/punctuation-mark 使/verb 适应/verb 证/noun 范围/noun 进一步/adverb 扩大/verb ，/punctuation-mark 成功率/noun 提高/verb ，/punctuation-mark 房室/noun 传导/verb 阻滞/verb 和/conjunction 右/noun-of-locality 房室/noun 瓣/noun 返/verb 流/verb 并发症/noun 的/particle 发生率/noun 降低/verb [2]/string 。/punctuation-mark
-随着治疗病例的增加和对VSD解剖学认识的提高，对封堵器进行了改进，先后研制出非对称性、零边、细腰大边等封堵器，使适应证范围进一步扩大，成功率提高，[[<DIS><SYM>0]]和右房室瓣返流并发症的发生率降低[2]。
+随着治疗病例的增加和对VSD解剖学认识的提高，对封堵器进行了改进，先后研制出非对称性、零边、细腰大边等封堵器，使适应证范围进一步扩大，成功率提高，[[<SYM><DIS>0]]和右房室瓣返流并发症的发生率降低[2]。
 命名实体: 房室传导阻滞
 实体关系: 
 ==================================================
 但是/conjunction ，/punctuation-mark 与/preposition 此/pronoun 相反/verb ，/punctuation-mark 进口/verb 封堵/verb 器/noun ，/punctuation-mark 在/preposition 应用/verb 中/noun-of-locality 发现/verb 需要/verb 安置/verb 人工/distinguishing-word 心脏/noun 起/verb 搏/verb 器/noun 的/particle 房室/noun 传导/verb 阻滞/verb 发生率/noun 高/adjective 达/verb 3.8%/numeral ，/punctuation-mark 并且/conjunction 有/verb 一些/numeral 患者/noun 在/preposition 术/noun 后/noun-of-locality 1/numeral 年/classifier 发生/verb 房室/noun 传导/verb 阻滞/verb ，/punctuation-mark 分析/verb 其/pronoun 原因/noun 可能/verb 是/verb 封堵/verb 器/noun 的/particle 结构/noun 缺陷/noun [3]/string 。/punctuation-mark
-但是，与此相反，进口封堵器，在应用中发现需要安置人工心脏起搏器的[[<DIS><SYM>0]]发生率高达3.8%，并且有一些患者在术后1年发生[[<DIS><SYM>0]]，分析其原因可能是封堵器的结构缺陷[3]。
+但是，与此相反，进口封堵器，在应用中发现需要安置人工心脏起搏器的[[<SYM><DIS>0]]发生率高达3.8%，并且有一些患者在术后1年发生[[<SYM><DIS>0]]，分析其原因可能是封堵器的结构缺陷[3]。
 命名实体: 房室传导阻滞
 实体关系: 
 ==================================================
@@ -114,8 +114,8 @@
 命名实体:
 实体关系: 
 ==================================================
-伦敦/noun Great/adjective Ormond/noun Street/noun Hospital/noun 总结/verb 1976年/time-word 至/preposition 2001年/time-word 间/noun-of-locality 2079/numeral 例/classifier VSD/noun 患者/noun 外科/noun 术/noun 后/noun-of-locality 永久性/noun 完全/adjective 房室/noun 传导/verb 阻滞/verb 的/particle 发生率/noun ，/punctuation-mark 单纯/adjective 性/noun VSD/noun 患者/noun 996/numeral 例/classifier 中/noun-of-locality 发生/verb 7/numeral 例/classifier (/punctuation-mark 0.7%/numeral )/punctuation-mark ，/punctuation-mark 主要/adverb 为/verb 膜/noun 周/noun 部/noun VSD/noun 。/punctuation-mark
-伦敦Great Ormond Street Hospital总结1976年至2001年间2079例VSD患者外科术后永久性完全[[<DIS><SYM>0]]的发生率，单纯性VSD患者996例中发生7例(0.7%)，主要为膜周部VSD。
+伦敦/noun Great/noun Ormond/noun Street/noun Hospital/noun 总结/verb 1976年/time-word 至/preposition 2001年/time-word 间/noun-of-locality 2079/numeral 例/classifier VSD/noun 患者/noun 外科/noun 术/noun 后/noun-of-locality 永久性/noun 完全/adjective 房室/noun 传导/verb 阻滞/verb 的/particle 发生率/noun ，/punctuation-mark 单纯/adjective 性/noun VSD/noun 患者/noun 996/numeral 例/classifier 中/noun-of-locality 发生/verb 7/numeral 例/classifier (/punctuation-mark 0.7%/numeral )/punctuation-mark ，/punctuation-mark 主要/adverb 为/verb 膜/noun 周/noun 部/noun VSD/noun 。/punctuation-mark
+伦敦Great Ormond Street Hospital总结1976年至2001年间2079例VSD患者外科术后永久性完全[[<SYM><DIS>0]]的发生率，单纯性VSD患者996例中发生7例(0.7%)，主要为膜周部VSD。
 命名实体: 房室传导阻滞
 实体关系: 
 ==================================================
@@ -180,7 +180,7 @@
 实体关系: 
 ==================================================
 1.1.4/numeral 心肌/noun 梗/noun 死/verb 或/conjunction 外伤/noun 后/noun-of-locality 室/noun 间隔/verb 穿孔/verb 。/punctuation-mark
-1.1.4[[<DIS><SYM>0]]或外伤后[[<DIS>1]]。
+1.1.4[[<SYM><DIS>0]]或外伤后[[<DIS>1]]。
 命名实体: 心肌梗死 室间隔穿孔
 实体关系: 
 ==================================================
@@ -219,7 +219,7 @@
 命名实体:
 实体关系: 
 ==================================================
-1.2.5VSD/noun 合并/verb 一度/adverb 房室/noun 传导/verb 阻滞/verb 或/conjunction 二/numeral 度/classifier I/pronoun 型/suffix 房室/noun 传导/verb 阻滞/verb 。/punctuation-mark
+1.2.5VSD/noun 合并/verb 一度/adverb 房室/noun 传导/verb 阻滞/verb 或/conjunction 二/numeral 度/classifier I/noun 型/suffix 房室/noun 传导/verb 阻滞/verb 。/punctuation-mark
 1.2.5VSD合并[[<DIS>0]]或二度[[<DIS>1]]。
 命名实体: 一度房室传导阻滞 I型房室传导阻滞
 实体关系: 
@@ -270,7 +270,7 @@
 实体关系: 
 ==================================================
 1.3.7/numeral 心功能/noun 不/adverb 全/adjective ，/punctuation-mark 不能/verb 耐受/verb 操作/verb 。/punctuation-mark
-1.3.7[[<DIS><SYM>0]]，不能耐受操作。
+1.3.7[[<SYM><DIS>0]]，不能耐受操作。
 命名实体: 心功能不全
 实体关系: 
 ==================================================
@@ -600,7 +600,7 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 4/numeral 特殊/adjective 情况/noun 下/verb 室/noun 间隔/verb 缺损/verb 的/particle 处理/verb
-4特殊情况下[[<DIS><SYM>0]]的处理
+4特殊情况下[[<SYM><DIS>0]]的处理
 命名实体: 室间隔缺损
 实体关系: 
 ==================================================
@@ -670,12 +670,12 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 嵴/punctuation-mark 内/noun-of-locality VSD/noun 与/preposition 希/distinguishing-word 氏/noun 束/verb 相距/verb 较/adverb 远/adjective ，/punctuation-mark 封堵/verb 后/noun-of-locality 一般/particle 不/adverb 引起/verb 房室/noun 传导/verb 阻滞/verb 。/punctuation-mark
-嵴内VSD与希氏束相距较远，封堵后一般不引起[[<DIS><SYM>0]]。
+嵴内VSD与希氏束相距较远，封堵后一般不引起[[<SYM><DIS>0]]。
 命名实体: 房室传导阻滞
 实体关系: 
 ==================================================
 术/noun 后/noun-of-locality 出现/verb 交界/verb 区/noun 心动/verb 过速/adjective 和/conjunction 室/noun 性/noun 加速/verb 性/noun 自主/verb 心律/noun 较/adverb 多/adjective ，/punctuation-mark 一般/adjective 不/adverb 需要/verb 特殊/adjective 处理/verb ，/punctuation-mark 心律/noun 失常/adjective 多/numeral 在/preposition 1/numeral 周/classifier 内/noun-of-locality 自行/adverb 消失/verb 。/punctuation-mark
-术后出现交界区[[<DIS><SYM>0]]和室性加速性自主心律较多，一般不需要特殊处理，[[<DIS><SYM>1]]多在1周内自行消失。
+术后出现交界区[[<SYM><DIS>0]]和室性加速性自主心律较多，一般不需要特殊处理，[[<SYM><DIS>1]]多在1周内自行消失。
 命名实体: 心动过速 心律失常
 实体关系: 
 ==================================================
@@ -780,7 +780,7 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 合并/verb 重度/distinguishing-word 肺动脉/noun 高压/noun 时/noun ，/punctuation-mark VSD/noun —/punctuation-mark 般/particle 较/adverb 大/adjective ，/punctuation-mark 分/verb 流量/noun 小/adjective ，/punctuation-mark 当/preposition 发生/verb 重度/distinguishing-word 肺动脉/noun 高压/noun 时/noun ，/punctuation-mark 常常/adverb 伴/verb 有/verb 比较/adverb 严重/adjective 的/particle 心/noun 功能/noun 不/adverb 全/adjective ，/punctuation-mark 能否/verb 封堵/verb 主要/adverb 根据/preposition 缺损/verb 是否/verb 适合/verb 堵/verb 闭/verb 和/conjunction 肺动脉/noun 压力/noun 升高/verb 的/particle 程度/noun 及/conjunction 性质/noun ，/punctuation-mark 如/verb VSD/noun 适合/verb 封堵/verb ，/punctuation-mark 并且/conjunction 是/verb 动力/noun 型/suffix 肺动脉/noun 高压/noun ，/punctuation-mark 可以/verb 选择/verb 介/verb 人/noun 治疗/verb (/punctuation-mark 详/adjective 见/verb 动脉/noun 导管/noun 未/adverb 闭/verb 合并/verb 肺动脉/noun 高压/noun 的/particle 处理/verb 章节/noun )/punctuation-mark ./punctuation-mark
-合并[[<DIS>2]]时，VSD—般较大，分流量小，当发生[[<DIS>2]]时，常常伴有比较严重的[[<DIS><SYM>1]]，能否封堵主要根据缺损是否适合堵闭和肺动脉压力升高的程度及性质，如VSD适合封堵，并且是动力型[[<DIS>0]]，可以选择介人治疗(详见[[<DIS>3]]的处理章节).
+合并[[<DIS>2]]时，VSD—般较大，分流量小，当发生[[<DIS>2]]时，常常伴有比较严重的[[<SYM><DIS>1]]，能否封堵主要根据缺损是否适合堵闭和肺动脉压力升高的程度及性质，如VSD适合封堵，并且是动力型[[<DIS>0]]，可以选择介人治疗(详见[[<DIS>3]]的处理章节).
 命名实体: 肺动脉高压 心功能不全 重度肺动脉高压 动脉导管未闭合并肺动脉高压
 实体关系: 
 ==================================================
@@ -825,12 +825,12 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 6.2/numeral 心律/noun 失常/adjective
-6.2[[<DIS><SYM>0]]
+6.2[[<SYM><DIS>0]]
 命名实体: 心律失常
 实体关系: 
 ==================================================
 术中/noun 可/verb 有/verb 室/noun 性/noun 早/adjective 博/adjective 、/punctuation-mark 室/noun 性/noun 心动/verb 过速/adjective 、/punctuation-mark 束/verb 支/classifier 传导/verb 阻滞/verb 及/conjunction 房室/noun 传导/verb 阻滞/verb ，/punctuation-mark 多/adverb 在/preposition 改变/verb 导/verb 丝/noun 、/punctuation-mark 导管/noun 和/conjunction 输送/verb 鞘/punctuation-mark 位置/noun 和/conjunction 方向/noun 后/noun-of-locality 消失/verb ，/punctuation-mark 不/adverb 需要/verb 特殊/adjective 处理/verb 。/punctuation-mark
-术中可有室性早博、[[<DIS><SYM>0]]、[[<DIS><SYM>1]]及[[<DIS><SYM>2]]，多在改变导丝、导管和输送鞘位置和方向后消失，不需要特殊处理。
+术中可有室性早博、[[<SYM><DIS>0]]、[[<SYM><DIS>1]]及[[<SYM><DIS>2]]，多在改变导丝、导管和输送鞘位置和方向后消失，不需要特殊处理。
 命名实体: 室性心动过速 束支传导阻滞 房室传导阻滞
 实体关系: 
 ==================================================
@@ -845,7 +845,7 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 心室/noun 颤动/verb 较/adverb 少/adjective 见/verb ，/punctuation-mark 可/conjunction 见于/verb 导管/noun 或/conjunction 导/verb 引导/verb 丝/noun 剌/verb 激/verb 心室/noun 肌/noun 时/noun 。/punctuation-mark
-[[<DIS><SYM>0]]较少见，可见于导管或导引导丝剌激心室肌时。
+[[<SYM><DIS>0]]较少见，可见于导管或导引导丝剌激心室肌时。
 命名实体: 心室颤动
 实体关系: 
 ==================================================
@@ -880,12 +880,12 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 近年/time-word 的/particle 临床/verb 观察/verb 显示/verb ，/punctuation-mark 术/noun 后/noun-of-locality 传导/verb 阻滞/verb 的/particle 发生/verb 主要/adverb 与/preposition 封堵/verb 器/noun 的/particle 结构/noun 与/conjunction 性能/noun 有关/verb ，/punctuation-mark 进口/verb 封堵/verb 器/noun 出现/verb 的/particle 晚期/time-word 房室/noun 传导/verb 阻滞/verb ，/punctuation-mark 与/preposition 封堵/verb 器/noun 在/preposition 形变/noun 过程/noun 中/noun-of-locality 产生/verb 的/particle 持续/verb 张力/noun 有关/verb [7]/string 。/punctuation-mark
-近年的临床观察显示，术后[[<SYM>0]]的发生主要与封堵器的结构与性能有关，进口封堵器出现的晚期[[<DIS><SYM>1]]，与封堵器在形变过程中产生的持续张力有关[7]。
+近年的临床观察显示，术后[[<SYM>0]]的发生主要与封堵器的结构与性能有关，进口封堵器出现的晚期[[<SYM><DIS>1]]，与封堵器在形变过程中产生的持续张力有关[7]。
 命名实体: 传导阻滞 房室传导阻滞
 实体关系: 
 ==================================================
 国产/distinguishing-word 封堵/verb 器/noun 2004年/time-word 间/noun-of-locality 曾/adverb 出现/verb 多/numeral 例/classifier 房室/noun 传导/verb 阻滞/verb ，/punctuation-mark 经/preposition 改进/verb 封堵/verb 器/noun 的/particle 结构/noun 和/conjunction 性能/noun 后/noun-of-locality ，/punctuation-mark 传导/verb 阻滞/verb 的/particle 发生率/noun 明显/adjective 降低/verb ，/punctuation-mark 提示/verb 封堵/verb 器/noun 大小/noun 的/particle 选择/verb 和/conjunction 结构/noun 与/conjunction 性能/noun 的/particle 调整/verb 是/verb 预防/verb 和/conjunction 减少/verb 房室/noun 传导/verb 阻滞/verb 发生/verb 的/particle 主要/distinguishing-word 举措/noun 。/punctuation-mark
-国产封堵器2004年间曾出现多例[[<DIS><SYM>0]]，经改进封堵器的结构和性能后，[[<SYM>1]]的发生率明显降低，提示封堵器大小的选择和结构与性能的调整是预防和减少[[<DIS><SYM>0]]发生的主要举措。
+国产封堵器2004年间曾出现多例[[<SYM><DIS>0]]，经改进封堵器的结构和性能后，[[<SYM>1]]的发生率明显降低，提示封堵器大小的选择和结构与性能的调整是预防和减少[[<SYM><DIS>0]]发生的主要举措。
 命名实体: 房室传导阻滞 传导阻滞
 实体关系: 
 ==================================================
@@ -1025,7 +1025,7 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 表现/verb 为/preposition 酱油/noun 色/noun 尿/noun 、/punctuation-mark 寒战/noun 、/punctuation-mark 贫血/verb 和/conjunction 肾/noun 功能/noun 不/adverb 全/adjective 等/particle ，/punctuation-mark 应/verb 严密/adjective 观察/verb ，/punctuation-mark 对/preposition 轻度/distinguishing-word 溶/verb 血/noun 者/suffix ，/punctuation-mark 停/verb 用/preposition 阿司匹林/noun ，/punctuation-mark 静/adjective 滴/verb 止血药/noun ，/punctuation-mark 口服/verb 或/conjunction 静脉/noun 滴/verb 注/verb 碳酸/noun 氢/noun 钠/noun 。/punctuation-mark
-表现为酱油色尿、[[<DIS><SYM>0]]、[[<DIS><SYM>1]]和[[<DIS>2]]等，应严密观察，对轻度溶血者，停用[[<MED>3]]，静滴止血药，口服或[[<TRE>4]]。
+表现为酱油色尿、[[<SYM><DIS>0]]、[[<SYM><DIS>1]]和[[<DIS>2]]等，应严密观察，对轻度溶血者，停用[[<MED>3]]，静滴止血药，口服或[[<TRE>4]]。
 命名实体: 寒战 贫血 肾功能不全 阿司匹林 静脉滴注碳酸氢钠
 实体关系: 
 ==================================================
@@ -1060,7 +1060,7 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 术/noun 后/noun-of-locality 密切/adjective 观察/verb ，/punctuation-mark 如/conjunction 出现/verb 腹痛/verb 或/conjunction 胸/noun 痛/adjective 症状/noun ，/punctuation-mark 应/verb 及时/adjective 检查/verb 心电图/noun 。/punctuation-mark
-术后密切观察，如出现[[<DIS>0]]或[[<DIS><SYM>1]]症状，应及时检查[[<TRE>2]]。
+术后密切观察，如出现[[<DIS>0]]或[[<SYM><DIS>1]]症状，应及时检查[[<TRE>2]]。
 命名实体: 腹痛 胸痛 心电图
 实体关系: 
 ==================================================
@@ -1085,7 +1085,7 @@ VSD远离主动脉瓣，首选对称型VSD封堵器;VSD靠近主动脉瓣，选�
 实体关系: 
 ==================================================
 头痛/adjective 、/punctuation-mark 脑/noun 卒/verb 中等/distinguishing-word 。/punctuation-mark
-[[<DIS><SYM>0]]、[[<DIS>1]]等。
+[[<SYM><DIS>0]]、[[<DIS>1]]等。
 命名实体: 头痛 脑卒中
 实体关系: 
 ==================================================

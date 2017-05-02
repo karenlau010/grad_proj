@@ -49,12 +49,12 @@
 命名实体: 先天性心脏病
 实体关系: 
 ==================================================
-根据/preposition ASD/noun 胚胎学/noun 发病/verb 机制/noun 和/conjunction 解剖学/noun 特点/noun 可/conjunction 将/adverb ASD/noun 分为/verb 继/adverb 发/verb 孔型/noun 和/conjunction 原/adverb 发/verb 孔型/noun ，/punctuation-mark 前者/pronoun 常见/adjective ，/punctuation-mark 占/verb ASD/noun 的/particle 60%/numeral ~/punctuation-mark 70%/numeral ，/punctuation-mark 是/verb 介/verb 人/noun 治疗/verb 主要/distinguishing-word 选择/verb 的/particle 类型/noun ；/punctuation-mark 后者/pronoun 占/verb ASD/noun 的/particle 15%/numeral ~/punctuation-mark 20%/numeral ，/punctuation-mark 缺损/verb 位于/verb 房间/noun 隔/verb 的/particle 下部/noun-of-locality ，/punctuation-mark 因/conjunction 原/adverb 发/verb 房间/noun 隔/verb 发育/verb 不良/adjective 或者/conjunction 心/noun 内/noun-of-locality 膜/noun 垫/verb 发育/verb 异常/adverb 导致/verb ，/punctuation-mark 其/pronoun 上/noun-of-locality 缘/noun 为/verb 原/adverb 发/verb 房间/noun 隔/verb 形成/verb 的/particle 弧形/noun 边缘/noun ，/punctuation-mark 下/verb 缘/noun 为/verb 左/adjective 房室/noun 瓣/noun 、/punctuation-mark 右/noun-of-locality 房室/noun 瓣/noun 的/particle 共同/distinguishing-word 瓣/noun 环/verb ，/punctuation-mark 需/verb 手术/noun 矫治/verb 。/punctuation-mark
+根据/preposition ASD/noun 胚胎学/noun 发病/verb 机制/noun 和/conjunction 解剖学/noun 特点/noun 可/conjunction 将/adverb ASD/noun 分为/verb 继发/noun 孔型/noun 和/conjunction 原/adverb 发/verb 孔型/noun ，/punctuation-mark 前者/pronoun 常见/adjective ，/punctuation-mark 占/verb ASD/noun 的/particle 60%/numeral ~/punctuation-mark 70%/numeral ，/punctuation-mark 是/verb 介/verb 人/noun 治疗/verb 主要/distinguishing-word 选择/verb 的/particle 类型/noun ；/punctuation-mark 后者/pronoun 占/verb ASD/noun 的/particle 15%/numeral ~/punctuation-mark 20%/numeral ，/punctuation-mark 缺损/verb 位于/verb 房间/noun 隔/verb 的/particle 下部/noun-of-locality ，/punctuation-mark 因/conjunction 原/adverb 发/verb 房间/noun 隔/verb 发育/verb 不良/adjective 或者/conjunction 心/noun 内/noun-of-locality 膜/noun 垫/verb 发育/verb 异常/adverb 导致/verb ，/punctuation-mark 其/pronoun 上/noun-of-locality 缘/noun 为/verb 原/adverb 发/verb 房间/noun 隔/verb 形成/verb 的/particle 弧形/noun 边缘/noun ，/punctuation-mark 下/verb 缘/noun 为/verb 左/adjective 房室/noun 瓣/noun 、/punctuation-mark 右/noun-of-locality 房室/noun 瓣/noun 的/particle 共同/distinguishing-word 瓣/noun 环/verb ，/punctuation-mark 需/verb 手术/noun 矫治/verb 。/punctuation-mark
 根据ASD胚胎学发病机制和解剖学特点可将ASD分为继发孔型和原发孔型，前者常见，占ASD的60%~70%，是介人治疗主要选择的类型；后者占ASD的15%~20%，缺损位于房间隔的下部，因原发房间隔发育不良或者心内膜垫发育异常导致，其上缘为原发房间隔形成的弧形边缘，下缘为左房室瓣、右房室瓣的共同瓣环，需手术矫治。
 命名实体:
 实体关系: 
 ==================================================
-继/verb 发/verb 孔型/noun ASD/noun 的/particle 总体/noun 自然/adverb 闭合/verb 率/verb 可/verb 达/verb 87%/numeral 。/punctuation-mark
+继发/noun 孔型/noun ASD/noun 的/particle 总体/noun 自然/adverb 闭合/verb 率/verb 可/verb 达/verb 87%/numeral 。/punctuation-mark
 继发孔型ASD的总体自然闭合率可达87%。
 命名实体:
 实体关系: 
@@ -80,7 +80,7 @@ ASD的自然愈合年龄为7个月~6岁，中位数为1.6岁。
 实体关系: 
 ==================================================
 大/adjective 、/punctuation-mark 中型/distinguishing-word ASD/noun 在/preposition 20/numeral ~/punctuation-mark 30/numeral 岁/classifier 将/adverb 发生/verb 充/verb 血性/noun 心力衰竭/noun 和/conjunction 肺动脉/noun 高压/noun ，/punctuation-mark 特别/adverb 是/verb 35/numeral 岁/classifier 后/noun-of-locality 病情/noun 发展/verb 迅速/adjective ，/punctuation-mark 如果/conjunction 不/adverb 采取/verb 干预/verb 措施/noun ，/punctuation-mark 患者/noun 可/verb 因/preposition 肺动脉/noun 高压/noun 而/conjunction 使/verb 右/noun-of-locality 心室/noun 容量/noun 和/conjunction 压力/noun 负荷/noun 均/adverb 增加/verb ，/punctuation-mark 进而/conjunction 出现/verb 右/noun-of-locality 心功能/noun 衰竭/verb ，/punctuation-mark 而且/conjunction 无论/conjunction 是否/verb 手术/noun 治疗/verb ，/punctuation-mark 均/adverb 可/verb 在/preposition 术/noun 后/noun-of-locality 出现/verb 房/noun 性/noun 心律/noun 失常/adjective (/punctuation-mark 房/noun 扑/verb 或/conjunction 房/noun 颤/verb )/punctuation-mark 。/punctuation-mark
-大、中型ASD在20~30岁将发生[[<DIS><SYM>0]]和[[<DIS>1]]，特别是35岁后病情发展迅速，如果不采取干预措施，患者可因[[<DIS>1]]而使右心室容量和压力负荷均增加，进而出现右[[<DIS>2]]衰竭，而且无论是否手术治疗，均可在术后出现[[<DIS>5]]([[<DIS>3]]或[[<DIS><SYM>4]])。
+大、中型ASD在20~30岁将发生[[<SYM><DIS>0]]和[[<DIS>1]]，特别是35岁后病情发展迅速，如果不采取干预措施，患者可因[[<DIS>1]]而使右心室容量和压力负荷均增加，进而出现右[[<DIS>2]]衰竭，而且无论是否手术治疗，均可在术后出现[[<DIS>5]]([[<DIS>3]]或[[<SYM><DIS>4]])。
 命名实体: 充血性心力衰竭 肺动脉高压 心功能 房扑 房颤 房性心律失常
 实体关系: 
 ==================================================
@@ -90,7 +90,7 @@ ASD的自然愈合年龄为7个月~6岁，中位数为1.6岁。
 实体关系: 
 ==================================================
 对于/preposition 手术/noun 干预/verb 的/particle 预后/noun ，/punctuation-mark 据/preposition Murphy/noun 报道/verb ，/punctuation-mark 术/noun 前/noun-of-locality 无/verb 肺动脉/noun 高压/noun 、/punctuation-mark 心力衰竭/noun 及/conjunction 心房/noun 颤动/verb 的/particle 患者/noun ，/punctuation-mark 早期/time-word 施行/verb 关闭/verb 手术/verb ，/punctuation-mark 生存率/noun 与/conjunction 正常人/noun 相同/adjective 。/punctuation-mark
-对于手术干预的预后，据Murphy报道，术前无[[<DIS>0]]、[[<DIS><SYM>1]]及[[<DIS><SYM>2]]的患者，早期施行关闭手术，生存率与正常人相同。
+对于手术干预的预后，据Murphy报道，术前无[[<DIS>0]]、[[<SYM><DIS>1]]及[[<SYM><DIS>2]]的患者，早期施行关闭手术，生存率与正常人相同。
 命名实体: 肺动脉高压 心力衰竭 心房颤动
 实体关系: 
 ==================================================
@@ -100,7 +100,7 @@ ASD的自然愈合年龄为7个月~6岁，中位数为1.6岁。
 实体关系: 
 ==================================================
 40/numeral 岁/classifier 以后/noun-of-locality 手术/noun 者/suffix ，/punctuation-mark 心房/noun 颤动/verb 的/particle 发生率/noun 明显/adjective 升高/verb 。/punctuation-mark
-40岁以后手术者，[[<DIS><SYM>0]]的发生率明显升高。
+40岁以后手术者，[[<SYM><DIS>0]]的发生率明显升高。
 命名实体: 心房颤动
 实体关系: 
 ==================================================
@@ -110,7 +110,7 @@ ASD的自然愈合年龄为7个月~6岁，中位数为1.6岁。
 实体关系: 
 ==================================================
 另外/conjunction ，/punctuation-mark 尽管/conjunction 传统/noun 上/noun-of-locality 认为/verb 小于/verb 10mm/noun 的/particle 小型/distinguishing-word ASD/noun 无/verb 心脏/noun 扩大/verb 和/conjunction 症状/noun ，/punctuation-mark 可/conjunction 不/adverb 作/verb 外科/noun 手术/verb 治疗/verb ，/punctuation-mark 但/conjunction 考虑/verb 到/verb 小型/distinguishing-word ASD/noun 可能/noun 并发/verb 矛盾/adjective 血栓/noun 和/conjunction 脑/noun 脓肿/noun ，/punctuation-mark 而且/conjunction 这/pronoun 2/numeral 种/classifier 并发症/noun 好/adjective 发/verb 于/preposition 成年人/noun ，/punctuation-mark 尤其/adverb 是/verb 60/numeral 岁/classifier 以后/noun-of-locality ，/punctuation-mark 因此/conjunction 对/preposition 成年人/noun 小型/distinguishing-word ASD/noun 也/adverb 主张/verb 行/noun 介/verb 人/noun 治疗/verb 。/punctuation-mark
-另外，尽管传统上认为小于10mm的小型ASD无[[<DIS><SYM>0]]和症状，可不作外科手术治疗，但考虑到小型ASD可能并发矛盾血栓和[[<DIS>1]]，而且这2种并发症好发于成年人，尤其是60岁以后，因此对成年人小型ASD也主张行[[<TRE>2]]。
+另外，尽管传统上认为小于10mm的小型ASD无[[<SYM><DIS>0]]和症状，可不作外科手术治疗，但考虑到小型ASD可能并发矛盾血栓和[[<DIS>1]]，而且这2种并发症好发于成年人，尤其是60岁以后，因此对成年人小型ASD也主张行[[<TRE>2]]。
 命名实体: 心脏扩大 脑脓肿 介人治疗
 实体关系: 
 ==================================================
@@ -129,7 +129,7 @@ ASD的自然愈合年龄为7个月~6岁，中位数为1.6岁。
 命名实体:
 实体关系: 
 ==================================================
-1.1.2/numeral 继/adverb 发/verb 孔型/noun ASD/noun 直径/noun ≥5mm/noun ，/punctuation-mark 伴/verb 右/noun-of-locality 心/noun 容量/noun 负荷/noun 增加/verb ，/punctuation-mark ≤/numeral 36mm/noun 的/particle 左/noun-of-locality 向/preposition 右/noun-of-locality 分流/verb ASD/noun 。/punctuation-mark
+1.1.2/numeral 继发/noun 孔型/noun ASD/noun 直径/noun ≥5mm/noun ，/punctuation-mark 伴/verb 右/noun-of-locality 心/noun 容量/noun 负荷/noun 增加/verb ，/punctuation-mark ≤/numeral 36mm/noun 的/particle 左/noun-of-locality 向/preposition 右/noun-of-locality 分流/verb ASD/noun 。/punctuation-mark
 1.1.2继发孔型ASD直径≥5mm，伴右心容量负荷增加，≤ 36mm的左向右分流ASD。
 命名实体:
 实体关系: 
@@ -195,7 +195,7 @@ ASD的自然愈合年龄为7个月~6岁，中位数为1.6岁。
 实体关系: 
 ==================================================
 1.3.2/numeral 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun 及/conjunction 出/verb 血性/noun 疾患/noun 。/punctuation-mark
-1.3.2[[<DIS>0]]及[[<DIS><SYM>1]]性疾患。
+1.3.2[[<DIS>0]]及[[<SYM><DIS>1]]性疾患。
 命名实体: 感染性心内膜炎 出血
 实体关系: 
 ==================================================
@@ -234,7 +234,7 @@ ASD的自然愈合年龄为7个月~6岁，中位数为1.6岁。
 命名实体:
 实体关系: 
 ==================================================
-目前/time-word 国际/noun 上/noun-of-locality 有/verb Amplatzer/noun 、/punctuation-mark Cardioseal/noun 、/punctuation-mark Gore/noun Helix/adjective 、/punctuation-mark Star/noun FLEX/verb 等/particle [34]/string 多/numeral 种/classifier ASD/noun 封堵/verb 器/noun ，/punctuation-mark 但/conjunction 在/preposition 我国/noun 仅/adverb 有/verb Amplatzer/noun 双/numeral 盘/classifier 型/noun 封堵/verb 器/noun 广泛/adjective 用于/verb 临床/verb 。/punctuation-mark
+目前/time-word 国际/noun 上/noun-of-locality 有/verb Amplatzer/noun 、/punctuation-mark Cardioseal/noun 、/punctuation-mark Gore/noun Helix/noun 、/punctuation-mark Star/noun FLEX/noun 等/particle [34]/string 多/numeral 种/classifier ASD/noun 封堵/verb 器/noun ，/punctuation-mark 但/conjunction 在/preposition 我国/noun 仅/adverb 有/verb Amplatzer/noun 双/numeral 盘/classifier 型/noun 封堵/verb 器/noun 广泛/adjective 用于/verb 临床/verb 。/punctuation-mark
 目前国际上有Amplatzer、Cardioseal、Gore Helix、Star FLEX等[34]多种ASD封堵器，但在我国仅有Amplatzer双盘型封堵器广泛用于临床。
 命名实体:
 实体关系: 
@@ -424,8 +424,8 @@ TTE切面通常在以下3个切面监测，并测量ASD大小：①大动脉短�
 命名实体:
 实体关系: 
 ==================================================
-超声/noun 心动/verb 图/noun 四/numeral 腔/classifier 心切/adjective 面上/locative-word ，/punctuation-mark 封堵/verb 器/noun 夹/verb 在/preposition 房间/noun 隔/verb 两侧/noun-of-locality ；/punctuation-mark 主动脉/noun 缘/noun 无/verb 残/verb 端/verb 者/suffix ，/punctuation-mark 大动脉/noun 短/adjective 轴/noun 切面/noun 上/noun-of-locality 见/verb 封堵/verb 器/noun 与/preposition 主动脉/noun 形成/verb “/punctuation-mark Y/onomatopoeia ”/punctuation-mark 字形/noun ；/punctuation-mark 剑/noun 下/noun-of-locality 两/numeral 房/noun 心切/adjective 面上/locative-word ，/punctuation-mark 封堵/verb 器/noun 夹/verb 在/preposition ASD/noun 的/particle 残/adjective 缘/noun 上/noun-of-locality ，/punctuation-mark 无/verb 残/adjective 佘/noun 分流/verb ；/punctuation-mark 对/preposition 周边/noun 结构/noun 包括/verb 左/adjective 房室/noun 、/punctuation-mark 右/noun-of-locality 房室/noun 和/conjunction 冠/verb 状/noun 静脉/noun 窦/noun 等/particle 无/verb 不良/adjective 影响/verb ；/punctuation-mark 心电图/noun 监测/verb 无/verb 房室/noun 传导/verb 阻滞/verb 。/punctuation-mark
-[[<TRE>0]]四腔心切面上，封堵器夹在房间隔两侧；主动脉缘无残端者，大动脉短轴切面上见封堵器与主动脉形成“Y”字形；剑下两房心切面上，封堵器夹在ASD的残缘上，无残佘分流；对周边结构包括左房室、右房室和[[<SYM>1]]静脉窦等无不良影响；[[<TRE>2]]监测无[[<DIS><SYM>3]]。
+超声/noun 心动/verb 图/noun 四/numeral 腔/classifier 心切/adjective 面上/locative-word ，/punctuation-mark 封堵/verb 器/noun 夹/verb 在/preposition 房间/noun 隔/verb 两侧/noun-of-locality ；/punctuation-mark 主动脉/noun 缘/noun 无/verb 残/verb 端/verb 者/suffix ，/punctuation-mark 大动脉/noun 短/adjective 轴/noun 切面/noun 上/noun-of-locality 见/verb 封堵/verb 器/noun 与/preposition 主动脉/noun 形成/verb “/punctuation-mark Y/noun ”/punctuation-mark 字形/noun ；/punctuation-mark 剑/noun 下/noun-of-locality 两/numeral 房/noun 心切/adjective 面上/locative-word ，/punctuation-mark 封堵/verb 器/noun 夹/verb 在/preposition ASD/noun 的/particle 残/adjective 缘/noun 上/noun-of-locality ，/punctuation-mark 无/verb 残/adjective 佘/noun 分流/verb ；/punctuation-mark 对/preposition 周边/noun 结构/noun 包括/verb 左/adjective 房室/noun 、/punctuation-mark 右/noun-of-locality 房室/noun 和/conjunction 冠/verb 状/noun 静脉/noun 窦/noun 等/particle 无/verb 不良/adjective 影响/verb ；/punctuation-mark 心电图/noun 监测/verb 无/verb 房室/noun 传导/verb 阻滞/verb 。/punctuation-mark
+[[<TRE>0]]四腔心切面上，封堵器夹在房间隔两侧；主动脉缘无残端者，大动脉短轴切面上见封堵器与主动脉形成“Y”字形；剑下两房心切面上，封堵器夹在ASD的残缘上，无残佘分流；对周边结构包括左房室、右房室和[[<SYM>1]]静脉窦等无不良影响；[[<TRE>2]]监测无[[<SYM><DIS>3]]。
 命名实体: 超声心动图 冠状 心电图 房室传导阻滞
 实体关系: <2,TRE-DIS,3>
 ==================================================
@@ -455,7 +455,7 @@ TTE切面通常在以下3个切面监测，并测量ASD大小：①大动脉短�
 实体关系: 
 ==================================================
 3.4.3/numeral 阿司匹林/noun 小儿/noun 和/conjunction 成人/noun 都/adverb 可/verb 按/preposition 3-5mg/noun ’/punctuation-mark kg/noun -/punctuation-mark 1.d-1/noun 剂量/noun 服用/verb ，/punctuation-mark 共/adverb 6/numeral 个/classifier 月/noun ；/punctuation-mark 成人/noun 封堵/verb 器/noun 直径/noun ≥/numeral 30mm/noun 者/suffix 可/verb 酌情/adverb 加/verb 服/verb 氯/noun 吡/punctuation-mark 格雷/noun 75mg/d/string ，/punctuation-mark 有/verb 心房/noun 颤动/verb 者/suffix 应该/verb 长期/adverb 服用/verb 华/distinguishing-word 法/noun 林/noun 。/punctuation-mark
-3.4.3[[<MED>0]]小儿和成人都可按3-5mg’kg-1.d-1剂量服用，共6个月；成人封堵器直径≥ 30mm者可酌情加服[[<MED>1]]75mg/d，有[[<DIS><SYM>2]]者应该长期服用[[<MED>3]]。
+3.4.3[[<MED>0]]小儿和成人都可按3-5mg’kg-1.d-1剂量服用，共6个月；成人封堵器直径≥ 30mm者可酌情加服[[<MED>1]]75mg/d，有[[<SYM><DIS>2]]者应该长期服用[[<MED>3]]。
 命名实体: 阿司匹林 氯吡格雷 心房颤动 华法林
 实体关系: <3,MED-DIS|+,2>
 ==================================================
@@ -549,7 +549,7 @@ Lezo等[5]对29例[平均年龄(56±14)岁]ASD伴肺动脉收缩压>40mmHg，平
 命名实体:
 实体关系: 
 ==================================================
-房/noun 间隔/noun 膨/punctuation-mark 出/verb 瘤/noun 临床/verb 少/adjective 见/verb ，/punctuation-mark 其/pronoun 发生率/noun 仅/adverb 为/verb 0.2%/numeral ~/punctuation-mark 1.1%/numeral ，/punctuation-mark 常/adverb 合并/verb 继/adverb 发/verb 孔型/noun ASD/noun 。/punctuation-mark
+房/noun 间隔/noun 膨/punctuation-mark 出/verb 瘤/noun 临床/verb 少/adjective 见/verb ，/punctuation-mark 其/pronoun 发生率/noun 仅/adverb 为/verb 0.2%/numeral ~/punctuation-mark 1.1%/numeral ，/punctuation-mark 常/adverb 合并/verb 继发/noun 孔型/noun ASD/noun 。/punctuation-mark
 房间隔膨出瘤临床少见，其发生率仅为0.2%~1.1%，常合并继发孔型ASD。
 命名实体:
 实体关系: 
@@ -609,7 +609,7 @@ ASD合并房间隔膨出瘤时，因房间隔膨出瘤处组织发育薄弱，�
 命名实体: 介人治疗
 实体关系: 
 ==================================================
-4.4.2/numeral 主动脉/noun 缘/noun 缺损/verb 残/verb 端/verb 不足/adjective 的/particle ASD/noun 进行/verb 介/verb 人/noun 治疗/verb 时/noun ，/punctuation-mark 释放/verb 封堵/verb 器/noun 前/noun-of-locality 要/verb 仔细/adjective 进行/verb 超声/noun 心动/verb 图/noun 检查/verb ，/punctuation-mark 若/conjunction 见/verb 封堵/verb 器/noun 呈/verb “/punctuation-mark Y/onomatopoeia ”/punctuation-mark 型/suffix 夹/verb 持/verb 在/preposition 主动脉/noun 的/particle 后/noun-of-locality 壁/noun 上/noun-of-locality ，/punctuation-mark 则/conjunction 封堵/verb 器/noun 一般/particle 稳定/adjective 牢靠/adjective 。/punctuation-mark
+4.4.2/numeral 主动脉/noun 缘/noun 缺损/verb 残/verb 端/verb 不足/adjective 的/particle ASD/noun 进行/verb 介/verb 人/noun 治疗/verb 时/noun ，/punctuation-mark 释放/verb 封堵/verb 器/noun 前/noun-of-locality 要/verb 仔细/adjective 进行/verb 超声/noun 心动/verb 图/noun 检查/verb ，/punctuation-mark 若/conjunction 见/verb 封堵/verb 器/noun 呈/verb “/punctuation-mark Y/noun ”/punctuation-mark 型/suffix 夹/verb 持/verb 在/preposition 主动脉/noun 的/particle 后/noun-of-locality 壁/noun 上/noun-of-locality ，/punctuation-mark 则/conjunction 封堵/verb 器/noun 一般/particle 稳定/adjective 牢靠/adjective 。/punctuation-mark
 4.4.2主动脉缘缺损残端不足的ASD进行[[<TRE>1]]时，释放封堵器前要仔细进行[[<TRE>0]]，若见封堵器呈“Y”型夹持在主动脉的后壁上，则封堵器一般稳定牢靠。
 命名实体: 超声心动图检查 介人治疗
 实体关系: 
@@ -640,12 +640,12 @@ ASD合并房间隔膨出瘤时，因房间隔膨出瘤处组织发育薄弱，�
 实体关系: 
 ==================================================
 4.5.2/numeral 有/verb 心房/noun 颤动/verb 病史/noun 患者/noun 术/noun 前/noun-of-locality 应/verb 行/verb TEE/noun 检查/verb 左/noun-of-locality 心房/noun 和/conjunction 左/adjective 心/noun 耳/noun 是否/verb 合并/verb 血栓/noun 形成/verb 。/punctuation-mark
-4.5.2有[[<DIS><SYM>0]]病史患者术前应行TEE检查左心房和左心耳是否合并[[<DIS>1]]。
+4.5.2有[[<SYM><DIS>0]]病史患者术前应行TEE检查左心房和左心耳是否合并[[<DIS>1]]。
 命名实体: 心房颤动 血栓形成
 实体关系: 
 ==================================================
 4.5.3/numeral 老年/time-word ASD/noun 长期/distinguishing-word 右/noun-of-locality 心/noun 系统/noun 负荷/noun 过重/verb ，/punctuation-mark 使/verb 左/adjective 心室/noun 受/verb 压/verb ，/punctuation-mark 左/adjective 心功能/noun 不/adverb 全/adjective ，/punctuation-mark 左/adjective 心室/noun 舒张/verb 内径/noun ≤/numeral 35mm/noun 时/noun ，/punctuation-mark 封堵/verb ASD/noun 后/noun-of-locality 左/adjective 心/noun 负荷/noun 骤然/adverb 增加/verb ，/punctuation-mark 容易/adjective 加重/verb 左/adjective 心功能/noun 不/adverb 全/adjective 并/conjunction 诱发/verb 心律/noun 失常/adjective ，/punctuation-mark 因此/conjunction 术/noun 后/noun-of-locality 应/verb 严密/adjective 观察/verb 患者/noun 心功能/noun 和/conjunction 心律/noun 变化/verb ，/punctuation-mark 一旦/adverb 出现/verb 应/verb 立即/adverb 给予/verb 药物/noun 处理/verb 。/punctuation-mark
-4.5.3老年ASD长期右心系统负荷过重，使左心室受压，左[[<DIS><SYM>0]]，左心室舒张内径≤ 35mm时，封堵ASD后左心负荷骤然增加，容易加重左[[<DIS><SYM>0]]并诱发[[<DIS><SYM>1]]，因此术后应严密观察患者[[<DIS>2]]和心律变化，一旦出现应立即给予药物处理。
+4.5.3老年ASD长期右心系统负荷过重，使左心室受压，左[[<SYM><DIS>0]]，左心室舒张内径≤ 35mm时，封堵ASD后左心负荷骤然增加，容易加重左[[<SYM><DIS>0]]并诱发[[<SYM><DIS>1]]，因此术后应严密观察患者[[<DIS>2]]和心律变化，一旦出现应立即给予药物处理。
 命名实体: 心功能不全 心律失常 心功能
 实体关系: 
 ==================================================
@@ -774,7 +774,7 @@ ASD合并房间隔膨出瘤时，因房间隔膨出瘤处组织发育薄弱，�
 命名实体:
 实体关系: 
 ==================================================
-临床/verb 表现/verb 为/verb 突发/verb 胸/noun 痛/adjective 、/punctuation-mark 胸/noun 闷/verb ，/punctuation-mark 心/noun 率/suffix 减慢/verb ；/punctuation-mark 心电图/noun 上/noun-of-locality 可见/verb ST/adjective 段/classifier 明显/adjective 抬高/verb ，/punctuation-mark 或/conjunction 因/preposition 栓塞/noun 脑血管/noun 而/conjunction 出现/verb 意识/noun 障碍/noun 和/conjunction 肢体/noun 运动/verb 障碍/noun 等/particle 脑/noun 栓塞/noun 症状/noun 。/punctuation-mark
+临床/verb 表现/verb 为/verb 突发/verb 胸/noun 痛/adjective 、/punctuation-mark 胸/noun 闷/verb ，/punctuation-mark 心/noun 率/suffix 减慢/verb ；/punctuation-mark 心电图/noun 上/noun-of-locality 可见/verb ST/noun 段/classifier 明显/adjective 抬高/verb ，/punctuation-mark 或/conjunction 因/preposition 栓塞/noun 脑血管/noun 而/conjunction 出现/verb 意识/noun 障碍/noun 和/conjunction 肢体/noun 运动/verb 障碍/noun 等/particle 脑/noun 栓塞/noun 症状/noun 。/punctuation-mark
 临床表现为[[<DIS>5]]、[[<DIS>0]]，心率减慢；[[<TRE>1]]上可见ST段明显抬高，或因栓塞脑血管而出现[[<DIS>2]]和[[<DIS>4]]等[[<DIS>3]]症状。
 命名实体: 胸闷 心电图 意识障碍 脑栓塞 肢体运动障碍 突发胸痛
 实体关系: 
@@ -795,12 +795,12 @@ ASD合并房间隔膨出瘤时，因房间隔膨出瘤处组织发育薄弱，�
 实体关系: <2,MED-DIS|+,3>
 ==================================================
 6.4/numeral 头痛/adjective 或/conjunction 偏/adverb 头痛/adjective
-6.4[[<DIS><SYM>0]]或[[<DIS>1]]
+6.4[[<SYM><DIS>0]]或[[<DIS>1]]
 命名实体: 头痛 偏头痛
 实体关系: 
 ==================================================
 头痛/adjective 或/conjunction 偏/adverb 头痛/adjective 发生率/noun 约/adverb 为/verb 7%/numeral ，/punctuation-mark 疼痛/adjective 的/particle 部位/noun 、/punctuation-mark 性质/noun 、/punctuation-mark 程度/noun 及/conjunction 持续/verb 时间/noun 因人而异/verb ，/punctuation-mark 最/adverb 长/adjective 时间/noun 持续/verb 半/numeral 年/classifier ，/punctuation-mark 有的/pronoun 伴/noun 呕吐/verb 、/punctuation-mark 恶心/adjective 、/punctuation-mark 肢体/noun 麻木/adjective 、/punctuation-mark 耳鸣/verb 、/punctuation-mark 听力/noun 下降/verb 。/punctuation-mark
-[[<DIS><SYM>0]]或[[<DIS>1]]发生率约为7%，[[<SYM>2]]的部位、性质、程度及持续时间因人而异，最长时间持续半年，有的伴[[<DIS>3]]、[[<DIS>6]]、[[<DIS>4]]、[[<DIS>5]]、[[<DIS>7]]。
+[[<SYM><DIS>0]]或[[<DIS>1]]发生率约为7%，[[<SYM>2]]的部位、性质、程度及持续时间因人而异，最长时间持续半年，有的伴[[<DIS>3]]、[[<DIS>6]]、[[<DIS>4]]、[[<DIS>5]]、[[<DIS>7]]。
 命名实体: 头痛 偏头痛 疼痛 呕吐 肢体麻木 耳鸣 恶心 听力下降
 实体关系: 
 ==================================================
@@ -810,7 +810,7 @@ ASD合并房间隔膨出瘤时，因房间隔膨出瘤处组织发育薄弱，�
 实体关系: 
 ==================================================
 因此/conjunction ，/punctuation-mark ASD/noun 介/noun 人/noun 治疗/verb 术/noun 后/noun-of-locality 抗/verb 血小板/noun 治疗/verb 最/adverb 少/adjective 半/numeral 年/classifier ，/punctuation-mark 如/verb 有/verb 头痛/adjective 史/noun 可/verb 延长/verb 至/preposition 1/numeral 年/classifier ，/punctuation-mark 并/conjunction 根据/preposition 具体/adjective 情况/noun 确定/verb 是否/verb 加/verb 用/preposition 氯/noun 吡/punctuation-mark 格雷/noun 加强/verb 抗/verb 血小板/noun 治疗/verb 或/conjunction 改用/verb 华法/noun 林抗凝/noun 治疗/verb 。/punctuation-mark
-因此，ASD介人治疗术后抗[[<MED>0]]治疗最少半年，如有[[<DIS><SYM>1]]史可延长至1年，并根据具体情况确定是否加用[[<MED>2]]加强抗[[<MED>0]]治疗或改用[[<MED>3]]抗凝治疗。
+因此，ASD介人治疗术后抗[[<MED>0]]治疗最少半年，如有[[<SYM><DIS>1]]史可延长至1年，并根据具体情况确定是否加用[[<MED>2]]加强抗[[<MED>0]]治疗或改用[[<MED>3]]抗凝治疗。
 命名实体: 血小板 头痛 氯吡格雷 华法林
 实体关系: 
 ==================================================
@@ -830,17 +830,17 @@ ASD合并房间隔膨出瘤时，因房间隔膨出瘤处组织发育薄弱，�
 实体关系: 
 ==================================================
 小型/distinguishing-word 血肿/noun 可以/verb 不/adverb 用/verb 特殊/adjective 处理/verb ，/punctuation-mark 少量/numeral 的/particle 淤血/noun 能够/verb 自行/adverb 吸收/verb ；/punctuation-mark 偏/adverb 大/adjective 的/particle 血肿/noun 应/verb 立即/adverb 压迫/verb 穿/verb 剌/verb 处/verb ，/punctuation-mark 防止/verb 继续/verb 出血/verb 导致/verb 血肿/noun 增大/verb ，/punctuation-mark 同时/conjunction 挤出/verb 淤血/noun 。/punctuation-mark
-小型血肿可以不用特殊处理，少量的淤血能够自行吸收；偏大的血肿应立即压迫穿剌处，防止继续[[<DIS><SYM>0]]导致血肿增大，同时挤出淤血。
+小型血肿可以不用特殊处理，少量的淤血能够自行吸收；偏大的血肿应立即压迫穿剌处，防止继续[[<SYM><DIS>0]]导致血肿增大，同时挤出淤血。
 命名实体: 出血
 实体关系: 
 ==================================================
 股/noun 动/verb 静脉/noun 瘘/punctuation-mark 系/verb 穿/verb 剌/verb 针/noun 同时/conjunction 穿透/verb 股/classifier 动脉/noun 和/conjunction 股/noun 静脉/noun 使/verb 两者/pronoun 间/classifier 形成/verb 通道/noun 所/particle 致/verb ，/punctuation-mark 多/adverb 因/preposition 穿/verb 剌/verb 时/noun 下肢/noun 外/noun-of-locality 展/verb 不够/adjective 使/verb 动/verb 静脉/noun 血管/noun 不/adverb 能/verb 充分/adjective 展开/verb 或者/conjunction 血管/noun 畸形/noun 引起/verb 。/punctuation-mark
-[[<DIS>0]]系穿剌针同时穿透股动脉和股静脉使两者间形成通道所致，多因穿剌时[[<SYM>1]]不够使动静脉血管不能充分展开或者[[<DIS><SYM>2]]引起。
+[[<DIS>0]]系穿剌针同时穿透股动脉和股静脉使两者间形成通道所致，多因穿剌时[[<SYM>1]]不够使动静脉血管不能充分展开或者[[<SYM><DIS>2]]引起。
 命名实体: 股动静脉瘘 下肢外展 血管畸形
 实体关系: 
 ==================================================
 形成/verb 股/noun 动/verb 静脉/noun 瘘/punctuation-mark 后/noun-of-locality ，/punctuation-mark 腹股沟/noun 处/verb 可/verb 有/verb 包/noun 块/classifier ，/punctuation-mark 伴/verb 疼痛/adjective ，/punctuation-mark 穿/verb 剌/verb 区域/noun 或/conjunction 包/verb 块/classifier 处/noun 可/verb 闻/verb 及/conjunction 连续性/noun 血管/noun 样/noun 杂音/noun ，/punctuation-mark 并/conjunction 可/verb 伴有/verb 震颤/verb 。/punctuation-mark
-形成[[<DIS>0]]后，腹股沟处可有包块，伴[[<SYM>1]]，穿剌区域或包块处可闻及连续性血管样杂音，并可伴有[[<DIS><SYM>2]]。
+形成[[<DIS>0]]后，腹股沟处可有包块，伴[[<SYM>1]]，穿剌区域或包块处可闻及连续性血管样杂音，并可伴有[[<SYM><DIS>2]]。
 命名实体: 股动静脉瘘 疼痛 震颤
 实体关系: 
 ==================================================
@@ -860,7 +860,7 @@ ASD合并房间隔膨出瘤时，因房间隔膨出瘤处组织发育薄弱，�
 实体关系: 
 ==================================================
 发生/verb 心脏/noun 压/verb 塞/distinguishing-word 之后/noun-of-locality ，/punctuation-mark 轻/verb 者/suffix 可/verb 无/verb 明显/adjective 症状/noun ，/punctuation-mark 重/verb 者/suffix 立即/adverb 出现/verb 胸/noun 闷/verb 胸/noun 痛/adjective 、/punctuation-mark 心悸/verb 、/punctuation-mark 血压/noun 下降/verb 甚至/adverb 呼吸/verb 困难/adjective 等/particle 症状/noun 。/punctuation-mark
-发生[[<SYM>0]]之后，轻者可无明显症状，重者立即出现[[<DIS>1]][[<DIS><SYM>2]]、[[<DIS><SYM>3]]、[[<DIS><SYM>4]]甚至[[<DIS><SYM>5]]等症状。
+发生[[<SYM>0]]之后，轻者可无明显症状，重者立即出现[[<DIS>1]][[<SYM><DIS>2]]、[[<SYM><DIS>3]]、[[<SYM><DIS>4]]甚至[[<SYM><DIS>5]]等症状。
 命名实体: 心脏压塞 胸闷 胸痛 心悸 血压下降 呼吸困难
 实体关系: 
 ==================================================
@@ -870,12 +870,12 @@ ASD合并房间隔膨出瘤时，因房间隔膨出瘤处组织发育薄弱，�
 实体关系: 
 ==================================================
 出现/verb 心脏/noun 压/verb 塞/distinguishing-word 后/noun-of-locality ，/punctuation-mark 必须/adverb 立即/adverb 停止/verb 操作/verb ，/punctuation-mark 严密/adjective 监视/verb 心/noun 率/verb 、/punctuation-mark 血压/noun 和/conjunction 心包/noun 积/verb 液/noun 容量/noun 变化/verb 。/punctuation-mark
-出现[[<SYM>0]]后，必须立即停止操作，严密监视心率、血压和[[<DIS><SYM>1]]容量变化。
+出现[[<SYM>0]]后，必须立即停止操作，严密监视心率、血压和[[<SYM><DIS>1]]容量变化。
 命名实体: 心脏压塞 心包积液
 实体关系: 
 ==================================================
 如/verb 心脏/noun 壁/noun 破/verb 口/noun 较/adverb 小/adjective ，/punctuation-mark 超声/noun 观察/verb 心包/noun 积/verb 液/noun 量/noun 增加/verb 不/adverb 明显/adjective ，/punctuation-mark 可/verb 给予/verb 鱼/noun 精/adjective 蛋白/noun 中和/verb 肝素/noun ，/punctuation-mark 避免/verb 患者/noun 深呼吸/noun 和/conjunction 体/noun 位/classifier 变化/verb ，/punctuation-mark 破/verb 口/noun 多/adjective 可/verb 自/pronoun 愈/adverb ；/punctuation-mark 如/conjunction 破/verb 口/classifier 大/adjective ，/punctuation-mark 心包/noun 积/verb 液/noun 量/noun 迅速/adjective 增加/verb 时/noun 立即/adverb 心包/noun 穿/verb 剌/verb ，/punctuation-mark 留/verb 置/verb 猪/noun 尾导/noun 管/verb 于/preposition 心包/noun 内/noun-of-locality ，/punctuation-mark 抽出/verb 心包/noun 内/noun-of-locality 积/verb 血/noun 并/conjunction 从/preposition 股/noun 静脉/noun 鞘/punctuation-mark 管/verb 中/noun-of-locality 回/verb 输/verb 至/preposition 患者/noun 体内/locative-word ，/punctuation-mark 直至/verb 心包/noun 积/verb 液/noun 量/noun 不/adverb 再/adverb 增加/verb 后/noun-of-locality 撤出/verb 留/verb 置/verb 的/particle 导管/noun ，/punctuation-mark 再/adverb 择/verb 期/classifier 介/verb 人/noun 治疗/verb ；/punctuation-mark 经/preposition 心包/noun 穿/verb 剌/verb 抽/verb 液/noun 后/noun-of-locality 症状/noun 无/verb 改善/verb 者/suffix 需/verb 尽快/adverb 行/adjective 外科/noun 手术/verb 治疗/verb 。/punctuation-mark
-如心脏壁破口较小，超声观察[[<DIS><SYM>0]]量增加不明显，可给予[[<MED>1]]中和[[<MED>2]]，避免患者深呼吸和体位变化，破口多可自愈；如破口大，[[<DIS><SYM>0]]量迅速增加时立即心包穿剌，留置猪尾导管于心包内，抽出心包内积血并从股静脉鞘管中回输至患者体内，直至[[<DIS><SYM>0]]量不再增加后撤出留置的导管，再择期介人治疗；经心包穿剌抽液后症状无改善者需尽快行[[<TRE>3]]。
+如心脏壁破口较小，超声观察[[<SYM><DIS>0]]量增加不明显，可给予[[<MED>1]]中和[[<MED>2]]，避免患者深呼吸和体位变化，破口多可自愈；如破口大，[[<SYM><DIS>0]]量迅速增加时立即心包穿剌，留置猪尾导管于心包内，抽出心包内积血并从股静脉鞘管中回输至患者体内，直至[[<SYM><DIS>0]]量不再增加后撤出留置的导管，再择期介人治疗；经心包穿剌抽液后症状无改善者需尽快行[[<TRE>3]]。
 命名实体: 心包积液 鱼精蛋白 肝素 外科手术治疗
 实体关系: 
 ==================================================
@@ -895,12 +895,12 @@ ASD合并房间隔膨出瘤时，因房间隔膨出瘤处组织发育薄弱，�
 实体关系: 
 ==================================================
 封堵/verb 器/noun 脱落/verb 后/noun-of-locality 患者/noun 可/verb 出现/verb 心悸/verb 、/punctuation-mark 胸/noun 闷/verb 等/particle 症状/noun ，/punctuation-mark 重新/adverb 听到/verb 已经/adverb 消失/verb 的/particle 杂音/noun ，/punctuation-mark 同时/conjunction 可/verb 出现/verb 心律/noun 失常/adjective ，/punctuation-mark 心律/noun 失常/adjective 的/particle 性质/noun 因/conjunction 封堵/verb 器/noun 脱落/verb 的/particle 部位/noun 而/conjunction 不同/adjective 。/punctuation-mark
-封堵器脱落后患者可出现[[<DIS><SYM>0]]、[[<DIS>1]]等症状，重新听到已经消失的杂音，同时可出现[[<DIS><SYM>2]]，[[<DIS><SYM>2]]的性质因封堵器脱落的部位而不同。
+封堵器脱落后患者可出现[[<SYM><DIS>0]]、[[<DIS>1]]等症状，重新听到已经消失的杂音，同时可出现[[<SYM><DIS>2]]，[[<SYM><DIS>2]]的性质因封堵器脱落的部位而不同。
 命名实体: 心悸 胸闷 心律失常
 实体关系: 
 ==================================================
 心/noun 电/noun 监测/verb 可见/verb 房/noun 性/suffix 或/conjunction 室/noun 性/suffix 早/adjective 搏/verb 甚至/adverb 心动/verb 过速/adjective 。/punctuation-mark
-[[<TRE>0]]可见房性或[[<DIS><SYM>1]]甚至[[<DIS><SYM>2]]。
+[[<TRE>0]]可见房性或[[<SYM><DIS>1]]甚至[[<SYM><DIS>2]]。
 命名实体: 心电监测 室性早搏 心动过速
 实体关系: 
 ==================================================
@@ -915,42 +915,42 @@ ASD合并房间隔膨出瘤时，因房间隔膨出瘤处组织发育薄弱，�
 实体关系: 
 ==================================================
 封堵/verb 器/noun 脱落/verb 后/noun-of-locality 如/verb 未/adverb 发生/verb 心室/noun 颤动/verb ，/punctuation-mark 可/verb 经/preposition 导管/noun 取出/verb ，/punctuation-mark 国内外/locative-word 均/adverb 有/verb 成功/adjective 取出/verb 的/particle 报道/noun ，/punctuation-mark 若/conjunction 封堵/verb 器/noun 较/adverb 大/adjective 或者/conjunction 难以/adverb 取出/verb 时/noun 应/verb 行/noun 急诊/noun 外科/noun 手术/verb 。/punctuation-mark
-封堵器脱落后如未发生[[<DIS><SYM>0]]，可经导管取出，国内外均有成功取出的报道，若封堵器较大或者难以取出时应行急诊外科手术。
+封堵器脱落后如未发生[[<SYM><DIS>0]]，可经导管取出，国内外均有成功取出的报道，若封堵器较大或者难以取出时应行急诊外科手术。
 命名实体: 心室颤动
 实体关系: 
 ==================================================
 6.8/numeral 心律/noun 失常/adjective [12-13]/string
-6.8[[<DIS><SYM>0]][12-13]
+6.8[[<SYM><DIS>0]][12-13]
 命名实体: 心律失常
 实体关系: 
 ==================================================
 由于/preposition ASD/noun 患者/noun 传导/verb 系统/noun 的/particle 先天/noun 发育/verb 异常/adjective ，/punctuation-mark 加上/verb 血流/noun 动力学/noun 变化/verb 对/preposition 心脏/noun 组织/verb 电/noun 生理/noun 特性/noun 产生/verb 不良/adjective 影响/verb ，/punctuation-mark ASD/noun 患者/noun 在/preposition 病程/noun 进展/verb 及/conjunction 治疗/verb 过程/noun 中/noun-of-locality 可/verb 出现/verb 各种/pronoun 心律/noun 失常/adjective 。/punctuation-mark
-由于ASD患者传导系统的先天发育异常，加上血流动力学变化对心脏组织电生理特性产生不良影响，ASD患者在病程进展及治疗过程中可出现各种[[<DIS><SYM>0]]。
+由于ASD患者传导系统的先天发育异常，加上血流动力学变化对心脏组织电生理特性产生不良影响，ASD患者在病程进展及治疗过程中可出现各种[[<SYM><DIS>0]]。
 命名实体: 心律失常
 实体关系: 
 ==================================================
 窦性/noun 心动/verb 过速/adjective 、/punctuation-mark 窦性心/noun 动/verb 过/particle 缓/adjective 、/punctuation-mark 室/noun 上/noun-of-locality 性/noun 心动/verb 过速/adjective ，/punctuation-mark 频/adjective 发/verb 房/noun 性/suffix 早/adjective 搏/verb 、/punctuation-mark 房室/noun 传导/verb 阻滞/verb 和/conjunction 心房/noun 颤动/verb 等/particle 均/adverb 可/verb 在/preposition 术/noun 中和/verb 术/noun 后/noun-of-locality 出现/verb 。/punctuation-mark
-[[<DIS><SYM>0]]、[[<DIS><SYM>1]]、[[<DIS><SYM>2]]，[[<SYM>3]]、[[<DIS><SYM>4]]和[[<SYM>5]]均可在术中和术后出现。
+[[<SYM><DIS>0]]、[[<SYM><DIS>1]]、[[<SYM><DIS>2]]，[[<SYM>3]]、[[<SYM><DIS>4]]和[[<SYM>5]]均可在术中和术后出现。
 命名实体: 窦性心动过速 窦性心动过缓 室上性心动过速 频发房性早搏 房室传导阻滞 心房颤动等
 实体关系: 
 ==================================================
 过/adverb 大/adjective 封堵/verb 器/noun 置/verb 人/noun 易/adjective 损伤/verb 窦/noun 房/noun 结/verb 及其/conjunction 邻近/verb 区域/noun ，/punctuation-mark 或者/conjunction 使/verb 窦/noun 房/noun 结/verb 动脉/noun 供/verb 血/noun 受阻/verb 均/adverb 可/verb 导致/verb 窦/noun 房/noun 结/verb 功能/noun 暂时性/noun 障碍/noun ，/punctuation-mark 而/conjunction 封堵/verb 器/noun 对/preposition 房室/noun 结/verb 的/particle 挤压/verb ，/punctuation-mark 或/conjunction 对/preposition 房室/noun 结/verb 及其/conjunction 周围/noun-of-locality 组织/verb 摩擦/verb 造成/verb 暂时性/noun 水肿/noun ，/punctuation-mark 则/conjunction 可/verb 导致/verb 房室/noun 结/verb 功能/noun 障碍/noun 或/conjunction 减退/verb 。/punctuation-mark
-过大封堵器置人易[[<DIS>0]]窦房结及其邻近区域，或者使窦房结动脉供血受阻均可导致窦房结功能暂时性障碍，而封堵器对房室结的挤压，或对房室结及其周围组织摩擦造成暂时性[[<DIS><SYM>1]]，则可导致房室结功能障碍或减退。
+过大封堵器置人易[[<DIS>0]]窦房结及其邻近区域，或者使窦房结动脉供血受阻均可导致窦房结功能暂时性障碍，而封堵器对房室结的挤压，或对房室结及其周围组织摩擦造成暂时性[[<SYM><DIS>1]]，则可导致房室结功能障碍或减退。
 命名实体: 损伤 水肿
 实体关系: 
 ==================================================
 多数/numeral 患者/noun 上述/distinguishing-word 心律/noun 失常/adjective 可/verb 迅速/adjective 缓解/verb ，/punctuation-mark 个别/adjective 患者/noun 可/verb 持续/verb 数/verb 小时/noun 甚至/conjunction 更/adverb 长/adjective 时间/noun 。/punctuation-mark
-多数患者上述[[<DIS><SYM>0]]可迅速缓解，个别患者可持续数小时甚至更长时间。
+多数患者上述[[<SYM><DIS>0]]可迅速缓解，个别患者可持续数小时甚至更长时间。
 命名实体: 心律失常
 实体关系: 
 ==================================================
 因此/conjunction ，/punctuation-mark ASD/noun 介/noun 人/noun 治疗/verb 后/noun-of-locality 2/numeral 个/classifier 月/noun 内/noun-of-locality 应/verb 注意/verb 避免/verb 剧烈/adjective 咳嗽/verb 和/conjunction 活动/verb ，/punctuation-mark 减少/verb 封堵/verb 器/noun 对/preposition 周围/noun-of-locality 组织/verb 的/particle 剌/verb 激/verb 。/punctuation-mark
-因此，ASD介人治疗后2个月内应注意避免剧烈[[<DIS><SYM>0]]和活动，减少封堵器对周围组织的剌激。
+因此，ASD介人治疗后2个月内应注意避免剧烈[[<SYM><DIS>0]]和活动，减少封堵器对周围组织的剌激。
 命名实体: 咳嗽
 实体关系: 
 ==================================================
 出现/verb 心律/noun 失常/adjective 后/noun-of-locality 药物/noun 对/preposition 症/suffix 处理/verb 多/adjective 可/verb 缓解/verb ，/punctuation-mark 若/conjunction 出现/verb 传导/verb 阻滞/verb 必要/adjective 时/noun 可/verb 置/verb 人/noun 临时/distinguishing-word 或/conjunction 永久/adverb 起/verb 搏/verb 器/noun 治疗/verb ，/punctuation-mark 部分/numeral 患者/noun 取出/verb 封堵/verb 器/noun 后/noun-of-locality 心律/noun 失常/adjective 消失/verb 。/punctuation-mark
-出现[[<DIS><SYM>0]]后药物对症处理多可缓解，若出现[[<SYM>1]]必要时可置人临时或永久起搏器治疗，部分患者取出封堵器后[[<DIS><SYM>0]]消失。
+出现[[<SYM><DIS>0]]后药物对症处理多可缓解，若出现[[<SYM>1]]必要时可置人临时或永久起搏器治疗，部分患者取出封堵器后[[<SYM><DIS>0]]消失。
 命名实体: 心律失常 传导阻滞
 实体关系: 
 ==================================================
