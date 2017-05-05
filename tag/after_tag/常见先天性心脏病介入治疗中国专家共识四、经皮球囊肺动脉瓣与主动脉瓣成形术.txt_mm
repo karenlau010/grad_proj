@@ -16,8 +16,8 @@
 命名实体: 肺动脉瓣狭窄 主动脉瓣狭窄
 ==================================================
 球/noun 嚢/punctuation-mark 成/verb 形/noun 术/noun 成功/adjective 的/particle 关键/noun 在于/verb 谨慎/adjective 选择/verb 合适/adjective 的/particle 患者/noun ，/punctuation-mark 熟练/adjective 地/particle 掌握/verb 操作/verb 方法/noun ，/punctuation-mark 严格/adjective 挑选/verb 球/noun 嚢/punctuation-mark 的/particle 类型/noun 、/punctuation-mark 大/adjective 小/adjective 和/conjunction 长度/noun ，/punctuation-mark 避免/verb 损伤/verb 腱/punctuation-mark 索/verb 和/conjunction 瓣膜/noun 周围/noun-of-locality 组织/verb 。/punctuation-mark
-球嚢成形术成功的关键在于谨慎选择合适的患者，熟练地掌握操作方法，严格挑选球嚢的类型、大小和长度，避免[[<DIS>0]]腱索和瓣膜周围组织。
-命名实体: 损伤
+球嚢成形术成功的关键在于谨慎选择合适的患者，熟练地掌握操作方法，严格挑选球嚢的类型、大小和长度，避免损伤腱索和瓣膜周围组织。
+命名实体:
 ==================================================
 新生儿/noun 和/conjunction 婴幼儿/noun 的/particle 球/noun 嚢/punctuation-mark 扩张/verb 风险/noun 较/adverb 大/adjective ，/punctuation-mark 要/verb 注意/verb 减少/verb 并发症/noun 的/particle 发生/verb 。/punctuation-mark
 新生儿和婴幼儿的球嚢扩张风险较大，要注意减少并发症的发生。
@@ -56,8 +56,8 @@
 命名实体:
 ==================================================
 1.1.2/numeral 对于/preposition 青少年/noun 及/conjunction 成人/noun 患者/noun ，/punctuation-mark 跨/verb 肺动脉/noun 瓣/noun 压/verb 差/adjective ≥30mmHg/noun ，/punctuation-mark 同时/conjunction 合并/verb 劳力/noun 性/noun 呼吸/verb 困难/adjective 、/punctuation-mark 心绞痛/noun 、/punctuation-mark 晕厥/verb 或/conjunction 先兆/noun 晕厥/verb 等/particle 症状/noun 。/punctuation-mark
-1.1.2对于青少年及成人患者，跨肺动脉瓣压差≥30mmHg，同时合并[[<SYM>0]]、[[<SYM><DIS>1]]、[[<DIS>2]]或先兆[[<DIS>2]]等症状。
-命名实体: 劳力性呼吸困难 心绞痛 晕厥
+1.1.2对于青少年及成人患者，跨肺动脉瓣压差≥30mmHg，同时合并[[<SYM>0]]、[[<SYM><DIS>1]]、晕厥或先兆晕厥等症状。
+命名实体: 劳力性呼吸困难 心绞痛
 ==================================================
 1.2/numeral 相对/adverb 适应/verb 证/noun
 1.2相对适应证
@@ -84,8 +84,8 @@
 命名实体:
 ==================================================
 1.2.6/numeral 室/noun 间隔/noun 完整/adjective 的/particle 肺动脉/noun 瓣膜/noun 性/noun 闭/verb 锁/verb ，/punctuation-mark 右/noun-of-locality 室/noun 发育/verb 正常/adjective 或/conjunction 轻度/adverb 发育/verb 不良/adjective ，/punctuation-mark 可/verb 先行/verb 射/verb 频/adverb 打孔/verb ，/punctuation-mark 再/adverb 进行/verb 球/noun 囊/noun 扩张/verb 术/noun 。/punctuation-mark
-1.2.6室间隔完整的肺动脉瓣[[<DIS>0]]闭锁，右室发育正常或轻度发育不良，可先行射频打孔，再进行球囊扩张术。
-命名实体: 膜性
+1.2.6室间隔完整的肺动脉瓣膜性闭锁，右室发育正常或轻度发育不良，可先行射频打孔，再进行球囊扩张术。
+命名实体:
 ==================================================
 1.2.7/numeral 重症/noun PS/noun 伴/verb 左/adjective 室/noun 腔/classifier 小/adjective 及/conjunction 左/adjective 室/noun 功能/noun 低下/adjective ，/punctuation-mark 可/conjunction 逐步/adverb 分/verb 次/classifier 行/adjective 球/noun 囊/noun 扩张/verb 术/noun 。/punctuation-mark
 1.2.7重症PS伴左室腔小及左室功能低下，可逐步分次行球囊扩张术。
@@ -176,8 +176,8 @@
 命名实体:
 ==================================================
 全/adjective 麻/noun 或/conjunction 局/noun 麻/noun 下行/verb 股/classifier 静脉/noun 插管/noun ，/punctuation-mark 并/conjunction 监测/verb 心电图/noun 、/punctuation-mark 动脉血/noun 氧/noun 饱和度/noun (/punctuation-mark SaO2/noun )/punctuation-mark 及/conjunction 动脉血/noun 压/verb 。/punctuation-mark
-全麻或局麻下行股静脉插管，并监测[[<TRE>0]]、动脉血氧饱和度(SaO2)及动脉血压。
-命名实体: 心电图
+全麻或局麻下行股静脉插管，并监测[[<TRE>0]]、动脉[[<TRE>1]]及动脉血压。
+命名实体: 心电图 血氧饱和度(SaO2)
 ==================================================
 根据/preposition 病情/noun 选用/verb 单/adverb 或/conjunction 双/numeral 球/noun 囊/noun 扩张/verb 术/noun 。/punctuation-mark
 根据病情选用单或双球囊扩张术。
@@ -332,8 +332,8 @@ D1+D2!(D1/2+D2/2)
 命名实体:
 ==================================================
 因此/conjunction 对于/preposition 发育/verb 不良/adjective 型/noun PS/noun ，/punctuation-mark 尤其/adverb 轻型/distinguishing-word 病例/noun ，/punctuation-mark 仍/adverb 可/verb 首选/verb 球/noun 囊/noun 扩张/verb 术/noun ，/punctuation-mark 如/verb 无效/verb 再/adverb 考虑/verb 进行/verb 开/verb 胸/noun 手术/verb 。/punctuation-mark
-因此对于发育不良型PS，尤其[[<DIS>0]]病例，仍可首选球囊扩张术，如无效再考虑进行开胸手术。
-命名实体: 轻型
+因此对于发育不良型PS，尤其轻型病例，仍可首选球囊扩张术，如无效再考虑进行开胸手术。
+命名实体:
 ==================================================
 4.2PS/noun 伴/verb 心房/noun 水平/noun 右/noun-of-locality 向/preposition 左/noun-of-locality 分流/verb
 4.2PS伴心房水平右向左分流
@@ -388,8 +388,8 @@ D1+D2!(D1/2+D2/2)
 命名实体: 先天性心脏病
 ==================================================
 4.5.1/numeral 法/distinguishing-word 洛/distinguishing-word 四/numeral 联/verb 症/noun 在/preposition 大部分/numeral 心血管/noun 中心/noun ，/punctuation-mark 重症/noun 法/distinguishing-word 洛/distinguishing-word 四/numeral 联/verb 症/noun 伴/verb 肺动脉/noun 发育/verb 不良/adjective 者/suffix ，/punctuation-mark 常规/noun 采用/verb 分期/adverb 手术/verb ，/punctuation-mark 先/adverb 应用/verb 分流/verb 术/noun 或/conjunction 右/noun-of-locality 心室/noun 流出/verb 道/classifier 跨/verb 瓣/noun 补/verb 片/noun 术/noun 缓解/verb 紫/adjective 绀/punctuation-mark ，/punctuation-mark 改善/verb 低/adjective 氧/noun 血/noun 症/noun ，/punctuation-mark 第二/numeral 期/classifier 采用/verb 根治/verb 术/noun 。/punctuation-mark
-4.5.1法洛四联症在大部分心血管中心，重症法洛四联症伴肺动脉发育不良者，常规采用分期手术，先应用分流术或右心室流出道跨瓣补片术缓解[[<SYM><DIS>0]]，改善[[<SYM>1]]，第二期采用根治术。
-命名实体: 紫绀 低氧血症
+4.5.1[[<TRE>0]]在大部分心血管中心，重症[[<TRE>0]]伴肺动脉发育不良者，常规采用分期手术，先应用分流术或右心室流出道跨瓣补片术缓解[[<SYM><DIS>1]]，改善[[<SYM>2]]，第二期采用根治术。
+命名实体: 法洛四联症 紫绀 低氧血症
 ==================================================
 也/adverb 有/verb 报道/verb 采用/verb PBPV/noun 及/conjunction 肺动脉/noun 分支/noun 狭窄/adjective 球/noun 囊/noun 扩张/verb 术/noun ，/punctuation-mark 以/preposition 改善/verb 低/adjective 氧/noun 血/noun 症/suffix 及/conjunction 促进/verb 肺动脉/noun 发育/verb ，/punctuation-mark 从而/conjunction 替代/verb 外科/noun 姑息/verb 手术/verb 。/punctuation-mark
 也有报道采用PBPV及肺动脉分支狭窄球囊扩张术，以改善[[<SYM>0]]及促进肺动脉发育，从而替代外科姑息手术。
@@ -400,8 +400,8 @@ D1+D2!(D1/2+D2/2)
 命名实体: 低氧血症 缺氧
 ==================================================
 操作/verb 方法/noun 与/conjunction 单纯/adjective 性/noun PS/noun 球/noun 囊/noun 成/verb 形/noun 术/noun 相同/adjective ，/punctuation-mark 球/noun ：/punctuation-mark 瓣/noun 比值/noun 报道/verb 不一/verb ，/punctuation-mark 由于/conjunction 法/distinguishing-word 洛/distinguishing-word 四/numeral 联/verb 症/noun 瓣/noun 环/verb 都/adverb 小于/verb 正常/adjective ，/punctuation-mark 选用/verb 球/noun ：/punctuation-mark 瓣/noun 比值/noun 宜/adjective 偏/adverb 大/adjective 。/punctuation-mark
-操作方法与单纯性PS球囊成形术相同，球：瓣比值报道不一，由于法洛四联症瓣环都小于正常，选用球：瓣比值宜偏大。
-命名实体:
+操作方法与单纯性PS球囊成形术相同，球：瓣比值报道不一，由于[[<TRE>0]]瓣环都小于正常，选用球：瓣比值宜偏大。
+命名实体: 法洛四联症
 ==================================================
 由于/preposition 漏斗/noun 部/classifier 狭窄/adjective 依然/adverb 存在/verb ，/punctuation-mark PBPV/noun 后/noun-of-locality 右/noun-of-locality 心室/noun 压力/noun 及/conjunction 肺动脉/noun -/punctuation-mark 右/noun-of-locality 心室/noun 压力/noun 阶/noun 差/noun 仅/adverb 轻度/adverb 降低/verb ，/punctuation-mark 或/conjunction 无/verb 明显/adjective 改变/verb ，/punctuation-mark 但/conjunction 术/noun 后/noun-of-locality SaO2/noun 有/verb 不同/adjective 程度/noun 的/particle 升高/verb ，/punctuation-mark 缺氧/verb 改善/verb ，/punctuation-mark 肺/noun 血流/noun 增加/verb ，/punctuation-mark 有助于/verb 肺动脉/noun 分支/noun 发育/verb 。/punctuation-mark
 由于漏斗部狭窄依然存在，PBPV后右心室压力及肺动脉-右心室压力阶差仅轻度降低，或无明显改变，但术后SaO2有不同程度的升高，[[<SYM>0]]改善，肺血流增加，有助于肺动脉分支发育。
@@ -424,8 +424,8 @@ D1+D2!(D1/2+D2/2)
 命名实体:
 ==================================================
 4.5.3/numeral 外科/noun 手术/verb 后/noun-of-locality 右/noun-of-locality 心室/noun 流/verb 出道/verb 梗阻/verb 适应/verb 证/noun 包括/verb 生物/noun 瓣膜/noun 置换/verb 术/noun 后/noun-of-locality 再/adverb 狭窄/adjective ，/punctuation-mark 主要/adverb 应用/verb 于/preposition 法/distinguishing-word 洛/distinguishing-word 四/numeral 联/verb 症/noun 伴/verb 肺动脉/noun 闭/verb 锁/noun 、/punctuation-mark 完全性/noun 大动脉/noun 转/verb 位/classifier 及/conjunction 永/adverb 存/verb 动脉/noun 干/verb 等/particle 病例/noun ，/punctuation-mark 外科/noun 根治/verb 术/noun 时/noun 采用/verb 同/preposition 种/verb 或/conjunction 异/adjective 种/verb 生物/noun 瓣/noun 作/verb 右/noun-of-locality 心室/noun 肺动脉/noun 带/verb 瓣/classifier 管道/noun ，/punctuation-mark 术/noun 后/noun-of-locality 发生/verb 再/adverb 狭窄/adjective ，/punctuation-mark 可/conjunction 考虑/verb 作/verb 球/noun 囊/noun 扩张/verb 术/noun 。/punctuation-mark
-4.5.3外科手术后右心室流出道梗阻适应证包括生物瓣膜置换术后再狭窄，主要应用于法洛四联症伴[[<SYM>0]]、完全性大动脉转位及[[<DIS>1]]等病例，外科根治术时采用同种或异种生物瓣作右心室肺动脉带瓣管道，术后发生再狭窄，可考虑作球囊扩张术。
-命名实体: 肺动脉闭锁 永存动脉干
+4.5.3外科手术后右心室流出道梗阻适应证包括生物瓣膜置换术后再狭窄，主要应用于[[<TRE>0]]伴[[<SYM>1]]、完全性大动脉转位及[[<DIS>2]]等病例，外科根治术时采用同种或异种生物瓣作右心室肺动脉带瓣管道，术后发生再狭窄，可考虑作球囊扩张术。
+命名实体: 法洛四联症 肺动脉闭锁 永存动脉干
 ==================================================
 其/pronoun 球/noun 囊/noun 扩张/verb 成功率/noun 报道/verb 不一/verb (/punctuation-mark 33%/numeral ~/punctuation-mark 100%/numeral )/punctuation-mark ，/punctuation-mark 其/pronoun 疗效/noun 能/verb 维持/verb 多久/pronoun 尚/adverb 需/verb 进一步/adverb 观察/verb ，/punctuation-mark 由于/conjunction 方法/noun 简便/adjective 且/conjunction 有/verb 一定/distinguishing-word 效果/noun ，/punctuation-mark 仍/adverb 为/verb 外科/noun 再次/adverb 置换/verb 瓣膜/noun 或/conjunction 安置/verb 血管/noun 内/noun-of-locality 支架/noun 前/noun-of-locality 的/particle 治疗/verb 手段/noun 。/punctuation-mark
 其球囊扩张成功率报道不一(33%~100%)，其疗效能维持多久尚需进一步观察，由于方法简便且有一定效果，仍为外科再次置换瓣膜或安置血管内支架前的治疗手段。
@@ -440,8 +440,8 @@ D1+D2!(D1/2+D2/2)
 命名实体: 右心衰竭
 ==================================================
 4.5.4/numeral 其他/pronoun 复杂/adjective 紫/adjective 绀/punctuation-mark 型/noun 先天性/distinguishing-word 心脏病/noun 伴/verb PS/noun 除了/preposition 法/distinguishing-word 洛/distinguishing-word 四/numeral 联/verb 症/noun 外/noun-of-locality ，/punctuation-mark PBPV/noun 还/adverb 可/verb 应用/verb 于/preposition 其他/pronoun 复杂/adjective 先天性/distinguishing-word 心脏病/noun 伴/verb PS/noun ，/punctuation-mark 如/verb 单/distinguishing-word 心室/noun 伴/verb 肺动脉/noun 瓣/classifier 狭窄/adjective 、/punctuation-mark 完全性/noun 大动脉/noun 转/verb 位/classifier 伴/verb 室/noun 间隔/verb 缺损/verb 、/punctuation-mark 肺动脉/noun 瓣/noun 及/conjunction 瓣/noun 下/noun-of-locality 狭窄/adjective 等/particle 。/punctuation-mark
-4.5.4其他复杂[[<DIS>0]][[<DIS>1]]伴PS除了法洛四联症外，PBPV还可应用于其他复杂[[<DIS>1]]伴PS，如[[<DIS>2]]伴[[<DIS>3]]、完全性大动脉转位伴[[<SYM><DIS>4]]、肺动脉瓣及瓣下狭窄等。
-命名实体: 紫绀型 先天性心脏病 单心室 肺动脉瓣狭窄 室间隔缺损
+4.5.4其他复杂[[<DIS>0]][[<DIS>1]]伴PS除了[[<TRE>2]]外，PBPV还可应用于其他复杂[[<DIS>1]]伴PS，如[[<DIS>3]]伴[[<DIS>4]]、完全性大动脉转位伴[[<SYM><DIS>5]]、肺动脉瓣及瓣下狭窄等。
+命名实体: 紫绀型 先天性心脏病 法洛四联症 单心室 肺动脉瓣狭窄 室间隔缺损
 ==================================================
 PBPV/noun 后/noun-of-locality 使/verb 肺/noun 血流/noun 量/noun 增加/verb ，/punctuation-mark 以/preposition 改善/verb 低/adjective 氧/noun 血/noun 症/noun ，/punctuation-mark 从而/conjunction 替代/verb 开/verb 胸/noun 体/noun -/punctuation-mark 肺动脉/noun 分流/verb 术/noun 。/punctuation-mark
 PBPV后使肺血流量增加，以改善[[<SYM>0]]，从而替代开胸[[<TRE>1]]。
@@ -488,7 +488,7 @@ PBPV后使肺血流量增加，以改善[[<SYM>0]]，从而替代开胸[[<TRE>1]
 命名实体:
 ==================================================
 6.2/numeral 肺动脉/noun 瓣/classifier 环/noun 撕裂/verb 及/conjunction 出血/verb
-6.2肺动脉瓣环撕裂及[[<SYM><DIS>0]]
+6.2肺动脉瓣环撕裂及[[<SYM>0]]
 命名实体: 出血
 ==================================================
 多/numeral 由于/preposition 球/noun 囊/noun 选择/verb 过/particle 大/adjective ，/punctuation-mark 或/conjunction 由于/conjunction 对/preposition 瓣/noun 环/verb 直径/noun 测量/verb 高估/verb 所/particle 致/verb 。/punctuation-mark
@@ -512,8 +512,8 @@ PBPV后使肺血流量增加，以改善[[<SYM>0]]，从而替代开胸[[<TRE>1]
 命名实体:
 ==================================================
 可能/verb 由于/preposition 球/noun 囊/noun 导管/noun 穿过/verb 右/noun-of-locality 房室/noun 瓣/classifier 腱/punctuation-mark 索/verb ，/punctuation-mark 或/conjunction 球/noun 囊/noun 导管/noun 过/particle 长/adjective 而/conjunction 损伤/verb 右/noun-of-locality 房室/noun 瓣/noun ，/punctuation-mark 需/verb 外科/noun 手术/verb 治疗/verb 。/punctuation-mark
-可能由于球囊导管穿过右房室瓣腱索，或球囊导管过长而[[<DIS>0]]右房室瓣，需外科手术治疗。
-命名实体: 损伤
+可能由于球囊导管穿过右房室瓣腱索，或球囊导管过长而损伤右房室瓣，需外科手术治疗。
+命名实体:
 ==================================================
 6.5/numeral 右/noun-of-locality 室/noun 流出/verb 道/classifier 严重/adjective 痉挛/verb
 6.5右室流出道严重[[<SYM><DIS>0]]
@@ -524,11 +524,11 @@ PBPV后使肺血流量增加，以改善[[<SYM>0]]，从而替代开胸[[<TRE>1]
 命名实体:
 ==================================================
 6.6/numeral 轻型/distinguishing-word 并发症/noun
-6.6[[<DIS>0]]并发症
-命名实体: 轻型
+6.6轻型并发症
+命名实体:
 ==================================================
 6.6.1/numeral 血管/noun 并发症/noun 如/conjunction 动/verb 静脉/noun 血栓/noun 形成/verb ，/punctuation-mark 股/classifier 静脉/noun 撕裂/verb ，/punctuation-mark 导管/noun 穿/verb 剌/verb 部位/noun 出血/verb 。/punctuation-mark
-6.6.1血管并发症如动[[<DIS>0]]，股静脉撕裂，导管穿剌部位[[<SYM><DIS>1]]。
+6.6.1血管并发症如动[[<DIS>0]]，股静脉撕裂，导管穿剌部位[[<SYM>1]]。
 命名实体: 静脉血栓形成 出血
 ==================================================
 6.6.2/numeral 肺动脉/noun 瓣/noun 瓣/noun 叶/noun 撕裂/verb 可/verb 引起/verb 轻度/distinguishing-word 血流/noun 动力学/noun 障碍/noun 。/punctuation-mark
@@ -544,8 +544,8 @@ PBPV后使肺血流量增加，以改善[[<SYM>0]]，从而替代开胸[[<TRE>1]
 命名实体: 心律失常 高度房室传导阻滞
 ==================================================
 6.6.5/numeral 右/noun-of-locality 心室/noun 流出/verb 道/classifier 损伤/verb 常/adverb 引起/verb 反应/verb 性/noun 漏斗/noun 部/classifier 狭窄/adjective 。/punctuation-mark
-6.6.5右心室流出道[[<DIS>0]]常引起反应性漏斗部狭窄。
-命名实体: 损伤
+6.6.5右心室流出道损伤常引起反应性漏斗部狭窄。
+命名实体:
 ==================================================
 6.7/numeral 一/numeral 过/verb 性/noun 反应/verb
 6.7一过性反应
@@ -616,8 +616,8 @@ PBPV后使肺血流量增加，以改善[[<SYM>0]]，从而替代开胸[[<TRE>1]
 命名实体:
 ==================================================
 典型/noun 主动脉/noun 瓣/classifier 狭窄/adjective 不/adverb 伴/verb 主动脉/noun 严重/adjective 钙化/verb ：/punctuation-mark 心/noun 输出/verb 量/noun 正常/adjective 时/noun 经/preposition 导管/noun 检查/verb 跨/verb 主动脉/noun 瓣/noun 压/verb 差/adjective ≥/numeral 60mmHg/noun ，/punctuation-mark 无/verb 或/conjunction 仅/adverb 轻度/distinguishing-word 主动脉/noun 瓣/noun 返/verb 流/verb ；/punctuation-mark 对于/preposition 青少年/noun 及/conjunction 成人/noun 患者/noun ，/punctuation-mark 若/conjunction 跨/verb 主动脉/noun 瓣/noun 压/verb 差/adjective ≥50mmHg/noun ，/punctuation-mark 同时/conjunction 合并/verb 有/verb 劳力/noun 性/noun 呼吸/verb 困难/adjective 、/punctuation-mark 心绞痛/noun 、/punctuation-mark 晕厥/verb 或/conjunction 先兆/noun 晕厥/verb 等/particle 症状/noun ，/punctuation-mark 或者/conjunction 体表/noun 心电图/noun (/punctuation-mark 安静/adjective 或/conjunction 运动/verb 状态/noun 下/noun-of-locality )/punctuation-mark 左/noun-of-locality 胸/noun 导/verb 联/verb 出现/verb T/noun 波/noun 或/conjunction ST/noun 段/classifier 变化/verb ，/punctuation-mark 亦/adverb 推荐/verb 球/noun 囊/noun 扩张/verb 术/noun 。/punctuation-mark
-典型[[<DIS>0]]不伴主动脉严重[[<SYM>1]]：心输出量正常时经导管检查跨主动脉瓣压差≥ 60mmHg，无或仅轻度主动脉瓣返流；对于青少年及成人患者，若跨主动脉瓣压差≥50mmHg，同时合并有[[<SYM>2]]、[[<SYM><DIS>3]]、[[<DIS>4]]或先兆[[<DIS>4]]等症状，或者体表[[<TRE>5]](安静或运动状态下)左胸导联出现T波或ST段变化，亦推荐球囊扩张术。
-命名实体: 主动脉瓣狭窄 钙化 劳力性呼吸困难 心绞痛 晕厥 心电图
+典型[[<DIS>0]]不伴主动脉严重[[<SYM>1]]：心输出量正常时经导管检查跨主动脉瓣压差≥ 60mmHg，无或仅轻度主动脉瓣返流；对于青少年及成人患者，若跨主动脉瓣压差≥50mmHg，同时合并有[[<SYM>2]]、[[<SYM><DIS>3]]、晕厥或先兆晕厥等症状，或者体表[[<TRE>4]](安静或运动状态下)左胸导联出现T波或ST段变化，亦推荐球囊扩张术。
+命名实体: 主动脉瓣狭窄 钙化 劳力性呼吸困难 心绞痛 心电图
 ==================================================
 1.2/numeral 相对/adverb 适应/verb 证/noun
 1.2相对适应证
@@ -736,7 +736,7 @@ PBPV后使肺血流量增加，以改善[[<SYM>0]]，从而替代开胸[[<TRE>1]
 命名实体:
 ==================================================
 术中/noun 密切/adjective 注意/verb 心/noun 率/verb 、/punctuation-mark 心律/noun 、/punctuation-mark 血压/noun ，/punctuation-mark 术/noun 毕/verb 拔/verb 管/verb 局部/noun 压迫/verb 止血/verb ，/punctuation-mark 如/verb 出血/verb 过/particle 多/numeral 需/verb 输血/verb 。/punctuation-mark
-术中密切注意心率、心律、血压，术毕拔管局部压迫止血，如[[<SYM><DIS>0]]过多需[[<TRE>1]]。
+术中密切注意心率、心律、血压，术毕拔管局部压迫止血，如[[<SYM>0]]过多需[[<TRE>1]]。
 命名实体: 出血 输血
 ==================================================
 在/preposition 球/noun 囊/noun 扩张/verb 时/noun 为了/preposition 避免/verb 左/adjective 室/noun 射/verb 血/noun 所/particle 引起/verb 的/particle 球/noun 囊/noun 来回/verb 移动/verb ，/punctuation-mark 在/preposition 球/noun 囊/noun 扩张/verb 时/noun 可/verb 右/noun-of-locality 室/noun 临时/adverb 起/verb 搏/verb 加速/verb 心/noun 率/verb 。/punctuation-mark
@@ -744,8 +744,8 @@ PBPV后使肺血流量增加，以改善[[<SYM>0]]，从而替代开胸[[<TRE>1]
 命名实体:
 ==================================================
 3.3.2/numeral 双/classifier 球/noun 囊/noun 主动脉/noun 瓣/noun 成/verb 形/noun 术/noun 经/preposition 皮/noun 穿/verb 剌/verb 一侧/noun-of-locality 股/classifier 动脉/noun ，/punctuation-mark 先/adverb 以/preposition 导/verb 丝/noun 插/verb 至/preposition 股/noun 动脉/noun 及/conjunction 降/verb 主动脉/noun ，/punctuation-mark 再/adverb 循/verb 导/verb 丝/noun 经/preposition 止血/verb 扩张/verb 管/verb 插/verb 人/noun 1/numeral 支/classifier 导管/noun 至/preposition 左/adjective 室/noun ，/punctuation-mark 并/conjunction 保留/verb 1/numeral 支/classifier 长/adjective 导/verb 丝/noun 于/preposition 左/adjective 室/noun ；/punctuation-mark 再/adverb 在/preposition 对/preposition 侧/verb 股/classifier 动脉/noun 进行/verb 穿/verb 剌/verb ，/punctuation-mark 插/verb 人/noun 另/pronoun 1/numeral 支/classifier 导管/noun 至/preposition 左/adjective 室/noun ，/punctuation-mark 并/conjunction 同样/adverb 置/verb 一/numeral 支/classifier 长/adjective 导/verb 丝/noun 于/preposition 左/adjective 室/noun 。/punctuation-mark
-3.3.2双球囊[[<TRE>0]]经皮穿剌一侧股动脉，先以导丝插至股动脉及降主动脉，再循导丝经止血扩张管插人1支导管至左室，并[[<DIS>1]]1支长导丝于左室；再在对侧股动脉进行穿剌，插人另1支导管至左室，并同样置一支长导丝于左室。
-命名实体: 主动脉瓣成形术 保留
+3.3.2双球囊[[<TRE>0]]经皮穿剌一侧股动脉，先以导丝插至股动脉及降主动脉，再循导丝经止血扩张管插人1支导管至左室，并保留1支长导丝于左室；再在对侧股动脉进行穿剌，插人另1支导管至左室，并同样置一支长导丝于左室。
+命名实体: 主动脉瓣成形术
 ==================================================
 先/adverb 在/preposition 一/numeral 侧/noun 将/preposition 球/noun 囊/noun 导管/noun 插/verb 至/preposition 左/adjective 室/noun ，/punctuation-mark 以/preposition 少量/numeral 对比/verb 剂/classifier 扩张/verb 球/noun 囊/noun 以/preposition 调整/verb 球/noun 囊/noun 的/particle 位置/noun ，/punctuation-mark 然后/conjunction 在/preposition 对/preposition 侧/verb 插/verb 人/noun 另/pronoun 一/numeral 支/classifier 球/noun 囊/noun 导管/noun ，/punctuation-mark 并/conjunction 调整/verb 球/noun 囊/noun 导管/noun 位置/noun ，/punctuation-mark 一旦/adverb 2/numeral 支/classifier 球/noun 囊/noun 导管/noun 在/preposition 合适/adjective 的/particle 位置/noun 后/noun-of-locality ，/punctuation-mark 2/numeral 枚/classifier 球/noun 囊/noun 同时/noun 进行/verb 扩张/verb 。/punctuation-mark
 先在一侧将球囊导管插至左室，以少量对比剂扩张球囊以调整球囊的位置，然后在对侧插人另一支球囊导管，并调整球囊导管位置，一旦2支球囊导管在合适的位置后，2枚球囊同时进行扩张。
@@ -796,8 +796,8 @@ PBPV后使肺血流量增加，以改善[[<SYM>0]]，从而替代开胸[[<TRE>1]
 命名实体:
 ==================================================
 近年来/adverb ，/punctuation-mark 颈/noun 动脉/noun 途径/noun 应用/verb 较/adverb 多/adjective ，/punctuation-mark 它/pronoun 与/preposition 心脏/noun 距离/noun 近/adjective ，/punctuation-mark 行径/noun 较/adverb 直/adjective ，/punctuation-mark 操纵/verb 导管/noun 较/adverb 易/verb 进/verb 人/noun 左/noun-of-locality 室/noun ，/punctuation-mark 同时/conjunction 亦可/verb 保留/verb 股/classifier 动脉/noun 以/preposition 备/verb 后/noun-of-locality 用/verb 。/punctuation-mark
-近年来，颈动脉途径应用较多，它与心脏距离近，行径较直，操纵导管较易进人左室，同时亦可[[<DIS>0]]股动脉以备后用。
-命名实体: 保留
+近年来，颈动脉途径应用较多，它与心脏距离近，行径较直，操纵导管较易进人左室，同时亦可保留股动脉以备后用。
+命名实体:
 ==================================================
 通常/adverb 选用/verb 球/noun 囊/noun 直径/noun 等于/verb 或/conjunction 略/adverb 小于/verb 瓣/classifier 环/noun ，/punctuation-mark 早期/time-word 应用/verb 冠状动脉/noun 扩张/verb 导管/noun ，/punctuation-mark 近年来/adverb 已/adverb 备/verb 有/verb 各种/pronoun 直径/noun 的/particle 球/noun 囊/noun 和/conjunction 4/numeral ~/punctuation-mark 5F/noun 导管/noun 供/verb 选择/verb 。/punctuation-mark
 通常选用球囊直径等于或略小于瓣环，早期应用[[<DIS>0]]导管，近年来已备有各种直径的球囊和4~5F导管供选择。
@@ -896,8 +896,8 @@ PBAV后主动脉瓣返流的发生率早期报道不一，大部分为轻度，�
 命名实体:
 ==================================================
 球/noun 囊/noun 在/preposition 左/adjective 室/noun 流出/verb 道/classifier 扩张/verb 时/noun ，/punctuation-mark 左/adjective 室/noun 的/particle 有力/adjective 收缩/verb 及/conjunction 左/adjective 室/noun 向/preposition 主动脉/noun 射/verb 血/noun ，/punctuation-mark 可/conjunction 导致/verb 球/noun 囊/noun 从/preposition 左/adjective 室/noun 流出/verb 道/classifier 向/preposition 主动脉/noun 瓣/classifier 口/noun 快速/distinguishing-word 运动/verb ，/punctuation-mark 从而/conjunction 损伤/verb 主动脉/noun 瓣/noun ，/punctuation-mark 引起/verb 关闭/verb 不/adverb 全/adjective 。/punctuation-mark
-球囊在左室流出道扩张时，左室的有力收缩及左室向主动脉射血，可导致球囊从左室流出道向主动脉瓣口快速运动，从而[[<DIS>0]]主动脉瓣，引起关闭不全。
-命名实体: 损伤
+球囊在左室流出道扩张时，左室的有力收缩及左室向主动脉射血，可导致球囊从左室流出道向主动脉瓣口快速运动，从而损伤主动脉瓣，引起关闭不全。
+命名实体:
 ==================================================
 因此/conjunction ，/punctuation-mark 保持/verb 球/noun 囊/noun 的/particle 稳定性/noun ，/punctuation-mark 有/verb 可能/noun 减少/verb 主动脉/noun 瓣/noun 返/verb 流/verb 的/particle 发生率/noun ，/punctuation-mark 同时/conjunction 也/adverb 有利于/verb 提高/verb 球/noun 囊/noun 扩张/verb 的/particle 成功率/noun 。/punctuation-mark
 因此，保持球囊的稳定性，有可能减少主动脉瓣返流的发生率，同时也有利于提高球囊扩张的成功率。
@@ -952,8 +952,8 @@ PBAV后主动脉瓣返流的发生率早期报道不一，大部分为轻度，�
 命名实体:
 ==================================================
 6.5/numeral 左/adjective 房室/noun 瓣/noun 损伤/verb
-6.5左房室瓣[[<DIS>0]]
-命名实体: 损伤
+6.5左房室瓣损伤
+命名实体:
 ==================================================
 采用/verb 房间/noun 隔/verb 穿/verb 剌/verb 经/preposition 左/adjective 心房/noun 、/punctuation-mark 左/adjective 房室/noun 瓣/noun 达/verb 左/adjective 心室/noun 途径/noun 进行/verb 球/noun 囊/noun 扩张/verb 术/noun 时/noun ，/punctuation-mark 有时/adverb 可/verb 引起/verb 左/adjective 房室/noun 瓣/noun 撕裂/verb 、/punctuation-mark 腱/punctuation-mark 索/verb 断裂/verb ，/punctuation-mark 导致/verb 左/adjective 房室/noun 瓣/noun 返/verb 流/noun ，/punctuation-mark 目前/time-word 已/adverb 较/adverb 少/adjective 应用/verb 该/pronoun 途径/noun 。/punctuation-mark
 采用房间隔穿剌经左心房、左房室瓣达左心室途径进行球囊扩张术时，有时可引起左房室瓣撕裂、[[<SYM>0]]，导致左房室瓣返流，目前已较少应用该途径。
@@ -988,11 +988,11 @@ PBAV后主动脉瓣返流的发生率早期报道不一，大部分为轻度，�
 命名实体: 心律失常
 ==================================================
 6.8/numeral 出血/verb
-6.8[[<SYM><DIS>0]]
+6.8[[<SYM>0]]
 命名实体: 出血
 ==================================================
 由于/preposition PBAV/noun 在/preposition 左/adjective 心室/noun 及/conjunction 动脉/noun 高压/noun 系统/noun 进行/verb 操作/verb ，/punctuation-mark 尤其/adverb 在/preposition 操作/verb 导/verb 引导/verb 丝/noun 插/verb 人/noun 左/noun-of-locality 心室/noun 时/noun ，/punctuation-mark 或/conjunction 交换/verb 导/verb 引/verb 钢丝/noun 、/punctuation-mark 球/noun 囊/noun 扩张/verb 管/verb 及/conjunction 普通/adjective 导管/noun 等/particle 时/noun ，/punctuation-mark 容易/adjective 引起/verb 局部/noun 穿/verb 剌/verb 点/classifier 及/conjunction 导管/noun 接口/noun 处/verb 出血/verb 。/punctuation-mark
-由于PBAV在左心室及动脉高压系统进行操作，尤其在操作导引导丝插人左心室时，或交换导引钢丝、球囊扩张管及普通导管等时，容易引起局部穿剌点及导管接口处[[<SYM><DIS>0]]。
+由于PBAV在左心室及动脉高压系统进行操作，尤其在操作导引导丝插人左心室时，或交换导引钢丝、球囊扩张管及普通导管等时，容易引起局部穿剌点及导管接口处[[<SYM>0]]。
 命名实体: 出血
 ==================================================
 因此/conjunction ，/punctuation-mark 操作/verb 应/verb 规范化/verb ，/punctuation-mark 尽量/adverb 减少/verb 导/verb 引导/verb 丝/noun 及/conjunction 导管/noun 交换/verb 。/punctuation-mark

@@ -92,15 +92,15 @@ AMI早期及时治疗可提高患者存活率并改善左心室收缩功能。
 命名实体: 缺血性胸痛 疼痛
 ==================================================
 疼痛/adjective 常/adverb 持续/verb 20min/noun 以上/noun-of-locality ，/punctuation-mark 通常/adverb 呈/verb 剧烈/adjective 的/particle 压榨/verb 性/noun 疼痛/adjective 或/conjunction 紧迫/adjective 、/punctuation-mark 烧灼/verb 感/noun ，/punctuation-mark 常/adverb 伴有/verb 呼吸/verb 困难/adjective 、/punctuation-mark 出/verb 汗/noun 、/punctuation-mark 恶心/adjective 、/punctuation-mark 呕吐/verb 或/conjunction 眩晕/verb 等/particle 。/punctuation-mark
-[[<SYM>0]]常持续20min以上，通常呈剧烈的压榨性[[<SYM>0]]或紧迫、烧灼感，常伴有[[<SYM><DIS>1]]、出汗、恶心、[[<DIS>2]]或[[<SYM><DIS>3]]等。
-命名实体: 疼痛 呼吸困难 呕吐 眩晕
+[[<SYM>0]]常持续20min以上，通常呈剧烈的压榨性[[<SYM>0]]或紧迫、烧灼感，常伴有[[<SYM><DIS>1]]、出汗、恶心、呕吐或[[<SYM>2]]等。
+命名实体: 疼痛 呼吸困难 眩晕
 ==================================================
 应/verb 注意/verb 非典/noun 型/suffix 疼痛/adjective 部位/noun 、/punctuation-mark 无/verb 痛/adverb 性/noun 心肌/noun 梗/noun 死/verb 和/conjunction 其他/pronoun 不/adverb 典型/adjective 表现/verb ，/punctuation-mark 女性/noun 常/adverb 表现/verb 为/verb 不/adverb 典型/adjective 胸/noun 痛/adjective ，/punctuation-mark 而/conjunction 老年人/noun 更/adverb 多/adjective 地/particle 表现/verb 为/preposition 呼吸/verb 困难/adjective 。/punctuation-mark
 应注意非典型[[<SYM>0]]部位、[[<DIS>1]]和其他不典型表现，女性常表现为[[<SYM>2]]，而老年人更多地表现为[[<SYM><DIS>3]]。
 命名实体: 疼痛 无痛性心肌梗死 不典型胸痛 呼吸困难
 ==================================================
 要/verb 与/preposition 急性/distinguishing-word 肺动脉/noun 栓塞/noun 、/punctuation-mark 急性/distinguishing-word 主动脉/noun 夹层/noun 、/punctuation-mark 急性/distinguishing-word 心包炎/noun 及/conjunction 急性/distinguishing-word 胸膜炎/noun 等/particle 引起/verb 的/particle 胸/noun 痛/adverb 相/adverb 鉴别/verb 。/punctuation-mark
-要与急性肺[[<DIS>0]]、急性[[<DIS>1]]、[[<DIS>2]]及急性[[<DIS>3]]等引起的[[<SYM><DIS>4]]相鉴别。
+要与急性肺[[<DIS>0]]、急性[[<DIS>1]]、[[<DIS>2]]及急性[[<DIS>3]]等引起的[[<SYM>4]]相鉴别。
 命名实体: 动脉栓塞 主动脉夹层 急性心包炎 胸膜炎 胸痛
 ==================================================
 2./numeral 迅速/adjective 评价/verb 初始/distinguishing-word 18/numeral 导/verb 联/verb 心电图/noun ：/punctuation-mark 应/verb 在/preposition 10min/noun 内/noun-of-locality 完成/verb 。/punctuation-mark
@@ -136,8 +136,8 @@ AMI早期及时治疗可提高患者存活率并改善左心室收缩功能。
 命名实体: 心电图 超声心动图
 ==================================================
 二/numeral 维/classifier 超声/noun 心动/verb 图/noun 可/verb 在/preposition 缺血/verb 损伤/verb 数/numeral 分钟/classifier 内/noun-of-locality 发现/verb 节/noun 段/noun 性/noun 室/noun 壁/noun 运动/verb 障碍/noun ，/punctuation-mark 有助于/verb AMI/noun 的/particle 早期/noun-of-locality 诊断/verb ，/punctuation-mark 对/preposition 疑/verb 诊/verb 主动脉/noun 夹层/noun 、/punctuation-mark 心包炎/noun 和/conjunction 肺动脉/noun 栓塞/noun 的/particle 鉴别/verb 诊断/verb 具有/verb 特殊/adjective 价值/noun 。/punctuation-mark
-二维[[<TRE>0]]可在缺血[[<DIS>1]]数分钟内发现节段性室壁[[<SYM><DIS>2]]，有助于AMI的早期诊断，对疑诊[[<DIS>3]]、[[<SYM><DIS>4]]和肺[[<DIS>5]]的鉴别诊断具有特殊价值。
-命名实体: 超声心动图 损伤 运动障碍 主动脉夹层 心包炎 动脉栓塞
+二维[[<TRE>0]]可在缺血损伤数分钟内发现节段性室壁[[<SYM><DIS>1]]，有助于AMI的早期诊断，对疑诊[[<DIS>2]]、[[<SYM><DIS>3]]和肺[[<DIS>4]]的鉴别诊断具有特殊价值。
+命名实体: 超声心动图 运动障碍 主动脉夹层 心包炎 动脉栓塞
 ==================================================
 床/noun 旁/noun-of-locality 监测/verb 应/verb 一直/adverb 持续/verb 到/verb 获得/verb 一/numeral 系列/classifier 血清/noun 标记/noun 物/noun 浓度/noun 结果/noun ，/punctuation-mark 最后/noun-of-locality 评估/verb 有/verb 无/verb 缺血/verb 或/conjunction 梗/verb 死/verb 证据/noun ，/punctuation-mark 再/adverb 决定/verb 继续/verb 观察/verb 或/conjunction 入院/verb 治疗/verb 。/punctuation-mark
 床旁监测应一直持续到获得一系列血清标记物浓度结果，最后评估有无缺血或梗死证据，再决定继续观察或入院治疗。
@@ -180,8 +180,8 @@ AMI早期及时治疗可提高患者存活率并改善左心室收缩功能。
 命名实体: 心肌疾病 心肌炎 创伤 动脉栓塞 休克 糖尿病
 ==================================================
 肌/noun 红蛋/noun 白/adverb 可/verb 迅速/adjective 从/preposition 梗/noun 死心/verb 肌/noun 释放/verb 而/conjunction 作为/preposition 早期/time-word 心肌/noun 标记/noun 物/noun ，/punctuation-mark 但/conjunction 骨骼肌/noun 损伤/verb 可能/verb 影响/verb 其/pronoun 特异/status-word 性/noun ，/punctuation-mark 故/conjunction 早期/time-word 检/verb 出/verb 肌/noun 红蛋/noun 白/adjective 后/noun-of-locality ，/punctuation-mark 应/verb 再/adverb 测定/verb CK/noun -/punctuation-mark MB/noun 、/punctuation-mark 肌/noun 钙/noun 蛋白/noun I/noun (/punctuation-mark cTnI/noun )/punctuation-mark 或/conjunction 肌/noun 钙/noun 蛋白/noun T/noun (/punctuation-mark cTnT/noun )/punctuation-mark 等/particle 更/adverb 具/verb 心脏/noun 特异/status-word 性/noun 的/particle 标记/noun 物/noun 予以/verb 证实/verb 。/punctuation-mark
-肌红蛋白可迅速从梗死心肌释放而作为早期心肌标记物，但骨骼肌[[<DIS>0]]可能影响其特异性，故早期检出肌红蛋白后，应再测定CK-MB、肌钙蛋白I(cTnI)或肌钙蛋白T(cTnT)等更具心脏特异性的标记物予以证实。
-命名实体: 损伤
+肌红蛋白可迅速从梗死心肌释放而作为早期心肌标记物，但骨骼肌损伤可能影响其特异性，故早期检出肌红蛋白后，应再测定CK-MB、肌钙蛋白I(cTnI)或肌钙蛋白T(cTnT)等更具心脏特异性的标记物予以证实。
+命名实体:
 ==================================================
 肌/noun 钙/noun 蛋白/noun 的/particle 特/adjective 异性/noun 及/conjunction 敏感/adjective 性/noun 均/adverb 高于/verb 其他/pronoun 酶/noun 学/verb 指标/noun ，/punctuation-mark 其/pronoun 参考/verb 值/noun 的/particle 范围/noun 必须/adverb 由/preposition 每/pronoun 一个/numeral 实验室/noun 通过/preposition 特异/status-word 的/particle 定量/verb 研究/verb 和/conjunction 质量/noun 控制/verb 来/verb 确定/verb 。/punctuation-mark
 肌钙蛋白的特异性及敏感性均高于其他酶学指标，其参考值的范围必须由每一个实验室通过特异的定量研究和质量控制来确定。
@@ -228,7 +228,7 @@ CK-MB和总CK作为诊断依据时，其诊断标准值至少应是正常上限�
 命名实体: 心房颤动 心肌梗死 低血压 窦性心动过速 糖尿病
 ==================================================
 非/distinguishing-word ST/noun 段/noun 抬高/verb 的/particle 急性/distinguishing-word 冠状动脉/noun 综合征/noun 反映/verb 了/particle 从/preposition 慢性/distinguishing-word 稳定性/noun 心绞痛/noun 到/verb ST/noun 段/noun 抬高/verb 的/particle AMI/noun 的/particle 一个/numeral 连续/adjective 病理/noun 过程/noun 。/punctuation-mark
-非ST[[<SYM>0]]的急性[[<SYM>1]]动脉[[<SYM><DIS>2]]反映了从慢性[[<DIS>3]]到ST[[<SYM>0]]的AMI的一个连续病理过程。
+非ST[[<SYM>0]]的急性[[<SYM>1]]动脉[[<SYM>2]]反映了从慢性[[<DIS>3]]到ST[[<SYM>0]]的AMI的一个连续病理过程。
 命名实体: 段抬高 冠状 综合征 稳定性心绞痛
 ==================================================
 缺/verb 血性/noun 胸/noun 痛/adverb 表现/verb 为/preposition 非/distinguishing-word ST/noun 段/noun 抬高/verb 者/suffix ，/punctuation-mark 包括/verb 非/distinguishing-word Q/noun 波/distinguishing-word 心肌/noun 梗/noun 死/verb 和/conjunction 不/adverb 稳定性/noun 心绞痛/noun ，/punctuation-mark 后者/pronoun 也/adverb 可/verb 发展/verb 为/verb ST/noun 段/noun 抬高/verb 的/particle 心肌/noun 梗/noun 死/verb ，/punctuation-mark 其/pronoun 诊断/verb 程序/noun 见/verb 图/noun 2/numeral 。/punctuation-mark
@@ -348,7 +348,7 @@ AMI患者来院后应立即开始一般治疗，并与其诊断同时进行，�
 命名实体:
 ==================================================
 4./numeral 镇痛/verb ：/punctuation-mark AMI/noun 时/noun ，/punctuation-mark 剧烈/adjective 胸/noun 痛/adverb 使/verb 患者/noun 交感神经/noun 过度/adverb 兴奋/adjective ，/punctuation-mark 产生/verb 心动/verb 过速/adjective 、/punctuation-mark 血压/noun 升高/verb 和/conjunction 心肌/noun 收缩/verb 功能/noun 增强/verb ，/punctuation-mark 从而/conjunction 增加/verb 心肌/noun 耗/verb 氧/noun 量/noun ，/punctuation-mark 并/conjunction 易/adjective 诱发/verb 快速/distinguishing-word 性/noun 室/noun 性/noun 心律/noun 失常/adjective ，/punctuation-mark 应/verb 迅速/adjective 给予/verb 有效/adjective 镇痛剂/noun 。/punctuation-mark
-4.镇痛：AMI时，剧烈[[<SYM><DIS>0]]使患者交感神经过度兴奋，产生[[<SYM><DIS>1]]、血压升高和心肌收缩功能增强，从而增加心肌耗氧量，并易诱发快速性[[<DIS>2]]，应迅速给予有效镇痛剂。
+4.镇痛：AMI时，剧烈[[<SYM>0]]使患者交感神经过度兴奋，产生[[<SYM><DIS>1]]、血压升高和心肌收缩功能增强，从而增加心肌耗氧量，并易诱发快速性[[<DIS>2]]，应迅速给予有效镇痛剂。
 命名实体: 胸痛 心动过速 室性心律失常
 ==================================================
 可/verb 给/preposition 吗啡/noun 3mg/noun 静脉/noun 注射/verb ，/punctuation-mark 必要/adjective 时/noun 每/pronoun 5min/noun 重复/verb 1/numeral 次/classifier ，/punctuation-mark 总量/noun 不宜/verb 超过/verb 15mg/noun 。/punctuation-mark
@@ -356,8 +356,8 @@ AMI患者来院后应立即开始一般治疗，并与其诊断同时进行，�
 命名实体: 吗啡
 ==================================================
 副/distinguishing-word 作用/noun 有/verb 恶心/adjective 、/punctuation-mark 呕吐/verb 、/punctuation-mark 低血压/noun 和/conjunction 呼吸/verb 抑制/verb 。/punctuation-mark
-副作用有恶心、[[<DIS>0]]、[[<SYM><DIS>1]]和[[<SYM>2]]。
-命名实体: 呕吐 低血压 呼吸抑制
+副作用有恶心、呕吐、[[<SYM><DIS>0]]和[[<SYM>1]]。
+命名实体: 低血压 呼吸抑制
 ==================================================
 一旦/adverb 出现/verb 呼吸/verb 抑制/verb ，/punctuation-mark 可/verb 每/pronoun 隔/verb 3min/noun 静脉/noun 注射/verb 纳/distinguishing-word 洛/distinguishing-word 酮/punctuation-mark 0.4mg/noun (/punctuation-mark 最/adverb 多/adjective 3/numeral 次/classifier )/punctuation-mark 以/preposition 拮/punctuation-mark 抗/verb 之/particle 。/punctuation-mark
 一旦出现[[<SYM>0]]，可每隔3min静脉注射[[<MED>1]]0.4mg(最多3次)以拮抗之。
@@ -408,7 +408,7 @@ AMI患者来院后应立即开始一般治疗，并与其诊断同时进行，�
 命名实体: 阿托品 心动过缓
 ==================================================
 10./numeral 饮食/noun 和/conjunction 通/verb 便/adverb ：/punctuation-mark AMI/noun 患者/noun 需/verb 禁食/verb 至/preposition 胸/noun 痛/adverb 消失/verb ，/punctuation-mark 然后/conjunction 给予/verb 流质/distinguishing-word 、/punctuation-mark 半/numeral 流质/distinguishing-word 饮食/noun ，/punctuation-mark 逐步/adverb 过渡/verb 到/verb 普通/adjective 饮食/noun 。/punctuation-mark
-10.饮食和通便：AMI患者需禁食至[[<SYM><DIS>0]]消失，然后给予流质、半流质饮食，逐步过渡到普通饮食。
+10.饮食和通便：AMI患者需禁食至[[<SYM>0]]消失，然后给予流质、半流质饮食，逐步过渡到普通饮食。
 命名实体: 胸痛
 ==================================================
 所有/distinguishing-word AMI/noun 患者/noun 均/adverb 应/verb 使用/verb 缓/adjective 泻/verb 剂/classifier ，/punctuation-mark 以/preposition 防止/verb 便秘/verb 时/noun 排/verb 便/adverb 用/preposition 力/noun 导致/verb 心脏/noun 破裂/verb 或/conjunction 引起/verb 心律/noun 失常/adjective 、/punctuation-mark 心力衰竭/noun 。/punctuation-mark
@@ -436,7 +436,7 @@ AMI患者来院后应立即开始一般治疗，并与其诊断同时进行，�
 命名实体:
 ==================================================
 症状/noun 出现/verb 后/noun-of-locality 越/adverb 早/adjective 进行/verb 溶/verb 栓/noun 治疗/verb ，/punctuation-mark 降低/verb 病/noun 死/verb 率/verb 效果/noun 越/adverb 明显/adjective ，/punctuation-mark 但/conjunction 对/preposition 6/numeral ~/punctuation-mark 12h/noun 仍/adverb 有/verb 胸/noun 痛/adjective 及/conjunction ST/noun 段/noun 抬高/verb 的/particle 患者/noun 进行/verb 溶/verb 栓/noun 治疗/verb 仍/adverb 可/verb 获益/verb 。/punctuation-mark
-症状出现后越早进行溶栓治疗，降低病死率效果越明显，但对6~12h仍有[[<SYM><DIS>0]]及ST[[<SYM>1]]的患者进行溶栓治疗仍可获益。
+症状出现后越早进行溶栓治疗，降低病死率效果越明显，但对6~12h仍有[[<SYM>0]]及ST[[<SYM>1]]的患者进行溶栓治疗仍可获益。
 命名实体: 胸痛 段抬高
 ==================================================
 溶/verb 栓/noun 治疗/verb 受益/verb 的/particle 机制/noun 包括/verb 挽救/verb 心肌/noun 和/conjunction 对/preposition 梗/noun 死/verb 后/noun-of-locality 心肌/noun 重塑/verb 的/particle 有利/adjective 作用/noun 。/punctuation-mark
@@ -472,7 +472,7 @@ AMI患者来院后应立即开始一般治疗，并与其诊断同时进行，�
 命名实体: 段抬高 缺血性胸痛
 ==================================================
 ④/numeral 高危/distinguishing-word 心肌/noun 梗/noun 死/verb ，/punctuation-mark 就诊/verb 时/noun 收缩/verb 压/verb >/punctuation-mark 180mm/noun Hg/noun 和/conjunction (/punctuation-mark 或/adverb )/punctuation-mark 舒张/verb 压/verb >/punctuation-mark 110mm/noun Hg/noun ，/punctuation-mark 这/pronoun 类/classifier 患者/noun 颅/noun 内出血/verb 的/particle 危险性/noun 较/adverb 大/adjective ，/punctuation-mark 应/verb 认真/adjective 权衡/verb 溶/verb 栓/noun 治疗/verb 的/particle 益处/noun 与/conjunction 出/verb 血性/noun 卒/noun 中/noun-of-locality 的/particle 危险性/noun 。/punctuation-mark
-④高危[[<SYM><DIS>0]]，就诊时收缩压>180mm Hg和(或)舒张压>110mm Hg，这类患者[[<SYM>1]]的危险性较大，应认真权衡溶栓治疗的益处与[[<SYM><DIS>2]]性卒中的危险性。
+④高危[[<SYM><DIS>0]]，就诊时收缩压>180mm Hg和(或)舒张压>110mm Hg，这类患者[[<SYM>1]]的危险性较大，应认真权衡溶栓治疗的益处与[[<SYM>2]]性卒中的危险性。
 命名实体: 心肌梗死 颅内出血 出血
 ==================================================
 对/preposition 这些/pronoun 患者/noun 首先/adverb 应/verb 镇痛/verb 、/punctuation-mark 降低/verb 血压/noun (/punctuation-mark 如/verb 应用/verb 硝酸甘油/noun 静脉/noun 滴/verb 注/noun 、/punctuation-mark β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 等/particle )/punctuation-mark ，/punctuation-mark 将/preposition 血压/noun 降/verb 至/preposition 150/numeral //punctuation-mark 90mm/noun Hg/noun 时/noun 再行/adverb 溶/verb 栓/noun 治疗/verb ，/punctuation-mark 但/conjunction 是否/verb 能/verb 降低/verb 颅/noun 内出血/verb 的/particle 危险性/noun 尚未/adverb 得到/verb 证实/verb 。/punctuation-mark
@@ -492,7 +492,7 @@ AMI患者来院后应立即开始一般治疗，并与其诊断同时进行，�
 命名实体:
 ==================================================
 ①/numeral 既/conjunction 往/preposition 任何/pronoun 时间/noun 发生/verb 过/verb 出/verb 血性/noun 脑/noun 卒/noun 中/noun-of-locality ，/punctuation-mark 1/numeral 年/classifier 内/noun-of-locality 发生/verb 过/particle 缺/verb 血性/noun 脑/noun 卒/noun 中/noun-of-locality 或/conjunction 脑血管/noun 事件/noun ;/punctuation-mark
-①既往任何时间发生过[[<SYM><DIS>0]]性[[<DIS>1]]，1年内发生过缺血性[[<DIS>1]]或脑血管事件;
+①既往任何时间发生过[[<SYM>0]]性[[<DIS>1]]，1年内发生过缺血性[[<DIS>1]]或脑血管事件;
 命名实体: 出血 脑卒中
 ==================================================
 ②/numeral 颅/noun 内/noun-of-locality 肿瘤/noun ;/punctuation-mark
@@ -544,12 +544,12 @@ AMI患者来院后应立即开始一般治疗，并与其诊断同时进行，�
 命名实体:
 ==================================================
 ①/numeral 尿/noun 激酶/noun ：/punctuation-mark 为/preposition 我国/noun 应用/verb 最/adverb 广/adjective 的/particle 溶/verb 栓剂/noun ，/punctuation-mark 根据/preposition 我国/noun 的/particle 几/numeral 项/classifier 大/adjective 规模/noun 临床/verb 试验/verb 结果/noun ，/punctuation-mark 目前/time-word 建议/noun 剂量/noun 为/verb 150万U/noun 左右/numeral 于/preposition 30min/noun 内/noun-of-locality 静脉/noun 滴/verb 注/noun ，/punctuation-mark 配合/verb 肝素/noun 皮/noun 下/noun-of-locality 注射/verb 7500/numeral ~/punctuation-mark 10000U/noun ，/punctuation-mark 每/pronoun 12h/noun 一/numeral 次/classifier ，/punctuation-mark 或/conjunction 低/adjective 分子量/noun 肝素/noun 皮/noun 下/noun-of-locality 注射/verb ，/punctuation-mark 每日/pronoun 2/numeral 次/classifier 。/punctuation-mark
-①[[<MED>0]]：为我国应用最广的溶栓剂，根据我国的几项大规模临床试验结果，目前建议剂量为150万U左右于30min内静脉滴注，配合[[<MED>1]]皮下注射7500~10000U，每12h一次，或低分子量[[<MED>1]]皮下注射，每日2次。
-命名实体: 尿激酶 肝素
+①[[<MED>0]]：为我国应用最广的溶栓剂，根据我国的几项大规模临床试验结果，目前建议剂量为150万U左右于30min内静脉滴注，配合[[<MED>1]]皮下注射7500~10000U，每12h一次，或[[<MED>2]]皮下注射，每日2次。
+命名实体: 尿激酶 肝素 低分子量肝素
 ==================================================
 ②/numeral 链/noun 激酶/noun 或/conjunction 重组/verb 链/noun 激酶/noun ：/punctuation-mark 根据/preposition 国际/noun 上/noun-of-locality 进行/verb 的/particle 几/numeral 组/classifier 大规模/distinguishing-word 临床/verb 试验/verb 及/conjunction 国内/locative-word 的/particle 研究/verb ，/punctuation-mark 建议/verb 150万U/noun 于/preposition 1h/noun 内/noun-of-locality 静脉/noun 滴/verb 注/noun ，/punctuation-mark 配合/verb 肝素/noun 皮/noun 下/noun-of-locality 注射/verb 7500/numeral ~/punctuation-mark 10000U/noun ，/punctuation-mark 每/pronoun 12h/noun 一/numeral 次/classifier ，/punctuation-mark 或/conjunction 低/adjective 分子量/noun 肝素/noun 皮/noun 下/noun-of-locality 注射/verb ，/punctuation-mark 每日/pronoun 2/numeral 次/classifier 。/punctuation-mark
-②[[<MED>0]]或重组[[<MED>0]]：根据国际上进行的几组大规模临床试验及国内的研究，建议150万U于1h内静脉滴注，配合[[<MED>1]]皮下注射7500~10000U，每12h一次，或低分子量[[<MED>1]]皮下注射，每日2次。
-命名实体: 链激酶 肝素
+②[[<MED>0]]或重组[[<MED>0]]：根据国际上进行的几组大规模临床试验及国内的研究，建议150万U于1h内静脉滴注，配合[[<MED>1]]皮下注射7500~10000U，每12h一次，或[[<MED>2]]皮下注射，每日2次。
+命名实体: 链激酶 肝素 低分子量肝素
 ==================================================
 ③/numeral 重组/verb 组织/noun 型/suffix 纤/noun 溶/verb 酶/noun 原/distinguishing-word 激活剂/noun (/punctuation-mark rt/noun -/punctuation-mark PA/noun )/punctuation-mark ：/punctuation-mark 国外/locative-word 较为/adverb 普遍/adjective 的/particle 用/preposition 法/noun 为/verb 加速/verb 给/verb 药/noun 方案/noun (/punctuation-mark 即/verb GUSTO/noun 方案/noun )/punctuation-mark ，/punctuation-mark 首先/conjunction 静脉/noun 注射/verb 15mg/noun ，/punctuation-mark 继之/verb 在/preposition 30min/noun 内/noun-of-locality 静脉/noun 滴/verb 注/verb 0.75mg/kg/string (/punctuation-mark 不/adverb 超过/verb 50mg/noun )/punctuation-mark ，/punctuation-mark 再/adverb 在/preposition 60min/noun 内/noun-of-locality 静脉/noun 滴/verb 注/verb 0.5mg/kg/string (/punctuation-mark 不/adverb 超过/verb 35mg/noun )/punctuation-mark 。/punctuation-mark
 ③重组组织型纤溶酶原激活剂(rt-PA)：国外较为普遍的用法为加速给药方案(即GUSTO方案)，首先静脉注射15mg，继之在30min内静脉滴注0.75mg/kg(不超过50mg)，再在60min内静脉滴注0.5mg/kg(不超过35mg)。
@@ -560,7 +560,7 @@ AMI患者来院后应立即开始一般治疗，并与其诊断同时进行，�
 命名实体: 肝素
 ==================================================
 鉴于/preposition 东西方/noun 人群/noun 凝/verb 血/noun 活性/distinguishing-word 可能/noun 存在/verb 差异/noun 以及/conjunction 我国/noun 脑/noun 出血/verb 发生率/noun 高于/verb 西方/locative-word 人群/noun ，/punctuation-mark 我国/noun 进行/verb 的/particle TUCC/noun (/punctuation-mark rt/noun -/punctuation-mark PAand/noun urokinase/noun comparison/noun in/preposition China/noun ，/punctuation-mark 中国/noun rt/noun -/punctuation-mark PA/noun 与/conjunction 尿/noun 激酶/noun 对比/verb 研究/verb )/punctuation-mark 临床/verb 试验/verb ，/punctuation-mark 应/verb 用/verb 50mg/noun rt/noun -/punctuation-mark PA/noun (/punctuation-mark 8mg/noun 静脉/noun 注射/verb ，/punctuation-mark 42mg/noun 在/preposition 90min/noun 内/noun-of-locality 静脉/noun 滴/verb 注/noun ，/punctuation-mark 配合/verb 肝素/noun 静脉/noun 应用/verb ，/punctuation-mark 方法/noun 同/preposition 上/noun-of-locality )/punctuation-mark ，/punctuation-mark 也/adverb 取得/verb 较/adverb 好/adjective 疗效/noun ，/punctuation-mark 其/pronoun 90min/noun 冠状动脉/noun 造影/verb 通畅/adjective 率/verb 明显/adjective 高于/verb 尿/noun 激酶/noun (/punctuation-mark 79.3%vs/noun 53.0%/numeral ，/punctuation-mark P=0.001/noun )/punctuation-mark ，/punctuation-mark 出/verb 血/noun 需要/verb 输血/verb 及/conjunction 脑/noun 出血/verb 发生率/noun 与/conjunction 尿/noun 激酶/noun 差异/noun 无/verb 显著/adjective 。/punctuation-mark
-鉴于东西方人群凝血活性可能存在差异以及我国[[<DIS>0]]发生率高于西方人群，我国进行的TUCC(rt-PAand urokinase comparison in China，中国rt-PA与[[<MED>1]]对比研究)临床试验，应用50mg rt-PA(8mg静脉注射，42mg在90min内静脉滴注，配合[[<MED>2]]静脉应用，方法同上)，也取得较好疗效，其90min[[<TRE>3]]通畅率明显高于[[<MED>1]](79.3%vs 53.0%，P=0.001)，[[<SYM><DIS>4]]需要[[<TRE>5]]及[[<DIS>0]]发生率与[[<MED>1]]差异无显著。
+鉴于东西方人群凝血活性可能存在差异以及我国[[<DIS>0]]发生率高于西方人群，我国进行的TUCC(rt-PAand urokinase comparison in China，中国rt-PA与[[<MED>1]]对比研究)临床试验，应用50mg rt-PA(8mg静脉注射，42mg在90min内静脉滴注，配合[[<MED>2]]静脉应用，方法同上)，也取得较好疗效，其90min[[<TRE>3]]通畅率明显高于[[<MED>1]](79.3%vs 53.0%，P=0.001)，[[<SYM>4]]需要[[<TRE>5]]及[[<DIS>0]]发生率与[[<MED>1]]差异无显著。
 命名实体: 脑出血 尿激酶 肝素 冠状动脉造影 出血 输血
 ==================================================
 2./numeral 介入/verb 治疗/verb ：/punctuation-mark
@@ -568,11 +568,11 @@ AMI患者来院后应立即开始一般治疗，并与其诊断同时进行，�
 命名实体:
 ==================================================
 (/punctuation-mark 1/numeral )/punctuation-mark 直接/adjective PTCA/noun ：/punctuation-mark 直接/adjective PTCA/noun 与/conjunction 溶/verb 栓/noun 治疗/verb 比较/verb ，/punctuation-mark 梗/verb 死/verb 相关/verb 血管/noun (/punctuation-mark IRA/noun )/punctuation-mark 再/adverb 通/verb 率/verb 高/adjective ，/punctuation-mark 达到/verb 心肌/noun 梗/noun 死/verb 溶/verb 栓/noun 试验/verb (/punctuation-mark TIMI/noun )/punctuation-mark 3/numeral 级/classifier 血流/noun 者/suffix 明显/adjective 多/adjective ，/punctuation-mark 再/adverb 闭塞/verb 率/verb 低/adjective ，/punctuation-mark 缺血/verb 复发/verb 少/adjective ，/punctuation-mark 且/conjunction 出血/verb (/punctuation-mark 尤其/adverb 脑/noun 出血/verb )/punctuation-mark 的/particle 危险性/noun 低/adjective 。/punctuation-mark
-(1)直接PTCA：直接PTCA与溶栓治疗比较，梗死相关血管(IRA)再通率高，达到[[<SYM><DIS>0]]溶栓试验(TIMI)3级血流者明显多，再闭塞率低，缺血复发少，且[[<SYM><DIS>1]](尤其[[<DIS>2]])的危险性低。
+(1)直接PTCA：直接PTCA与溶栓治疗比较，梗死相关血管(IRA)再通率高，达到[[<SYM><DIS>0]]溶栓试验(TIMI)3级血流者明显多，再闭塞率低，缺血复发少，且[[<SYM>1]](尤其[[<DIS>2]])的危险性低。
 命名实体: 心肌梗死 出血 脑出血
 ==================================================
 根据/preposition Weaver/noun 等/particle 对/preposition 10/numeral 个/classifier 直接/adjective PTCA/noun 与/conjunction 溶/verb 栓/noun 治疗/verb 的/particle 随机/distinguishing-word 对照/verb 试验/verb (/punctuation-mark 共/adverb 2606/numeral 例/classifier AMI/noun 患者/noun )/punctuation-mark 的/particle 汇总/verb 分析/verb ，/punctuation-mark 其/pronoun 30d/noun 病/noun 死/verb 率/suffix 在/preposition 直接/adjective PTCA/noun 组/noun 显著/adjective 低于/verb 溶/verb 栓/noun 治疗/verb 组/noun (/punctuation-mark 4.4%vs11.9%/noun ，/punctuation-mark P/noun </punctuation-mark 0.01/numeral )/punctuation-mark ，/punctuation-mark 直接/adjective PTCA/noun 明显/adjective 减少/verb 脑/noun 卒/verb 中/distinguishing-word 总/distinguishing-word 发生率/noun (/punctuation-mark 0.7%vs/noun 2.0%/numeral ，/punctuation-mark P=0.007/noun )/punctuation-mark 及/conjunction 出/verb 血性/noun 脑/noun 卒/noun 中/noun-of-locality 发生率/noun (/punctuation-mark 0.1%vs/noun 1.1%/numeral ，/punctuation-mark P/noun </punctuation-mark 0.001/numeral )/punctuation-mark 。/punctuation-mark
-根据Weaver等对10个直接PTCA与溶栓治疗的随机对照试验(共2606例AMI患者)的汇总分析，其30d病死率在直接PTCA组显著低于溶栓治疗组(4.4%vs11.9%，P<0.01)，直接PTCA明显减少[[<DIS>0]]总发生率(0.7%vs 2.0%，P=0.007)及[[<SYM><DIS>1]]性[[<DIS>0]]发生率(0.1%vs 1.1%，P<0.001)。
+根据Weaver等对10个直接PTCA与溶栓治疗的随机对照试验(共2606例AMI患者)的汇总分析，其30d病死率在直接PTCA组显著低于溶栓治疗组(4.4%vs11.9%，P<0.01)，直接PTCA明显减少[[<DIS>0]]总发生率(0.7%vs 2.0%，P=0.007)及[[<SYM>1]]性[[<DIS>0]]发生率(0.1%vs 1.1%，P<0.001)。
 命名实体: 脑卒中 出血
 ==================================================
 该/pronoun 汇总/verb 分析/verb 资料/noun 表明/verb ，/punctuation-mark 如果/conjunction PTCA/noun 的/particle 成功率/noun 达/verb 到/verb 临床/verb 试验/verb 的/particle 高/adjective 水平/noun ，/punctuation-mark 直接/adjective PTCA/noun 对/preposition AMI/noun 的/particle 疗效/noun 优于/verb 溶/verb 栓/noun 治疗/verb 。/punctuation-mark
@@ -644,15 +644,15 @@ c.直接PTCA必须避免时间延误，必须由有经验的术者进行，否�
 命名实体:
 ==================================================
 其/pronoun 目的/noun 在于/verb 尽早/adverb 开通/verb 梗/noun 死/verb 相关/verb 动脉/noun ，/punctuation-mark 挽救/verb 缺血/verb 但/conjunction 仍/adverb 存/verb 活/adjective 的/particle 心肌/noun ，/punctuation-mark 从而/conjunction 改善/verb 生存率/noun 和/conjunction 心功能/noun 。/punctuation-mark
-其目的在于尽早开通梗死相关动脉，挽救缺血但仍存活的心肌，从而改善生存率和[[<DIS>0]]。
-命名实体: 心功能
+其目的在于尽早开通梗死相关动脉，挽救缺血但仍存活的心肌，从而改善生存率和心功能。
+命名实体:
 ==================================================
 RESCUE/noun (/punctuation-mark 补救/verb 性/noun PTCA/noun )/punctuation-mark 临床/verb 试验/verb 对/preposition 151/numeral 例/classifier 溶/verb 栓/noun 治疗/verb 失败/verb (/punctuation-mark TIMI/noun 血流/noun 0/numeral ~/punctuation-mark 1/numeral 级/classifier )/punctuation-mark 的/particle 前/noun-of-locality 壁/noun 梗/noun 死/verb 患者/noun 随机/adverb 分为/verb 补救/verb 性/noun PTCA/noun 组/noun 和/conjunction 内科/noun 保守/verb 治疗/verb 组/noun ，/punctuation-mark 结果/adverb 表明/verb PTCA/noun 组/noun 30d/noun 左/adjective 室/noun 射/verb 血/noun 分数/noun (/punctuation-mark EF/noun )/punctuation-mark 明显/adjective 高于/verb 内科/noun 保守/verb 治疗/verb 组/noun (/punctuation-mark 45%vs40%/noun ，/punctuation-mark P=0.04/noun )/punctuation-mark ;/punctuation-mark 死亡/verb 及/conjunction 心功能/noun III/noun ~/punctuation-mark IV/noun 级/noun 者/suffix 明显/adjective 低于/verb 内科/noun 治疗/verb 组/noun (/punctuation-mark 6.4%vs/noun 16.6%/numeral ，/punctuation-mark P=0.05/noun )/punctuation-mark 。/punctuation-mark
-RESCUE(补救性PTCA)临床试验对151例溶栓治疗失败(TIMI血流0~1级)的前壁梗死患者随机分为补救性PTCA组和内科保守治疗组，结果表明PTCA组30d左室射血分数(EF)明显高于内科保守治疗组(45%vs40%，P=0.04);死亡及[[<DIS>0]]III~IV级者明显低于内科治疗组(6.4%vs 16.6%，P=0.05)。
-命名实体: 心功能
+RESCUE(补救性PTCA)临床试验对151例溶栓治疗失败(TIMI血流0~1级)的前壁梗死患者随机分为补救性PTCA组和内科保守治疗组，结果表明PTCA组30d左室射血分数(EF)明显高于内科保守治疗组(45%vs40%，P=0.04);死亡及心功能III~IV级者明显低于内科治疗组(6.4%vs 16.6%，P=0.05)。
+命名实体:
 ==================================================
 建议/noun 对/preposition 溶/verb 栓/noun 治疗/verb 后/noun-of-locality 仍/adverb 有/verb 明显/adjective 胸/noun 痛/adjective ，/punctuation-mark ST/noun 段/noun 抬高/verb 无/verb 显著/adjective 回落/verb ，/punctuation-mark 临床/verb 提示/verb 未/adverb 再/adverb 通/verb 者/suffix ，/punctuation-mark 应/verb 尽快/adverb 进行/verb 急诊/noun 冠状动脉/noun 造影/verb ，/punctuation-mark 若/conjunction TIMI/noun 血流/noun 0/numeral ~/punctuation-mark 2/numeral 级/classifier 应/verb 立即/adverb 行/adjective 补救/verb 性/noun PTCA/noun ，/punctuation-mark 使/verb 梗/noun 死/verb 相关/verb 动脉/noun 再/adverb 通/verb 。/punctuation-mark
-建议对溶栓治疗后仍有明显[[<SYM><DIS>0]]，ST[[<SYM>1]]无显著回落，临床提示未再通者，应尽快进行急诊[[<TRE>2]]，若TIMI血流0~2级应立即行补救性PTCA，使梗死相关动脉再通。
+建议对溶栓治疗后仍有明显[[<SYM>0]]，ST[[<SYM>1]]无显著回落，临床提示未再通者，应尽快进行急诊[[<TRE>2]]，若TIMI血流0~2级应立即行补救性PTCA，使梗死相关动脉再通。
 命名实体: 胸痛 段抬高 冠状动脉造影
 ==================================================
 尤其/adverb 对/preposition 发病/verb 12h/noun 内/noun-of-locality 、/punctuation-mark 广泛/adjective 前/noun-of-locality 壁/noun 心肌/noun 梗/noun 死/verb 、/punctuation-mark 再次/adverb 梗/verb 死/verb 及/conjunction 血流/noun 动力学/noun 不/adverb 稳定/adjective 的/particle 高危/distinguishing-word 患者/noun 意义/noun 更/adverb 大/adjective 。/punctuation-mark
@@ -660,8 +660,8 @@ RESCUE(补救性PTCA)临床试验对151例溶栓治疗失败(TIMI血流0~1级)�
 命名实体: 心肌梗死
 ==================================================
 (/punctuation-mark 3/numeral )/punctuation-mark 溶/verb 栓/noun 治疗/verb 再/adverb 通/verb 者/suffix PTCA/noun 的/particle 选择/verb ：/punctuation-mark 对/preposition 溶/verb 栓/noun 治疗/verb 成功/adjective 的/particle 患者/noun 不/adverb 主张/verb 立即/adverb 行/verb PTCA/noun ，/punctuation-mark TIMI/noun IIA/noun (/punctuation-mark Thrombolysis/noun in/preposition myocardial/adjective infarction/noun IIA/noun ，/punctuation-mark 心肌/noun 梗/noun 死/verb 溶/verb 栓/noun 试验/verb —/punctuation-mark IIA/noun )/punctuation-mark 研究/verb 表明/verb 溶/verb 栓/noun 后/noun-of-locality 即刻/adverb (/punctuation-mark 2h/noun 内/noun-of-locality )/punctuation-mark 与/conjunction 延迟/verb (/punctuation-mark 18/numeral ~/punctuation-mark 48h/noun )/punctuation-mark PTCA/noun 相比/verb ，/punctuation-mark 重要/adjective 心脏/noun 事件/noun (/punctuation-mark 死亡/verb 、/punctuation-mark 再/adverb 梗/verb 死/verb 、/punctuation-mark 急诊/noun CABG/noun 和/conjunction 输血/verb )/punctuation-mark 的/particle 发生率/noun 增加/verb ，/punctuation-mark 而/conjunction 两/numeral 组/classifier 左/adjective 心功能/noun 相似/adjective 。/punctuation-mark
-(3)溶栓治疗再通者PTCA的选择：对溶栓治疗成功的患者不主张立即行PTCA，TIMI IIA(Thrombolysis in myocardial infarction IIA，[[<SYM><DIS>0]]溶栓试验—IIA)研究表明溶栓后即刻(2h内)与延迟(18~48h)PTCA相比，重要心脏事件(死亡、再梗死、急诊CABG和[[<TRE>1]])的发生率增加，而两组左[[<DIS>2]]相似。
-命名实体: 心肌梗死 输血 心功能
+(3)溶栓治疗再通者PTCA的选择：对溶栓治疗成功的患者不主张立即行PTCA，TIMI IIA(Thrombolysis in myocardial infarction IIA，[[<SYM><DIS>0]]溶栓试验—IIA)研究表明溶栓后即刻(2h内)与延迟(18~48h)PTCA相比，重要心脏事件(死亡、再梗死、急诊CABG和[[<TRE>1]])的发生率增加，而两组左心功能相似。
+命名实体: 心肌梗死 输血
 ==================================================
 TAMI/noun (/punctuation-mark Thrombolysis/noun and/conjunction angioplasty/noun in/preposition myocardialinfarction/noun ，/punctuation-mark 心肌/noun 梗/noun 死/verb 溶/verb 栓/noun 和/conjunction 血管/noun 成/verb 形/noun 术/noun )/punctuation-mark 研究/verb 结果/noun 也/adverb 表明/verb 溶/verb 栓/noun 后/noun-of-locality 即刻/adverb (/punctuation-mark 90min/noun )/punctuation-mark 与/preposition 7/numeral ~/punctuation-mark 10d/noun 进行/verb PTCA/noun 比较/verb ，/punctuation-mark 1/numeral 周/classifier 时/noun 两/numeral 组/classifier 左/adjective 室/noun EF/noun 相似/adjective ，/punctuation-mark 再/adverb 闭塞/adjective 率/suffix 也/adverb 相同/adjective ，/punctuation-mark 但/conjunction 18%/numeral 患者/noun 由于/conjunction 导管/noun 检查/verb 而/conjunction 需要/verb 输血/verb 。/punctuation-mark
 TAMI(Thrombolysis and angioplasty in myocardialinfarction，[[<SYM><DIS>0]]溶栓和[[<TRE>1]])研究结果也表明溶栓后即刻(90min)与7~10d进行PTCA比较，1周时两组左室EF相似，再闭塞率也相同，但18%患者由于导管检查而需要[[<TRE>2]]。
@@ -752,8 +752,8 @@ TAMI(Thrombolysis and angioplasty in myocardialinfarction，[[<SYM><DIS>0]]溶�
 命名实体: 血栓形成 血小板
 ==================================================
 阿司匹林/noun 和/preposition 噻/punctuation-mark 氯/noun 匹/classifier 定/verb 或/conjunction 氯/noun 吡/punctuation-mark 格雷/noun (/punctuation-mark clopidogrel/noun )/punctuation-mark 是/verb 目前/time-word 临床/verb 上/noun-of-locality 常/adverb 用/verb 的/particle 抗/verb 血小板/noun 药物/noun 。/punctuation-mark
-[[<MED>0]]和噻氯匹定或[[<MED>1]](clopidogrel)是目前临床上常用的[[<MED>2]]物。
-命名实体: 阿司匹林 氯吡格雷 抗血小板药
+[[<MED>0]]和[[<MED>1]]或[[<MED>2]](clopidogrel)是目前临床上常用的[[<MED>3]]物。
+命名实体: 阿司匹林 噻氯匹定 氯吡格雷 抗血小板药
 ==================================================
 (/punctuation-mark 1/numeral )/punctuation-mark 阿司匹林/noun ：/punctuation-mark 阿司匹林/noun 通过/preposition 抑制/verb 血小板/noun 内/noun-of-locality 的/particle 环/noun 氧化酶/noun 使/verb 凝/verb 血/noun 烷/noun A2/noun (/punctuation-mark 血栓/noun 素/noun A2/noun ，/punctuation-mark TXA2/noun )/punctuation-mark 合成/verb 减少/verb ，/punctuation-mark 达到/verb 抑制/verb 血小板/noun 聚集/verb 的/particle 作用/noun 。/punctuation-mark
 (1)[[<MED>0]]：[[<MED>0]]通过抑制[[<MED>1]]内的环氧化酶使凝血烷A2(血栓素A2，TXA2)合成减少，达到抑制[[<MED>1]]聚集的作用。
@@ -780,8 +780,8 @@ AMI急性期，[[<MED>0]]使用剂量应在150~300mg/d之间，首次服用时�
 命名实体:
 ==================================================
 (/punctuation-mark 2/numeral )/punctuation-mark 噻/punctuation-mark 氯/noun 匹/classifier 定/verb 和/conjunction 氯/noun 吡/punctuation-mark 格雷/noun (/punctuation-mark clopidogrel/noun )/punctuation-mark ：/punctuation-mark 噻/punctuation-mark 氯/noun 匹/classifier 定/verb 作用/noun 机制/noun 不同/adjective 于/preposition 阿司匹林/noun ，/punctuation-mark 主要/adverb 抑制/verb ADP/noun 诱导/verb 的/particle 血小板/noun 聚集/verb 。/punctuation-mark
-(2)噻氯匹定和[[<MED>0]](clopidogrel)：噻氯匹定作用机制不同于[[<MED>1]]，主要抑制ADP诱导的[[<MED>2]]聚集。
-命名实体: 氯吡格雷 阿司匹林 血小板
+(2)[[<MED>0]]和[[<MED>1]](clopidogrel)：[[<MED>0]]作用机制不同于[[<MED>2]]，主要抑制ADP诱导的[[<MED>3]]聚集。
+命名实体: 噻氯匹定 氯吡格雷 阿司匹林 血小板
 ==================================================
 口服/verb 后/noun-of-locality 24/numeral ~/punctuation-mark 48h/noun 起/classifier 作用/noun ，/punctuation-mark 3/numeral ~/punctuation-mark 5d/noun 达/verb 高峰/noun 。/punctuation-mark
 口服后24~48h起作用，3~5d达高峰。
@@ -800,8 +800,8 @@ AMI急性期，[[<MED>0]]使用剂量应在150~300mg/d之间，首次服用时�
 命名实体: 血小板减少
 ==================================================
 氯/noun 吡/punctuation-mark 格雷/noun 是/verb 新型/distinguishing-word ADP/noun 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier ，/punctuation-mark 其/pronoun 化学/noun 结构/noun 与/preposition 噻/punctuation-mark 氯/noun 匹/classifier 定/verb 十分/adverb 相似/adjective ，/punctuation-mark 与/preposition 后者/pronoun 不同/adjective 的/particle 是/verb 口服/verb 后起/distinguishing-word 效/noun 快/adjective ，/punctuation-mark 副/distinguishing-word 反应/verb 明显/adjective 低于/verb 噻/punctuation-mark 氯/noun 匹/classifier 定/verb ，/punctuation-mark 现/time-word 已/adverb 成为/verb 噻/punctuation-mark 氯/noun 匹/classifier 定/verb 替代/verb 药物/noun 。/punctuation-mark
-[[<MED>0]]是新型ADP受体拮抗剂，其化学结构与噻氯匹定十分相似，与后者不同的是口服后起效快，副反应明显低于噻氯匹定，现已成为噻氯匹定替代药物。
-命名实体: 氯吡格雷
+[[<MED>0]]是新型ADP受体拮抗剂，其化学结构与[[<MED>1]]十分相似，与后者不同的是口服后起效快，副反应明显低于[[<MED>1]]，现已成为[[<MED>1]]替代药物。
+命名实体: 氯吡格雷 噻氯匹定
 ==================================================
 初始/distinguishing-word 剂量/noun 300mg/noun ，/punctuation-mark 以后/noun-of-locality 剂量/noun 75mg/d/string 维持/verb 。/punctuation-mark
 初始剂量300mg，以后剂量75mg/d维持。
@@ -864,24 +864,24 @@ rt-PA为选择性溶栓剂，半衰期短，对全身纤维蛋白原影响较小
 命名实体: 肝素
 ==================================================
 (/punctuation-mark 2/numeral )/punctuation-mark 低/adjective 分子量/noun 肝素/noun ：/punctuation-mark 低/adjective 分子量/noun 肝素/noun 为/preposition 普通/adjective 肝素/noun 的/particle 一个/numeral 片段/noun ，/punctuation-mark 平均/adjective 分子量/noun 约/adverb 在/preposition 4000/numeral ~/punctuation-mark 6500/numeral 之间/noun-of-locality ，/punctuation-mark 其/pronoun 抗/verb 因子/noun Xa/noun 的/particle 作用/noun 是/verb 普通/adjective 肝素/noun 的/particle 2/numeral ~/punctuation-mark 4/numeral 倍/classifier ，/punctuation-mark 但/conjunction 抗/verb IIa/noun 的/particle 作用/noun 弱/adjective 于/preposition 后者/pronoun 。/punctuation-mark
-(2)低分子量[[<MED>0]]：低分子量[[<MED>0]]为普通[[<MED>0]]的一个片段，平均分子量约在4000~6500之间，其抗因子Xa的作用是普通[[<MED>0]]的2~4倍，但抗IIa的作用弱于后者。
-命名实体: 肝素
+(2)[[<MED>0]]：[[<MED>0]]为普通[[<MED>1]]的一个片段，平均分子量约在4000~6500之间，其抗因子Xa的作用是普通[[<MED>1]]的2~4倍，但抗IIa的作用弱于后者。
+命名实体: 低分子量肝素 肝素
 ==================================================
 由于/conjunction 倍增/verb 效应/noun ，/punctuation-mark 1/numeral 个/classifier 分子/noun 因子/noun Xa/noun 可以/verb 激活/verb 产生/verb 数十/numeral 个/classifier 分子/noun 的/particle 凝血酶/noun ，/punctuation-mark 故/conjunction 从/preposition 预防/verb 血栓/noun 形成/verb 的/particle 总/distinguishing-word 效应/noun 方面/noun 低/adjective 分子量/noun 肝素/noun 应/verb 优于/verb 普通/adjective 肝素/noun 。/punctuation-mark
-由于倍增效应，1个分子因子Xa可以激活产生数十个分子的[[<MED>0]]，故从预防[[<DIS>1]]的总效应方面低分子量[[<MED>2]]应优于普通[[<MED>2]]。
-命名实体: 凝血酶 血栓形成 肝素
+由于倍增效应，1个分子因子Xa可以激活产生数十个分子的[[<MED>0]]，故从预防[[<DIS>1]]的总效应方面[[<MED>2]]应优于普通[[<MED>3]]。
+命名实体: 凝血酶 血栓形成 低分子量肝素 肝素
 ==================================================
 国际/noun 多/adjective 中心/noun 随机/distinguishing-word 临床/verb 试验/verb 研究/verb ESSENCE/noun (/punctuation-mark Efficacy/noun andsafety/noun of/preposition subcutaneous/adjective enoxaparin/noun in/preposition non/particle Q/noun wave/noun coronaryevents/noun ，/punctuation-mark 非/distinguishing-word Q/noun 波/noun 冠状动脉/noun 事件/noun 皮/noun 下/noun-of-locality 注射/verb 依/verb 诺/noun 肝素/noun 的/particle 有效性/noun 及/conjunction 安全性/noun )/punctuation-mark 、/punctuation-mark TIMI/noun 11B/noun 和/conjunction FRAXIS/noun (/punctuation-mark Fraxiparin/noun inischemic/noun syndrome/noun ，/punctuation-mark 那曲/noun 肝素/noun 在/preposition 缺血/verb 综合征/noun 应用/verb )/punctuation-mark 研究/verb 已/adverb 证明/verb 低/adjective 分子量/noun 肝素/noun 在/preposition 降低/verb 不/adverb 稳定性/noun 心绞痛/noun 患者/noun 的/particle 心脏/noun 事件/noun 方面/noun 优于/verb 或者/conjunction 等于/verb 静脉/noun 滴/verb 注/verb 普通/adjective 肝素/noun 。/punctuation-mark
-国际多中心随机临床试验研究ESSENCE(Efficacy andsafety of subcutaneous enoxaparin in non Q wave coronaryevents，非Q波[[<SYM>0]]动脉事件皮下注射[[<MED>1]]的有效性及安全性)、TIMI 11B和FRAXIS(Fraxiparin inischemic syndrome，那曲[[<MED>2]]在缺血[[<SYM><DIS>3]]应用)研究已证明低分子量[[<MED>2]]在降低[[<SYM><DIS>4]]患者的心脏事件方面优于或者等于静脉滴注普通[[<MED>2]]。
-命名实体: 冠状 依诺肝素 肝素 综合征 不稳定性心绞痛
+国际多中心随机临床试验研究ESSENCE(Efficacy andsafety of subcutaneous enoxaparin in non Q wave coronaryevents，非Q波[[<SYM>0]]动脉事件皮下注射[[<MED>1]]的有效性及安全性)、TIMI 11B和FRAXIS(Fraxiparin inischemic syndrome，那曲[[<MED>2]]在缺血[[<SYM>3]]应用)研究已证明[[<MED>4]]在降低[[<SYM><DIS>5]]患者的心脏事件方面优于或者等于静脉滴注普通[[<MED>2]]。
+命名实体: 冠状 依诺肝素 肝素 综合征 低分子量肝素 不稳定性心绞痛
 ==================================================
 鉴于/preposition 前者/pronoun 较/adverb 后者/pronoun 有/verb 应用/verb 方便/adjective 、/punctuation-mark 不/adverb 需/verb 监测/verb 凝/verb 血/noun 时间/noun 、/punctuation-mark 出血/verb 并发症/noun 低/adjective 等/particle 优点/noun ，/punctuation-mark 建议/verb 可用/verb 低/adjective 分子量/noun 肝素/noun 代替/verb 普通/adjective 肝素/noun 。/punctuation-mark
-鉴于前者较后者有应用方便、不需监测凝血时间、[[<SYM><DIS>0]]并发症低等优点，建议可用低分子量[[<MED>1]]代替普通[[<MED>1]]。
-命名实体: 出血 肝素
+鉴于前者较后者有应用方便、不需监测凝血时间、[[<SYM>0]]并发症低等优点，建议可用[[<MED>1]]代替普通[[<MED>2]]。
+命名实体: 出血 低分子量肝素 肝素
 ==================================================
 低/adjective 分子量/noun 肝素/noun 由于/conjunction 制作/verb 工艺/noun 不同/adjective ，/punctuation-mark 其/pronoun 抗凝/noun 疗效/noun 亦/adverb 有/verb 差异/noun ，/punctuation-mark 因/preposition 此/pronoun 应/verb 强调/verb 个体化/verb ，/punctuation-mark 不/adverb 是/verb 泛指/verb 所有/distinguishing-word 品种/noun 的/particle 低/adjective 分子量/noun 肝素/noun 都/adverb 能/verb 成为/verb 替代/verb 静脉/noun 滴/verb 注/verb 普通/adjective 肝素/noun 的/particle 药物/noun 。/punctuation-mark
-低分子量[[<MED>0]]由于制作工艺不同，其抗凝疗效亦有差异，因此应强调个体化，不是泛指所有品种的低分子量[[<MED>0]]都能成为替代静脉滴注普通[[<MED>0]]的药物。
-命名实体: 肝素
+[[<MED>0]]由于制作工艺不同，其抗凝疗效亦有差异，因此应强调个体化，不是泛指所有品种的[[<MED>0]]都能成为替代静脉滴注普通[[<MED>1]]的药物。
+命名实体: 低分子量肝素 肝素
 ==================================================
 4./numeral β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier ：/punctuation-mark β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 通过/preposition 减慢/verb 心/noun 率/suffix ，/punctuation-mark 降低/verb 体循环/noun 血压/noun 和/conjunction 减弱/verb 心肌/noun 收缩/verb 力/noun 来/verb 减少/verb 心肌/noun 耗/verb 氧/noun 量/noun ，/punctuation-mark 对/preposition 改善/verb 缺血/verb 区/noun 的/particle 氧/noun 供需/noun 失衡/verb ，/punctuation-mark 缩小/verb 心肌/noun 梗/noun 死/verb 面积/noun ，/punctuation-mark 降低/verb 急性/distinguishing-word 期/classifier 病/noun 死/verb 率/verb 有/verb 肯定/adjective 的/particle 疗效/noun 。/punctuation-mark
 4.β受体阻滞剂：β受体阻滞剂通过减慢心率，降低体循环血压和减弱心肌收缩力来减少心肌耗氧量，对改善缺血区的氧供需失衡，缩小[[<SYM><DIS>0]]面积，降低急性期病死率有肯定的疗效。
@@ -900,7 +900,7 @@ rt-PA为选择性溶栓剂，半衰期短，对全身纤维蛋白原影响较小
 命名实体:
 ==================================================
 在/preposition 较/adverb 急/adjective 的/particle 情况/noun 下/noun-of-locality ，/punctuation-mark 如/verb 前/noun-of-locality 壁/noun AMI/noun 伴/verb 剧烈/adjective 胸/noun 痛/adjective 或/conjunction 高血压/noun 者/suffix ，/punctuation-mark β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 亦可/verb 静脉/noun 使用/verb ，/punctuation-mark 美托洛尔/noun 静脉/noun 注射/verb 剂量/noun 为/verb 5mg//string 次/classifier ，/punctuation-mark 间隔/noun 5min/noun 后/noun-of-locality 可/verb 再/adverb 给予/verb 1/numeral ~/punctuation-mark 2/numeral 次/classifier ，/punctuation-mark 继/verb 口服/verb 剂量/noun 维持/verb 。/punctuation-mark
-在较急的情况下，如前壁AMI伴剧烈[[<SYM><DIS>0]]或[[<DIS>1]]者，β受体阻滞剂亦可静脉使用，[[<MED>2]]静脉注射剂量为5mg/次，间隔5min后可再给予1~2次，继口服剂量维持。
+在较急的情况下，如前壁AMI伴剧烈[[<SYM>0]]或[[<DIS>1]]者，β受体阻滞剂亦可静脉使用，[[<MED>2]]静脉注射剂量为5mg/次，间隔5min后可再给予1~2次，继口服剂量维持。
 命名实体: 胸痛 高血压 美托洛尔
 ==================================================
 有关/verb 国人/noun 静脉/noun 注射/verb β/punctuation-mark -/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 治疗/verb AMI/noun 疗效/noun 及/conjunction 安全性/noun 的/particle 大规模/distinguishing-word 临床/verb 试验/verb 正在/adverb 进行/verb 中/noun-of-locality 。/punctuation-mark
@@ -1024,16 +1024,16 @@ AMI并发[[<SYM><DIS>0]]伴快速心室率，且无严重左[[<DIS>1]]的患者�
 命名实体: 心功能不全
 ==================================================
 可/verb 表现/verb 为/preposition 轻度/distinguishing-word 肺/noun 瘀/punctuation-mark 血/noun ，/punctuation-mark 或/conjunction 因/preposition 每/pronoun 搏/verb 量/noun (/punctuation-mark SV/noun )/punctuation-mark 和/conjunction 心/noun 排/verb 血/noun 量/noun (/punctuation-mark CO/noun )/punctuation-mark 下降/verb 、/punctuation-mark 左/adjective 室/noun 充盈/verb 压/verb 升高/verb 而/conjunction 发生/verb 肺水肿/noun ，/punctuation-mark 当/preposition 血压/noun 下降/verb 、/punctuation-mark 严重/adjective 组织/verb 低/adjective 灌注/verb 时/noun 则/adverb 发生/verb 心/noun 原/distinguishing-word 性/noun 休克/verb 。/punctuation-mark
-可表现为轻度肺[[<SYM>0]]，或因每搏量(SV)和心排血量(CO)下降、左室充盈压升高而发生[[<DIS>1]]，当[[<SYM><DIS>2]]、严重组织低灌注时则发生[[<DIS>3]]。
-命名实体: 瘀血 肺水肿 血压下降 心原性休克
+可表现为轻度肺[[<SYM>0]]，或因每搏量(SV)和[[<TRE>1]]下降、左室充盈压升高而发生[[<DIS>2]]，当[[<SYM><DIS>3]]、严重组织低灌注时则发生[[<DIS>4]]。
+命名实体: 瘀血 心排血量(CO) 肺水肿 血压下降 心原性休克
 ==================================================
 AMI/noun 合并/verb 左/adjective 心功能/noun 不/adverb 全/adjective 时/noun 临床/verb 上/noun-of-locality 出现/verb 程度/noun 不等/verb 的/particle 呼吸/verb 困难/adjective 、/punctuation-mark 脉/noun 弱/adjective 及/conjunction 末梢/noun 灌注/verb 不良/adjective 表现/verb 。/punctuation-mark
 AMI合并左[[<SYM><DIS>0]]时临床上出现程度不等的[[<SYM><DIS>1]]、脉弱及末梢灌注不良表现。
 命名实体: 心功能不全 呼吸困难
 ==================================================
 血流/noun 动力学/noun 监测/verb 可/verb 为/preposition 左/adjective 心功能/noun 的/particle 评价/verb 提供/verb 可靠/adjective 指/verb 征/verb 。/punctuation-mark
-血流动力学监测可为左[[<DIS>0]]的评价提供可靠指征。
-命名实体: 心功能
+血流动力学监测可为左心功能的评价提供可靠指征。
+命名实体:
 ==================================================
 当/preposition 肺/noun 毛/noun 细/adjective 血管/noun 楔/verb 压/verb (/punctuation-mark PCWP/noun )/punctuation-mark >/punctuation-mark 18mm/noun Hg/noun 、/punctuation-mark 心脏/noun 指数/noun (/punctuation-mark CI/noun )/punctuation-mark </punctuation-mark 2.5L·/noun min/noun -/punctuation-mark 1·m-2/noun 时/noun 表现/verb 为/preposition 左/adjective 心功能/noun 不/adverb 全/adjective 。/punctuation-mark
 当肺毛细血管楔压(PCWP)>18mm Hg、心脏指数(CI)<2.5L· min-1·m-2时表现为左[[<SYM><DIS>0]]。
@@ -1084,7 +1084,7 @@ PCWP>18mm Hg、CI<2.2L· min-1·m-2、收缩压<80mm Hg时为[[<DIS>0]]。
 命名实体: 急性肺水肿 低氧血症
 ==================================================
 (/punctuation-mark 2/numeral )/punctuation-mark 心/noun 原/distinguishing-word 性/noun 休克/verb ：/punctuation-mark AMI/noun 伴/verb 心/noun 原/distinguishing-word 性/noun 休克/verb 时/noun 有/verb 严重/adjective 低血压/noun ，/punctuation-mark 收缩/verb 压/verb </punctuation-mark 80mm/noun Hg/noun ，/punctuation-mark 有/verb 组织/noun 器官/noun 低/adjective 灌注/verb 表现/verb ，/punctuation-mark 如/verb 四肢/noun 凉/adjective 、/punctuation-mark 少/adjective 尿/noun 或/conjunction 神智/noun 模糊/adjective 等/particle 。/punctuation-mark
-(2)[[<DIS>0]]：AMI伴[[<DIS>0]]时有严重[[<SYM><DIS>1]]，收缩压<80mm Hg，有组织器官低灌注表现，如四肢凉、[[<SYM><DIS>2]]或神智模糊等。
+(2)[[<DIS>0]]：AMI伴[[<DIS>0]]时有严重[[<SYM><DIS>1]]，收缩压<80mm Hg，有组织器官低灌注表现，如四肢凉、[[<SYM>2]]或神智模糊等。
 命名实体: 心原性休克 低血压 少尿
 ==================================================
 伴/verb 肺/noun 瘀/punctuation-mark 血/noun 时/noun 有/verb 呼吸/verb 困难/adjective 。/punctuation-mark
@@ -1112,8 +1112,8 @@ AMI合并[[<SYM><DIS>0]]可能由于[[<DIS>1]]引起。
 命名实体: 低血压 低血容量
 ==================================================
 患者/noun 呕吐/verb 、/punctuation-mark 出/verb 汗/noun 、/punctuation-mark 应用/verb 硝酸甘油/noun 扩/verb 血管/noun 治疗/verb ，/punctuation-mark 均/adverb 可/verb 引起/verb 前/noun-of-locality 负荷/noun 减低/verb 而/conjunction 发生/verb 低血压/noun ，/punctuation-mark 但/conjunction 无/verb 呼吸/verb 困难/adjective 和/conjunction 器官/noun 低/adjective 灌注/verb 表现/verb ，/punctuation-mark 这时/pronoun 可/verb 谨慎/adjective 扩容/verb 治疗/verb 。/punctuation-mark
-患者[[<DIS>0]]、出汗、应用[[<MED>1]]扩血管治疗，均可引起前负荷减低而发生[[<SYM><DIS>2]]，但无[[<SYM><DIS>3]]和器官低灌注表现，这时可谨慎扩容治疗。
-命名实体: 呕吐 硝酸甘油 低血压 呼吸困难
+患者呕吐、出汗、应用[[<MED>0]]扩血管治疗，均可引起前负荷减低而发生[[<SYM><DIS>1]]，但无[[<SYM><DIS>2]]和器官低灌注表现，这时可谨慎扩容治疗。
+命名实体: 硝酸甘油 低血压 呼吸困难
 ==================================================
 对/preposition 广泛/adjective 大面积/noun 心肌/noun 梗/noun 死/verb 或/conjunction 高龄/noun 患者/noun 应/verb 避免/verb 过度/verb 扩容/verb 诱发/verb 左/adjective 心/noun 衰竭/verb 。/punctuation-mark
 对广泛大面积[[<SYM><DIS>0]]或高龄患者应避免过度扩容诱发[[<SYM><DIS>1]]。
@@ -1360,7 +1360,7 @@ c.[[<MED>0]]对中止[[<SYM><DIS>1]]、减慢心室率及复律后维持窦性�
 命名实体: 窦性心动过缓
 ==================================================
 ②/numeral 症状/noun 性/noun 窦性心/noun 动/verb 过/particle 缓/adjective 、/punctuation-mark 二/numeral 度/classifier Ⅰ/numeral 型/suffix 房室/noun 传导/verb 阻滞/verb 、/punctuation-mark 三/numeral 度/classifier 房室/noun 传导/verb 阻滞/verb 伴/verb 窄/adjective QRS/noun 波/noun 逸/adjective 搏/verb 心律/noun ，/punctuation-mark 患者/noun 常有/adverb 低血压/noun 、/punctuation-mark 头晕/verb 、/punctuation-mark 心功能/noun 障碍/noun 、/punctuation-mark 心/noun 动/verb 缓慢/adjective </punctuation-mark 50/numeral 次/classifier //punctuation-mark min/noun 等/particle ，/punctuation-mark 可/conjunction 先/adverb 用/preposition 阿托品/noun 静脉/noun 注射/verb 治疗/verb 。/punctuation-mark
-②症状性[[<SYM><DIS>0]]、二度Ⅰ型[[<SYM><DIS>1]]、三[[<SYM>2]]伴窄QRS波逸搏心律，患者常有[[<SYM><DIS>3]]、[[<SYM><DIS>4]]、[[<DIS>5]]、心动缓慢<50次/min等，可先用[[<MED>6]]静脉注射治疗。
+②症状性[[<SYM><DIS>0]]、二度Ⅰ型[[<SYM><DIS>1]]、三[[<SYM>2]]伴窄QRS波逸搏心律，患者常有[[<SYM><DIS>3]]、[[<SYM>4]]、[[<DIS>5]]、心动缓慢<50次/min等，可先用[[<MED>6]]静脉注射治疗。
 命名实体: 窦性心动过缓 房室传导阻滞 度房室传导阻滞 低血压 头晕 心功能障碍 阿托品
 ==================================================
 阿托品/noun 剂量/noun 以/preposition 0.5mg/noun 静脉/noun 注射/verb 开始/verb ，/punctuation-mark 3/numeral ~/punctuation-mark 5min/noun 重复/verb 一/numeral 次/classifier ，/punctuation-mark 至/preposition 心/noun 率/suffix 达/verb 60/numeral 次/classifier //punctuation-mark min/noun 左右/numeral 。/punctuation-mark
@@ -1528,7 +1528,7 @@ d反复发生的[[<SYM><DIS>0]](>3s)对[[<MED>1]]治疗无反应者。
 命名实体:
 ==================================================
 2./numeral 中/noun-of-locality 危险/adjective 组/noun ：/punctuation-mark 伴有/verb 持续性/noun 胸/noun 痛/adjective 或/conjunction 反复/adverb 发作/verb 心绞痛/noun 的/particle 患者/noun 。/punctuation-mark
-2.中危险组：伴有持续性[[<SYM><DIS>0]]或反复发作[[<SYM><DIS>1]]的患者。
+2.中危险组：伴有持续性[[<SYM>0]]或反复发作[[<SYM><DIS>1]]的患者。
 命名实体: 胸痛 心绞痛
 ==================================================
 ①/numeral 不/adverb 伴有/verb 心电图/noun 改变/verb 或/conjunction ST/noun 段/noun 压低/verb ≤/numeral 1mm/noun ;/punctuation-mark ②/numeral ST/noun 段/noun 压低/verb >/punctuation-mark 1mm/noun 。/punctuation-mark
@@ -1552,7 +1552,7 @@ d反复发生的[[<SYM><DIS>0]](>3s)对[[<MED>1]]治疗无反应者。
 命名实体: 段抬高
 ==================================================
 冠状动脉/noun 内窥镜/noun 检查/verb 发现/verb 在/preposition 非/distinguishing-word ST/noun 段/noun 抬高/verb 的/particle 急性/distinguishing-word 冠状动脉/noun 综合征/noun (/punctuation-mark ACS/noun )/punctuation-mark 的/particle 患者/noun 中/noun-of-locality ，/punctuation-mark 梗/verb 死/verb 相关/verb 血管/noun 新鲜/adjective 血栓/noun 检/verb 出/verb 率/verb 高/adjective 达/verb 80%/numeral ~/punctuation-mark 90%/numeral 。/punctuation-mark
-[[<SYM>0]]动脉内窥镜检查发现在非ST[[<SYM>1]]的急性[[<SYM>0]]动脉[[<SYM><DIS>2]](ACS)的患者中，梗死相关血管新鲜血栓检出率高达80%~90%。
+[[<SYM>0]]动脉内窥镜检查发现在非ST[[<SYM>1]]的急性[[<SYM>0]]动脉[[<SYM>2]](ACS)的患者中，梗死相关血管新鲜血栓检出率高达80%~90%。
 命名实体: 冠状 段抬高 综合征
 ==================================================
 血栓/noun 以/preposition 白/adjective 血栓/noun (/punctuation-mark 血小板/noun 血栓/noun )/punctuation-mark 和/conjunction 混合/verb 性/noun 血栓/noun 为主/verb ，/punctuation-mark 红/adjective 血栓/noun 所/particle 占/verb 比例/noun 较/adverb 少/adjective 。/punctuation-mark
@@ -1592,12 +1592,12 @@ SYMPHONY I、II(Sibrafiban vs aspirin to yieldmaximum protection from ischemic h
 命名实体: 阿司匹林 段抬高
 ==================================================
 2./numeral 低/adjective 分子量/noun 肝素/noun ：/punctuation-mark 临床/distinguishing-word 试验/verb 研究/verb (/punctuation-mark ESSENCE/noun 、/punctuation-mark TIMI/noun IIB/noun 和/conjunction FRAXIS/noun )/punctuation-mark 显示/verb 在/preposition 非/distinguishing-word ST/noun 段/noun 抬高/verb 的/particle ACS/noun 患者/noun 中/noun-of-locality 使用/verb 低/adjective 分子量/noun 肝素/noun 在/preposition 降低/verb 心脏/noun 事件/noun 方面/noun 优于/verb 或/conjunction 等于/verb 静脉/noun 滴/verb 注/verb 肝素/noun 的/particle 疗效/noun 。/punctuation-mark
-2.低分子量[[<MED>0]]：临床试验研究(ESSENCE、TIMI IIB和FRAXIS)显示在非ST[[<SYM>1]]的ACS患者中使用低分子量[[<MED>0]]在降低心脏事件方面优于或等于静脉滴注[[<MED>0]]的疗效。
-命名实体: 肝素 段抬高
+2.[[<MED>0]]：临床试验研究(ESSENCE、TIMI IIB和FRAXIS)显示在非ST[[<SYM>1]]的ACS患者中使用[[<MED>0]]在降低心脏事件方面优于或等于静脉滴注[[<MED>2]]的疗效。
+命名实体: 低分子量肝素 段抬高 肝素
 ==================================================
 由于/preposition 其/pronoun 使用/verb 方便/adjective ，/punctuation-mark 不/adverb 需/verb 监测/verb 凝/verb 血/noun 时间/noun ，/punctuation-mark 不/adverb 会/verb 产生/verb 普通/adjective 肝素/noun 引起/verb 的/particle 血小板/noun 减少/verb 症/suffix 的/particle 情况/noun ，/punctuation-mark 故/conjunction 已/adverb 主张/verb 用/preposition 低/adjective 分子量/noun 肝素/noun 替代/verb 普通/adjective 肝素/noun 治疗/verb 非/distinguishing-word ST/noun 段/noun 抬高/verb 的/particle 急性/distinguishing-word 冠状动脉/noun 综合征/noun 患者/noun 。/punctuation-mark
-由于其使用方便，不需监测凝血时间，不会产生普通[[<MED>0]]引起的[[<DIS>1]]的情况，故已主张用低分子量[[<MED>0]]替代普通[[<MED>0]]治疗非ST[[<SYM>2]]的急性[[<SYM>3]]动脉[[<SYM><DIS>4]]患者。
-命名实体: 肝素 血小板减少症 段抬高 冠状 综合征
+由于其使用方便，不需监测凝血时间，不会产生普通[[<MED>0]]引起的[[<DIS>1]]的情况，故已主张用[[<MED>2]]替代普通[[<MED>0]]治疗非ST[[<SYM>3]]的急性[[<SYM>4]]动脉[[<SYM>5]]患者。
+命名实体: 肝素 血小板减少症 低分子量肝素 段抬高 冠状 综合征
 ==================================================
 (/punctuation-mark 三/numeral )/punctuation-mark 介入/verb 治疗/verb
 (三)介入治疗
@@ -1644,8 +1644,8 @@ SYMPHONY I、II(Sibrafiban vs aspirin to yieldmaximum protection from ischemic h
 命名实体: 段压低
 ==================================================
 (/punctuation-mark 2/numeral )/punctuation-mark 心电图/noun 监测/verb 心肌/noun 缺血/verb ：/punctuation-mark 据/preposition 长期/adverb 随/verb 访/verb 研究/verb 报道/verb ，/punctuation-mark 若/conjunction 心肌/noun 梗/noun 死/verb 后/noun-of-locality 动态/noun 心电图/noun 检查/verb 有/verb 缺血/verb 存在/verb ，/punctuation-mark 则/conjunction 提示/verb 心血管/noun 事件/noun 增加/verb ，/punctuation-mark 预后/noun 不良/adjective 。/punctuation-mark
-(2)[[<TRE>0]]监测[[<SYM><DIS>1]]：据长期随访研究报道，若[[<SYM><DIS>2]]后动态[[<TRE>0]]检查有缺血存在，则提示心血管事件增加，预后不良。
-命名实体: 心电图 心肌缺血 心肌梗死
+(2)[[<TRE>0]]监测[[<SYM><DIS>1]]：据长期随访研究报道，若[[<SYM><DIS>2]]后动态[[<TRE>3]]有缺血存在，则提示心血管事件增加，预后不良。
+命名实体: 心电图 心肌缺血 心肌梗死 心电图检查
 ==================================================
 动态/noun 心电图/noun 尚/adverb 可/verb 获取/verb 其他/pronoun 预后/noun 的/particle 资料/noun 。/punctuation-mark
 动态[[<TRE>0]]尚可获取其他预后的资料。
@@ -1676,20 +1676,20 @@ SYMPHONY I、II(Sibrafiban vs aspirin to yieldmaximum protection from ischemic h
 命名实体: 心电图 束支传导阻滞 预激综合征 洋地黄 超声心动图
 ==================================================
 2./numeral 存活/verb 心肌/noun 的/particle 评价/verb ：/punctuation-mark 研究/verb 表明/verb ，/punctuation-mark 心肌/noun 缺血/verb 后/noun-of-locality 部分/numeral 心肌/noun 细胞/noun 因为/conjunction 缓慢/adjective 低/adjective 流量/noun 的/particle 血/noun 流/verb 可/verb 使/verb 心功能/noun 下降/verb ，/punctuation-mark 即/adverb 所谓/verb 心肌/noun 冬眠/verb ;/punctuation-mark 另/pronoun 一/numeral 种/classifier 情况/noun 是/verb 心肌/noun 梗/noun 死/verb 后/noun-of-locality 虽/conjunction 恢复/verb 充分/adjective 的/particle 再/adverb 灌注/verb 血流/noun ，/punctuation-mark 但/conjunction 心功能/noun 恢复/verb 延迟/verb ，/punctuation-mark 即/adverb 所谓/verb 心肌/noun 顿/adverb 抑/verb 。/punctuation-mark
-2.存活心肌的评价：研究表明，[[<SYM><DIS>0]]后部分心肌细胞因为缓慢低流量的血流可使[[<DIS>1]]下降，即所谓心肌冬眠;另一种情况是[[<SYM><DIS>2]]后虽恢复充分的再灌注血流，但[[<DIS>1]]恢复延迟，即所谓[[<SYM>3]]。
-命名实体: 心肌缺血 心功能 心肌梗死 心肌顿抑
+2.存活心肌的评价：研究表明，[[<SYM><DIS>0]]后部分心肌细胞因为缓慢低流量的血流可使心功能下降，即所谓心肌冬眠;另一种情况是[[<SYM><DIS>1]]后虽恢复充分的再灌注血流，但心功能恢复延迟，即所谓[[<SYM>2]]。
+命名实体: 心肌缺血 心肌梗死 心肌顿抑
 ==================================================
 冬眠/verb 心肌/noun 和/conjunction 顿/adverb 抑/verb 心肌/noun 均/adverb 是/verb 存活/verb 心肌/noun ，/punctuation-mark 但/conjunction 心功能/noun 下降/verb ，/punctuation-mark 采用/verb 铊/punctuation-mark 显/verb 像/verb 、/punctuation-mark 正电子/noun 发射/verb 断层/noun 摄像/verb (/punctuation-mark PET/noun )/punctuation-mark 以及/conjunction 小/adjective 剂量/noun 多/numeral 巴/distinguishing-word 酚/noun 丁/noun 胺/noun 负荷/noun 超声/noun 心动/verb 图/noun 均/adverb 可/verb 检测/verb 出/verb 心肌/noun 梗/noun 死/verb 后/noun-of-locality 的/particle 存活/verb 心肌/noun ，/punctuation-mark 其中/pronoun PET/noun 检测/verb 的/particle 敏感/adjective 性/noun 最高/adjective ，/punctuation-mark 但/conjunction 价格/noun 昂贵/adjective ，/punctuation-mark 多/numeral 巴/distinguishing-word 酚/noun 丁/noun 胺/noun 负荷/noun 超声/noun 心动/verb 图/noun 亦/adverb 有/verb 较/adverb 高/adjective 的/particle 阳性/noun 预测/verb 准确性/noun 。/punctuation-mark
-冬眠心肌和顿抑心肌均是存活心肌，但[[<DIS>0]]下降，采用铊显像、正电子发射断层摄像(PET)以及小剂量[[<MED>1]]负荷[[<TRE>2]]均可检测出[[<SYM><DIS>3]]后的存活心肌，其中PET检测的敏感性最高，但价格昂贵，[[<MED>1]]负荷[[<TRE>2]]亦有较高的阳性预测准确性。
-命名实体: 心功能 多巴酚丁胺 超声心动图 心肌梗死
+冬眠心肌和顿抑心肌均是存活心肌，但心功能下降，采用铊显像、正电子发射断层摄像(PET)以及小剂量[[<MED>0]]负荷[[<TRE>1]]均可检测出[[<SYM><DIS>2]]后的存活心肌，其中PET检测的敏感性最高，但价格昂贵，[[<MED>0]]负荷[[<TRE>1]]亦有较高的阳性预测准确性。
+命名实体: 多巴酚丁胺 超声心动图 心肌梗死
 ==================================================
 临床/verb 评价/verb 显示/verb ，/punctuation-mark 部分/noun 因/preposition 心肌/noun 缺血/verb 导致/verb 左/adjective 心室/noun 功能/noun 障碍/noun 的/particle 患者/noun ，/punctuation-mark 可/verb 通过/preposition 存活/verb 心肌/noun 的/particle 检测/verb 与/conjunction 相应/verb 的/particle 血管/noun 重建/verb 术/noun 而/conjunction 得到/verb 改善/verb 。/punctuation-mark
 临床评价显示，部分因[[<SYM><DIS>0]]导致左心室功能障碍的患者，可通过存活心肌的检测与相应的血管重建术而得到改善。
 命名实体: 心肌缺血
 ==================================================
 3./numeral 心功能/noun 评价/verb ：/punctuation-mark 研究/verb 证实/verb 心肌/noun 梗/noun 死/verb 后/noun-of-locality 左/adjective 心室/noun 功能/noun 是/verb 未来/time-word 心血管/noun 事件/noun 较/adverb 准确/adjective 的/particle 预测/verb 因子/noun 之一/pronoun 。/punctuation-mark
-3.[[<DIS>0]]评价：研究证实[[<SYM><DIS>1]]后左心室功能是未来心血管事件较准确的预测因子之一。
-命名实体: 心功能 心肌梗死
+3.心功能评价：研究证实[[<SYM><DIS>0]]后左心室功能是未来心血管事件较准确的预测因子之一。
+命名实体: 心肌梗死
 ==================================================
 用/verb 来/verb 评估/verb 左/adjective 心室/noun 功能/noun 状况/noun 的/particle 多种/numeral 指标/noun 或/conjunction 检测/verb 技术/noun ，/punctuation-mark 如/verb 患者/noun 的/particle 症状/noun (/punctuation-mark 劳累/adjective 性/noun 呼吸/verb 困难/adjective 等/particle )/punctuation-mark 、/punctuation-mark 体征/noun (/punctuation-mark 音/noun 、/punctuation-mark 颈/noun 静/adjective 脉压/noun 升高/verb 、/punctuation-mark 心脏/noun 扩大/verb 、/punctuation-mark S3/noun 奔/verb 马/noun 律/verb )/punctuation-mark 、/punctuation-mark 运动/verb 持续/verb 时间/noun (/punctuation-mark 活动/verb 平板/noun 运动/verb 时间/noun )/punctuation-mark 以及/conjunction 用/verb 左/adjective 室/noun 造影/verb 、/punctuation-mark 放射性/noun 核/noun 素/adjective 心室/noun 显影/verb 及/conjunction 二/numeral 维/classifier UCG/noun 检查/verb 测定/verb 的/particle 左/adjective 室/noun EF/noun 等/particle 均/adverb 显示/verb 有/verb 显著/adjective 的/particle 预后/noun 预测/verb 价值/noun 。/punctuation-mark
 用来评估左心室功能状况的多种指标或检测技术，如患者的症状(劳累性[[<SYM><DIS>0]]等)、体征(音、颈静脉压升高、[[<SYM><DIS>1]]、S3[[<SYM>2]])、运动持续时间(活动平板运动时间)以及用左室造影、放射性核素心室显影及二维UCG检查测定的左室EF等均显示有显著的预后预测价值。
@@ -1776,8 +1776,8 @@ AMI恢复期间，如有自发性或轻微活动后诱发的[[<SYM><DIS>0]]发�
 命名实体:
 ==================================================
 凡/adverb 心肌/noun 梗/noun 死/verb 恢复/verb 后/noun-of-locality 的/particle 患者/noun 都/adverb 应/verb 采取/verb 积极/adjective 的/particle 二级/distinguishing-word 预防/verb 措施/noun ，/punctuation-mark 包括/verb 健康/adjective 教育/verb 、/punctuation-mark 非/distinguishing-word 药物/noun 治疗/verb (/punctuation-mark 合理/adjective 饮食/noun 、/punctuation-mark 适当/adjective 锻炼/verb 、/punctuation-mark 戒烟/verb 、/punctuation-mark 限/verb 酒/noun 、/punctuation-mark 心理/noun 平衡/adjective )/punctuation-mark 及/conjunction 药物/noun 治疗/verb 。/punctuation-mark
-凡[[<SYM><DIS>0]]恢复后的患者都应采取积极的二级[[<DIS>1]]，包括健康教育、非药物治疗(合理饮食、适当锻炼、戒烟、限酒、心理平衡)及药物治疗。
-命名实体: 心肌梗死 预防措施
+凡[[<SYM><DIS>0]]恢复后的患者都应采取积极的二级预防措施，包括健康教育、非药物治疗(合理饮食、适当锻炼、戒烟、限酒、心理平衡)及药物治疗。
+命名实体: 心肌梗死
 ==================================================
 同时/conjunction 应/verb 积极/adjective 治疗/verb 作为/preposition 冠心病/noun 危险/adjective 因素/noun 的/particle 高血压/noun 和/conjunction 血脂/noun 异常/adjective ，/punctuation-mark 严格/adjective 控制/verb 作为/preposition 冠心病/noun 危险/adjective 的/particle 等同/verb 情况/noun 的/particle 糖尿病/noun 。/punctuation-mark
 同时应积极治疗作为[[<DIS>0]]危险因素的[[<DIS>1]]和[[<SYM><DIS>2]]，严格控制作为[[<DIS>0]]危险的等同情况的[[<DIS>3]]。
@@ -1788,8 +1788,8 @@ AMI恢复期间，如有自发性或轻微活动后诱发的[[<SYM><DIS>0]]发�
 命名实体:
 ==================================================
 1./numeral 血脂/noun 异常/adjective 的/particle 处理/verb ：/punctuation-mark 羟/punctuation-mark 甲基/noun 戊/numeral 二/numeral 酰/noun 辅/noun 酶/noun A/noun (/punctuation-mark HMG/noun -/punctuation-mark CoA/noun )/punctuation-mark 还原/verb 酶/noun 抑/verb 制剂/noun 即/verb 他汀类/noun 药物/noun 问世/verb 后/noun-of-locality ，/punctuation-mark 3/numeral 项/classifier 二级/distinguishing-word 预防/verb 的/particle 大型/distinguishing-word 临床/verb 试验/verb 4S/noun (/punctuation-mark Scandinaviansimvastatin/noun survival/noun study/noun ，/punctuation-mark 斯/pronoun 堪/verb 地/noun 那/pronoun 维/classifier 亚/distinguishing-word 辛/noun 伐/verb 他汀/noun 存活/verb 研究/verb )/punctuation-mark 、/punctuation-mark CARE/noun (/punctuation-mark Cholesterol/noun and/conjunction recurrent/adjective events/noun ，/punctuation-mark 胆固醇/noun 和/conjunction 复发/verb 事件/noun 研究/verb )/punctuation-mark 、/punctuation-mark LIPID/noun (/punctuation-mark Long/noun term/noun interventionwith/noun pravastatin/noun in/preposition ischemic/noun disease/noun ，/punctuation-mark 缺/verb 血性/noun 疾病/noun 中/noun-of-locality 普/adjective 伐/verb 他汀/noun 长期/adverb 干预/verb 研究/verb )/punctuation-mark 结果/noun 表明/verb ，/punctuation-mark 以/preposition 辛/noun 伐/verb 他汀/noun 或/conjunction 普/adjective 伐/verb 他汀/noun 降低/verb 总/distinguishing-word 胆固醇/noun 及/conjunction 低/adjective 密度/noun 脂/punctuation-mark 蛋白/noun 胆固醇/noun (/punctuation-mark LDL/noun -/punctuation-mark C/noun )/punctuation-mark 水平/noun ，/punctuation-mark 不仅/conjunction 可/verb 显著/adjective 降低/verb 冠心病/noun 事件/noun 的/particle 发生率/noun (/punctuation-mark 30%/numeral ~/punctuation-mark 40%/numeral )/punctuation-mark ，/punctuation-mark 而且/conjunction 降低/verb 总/distinguishing-word 死亡率/noun (/punctuation-mark 22%/numeral ~/punctuation-mark 30%/numeral )/punctuation-mark ，/punctuation-mark 并/conjunction 减少/verb 作/verb PTCA/noun 、/punctuation-mark CABG/noun 及/conjunction 脑/noun 卒/noun 中/noun-of-locality 的/particle 发生率/noun 。/punctuation-mark
-1.[[<SYM><DIS>0]]的处理：羟甲基戊二酰[[<MED>1]](HMG-CoA)还原酶抑制剂即[[<MED>2]]问世后，3项二级预防的大型临床试验4S(Scandinaviansimvastatin survival study，斯堪地那维亚[[<MED>3]]存活研究)、CARE(Cholesterol and recurrent events，[[<DIS>4]]和复发事件研究)、LIPID(Long term interventionwith pravastatin in ischemic disease，缺血性疾病中[[<MED>5]]长期干预研究)结果表明，以[[<MED>3]]或[[<MED>5]]降低总[[<DIS>4]]及低密度脂蛋白[[<DIS>4]](LDL-C)水平，不仅可显著降低[[<DIS>6]]事件的发生率(30%~40%)，而且降低总死亡率(22%~30%)，并减少作PTCA、CABG及[[<DIS>7]]的发生率。
-命名实体: 血脂异常 辅酶A 他汀类药物 辛伐他汀 胆固醇 普伐他汀 冠心病 脑卒中
+1.[[<SYM><DIS>0]]的处理：羟甲基戊二酰[[<MED>1]](HMG-CoA)还原酶抑制剂即[[<MED>2]]问世后，3项二级预防的大型临床试验4S(Scandinaviansimvastatin survival study，斯堪地那维亚[[<MED>3]]存活研究)、CARE(Cholesterol and recurrent events，[[<DIS>4]]和复发事件研究)、LIPID(Long term interventionwith pravastatin in ischemic disease，缺血性疾病中[[<MED>5]]长期干预研究)结果表明，以[[<MED>3]]或[[<MED>5]]降低总[[<DIS>4]]及[[<TRE>6]]水平，不仅可显著降低[[<DIS>7]]事件的发生率(30%~40%)，而且降低总死亡率(22%~30%)，并减少作PTCA、CABG及[[<DIS>8]]的发生率。
+命名实体: 血脂异常 辅酶A 他汀类药物 辛伐他汀 胆固醇 普伐他汀 低密度脂蛋白胆固醇(LDL-C) 冠心病 脑卒中
 ==================================================
 他汀类/noun 治疗/verb 的/particle 益处/noun 不仅/conjunction 见于/verb 胆固醇/noun 升高/verb 患者/noun ，/punctuation-mark 也/adverb 见于/verb 胆固醇/noun 正常/adjective 的/particle 冠心病/noun 患者/noun 。/punctuation-mark
 [[<MED>0]]治疗的益处不仅见于[[<DIS>1]]升高患者，也见于[[<DIS>1]]正常的[[<DIS>2]]患者。
@@ -1892,8 +1892,8 @@ VA-HIT(Veterans affairs high desitylipoprotein cholesterol interventional trial�
 命名实体:
 ==================================================
 AMI/noun 后/noun-of-locality 长期/adverb 应用/verb β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 使/verb 死亡率/noun 下降/verb 最/adverb 多/adjective 的/particle 是/verb 高危/adjective 的/particle 心肌/noun 梗/noun 死/verb 患者/noun ，/punctuation-mark 即/adverb 有/verb 心功能/noun 受损/verb 及/conjunction 心律/noun 失常/adjective 的/particle 患者/noun 。/punctuation-mark
-AMI后长期应用β受体阻滞剂使死亡率下降最多的是高危的[[<SYM><DIS>0]]患者，即有[[<DIS>1]]受损及[[<SYM><DIS>2]]的患者。
-命名实体: 心肌梗死 心功能 心律失常
+AMI后长期应用β受体阻滞剂使死亡率下降最多的是高危的[[<SYM><DIS>0]]患者，即有心功能受损及[[<SYM><DIS>1]]的患者。
+命名实体: 心肌梗死 心律失常
 ==================================================
 对/preposition 心肌/noun 梗/noun 死/verb 存活/verb 者/suffix 长期/adverb 治疗/verb 的/particle 建议/noun ：/punctuation-mark
 对[[<SYM><DIS>0]]存活者长期治疗的建议：
@@ -1928,16 +1928,16 @@ AMI后长期应用β受体阻滞剂使死亡率下降最多的是高危的[[<SYM
 命名实体:
 ==================================================
 对于/preposition 阿司匹林/noun 过敏/verb 或/conjunction 有/verb 禁忌/noun 证/noun 的/particle 心肌/noun 梗/noun 死/verb 患者/noun 可/verb 选用/verb 噻/punctuation-mark 氯/noun 匹/classifier 定/verb 250mg/noun ，/punctuation-mark 每日/pronoun 1/numeral 次/classifier 。/punctuation-mark
-对于[[<SYM>0]]或有禁忌证的[[<SYM><DIS>1]]患者可选用噻氯匹定250mg，每日1次。
-命名实体: 阿司匹林过敏 心肌梗死
+对于[[<SYM>0]]或有禁忌证的[[<SYM><DIS>1]]患者可选用[[<MED>2]]250mg，每日1次。
+命名实体: 阿司匹林过敏 心肌梗死 噻氯匹定
 ==================================================
 但/conjunction 该/pronoun 药/noun 的/particle 疗效/noun 还/adverb 缺少/verb AMI/noun 后/noun-of-locality 长期/adverb 应用/verb 的/particle 临床/verb 试验/verb 的/particle 证实/verb 。/punctuation-mark
 但该药的疗效还缺少AMI后长期应用的临床试验的证实。
 命名实体:
 ==================================================
 近来/time-word ，/punctuation-mark CAPRIE/noun (/punctuation-mark Clopidogrel/noun vs/noun aspirin/noun in/preposition patients/noun at/preposition risk/noun ofischemic/noun events/noun ，/punctuation-mark 有/verb 缺血/verb 事件/noun 危险/adjective 的/particle 患者/noun 氯/noun 吡/punctuation-mark 格雷/noun 与/preposition 阿司匹林/noun 对照/verb 研究/verb )/punctuation-mark 试验/verb 比较/adverb 噻/punctuation-mark 氯/noun 匹/classifier 定/verb 的/particle 新/adjective 一/numeral 代/classifier 产品/noun 氯/noun 吡/punctuation-mark 格雷/noun 与/preposition 阿司匹林/noun 对/preposition 心肌/noun 梗/noun 死/verb 、/punctuation-mark 脑/noun 卒/noun 中/noun-of-locality 及/conjunction 间歇/noun 性/noun 跛/punctuation-mark 行/noun 患者/noun 疗效/noun 。/punctuation-mark
-近来，CAPRIE(Clopidogrel vs aspirin in patients at risk ofischemic events，有缺血事件危险的患者[[<MED>0]]与[[<MED>1]]对照研究)试验比较噻氯匹定的新一代产品[[<MED>0]]与[[<MED>1]]对[[<SYM><DIS>2]]、[[<DIS>3]]及[[<SYM><DIS>4]]患者疗效。
-命名实体: 氯吡格雷 阿司匹林 心肌梗死 脑卒中 间歇性跛行
+近来，CAPRIE(Clopidogrel vs aspirin in patients at risk ofischemic events，有缺血事件危险的患者[[<MED>0]]与[[<MED>1]]对照研究)试验比较[[<MED>2]]的新一代产品[[<MED>0]]与[[<MED>1]]对[[<SYM><DIS>3]]、[[<DIS>4]]及[[<SYM><DIS>5]]患者疗效。
+命名实体: 氯吡格雷 阿司匹林 噻氯匹定 心肌梗死 脑卒中 间歇性跛行
 ==================================================
 经/preposition 2/numeral 年/classifier 治疗/verb ，/punctuation-mark 氯/noun 吡/punctuation-mark 格雷/noun 组/noun 缺血/verb 事件/noun 危险/adjective 减少/verb 8.7%/numeral (/punctuation-mark P=0.043/noun )/punctuation-mark ，/punctuation-mark 副/distinguishing-word 作用/noun 较/adverb 少/adjective ，/punctuation-mark 但/conjunction 亚/distinguishing-word 组/noun 分析/verb 示/verb 对/preposition 心肌/noun 梗/noun 死/verb 患者/noun 的/particle 疗效/noun 并不/adverb 优于/verb 阿司匹林/noun 。/punctuation-mark
 经2年治疗，[[<MED>0]]组缺血事件危险减少8.7%(P=0.043)，副作用较少，但亚组分析示对[[<SYM><DIS>1]]患者的疗效并不优于[[<MED>2]]。
@@ -1992,8 +1992,8 @@ ACEI应用的禁忌证参见前述。
 命名实体: 维拉帕米 硫氮卓酮
 ==================================================
 长期/distinguishing-word 应用/verb 过程/noun 中/noun-of-locality 需/verb 注意/verb 观察/verb 钙/noun 拮/punctuation-mark 抗/verb 剂/classifier 有关/verb 的/particle 不良/adjective 反应/verb ，/punctuation-mark 如/verb 低血压/noun 、/punctuation-mark 心功能/noun 减退/verb 、/punctuation-mark 周围/noun-of-locality 水肿/noun 、/punctuation-mark 便秘/verb 、/punctuation-mark 头痛/adjective 、/punctuation-mark 面部/noun 潮/noun 红/adjective 、/punctuation-mark 眩晕/verb 等/particle 。/punctuation-mark
-长期应用过程中需注意观察钙拮抗剂有关的不良反应，如[[<SYM><DIS>0]]、[[<DIS>1]]减退、周围[[<SYM><DIS>2]]、便秘、[[<SYM><DIS>3]]、面部潮红、[[<SYM><DIS>4]]等。
-命名实体: 低血压 心功能 水肿 头痛 眩晕
+长期应用过程中需注意观察钙拮抗剂有关的不良反应，如[[<SYM><DIS>0]]、心功能减退、周围[[<SYM><DIS>1]]、便秘、[[<SYM><DIS>2]]、面部潮红、[[<SYM>3]]等。
+命名实体: 低血压 水肿 头痛 眩晕
 ==================================================
 6./numeral 抗/verb 心律/noun 失常/adjective 药物/noun ：/punctuation-mark 几/numeral 项/classifier 心肌/noun 梗/noun 死/verb 后/noun-of-locality 室/noun 性/noun 心律/noun 失常/adjective 的/particle 大型/distinguishing-word 临床/verb 试验/verb 表明/verb ，/punctuation-mark Ⅰ/numeral 类/classifier 抗/verb 心律/noun 失常/adjective 药物/noun (/punctuation-mark 钠/noun 通道/noun 阻滞/verb 剂/classifier )/punctuation-mark 具有/verb 良好/adjective 的/particle 心律/noun 失常/adjective 抑制/verb 作用/noun ，/punctuation-mark 但/conjunction 最终/distinguishing-word 死亡率/noun 却/adverb 较/adverb 安慰/verb 剂/classifier 组/noun 明显/adjective 增高/verb ，/punctuation-mark 显示/verb 了/particle 心律/noun 失常/adjective 抑制/verb 与/conjunction 生存率/noun 下降/verb 的/particle 矛盾/adjective 现象/noun ，/punctuation-mark 其/pronoun 原因/noun 可能/verb 是/verb 由于/preposition 这些/pronoun 药物/noun 的/particle 负/verb 性/noun 肌/noun 力/noun 及/conjunction 致/verb 心律/noun 失常/adjective 等/particle 不利/adjective 作用/noun 抵消/verb 并/conjunction 超过/verb 了/particle 心律/noun 失常/adjective 抑制/verb 本身/pronoun 的/particle 有利/adjective 作用/noun ，/punctuation-mark 因此/conjunction ，/punctuation-mark 不/adverb 能/verb 把/preposition 心律/noun 失常/adjective 的/particle 抑制/verb 作为/verb 治疗/verb 的/particle 最终/distinguishing-word 目标/noun 。/punctuation-mark
 6.[[<MED>0]]物：几项[[<SYM><DIS>1]]后[[<DIS>2]]的大型临床试验表明，Ⅰ类[[<MED>0]]物(钠通道阻滞剂)具有良好的[[<SYM><DIS>3]]抑制作用，但最终死亡率却较安慰剂组明显增高，显示了[[<SYM><DIS>3]]抑制与生存率下降的矛盾现象，其原因可能是由于这些药物的负性肌力及致[[<SYM><DIS>3]]等不利作用抵消并超过了[[<SYM><DIS>3]]抑制本身的有利作用，因此，不能把[[<SYM><DIS>3]]的抑制作为治疗的最终目标。
@@ -2012,8 +2012,8 @@ ACEI应用的禁忌证参见前述。
 命名实体:
 ==================================================
 作为/verb 一般/particle 的/particle 二级/distinguishing-word 预防/verb 措施/noun ，/punctuation-mark 应/verb 优先/verb 选用/verb β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier ，/punctuation-mark 使/verb 死亡率/noun 降低/verb ，/punctuation-mark 其/pronoun 有利/adjective 作用/noun 并/conjunction 不/adverb 主要/adverb 与/preposition 心律/noun 失常/adjective 的/particle 抑制/verb 有关/verb 。/punctuation-mark
-作为一般的二级[[<DIS>0]]，应优先选用β受体阻滞剂，使死亡率降低，其有利作用并不主要与[[<SYM><DIS>1]]的抑制有关。
-命名实体: 预防措施 心律失常
+作为一般的二级预防措施，应优先选用β受体阻滞剂，使死亡率降低，其有利作用并不主要与[[<SYM><DIS>0]]的抑制有关。
+命名实体: 心律失常
 ==================================================
 Ⅰ/numeral 类/classifier 抗/verb 心律/noun 失常/adjective 药物/noun (/punctuation-mark 钠/noun 通道/noun 阻滞/verb 剂/classifier )/punctuation-mark 可/verb 使/verb 死亡率/noun 增加/verb ，/punctuation-mark 在/preposition 二级/distinguishing-word 预防/verb 中/noun-of-locality 不宜/verb 使用/verb 。/punctuation-mark
 Ⅰ类[[<MED>0]]物(钠通道阻滞剂)可使死亡率增加，在二级预防中不宜使用。
@@ -2048,5 +2048,5 @@ ACEI应用的禁忌证参见前述。
 命名实体: 心肌梗死
 ==================================================
 每次/pronoun 随/verb 诊/verb 都/adverb 必须/adverb 了解/verb 并/conjunction 登记/verb 吸烟/verb 情况/noun ，/punctuation-mark 劝导/verb 患者/noun 戒烟/verb ，/punctuation-mark 应/verb 建立/verb 随/adverb 访/verb 联系/verb 必要/adjective 时/noun 可/verb 采用/verb 尼古丁/noun 替代/verb 物/noun 治疗/verb 。/punctuation-mark
-每次随诊都必须了解并登记吸烟情况，劝导患者戒烟，应建立随访联系必要时可采用尼古丁替代物治疗。
-命名实体:
+每次随诊都必须了解并登记吸烟情况，劝导患者戒烟，应建立随访联系必要时可采用[[<MED>0]]替代物治疗。
+命名实体: 尼古丁

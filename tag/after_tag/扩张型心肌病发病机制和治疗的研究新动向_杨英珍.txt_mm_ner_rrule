@@ -25,8 +25,8 @@
 实体关系: 
 ==================================================
 最近/time-word 复旦/noun 大学/noun 附属/verb 中山/noun 医院/noun 对/preposition 1998年/time-word 1月/time-word 至/preposition 2004年/time-word 6月/time-word 收/verb 治本/verb 院/noun 的/particle 280/numeral 例/classifier DCM/noun 患者/noun 的/particle 临床/verb 资料/noun 进行/verb 回顾/verb 性/noun 调查/verb 研究/verb 发现/verb ，/punctuation-mark 在/preposition 不/adverb 进行/verb 心脏/noun 移植/verb 情况/noun 下/noun-of-locality ，/punctuation-mark 患者/noun 5/numeral 年/classifier 生存率/noun 为/preposition 65.3%/numeral 。/punctuation-mark
-最近复旦大学附属中山医院对1998年1月至2004年6月收治本院的280例DCM患者的临床资料进行回顾性调查研究发现，在不进行心脏移植情况下，患者5年生存率为65.3%。
-命名实体:
+最近复旦大学附属中山医院对1998年1月至2004年6月收治本院的280例DCM患者的临床资料进行回顾性调查研究发现，在不进行[[<TRE>0]]情况下，患者5年生存率为65.3%。
+命名实体: 心脏移植
 实体关系: 
 ==================================================
 尽管/conjunction 抗/verb 心力衰竭/noun 、/punctuation-mark 抗/verb 心律/noun 失常/adjective 及/conjunction 预防/verb 血栓/noun 栓塞/noun 的/particle 抗凝/noun 治疗/verb 的/particle 有效/adjective 药物/noun 合理/adjective 及时/adjective 的/particle 选用/verb ，/punctuation-mark 使/verb DCM/noun 的/particle 5/numeral 年/classifier 生存率/noun 有所/verb 上升/verb ，/punctuation-mark 但/conjunction 对/preposition 其/pronoun 治疗/verb 仍然/adverb 维持/verb 在/preposition 改善/verb 症状/noun 、/punctuation-mark 预防/verb 并发症/noun 和/conjunction 阻止/verb 或/conjunction 延缓/verb 病情/noun 进展/verb 、/punctuation-mark 提高/verb 生存率/noun 。/punctuation-mark
@@ -45,13 +45,13 @@
 实体关系: 
 ==================================================
 目前/time-word 已/adverb 知/verb 的/particle DCM/noun 发病/verb 机制/noun 包括/verb 遗传/verb 因素/noun 、/punctuation-mark 病毒/noun 持续/verb 感染/verb 、/punctuation-mark 心肌/noun 抗原/noun 表/noun 位/classifier 的/particle 自身/pronoun 免疫/verb 反应/verb 、/punctuation-mark 机械/noun 压力/noun 和/conjunction 中毒/verb 等/particle 。/punctuation-mark
-目前已知的DCM发病机制包括遗传因素、病毒持续[[<DIS>0]]、心肌抗原表位的自身免疫反应、机械压力和中毒等。
-命名实体: 感染
+目前已知的DCM发病机制包括遗传因素、病毒持续感染、心肌抗原表位的自身免疫反应、机械压力和中毒等。
+命名实体:
 实体关系: 
 ==================================================
 在/preposition DCM/noun 的/particle 众多/numeral 病因/noun 和/conjunction 发病/verb 机制/noun 中/noun-of-locality ，/punctuation-mark 除/preposition 主要/distinguishing-word 与/conjunction 免疫/verb 介/verb 导/verb (/punctuation-mark 体液/noun 免疫/verb 、/punctuation-mark 细胞/noun 免疫/verb )/punctuation-mark 及/conjunction 家族/noun 遗传/verb 因素/noun 有关/verb 外/noun-of-locality ，/punctuation-mark 以/preposition 病毒/noun 感染/verb (/punctuation-mark 尤其/adverb 是/verb 柯萨奇/noun B/noun 病毒/noun )/punctuation-mark 引发/verb 病/noun 毒性/noun 心肌炎/noun 最终/adverb 转化/verb 为/verb DCM/noun 关系/noun 最/adverb 为/verb 密切/adjective ，/punctuation-mark 认为/verb 病毒/noun 持续/verb 感染/verb 对/preposition 心肌/noun 组织/noun 的/particle 持续/verb 损害/verb 及其/conjunction 诱发/verb 的/particle 免疫/verb 介/verb 导/verb 的/particle 心肌/noun 组织/noun 损伤/verb 可能/noun 是/verb 重要/adjective 致病/verb 原因/noun 和/conjunction 机制/noun 。/punctuation-mark
-在DCM的众多病因和发病机制中，除主要与免疫介导(体液免疫、细胞免疫)及家族遗传因素有关外，以[[<DIS>0]](尤其是柯萨奇B病毒)引发[[<DIS>1]]最终转化为DCM关系最为密切，认为病毒持续[[<DIS>2]]对心肌组织的持续损害及其诱发的免疫介导的心肌组织[[<DIS>3]]可能是重要致病原因和机制。
-命名实体: 病毒感染 病毒性心肌炎 感染 损伤
+在DCM的众多病因和发病机制中，除主要与免疫介导(体液免疫、细胞免疫)及家族遗传因素有关外，以[[<DIS>0]](尤其是柯萨奇B病毒)引发[[<DIS>1]]最终转化为DCM关系最为密切，认为病毒持续感染对心肌组织的持续损害及其诱发的免疫介导的心肌组织损伤可能是重要致病原因和机制。
+命名实体: 病毒感染 病毒性心肌炎
 实体关系: 
 ==================================================
 近年/time-word ，/punctuation-mark 我们/pronoun 在/preposition DCM/noun 患者/noun 的/particle 心肌/noun 中/noun-of-locality 也/adverb 检测/verb 到/verb 有/verb 多/numeral 病毒/noun 感染/verb 包括/verb 肠道/noun 病毒/noun 、/punctuation-mark 腺/punctuation-mark 病毒/noun 、/punctuation-mark 巨细/noun 胞/punctuation-mark 病毒/noun 、/punctuation-mark 单纯/adjective 疱疹/noun 病毒/noun 等/particle ，/punctuation-mark 以及/conjunction 有/verb 肠道/noun 病毒/noun 蛋白/noun VP1/noun 的/particle 存在/verb 。/punctuation-mark
@@ -120,8 +120,8 @@ Na+/Ca2+交换上调，β[[<MED>0]]受体下调，肌浆网钙泵(SERCA)2a的表
 实体关系: 
 ==================================================
 常规/noun 治疗/verb 主要/adverb 包括/verb ACEI/noun ，/punctuation-mark 血管/noun 紧张/adjective 素/adverb Ⅱ/numeral 亚型/noun Ⅰ/numeral (/punctuation-mark AT1/noun )/punctuation-mark 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier ，/punctuation-mark 利尿剂/noun ，/punctuation-mark β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier ，/punctuation-mark 醛/noun 固/verb 酮/punctuation-mark 拮/punctuation-mark 抗/verb 剂/classifier 以及/conjunction 维生素/noun K/noun 拮/punctuation-mark 抗/verb 剂/classifier 等/particle ，/punctuation-mark 预后/noun 仍然/adverb 很/adverb 差/adjective ，/punctuation-mark 虽然/conjunction 心脏/noun 移植/verb 的/particle 成功/adjective 已/adverb 为/verb 该类/pronoun 患者/noun 提供/verb 了/particle 很/adverb 大/adjective 的/particle 生存/verb 机会/noun ，/punctuation-mark 但/conjunction 受/verb 供/verb 体/noun 、/punctuation-mark 费用/noun 、/punctuation-mark 排/verb 异/adjective 的/particle 限制/verb ，/punctuation-mark 并/conjunction 不/adverb 能/verb 使/verb 更/adverb 多/adjective 的/particle 患者/noun 受益/verb 。/punctuation-mark
-常规治疗主要包括ACEI，血管[[<SYM>0]]素Ⅱ亚型Ⅰ(AT1)受体拮抗剂，[[<MED>1]]，[[<MED>2]]，醛固酮拮抗剂以及维生素K拮抗剂等，预后仍然很差，虽然心脏移植的成功已为该类患者提供了很大的生存机会，但受供体、费用、排异的限制，并不能使更多的患者受益。
-命名实体: 紧张 利尿剂 β受体阻滞剂
+常规治疗主要包括ACEI，血管[[<SYM>0]]素Ⅱ亚型Ⅰ(AT1)受体拮抗剂，[[<MED>1]]，[[<MED>4]]，醛固酮拮抗剂以及[[<MED>2]]K拮抗剂等，预后仍然很差，虽然[[<TRE>3]]的成功已为该类患者提供了很大的生存机会，但受供体、费用、排异的限制，并不能使更多的患者受益。
+命名实体: 紧张 利尿剂 维生素 心脏移植 β受体阻滞剂
 实体关系: 
 ==================================================
 同样/adverb ，/punctuation-mark 左/adjective 室/noun 辅助/verb 装置/noun 、/punctuation-mark 心脏/noun 再/adverb 同步/verb 治疗/verb 、/punctuation-mark 置/verb 入/verb 性/noun 心脏/noun 复/adverb 律/verb 除/preposition 颤/verb 器/noun (/punctuation-mark ICD/noun )/punctuation-mark 的/particle 应用/verb ，/punctuation-mark 也/adverb 解决/verb 了/particle 部分/noun 临床/verb 问题/noun ，/punctuation-mark 但/conjunction 仍然/adverb 存在/verb 这样/pronoun 那样/pronoun 的/particle 缺陷/noun 。/punctuation-mark
@@ -135,13 +135,13 @@ Na+/Ca2+交换上调，β[[<MED>0]]受体下调，肌浆网钙泵(SERCA)2a的表
 实体关系: 
 ==================================================
 新近/adverb 有/verb 报道/verb ，/punctuation-mark 利用/verb 腺/punctuation-mark 相关/verb 病毒/noun (/punctuation-mark AAV/noun )/punctuation-mark 将/adverb 突变/verb 的/particle 受/verb 磷/noun 蛋白/noun (/punctuation-mark phospholamban/noun )/punctuation-mark 释放/verb 到/verb 心肌/noun 细胞/noun ，/punctuation-mark 可/verb 明显/adjective 改善/verb DCM/noun 仓鼠/noun 心功能/noun [1]/string 。/punctuation-mark
-新近有报道，利用腺相关病毒(AAV)将突变的受磷蛋白(phospholamban)释放到心肌细胞，可明显改善DCM仓鼠[[<DIS>0]][1]。
-命名实体: 心功能
+新近有报道，利用腺相关病毒(AAV)将突变的受磷蛋白(phospholamban)释放到心肌细胞，可明显改善DCM仓鼠心功能[1]。
+命名实体:
 实体关系: 
 ==================================================
 也/adverb 有/verb 临床/verb 研究/verb 发现/verb ，/punctuation-mark β/punctuation-mark -/punctuation-mark 干扰素/noun 不仅/conjunction 可以/verb 消除/verb 病毒/noun ，/punctuation-mark 而且/conjunction 明显/adjective 改善/verb 心肌炎/noun 患者/noun 左/noun-of-locality 心功能/noun ，/punctuation-mark 因此/conjunction ，/punctuation-mark 今后/time-word 对于/preposition 病/noun 毒性/noun 心肌炎/noun 后/noun-of-locality DCM/noun 患者/noun ，/punctuation-mark β/punctuation-mark -/punctuation-mark 干扰素/noun 不失为/verb 一/numeral 种/classifier 新/adjective 的/particle 治疗/verb 选择/verb 。/punctuation-mark
-也有临床研究发现，β-[[<MED>0]]不仅可以消除病毒，而且明显改善[[<DIS>1]]患者左[[<DIS>2]]，因此，今后对于[[<SYM>3]]DCM患者，β-[[<MED>0]]不失为一种新的治疗选择。
-命名实体: 干扰素 心肌炎 心功能 病毒性心肌炎后
+也有临床研究发现，β-[[<MED>0]]不仅可以消除病毒，而且明显改善[[<DIS>1]]患者左心功能，因此，今后对于[[<SYM>2]]DCM患者，β-[[<MED>0]]不失为一种新的治疗选择。
+命名实体: 干扰素 心肌炎 病毒性心肌炎后
 实体关系: 
 ==================================================
 Badorff/noun 和/conjunction Condorelli/noun 的/particle 研究/verb 报道/verb ，/punctuation-mark 内/noun-of-locality 皮/noun 细胞/noun 或/conjunction 内/noun-of-locality 皮/noun 祖/noun 细胞/noun 与/conjunction 心肌/noun 细胞/noun 共/adverb 培养/verb 时/noun ，/punctuation-mark 可/conjunction 分/verb 化/suffix 成/verb 心肌/noun 细胞/noun ，/punctuation-mark 这些/pronoun 研究/verb 提示/verb 我们/pronoun ，/punctuation-mark 利用/verb 自/preposition 体/noun 同源/verb 细胞/noun 替代/verb 治疗/verb DCM/noun 将/adverb 可能/verb 实现/verb ，/punctuation-mark 也/adverb 为/verb 药物/noun 设计/verb 和/conjunction 治疗/verb 提供/verb 新/adjective 的/particle 可能性/noun 。/punctuation-mark
@@ -180,8 +180,8 @@ Badorff和Condorelli的研究报道，内皮细胞或内皮祖细胞与心肌细
 实体关系: 
 ==================================================
 选择/verb 何种/pronoun 移植/verb 方式/noun 、/punctuation-mark 心肌/noun 损伤/verb 后/noun-of-locality 合适/adjective 的/particle 移植/verb 时间/noun 、/punctuation-mark 移植/verb 数量/noun 及/conjunction 最佳/status-word 移植/verb 途径/noun 则/adverb 是/verb 今后/time-word 研究/verb 的/particle 方向/noun 。/punctuation-mark
-选择何种移植方式、心肌[[<DIS>0]]后合适的移植时间、移植数量及最佳移植途径则是今后研究的方向。
-命名实体: 损伤
+选择何种移植方式、心肌损伤后合适的移植时间、移植数量及最佳移植途径则是今后研究的方向。
+命名实体:
 实体关系: 
 ==================================================
 同时/conjunction ，/punctuation-mark 需要/verb 考虑/verb 是否/verb 存在/verb 细胞/noun 因子/noun 和/conjunction (/punctuation-mark 或/adverb )/punctuation-mark 血管/noun 遗传/verb 因子/noun 的/particle 过/verb 表达/verb 导致/verb 移植/verb 安全性/noun 问题/noun 。/punctuation-mark
@@ -190,8 +190,8 @@ Badorff和Condorelli的研究报道，内皮细胞或内皮祖细胞与心肌细
 实体关系: 
 ==================================================
 另/pronoun 一/numeral 有趣/adjective 的/particle 现象/noun 是/verb ，/punctuation-mark 肌/noun 凝/verb 蛋白/noun 结合/verb 蛋白/noun C/noun 基因/noun 敲/verb 除/preposition 鼠/noun ，/punctuation-mark 其/pronoun 纯/adjective 合/verb 动物/noun 会/verb 引发/verb 严重/adjective DCM/noun ，/punctuation-mark 而/conjunction 杂/adjective 合/verb 动物/noun 其/pronoun 特征/noun 与/conjunction 人/noun 家族/noun 性/noun 肥厚/adjective 型心/noun 肌/noun 病/noun 表现/verb 十分/adverb 相似/adjective (/punctuation-mark 间隔/noun 不/adverb 对称/adjective 肥厚/adjective 、/punctuation-mark 心/noun 腔/noun 不/adverb 扩大/verb 、/punctuation-mark 心功能/noun 基本/adjective 正常/adjective )/punctuation-mark [5]/string ，/punctuation-mark 提示/verb 我们/pronoun ，/punctuation-mark 严重/adjective 的/particle 基因/noun 突变/verb 可能/verb 使/verb 肥厚/adjective 型心/noun 肌/noun 病/noun 向/preposition DCM/noun 转换/verb ，/punctuation-mark 但/conjunction 为什么/pronoun 会/verb 发生/verb 、/punctuation-mark 肥厚/adjective 型心/noun 肌/noun 病/noun 经过/preposition 多/numeral 长/adjective 时间/noun 即/adverb 会/verb 转变/verb 成/verb DCM/noun 是/verb 值得/verb 探讨/verb 的/particle 新/adjective 问题/noun 。/punctuation-mark
-[[<DIS>2]]另[[<DIS>2]]一[[<DIS>2]]有[[<DIS>2]]趣[[<DIS>2]]的[[<DIS>2]]现[[<DIS>2]]象[[<DIS>2]]是[[<DIS>2]]，[[<DIS>2]]肌[[<DIS>2]]凝[[<DIS>2]]蛋[[<DIS>2]]白[[<DIS>2]]结[[<DIS>2]]合[[<DIS>2]]蛋[[<DIS>2]]白[[<DIS>2]]C[[<DIS>2]]基[[<DIS>2]]因[[<DIS>2]]敲[[<DIS>2]]除[[<DIS>2]]鼠[[<DIS>2]]，[[<DIS>2]]其[[<DIS>2]]纯[[<DIS>2]]合[[<DIS>2]]动[[<DIS>2]]物[[<DIS>2]]会[[<DIS>2]]引[[<DIS>2]]发[[<DIS>2]]严[[<DIS>2]]重[[<DIS>2]]D[[<DIS>2]]C[[<DIS>2]]M[[<DIS>2]]，[[<DIS>2]]而[[<DIS>2]]杂[[<DIS>2]]合[[<DIS>2]]动[[<DIS>2]]物[[<DIS>2]]其[[<DIS>2]]特[[<DIS>2]]征[[<DIS>2]]与[[<DIS>2]]人[[<DIS>2]]家[[<DIS>2]]族[[<DIS>2]]性[[<DIS>2]][[[<DIS>2]][[[<DIS>2]]<[[<DIS>2]]D[[<DIS>2]]I[[<DIS>2]]S[[<DIS>2]]>[[<DIS>2]]0[[<DIS>2]]][[<DIS>2]]][[<DIS>2]]表[[<DIS>2]]现[[<DIS>2]]十[[<DIS>2]]分[[<DIS>2]]相[[<DIS>2]]似[[<DIS>2]]([[<DIS>2]]间[[<DIS>2]]隔[[<DIS>2]]不[[<DIS>2]]对[[<DIS>2]]称[[<DIS>2]]肥[[<DIS>2]]厚[[<DIS>2]]、[[<DIS>2]]心[[<DIS>2]]腔[[<DIS>2]]不[[<DIS>2]]扩[[<DIS>2]]大[[<DIS>2]]、[[<DIS>2]][[[<DIS>2]][[[<DIS>2]]<[[<DIS>2]]D[[<DIS>2]]I[[<DIS>2]]S[[<DIS>2]]>[[<DIS>2]]1[[<DIS>2]]][[<DIS>2]]][[<DIS>2]]基[[<DIS>2]]本[[<DIS>2]]正[[<DIS>2]]常[[<DIS>2]])[[<DIS>2]][[[<DIS>2]]5[[<DIS>2]]][[<DIS>2]]，[[<DIS>2]]提[[<DIS>2]]示[[<DIS>2]]我[[<DIS>2]]们[[<DIS>2]]，[[<DIS>2]]严[[<DIS>2]]重[[<DIS>2]]的[[<DIS>2]]基[[<DIS>2]]因[[<DIS>2]]突[[<DIS>2]]变[[<DIS>2]]可[[<DIS>2]]能[[<DIS>2]]使[[<DIS>2]][[[<DIS>2]][[[<DIS>2]]<[[<DIS>2]]D[[<DIS>2]]I[[<DIS>2]]S[[<DIS>2]]>[[<DIS>2]]0[[<DIS>2]]][[<DIS>2]]][[<DIS>2]]向[[<DIS>2]]D[[<DIS>2]]C[[<DIS>2]]M[[<DIS>2]]转[[<DIS>2]]换[[<DIS>2]]，[[<DIS>2]]但[[<DIS>2]]为[[<DIS>2]]什[[<DIS>2]]么[[<DIS>2]]会[[<DIS>2]]发[[<DIS>2]]生[[<DIS>2]]、[[<DIS>2]][[[<DIS>2]][[[<DIS>2]]<[[<DIS>2]]D[[<DIS>2]]I[[<DIS>2]]S[[<DIS>2]]>[[<DIS>2]]0[[<DIS>2]]][[<DIS>2]]][[<DIS>2]]经[[<DIS>2]]过[[<DIS>2]]多[[<DIS>2]]长[[<DIS>2]]时[[<DIS>2]]间[[<DIS>2]]即[[<DIS>2]]会[[<DIS>2]]转[[<DIS>2]]变[[<DIS>2]]成[[<DIS>2]]D[[<DIS>2]]C[[<DIS>2]]M[[<DIS>2]]是[[<DIS>2]]值[[<DIS>2]]得[[<DIS>2]]探[[<DIS>2]]讨[[<DIS>2]]的[[<DIS>2]]新[[<DIS>2]]问[[<DIS>2]]题[[<DIS>2]]。[[<DIS>2]]
-命名实体: 肥厚型心肌病 心功能
+[[<DIS>2]]另[[<DIS>2]]一[[<DIS>2]]有[[<DIS>2]]趣[[<DIS>2]]的[[<DIS>2]]现[[<DIS>2]]象[[<DIS>2]]是[[<DIS>2]]，[[<DIS>2]]肌[[<DIS>2]]凝[[<DIS>2]]蛋[[<DIS>2]]白[[<DIS>2]]结[[<DIS>2]]合[[<DIS>2]][[[<DIS>2]][[[<DIS>2]]<[[<DIS>2]]T[[<DIS>2]]R[[<DIS>2]]E[[<DIS>2]]>[[<DIS>2]]0[[<DIS>2]]][[<DIS>2]]][[<DIS>2]]基[[<DIS>2]]因[[<DIS>2]]敲[[<DIS>2]]除[[<DIS>2]]鼠[[<DIS>2]]，[[<DIS>2]]其[[<DIS>2]]纯[[<DIS>2]]合[[<DIS>2]]动[[<DIS>2]]物[[<DIS>2]]会[[<DIS>2]]引[[<DIS>2]]发[[<DIS>2]]严[[<DIS>2]]重[[<DIS>2]]D[[<DIS>2]]C[[<DIS>2]]M[[<DIS>2]]，[[<DIS>2]]而[[<DIS>2]]杂[[<DIS>2]]合[[<DIS>2]]动[[<DIS>2]]物[[<DIS>2]]其[[<DIS>2]]特[[<DIS>2]]征[[<DIS>2]]与[[<DIS>2]]人[[<DIS>2]]家[[<DIS>2]]族[[<DIS>2]]性[[<DIS>2]][[[<DIS>2]][[[<DIS>2]]<[[<DIS>2]]D[[<DIS>2]]I[[<DIS>2]]S[[<DIS>2]]>[[<DIS>2]]1[[<DIS>2]]][[<DIS>2]]][[<DIS>2]]表[[<DIS>2]]现[[<DIS>2]]十[[<DIS>2]]分[[<DIS>2]]相[[<DIS>2]]似[[<DIS>2]]([[<DIS>2]]间[[<DIS>2]]隔[[<DIS>2]]不[[<DIS>2]]对[[<DIS>2]]称[[<DIS>2]]肥[[<DIS>2]]厚[[<DIS>2]]、[[<DIS>2]]心[[<DIS>2]]腔[[<DIS>2]]不[[<DIS>2]]扩[[<DIS>2]]大[[<DIS>2]]、[[<DIS>2]]心[[<DIS>2]]功[[<DIS>2]]能[[<DIS>2]]基[[<DIS>2]]本[[<DIS>2]]正[[<DIS>2]]常[[<DIS>2]])[[<DIS>2]][[[<DIS>2]]5[[<DIS>2]]][[<DIS>2]]，[[<DIS>2]]提[[<DIS>2]]示[[<DIS>2]]我[[<DIS>2]]们[[<DIS>2]]，[[<DIS>2]]严[[<DIS>2]]重[[<DIS>2]]的[[<DIS>2]]基[[<DIS>2]]因[[<DIS>2]]突[[<DIS>2]]变[[<DIS>2]]可[[<DIS>2]]能[[<DIS>2]]使[[<DIS>2]][[[<DIS>2]][[[<DIS>2]]<[[<DIS>2]]D[[<DIS>2]]I[[<DIS>2]]S[[<DIS>2]]>[[<DIS>2]]1[[<DIS>2]]][[<DIS>2]]][[<DIS>2]]向[[<DIS>2]]D[[<DIS>2]]C[[<DIS>2]]M[[<DIS>2]]转[[<DIS>2]]换[[<DIS>2]]，[[<DIS>2]]但[[<DIS>2]]为[[<DIS>2]]什[[<DIS>2]]么[[<DIS>2]]会[[<DIS>2]]发[[<DIS>2]]生[[<DIS>2]]、[[<DIS>2]][[[<DIS>2]][[[<DIS>2]]<[[<DIS>2]]D[[<DIS>2]]I[[<DIS>2]]S[[<DIS>2]]>[[<DIS>2]]1[[<DIS>2]]][[<DIS>2]]][[<DIS>2]]经[[<DIS>2]]过[[<DIS>2]]多[[<DIS>2]]长[[<DIS>2]]时[[<DIS>2]]间[[<DIS>2]]即[[<DIS>2]]会[[<DIS>2]]转[[<DIS>2]]变[[<DIS>2]]成[[<DIS>2]]D[[<DIS>2]]C[[<DIS>2]]M[[<DIS>2]]是[[<DIS>2]]值[[<DIS>2]]得[[<DIS>2]]探[[<DIS>2]]讨[[<DIS>2]]的[[<DIS>2]]新[[<DIS>2]]问[[<DIS>2]]题[[<DIS>2]]。[[<DIS>2]]
+命名实体: 蛋白C 肥厚型心肌病
 实体关系: 
 ==================================================
 综上所述/conjunction ，/punctuation-mark DCM/noun 发病/verb 机制/noun 及/conjunction 防治/verb 仍/adverb 为/preposition 今后/time-word 至少/adverb 10/numeral 年/classifier 内/noun-of-locality 本/pronoun 领域/noun 的/particle 热点/noun 研究/verb 课题/noun 。/punctuation-mark

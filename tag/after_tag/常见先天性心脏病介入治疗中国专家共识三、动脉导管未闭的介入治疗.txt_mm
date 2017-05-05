@@ -168,8 +168,8 @@ Amplatzer封堵器主动脉侧直径大于肺动脉侧2mm，长度有5、7和8mm
 命名实体:
 ==================================================
 3.2.2/numeral 常规/noun 穿/verb 剌/verb 股/noun 动/verb 、/punctuation-mark 静脉/noun ，/punctuation-mark 送/verb 人/noun 动/verb 静脉/noun 鞘/punctuation-mark 管/verb ，/punctuation-mark 6kg/noun 以下/noun-of-locality 婴幼儿/noun 动脉/noun 最/adverb 好/adjective 选用/verb 4F/noun 鞘/punctuation-mark 管/verb ，/punctuation-mark 以免/conjunction 损伤/verb 动脉/noun 。/punctuation-mark
-3.2.2常规穿剌股动、静脉，送人动静脉鞘管，6kg以下婴幼儿动脉最好选用4F鞘管，以免[[<DIS>0]]动脉。
-命名实体: 损伤
+3.2.2常规穿剌股动、静脉，送人动静脉鞘管，6kg以下婴幼儿动脉最好选用4F鞘管，以免损伤动脉。
+命名实体:
 ==================================================
 3.2.3/numeral 行/classifier 心/noun 导管/noun 检查/verb 测量/verb 主动脉/noun 、/punctuation-mark 肺动脉/noun 等/particle 部位/noun 压力/noun 。/punctuation-mark
 3.2.3行心导管检查测量主动脉、肺动脉等部位压力。
@@ -280,7 +280,7 @@ Amplatzer封堵器主动脉侧直径大于肺动脉侧2mm，长度有5、7和8mm
 命名实体:
 ==================================================
 可/conjunction 先/adverb 作/verb 试验/verb 性/noun 封堵/verb ，/punctuation-mark 并/conjunction 严密/adjective 监测/verb 肺动脉/noun 、/punctuation-mark 主动脉/noun 压力/noun 和/conjunction 动脉血/noun 氧/noun 饱和度/noun 的/particle 变化/verb ，/punctuation-mark 如/verb 肺动脉/noun 收缩/verb 压/verb 或/conjunction 平均/adjective 压/verb 降低/verb 20%/numeral 或/conjunction 30mmHg/noun 以上/noun-of-locality ，/punctuation-mark 肺/noun 小/adjective 血管/noun 阻力/noun 下降/verb ，/punctuation-mark 而/conjunction 主动脉/noun 压力/noun 和/conjunction 动脉血/noun 氧/noun 饱和度/noun 无/verb 下降/verb 或/conjunction 上升/verb ，/punctuation-mark 且/conjunction 无/verb 全身/noun 反应/verb ，/punctuation-mark 主动脉/noun 造影/verb 证实/verb 封堵/verb 器/noun 位置/noun 合适/adjective ，/punctuation-mark 无/verb 对比/verb 剂/classifier 分流/verb ，/punctuation-mark 可/verb 进行/verb 永久/adverb 封堵/verb ；/punctuation-mark 如/verb 肺动脉/noun 压力/noun 升高/verb 或/conjunction 主动脉/noun 压力/noun 下降/verb ，/punctuation-mark 患者/noun 出现/verb 心悸/verb 气/noun 短/adjective 、/punctuation-mark 心/noun 前/noun-of-locality 区/noun 不适/adjective 、/punctuation-mark 烦躁/adjective 、/punctuation-mark 血压/noun 下降/verb 等/particle 明显/adjective 的/particle 全身/noun 反应/verb 时/noun ，/punctuation-mark 应/verb 立即/adverb 收回/verb 封堵/verb 器/noun ，/punctuation-mark 并/conjunction 对/preposition 症/suffix 处理/verb 。/punctuation-mark
-可先作试验性封堵，并严密监测肺动脉、主动脉压力和动脉血氧饱和度的变化，如肺动脉收缩压或平均压降低20%或30mmHg以上，肺小血管阻力下降，而主动脉压力和动脉血氧饱和度无下降或上升，且无全身反应，主[[<TRE>0]]证实封堵器位置合适，无对比剂分流，可进行永久封堵；如肺动脉压力升高或主动脉压力下降，患者出现[[<SYM><DIS>1]][[<SYM><DIS>2]]、心前区不适、烦躁、[[<SYM><DIS>3]]等明显的全身反应时，应立即收回封堵器，并对症处理。
+可先作试验性封堵，并严密监测肺动脉、主动脉压力和动脉血氧饱和度的变化，如肺动脉收缩压或平均压降低20%或30mmHg以上，肺小血管阻力下降，而主动脉压力和动脉血氧饱和度无下降或上升，且无全身反应，主[[<TRE>0]]证实封堵器位置合适，无对比剂分流，可进行永久封堵；如肺动脉压力升高或主动脉压力下降，患者出现[[<SYM><DIS>1]][[<SYM>2]]、心前区不适、烦躁、[[<SYM><DIS>3]]等明显的全身反应时，应立即收回封堵器，并对症处理。
 命名实体: 动脉造影 心悸 气短 血压下降
 ==================================================
 对于/preposition 试验/verb 性/noun 封堵/verb 后/noun-of-locality 肺动脉/noun 压/verb 无/verb 变化/verb 、/punctuation-mark 患者/noun 无/verb 全身/noun 反应/verb 、/punctuation-mark 血/noun 氧/noun 饱和度/noun 及/conjunction 心/noun 排/verb 血/noun 量/noun 无/verb 下降/verb 者/suffix ，/punctuation-mark 预后/noun 难以/adverb 估测/verb ，/punctuation-mark 此时/pronoun 最/adverb 好/adjective 做/verb 急性/distinguishing-word 肺/noun 血管/noun 反应/verb 试验/verb ，/punctuation-mark 若/conjunction 结果/adverb 为/verb 阳性/noun 者/suffix 可/verb 释放/verb 封堵/verb 器/noun ，/punctuation-mark 术/noun 后/noun-of-locality 需/verb 应用/verb 降低/verb 肺动脉/noun 压/verb 的/particle 药物/noun 治疗/verb ;/punctuation-mark 若/conjunction 结果/adverb 为/verb 阴性/noun 者/suffix 应该/verb 选用/verb 药物/noun 治疗/verb 一/numeral 段/classifier 时间/noun 后/noun-of-locality ，/punctuation-mark 再/adverb 进行/verb 心/noun 导管/noun 检查/verb 判断/noun 能否/verb 封堵/verb 治疗/verb ，/punctuation-mark 对/preposition 这/pronoun 部分/numeral 患者/noun 的/particle 介/verb 人/noun 治疗/verb 尤/adverb 应/verb 慎重/adjective [6]/string 。/punctuation-mark
@@ -328,7 +328,7 @@ Amplatzer封堵器主动脉侧直径大于肺动脉侧2mm，长度有5、7和8mm
 命名实体:
 ==================================================
 随着/preposition 年龄/noun 的/particle 增长/verb ，/punctuation-mark 中老年/noun PDA/noun 血管/noun 壁/noun 钙化/verb 明显/adjective ，/punctuation-mark 开/verb 胸/noun 手术/noun 危险/adjective 大/adjective ，/punctuation-mark 易/adjective 出现/verb 大出血/verb 、/punctuation-mark 残/adjective 佘/noun 漏/verb 和/conjunction 动脉瘤/noun 等/particle 并发症/noun ，/punctuation-mark 应该/verb 积极/adjective 建议/verb 患者/noun 做/verb 介/verb 人/noun 治疗/verb 。/punctuation-mark
-随着年龄的增长，中老年PDA血管壁[[<SYM>0]]明显，开胸手术危险大，易出现大[[<SYM><DIS>1]]、残佘漏和[[<DIS>2]]等并发症，应该积极建议患者做介人治疗。
+随着年龄的增长，中老年PDA血管壁[[<SYM>0]]明显，开胸手术危险大，易出现大[[<SYM>1]]、残佘漏和[[<DIS>2]]等并发症，应该积极建议患者做介人治疗。
 命名实体: 钙化 出血 动脉瘤
 ==================================================
 ≥/numeral 50/numeral 岁/classifier 患者/noun 常规/noun 行/verb 冠状动脉/noun 造影/verb 排除/verb 冠状动脉/noun 病变/verb 。/punctuation-mark
@@ -336,16 +336,16 @@ Amplatzer封堵器主动脉侧直径大于肺动脉侧2mm，长度有5、7和8mm
 命名实体: 冠状动脉造影 冠状动脉病
 ==================================================
 由于/preposition 中老年/noun PDA/noun 管/verb 壁/noun 纤维/noun 化/verb 严重/adjective ，/punctuation-mark 血管/noun 弹性/noun 差/adjective ，/punctuation-mark 不宜/verb 选择/verb 过/particle 大/adjective 的/particle 封堵/verb 器/noun ，/punctuation-mark 以免/conjunction 造成/verb 术/noun 后/noun-of-locality 胸/noun 闷/verb 不适/adjective 等/particle 症状/noun 。/punctuation-mark
-由于中老年PDA管壁纤维化严重，血管弹性差，不宜选择过大的封堵器，以免造成术后[[<DIS>0]]不适等症状。
-命名实体: 胸闷
+由于中老年PDA管壁纤维化严重，血管弹性差，不宜选择过大的封堵器，以免造成术后胸闷不适等症状。
+命名实体:
 ==================================================
 一般/adjective 选择/verb ≥PDA/noun 最/adverb 窄/adjective 直径/noun 2/numeral ~/punctuation-mark 4mm/noun 封堵/verb 器/noun 。/punctuation-mark
 一般选择≥PDA最窄直径2~4mm封堵器。
 命名实体:
 ==================================================
 年龄/noun 较/adverb 大/adjective 的/particle 患者/noun 病史/noun 长/adjective ，/punctuation-mark 心肌/noun 损伤/verb 较/adverb 重/adjective ，/punctuation-mark 术中/noun 常/adverb 出现/verb 血压/noun 升高/verb 、/punctuation-mark 心律/noun 紊乱/adjective 等/particle ，/punctuation-mark 术前/noun 应/verb 给予/verb 镇静药/noun 物/noun ，/punctuation-mark 常规/noun 准备/verb 硝/noun 普/adjective 钠/noun 、/punctuation-mark 硝酸甘油/noun 等/particle 药物/noun 及时/adjective 对/preposition 症/suffix 处理/verb 。/punctuation-mark
-年龄较大的患者病史长，心肌[[<DIS>0]]较重，术中常出现血压升高、[[<DIS>1]]等，术前应给予镇静药物，常规准备[[<MED>2]]、[[<MED>3]]等药物及时对症处理。
-命名实体: 损伤 心律紊乱 硝普钠 硝酸甘油
+年龄较大的患者病史长，心肌损伤较重，术中常出现血压升高、[[<DIS>0]]等，术前应给予镇静药物，常规准备[[<MED>1]]、[[<MED>2]]等药物及时对症处理。
+命名实体: 心律紊乱 硝普钠 硝酸甘油
 ==================================================
 4.5PDA/noun 外科/noun 手术/verb 后/noun-of-locality 再/adverb 通/verb
 4.5PDA外科手术后再通
@@ -520,11 +520,11 @@ PDA合并下腔静脉肝下段缺如时，常规方法操作受限，可通过�
 命名实体: 血管损伤
 ==================================================
 穿/verb 剌/verb 、/punctuation-mark 插管/noun 可/verb 损伤/verb 血管/noun ，/punctuation-mark 术/noun 后/noun-of-locality 下肢/noun 制动/verb 、/punctuation-mark 伤口/noun 加压/verb 致/verb 血流/noun 缓慢/adjective ，/punctuation-mark 穿/verb 剌/verb 处/noun 形成/verb 血/noun 凝/verb 块/noun ，/punctuation-mark 均/adverb 可/verb 致/verb 动脉/noun 栓塞/noun 或/conjunction 部分/numeral 栓塞/noun 。/punctuation-mark
-穿剌、插管可[[<DIS>0]]血管，术后下肢制动、伤口加压致血流缓慢，穿剌处形成血凝块，均可致[[<DIS>1]]或部分栓塞。
-命名实体: 损伤 动脉栓塞
+穿剌、插管可损伤血管，术后下肢制动、伤口加压致血流缓慢，穿剌处形成血凝块，均可致[[<DIS>0]]或部分栓塞。
+命名实体: 动脉栓塞
 ==================================================
 因此/conjunction ，/punctuation-mark 在/preposition 拔/verb 出/verb 动脉/noun 套管/noun 时/noun ，/punctuation-mark 应/verb 轻轻/adverb 压迫/verb 穿/verb 剌/verb 部位/noun 10/numeral ~/punctuation-mark 15min/noun ，/punctuation-mark 压迫/verb 的/particle 力量/noun 以/preposition 穿/verb 剌/verb 部位/noun 不/adverb 出/verb 血/noun 且/conjunction 能/verb 触及/verb 足/adverb 背/verb 动脉/noun 搏动/verb 为/preposition 标准/noun 。/punctuation-mark
-因此，在拔出动脉套管时，应轻轻压迫穿剌部位10~15min，压迫的力量以穿剌部位不[[<SYM><DIS>0]]且能触及足背动脉搏动为标准。
+因此，在拔出动脉套管时，应轻轻压迫穿剌部位10~15min，压迫的力量以穿剌部位不[[<SYM>0]]且能触及足背动脉搏动为标准。
 命名实体: 出血
 ==================================================
 血栓/noun 形成/verb 后/noun-of-locality 应/verb 行抗凝/noun 、/punctuation-mark 溶/verb 栓/noun 和/conjunction 扩/verb 血管/noun 治疗/verb 。/punctuation-mark
@@ -536,7 +536,7 @@ PDA合并下腔静脉肝下段缺如时，常规方法操作受限，可通过�
 命名实体:
 ==================================================
 股/noun 动脉/noun 的/particle 出/verb 血/noun 、/punctuation-mark 血肿/noun 形成/verb ，/punctuation-mark 多/numeral 是/verb 由于/preposition 穿/verb 剌/verb 后/noun-of-locality 未能/verb 适当/adjective 加压/verb 或/conjunction 外/noun-of-locality 鞘/punctuation-mark 管/verb 较/adverb 粗/adjective 、/punctuation-mark 血管/noun 损伤/verb 大/adverb 造成/verb 。/punctuation-mark
-股动脉的[[<SYM><DIS>0]]、[[<SYM>1]]，多是由于穿剌后未能适当加压或外鞘管较粗、[[<DIS>2]]大造成。
+股动脉的[[<SYM>0]]、[[<SYM>1]]，多是由于穿剌后未能适当加压或外鞘管较粗、[[<DIS>2]]大造成。
 命名实体: 出血 血肿形成 血管损伤
 ==================================================
 一般/adjective 小/adjective 血肿/noun 可/conjunction 自行/adverb 吸收/verb ，/punctuation-mark 大/adjective 血肿/noun 则/conjunction 将/preposition 血肿/noun 内/noun-of-locality 血液/noun 抽出/verb 后/noun-of-locality 再/adverb 加压/verb 包扎/verb 。/punctuation-mark
@@ -552,8 +552,8 @@ Liang等报道1例小型PDA，应用弹簧國封堵后出现声带[[<SYM>0]]。
 命名实体: 麻痹
 ==================================================
 可能/verb 是/verb 动脉/noun 导管/noun 较/adverb 长/adjective ，/punctuation-mark 直径/noun 较/adverb 小/adjective ，/punctuation-mark 置/verb 人/noun 弹簧/noun 國/punctuation-mark 后/noun-of-locality 引起/verb 动脉/noun 导管/noun 张力/noun 性/noun 牵/verb 拉/verb 和/conjunction 成/verb 角/classifier ，/punctuation-mark 从而/conjunction 损伤/verb 附近/noun-of-locality 的/particle 左侧/noun-of-locality 喉/noun 返/verb 神经/noun 。/punctuation-mark
-可能是动脉导管较长，直径较小，置人弹簧國后引起动脉导管张力性牵拉和成角，从而[[<DIS>0]]附近的左侧喉返神经。
-命名实体: 损伤
+可能是动脉导管较长，直径较小，置人弹簧國后引起动脉导管张力性牵拉和成角，从而损伤附近的左侧喉返神经。
+命名实体:
 ==================================================
 6.10/numeral 感染/verb 性/noun 心/noun 内/noun-of-locality 膜/noun 炎/noun
 6.10[[<DIS>0]]

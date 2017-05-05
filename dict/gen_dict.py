@@ -134,13 +134,13 @@ def claw_symptom(path_name):
     fp = file(path_name, 'wb')
     pattern = re.compile(ur'［.+］')
     try:
-        for i in range(1, 3):
-            url = 'http://ssk.fh21.com.cn/sc-1012-'+str(i)+'.html'
+        for i in range(1):
+            url = 'http://www.a-hospital.com/w/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9F%BA%E6%9C%AC%E8%8D%AF%E7%89%A9%E5%88%97%E8%A1%A8'
             print url
             fp.write(url+'\n')
             headers = {}
             headers["Accept"] = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
-            headers["Host"] = "ssk.fh21.com.cn"
+            headers["Host"] = "www.a-hospital.com"
             headers["User-Agent"] = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
             data = None
             request = urllib2.Request(url, data, headers)
@@ -196,18 +196,33 @@ def mov_cop(filename):
     fp.close()
     fp_out.close()
 
+def sep_med(file_path):
+    fp = file(file_path, 'rb')
+    fp_out = file(file_path+'_tmp', 'wb')
+    for line in fp:
+        line = (line.strip()).decode('UTF-8')
+        if len(line) == 0:
+            continue
+        else:
+            l_list = line.split()
+            for word in l_list:
+                assert word[0] == u'·'
+                fp_out.write((word[1:]).encode('UTF-8')+'\n')
+    fp.close()
+    fp_out.close()
+
 if __name__ == "__main__":
     start_time = time.clock()
-    xiangya_name = 'xiangya.txt'
-    cardiovascular_name = 'cardiovascular.txt'
-    #xiangya_medical_words(xiangya_name)
-    #cardiovascular_words(cardiovascular_name)
-    page_range = 1000
-    claw_cardi_name = 'crawl_cardi.txt'
-    #claw_cardi(page_range, claw_cardi_name)
-    #clean_crawl_cardi(claw_cardi_name)
-    fn = './a-hospital.com_临床断技术.txt'
+    ###xiangya_name = 'xiangya.txt'
+    ###cardiovascular_name = 'cardiovascular.txt'
+    ###xiangya_medical_words(xiangya_name)
+    ###cardiovascular_words(cardiovascular_name)
+    ###page_range = 1000
+    ###claw_cardi_name = 'crawl_cardi.txt'
+    ###claw_cardi(page_range, claw_cardi_name)
+    ###clean_crawl_cardi(claw_cardi_name)
+    fn = u'./xxxx.txt'
     #claw_symptom(fn)
-    mov_cop(fn)
+    mov_cop(fn+'_tmp')
     end_time = time.clock()
     print 'time to generate the dictionary: %f' % (end_time-start_time)

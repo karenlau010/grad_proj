@@ -130,8 +130,8 @@
 实体关系: 
 ==================================================
 70%/numeral 左右/numeral 的/particle 房/noun 颤/verb 发生/verb 在/preposition 器/noun 质/noun 性/noun 心脏病/noun 患者/noun ，/punctuation-mark 包括/verb 瓣膜/noun 性/noun 心脏病/noun (/punctuation-mark 尤其/adverb 二尖瓣/noun 病变/verb )/punctuation-mark 、/punctuation-mark 高血压/noun 病/noun (/punctuation-mark 尤其/adverb 发生/verb 了/particle 左/adjective 心室/noun 肥厚/adjective )/punctuation-mark 、/punctuation-mark 冠状动脉/noun 病/noun (/punctuation-mark 冠心病/noun )/punctuation-mark 、/punctuation-mark 肥厚/adjective 型/suffix 或/conjunction 扩张型/distinguishing-word 心肌/noun 病/noun 、/punctuation-mark 以及/conjunction 先天性/distinguishing-word 心脏病/noun 。/punctuation-mark
-70%左右的[[<SYM><DIS>0]]发生在[[<SYM>1]]患者，包括瓣[[<DIS>2]][[<DIS>3]](尤其[[<DIS>10]])、[[<DIS>4]](尤其发生了[[<SYM>5]])、[[<DIS>6]]([[<DIS>7]])、肥厚型或[[<DIS>8]]、以及[[<DIS>9]]。
-命名实体: 房颤 器质性心脏病 膜性 心脏病 高血压病 左心室肥厚 冠状动脉病 冠心病 扩张型心肌病 先天性心脏病 二尖瓣病变
+70%左右的[[<SYM><DIS>0]]发生在[[<SYM>1]]患者，包括瓣膜性[[<DIS>2]](尤其[[<DIS>9]])、[[<DIS>3]](尤其发生了[[<SYM>4]])、[[<DIS>5]]([[<DIS>6]])、肥厚型或[[<DIS>7]]、以及[[<DIS>8]]。
+命名实体: 房颤 器质性心脏病 心脏病 高血压病 左心室肥厚 冠状动脉病 冠心病 扩张型心肌病 先天性心脏病 二尖瓣病变
 实体关系: 
 ==================================================
 房/noun 颤/verb 也/adverb 可以/verb 见于/verb 限制/verb 型心/noun 肌/noun 病/noun 、/punctuation-mark 心脏/noun 肿瘤/noun 、/punctuation-mark 缩/verb 窄/adjective 性/noun 心包炎/noun 、/punctuation-mark 二尖瓣/noun 脱/verb 垂/verb 、/punctuation-mark 慢性/distinguishing-word 肺/noun 原/distinguishing-word 性/noun 心脏病/noun 、/punctuation-mark 二尖瓣/noun 环/noun 钙化/verb 、/punctuation-mark 特/adjective 发/verb 性/noun 右/noun-of-locality 心房/noun 扩张/verb 以及/conjunction 充/verb 血性/noun 心力衰竭/noun 。/punctuation-mark
@@ -355,8 +355,8 @@ Cox倡导的[[<TRE>1]]能够成功地治疗[[<SYM><DIS>0]]，支持这一概念�
 实体关系: <1,TRE-DIS,0>
 ==================================================
 迷宫/noun 手术/verb 通过/preposition 多/numeral 条/classifier 线性/noun 切割/verb (/punctuation-mark 消融/verb )/punctuation-mark 损伤/verb 心房/noun 肌/noun ，/punctuation-mark 隔离/verb 肺静脉/noun 与/conjunction 左/adjective 心房/noun 肌/noun ，/punctuation-mark 并/conjunction 使/verb 接连/adverb 的/particle 心房/noun 组织/noun 块/classifier 被/preposition 减/verb 小/adjective ，/punctuation-mark 打断/verb 房/noun 颤/verb 维持/verb 所/particle 必需/verb 的/particle 多/adjective 个子/noun 波折/noun 返/verb ，/punctuation-mark 从而/conjunction 房/noun 颤/verb 不再/adverb 持续/verb 和/conjunction 复发/verb 。/punctuation-mark
-迷宫手术通过多条线性切割(消融)[[<DIS>0]]心房肌，隔离肺静脉与左心房肌，并使接连的心房组织块被减小，打断[[<SYM><DIS>1]]维持所必需的多个子波折返，从而[[<SYM><DIS>1]]不再持续和复发。
-命名实体: 损伤 房颤
+迷宫手术通过多条线性切割(消融)损伤心房肌，隔离肺静脉与左心房肌，并使接连的心房组织块被减小，打断[[<SYM><DIS>0]]维持所必需的多个子波折返，从而[[<SYM><DIS>0]]不再持续和复发。
+命名实体: 房颤
 实体关系: 
 ==================================================
 近/adjective 几/numeral 年/classifier 来/noun-of-locality ，/punctuation-mark Haissaguerre/noun 等/particle 首先/adverb 采用/verb 导管/noun 射/verb 频/adverb 消融/verb 异/adjective 位/noun 局/noun 灶/noun 和/preposition //punctuation-mark 或/conjunction 其/pronoun 冲动/adjective 引起/verb 的/particle 房/noun 性/suffix 早/adjective 搏/verb 来/verb 治疗/verb 阵/noun 发/verb 性/noun 房/noun 颤/verb 取得/verb 了/particle 成功/adjective 。/punctuation-mark
@@ -575,13 +575,13 @@ ibutilide防止外向慢钠电流，也可选用。
 实体关系: 
 ==================================================
 房/noun 颤/verb 的/particle 症状/noun 取决于/verb 几/numeral 个/classifier 因素/noun 包括/verb 心室/noun 率/verb 、/punctuation-mark 心功能/noun 、/punctuation-mark 伴随/verb 的/particle 疾病/noun 以及/conjunction 患者/noun 感知/verb 症状/noun 的/particle 敏感/adjective 性/noun 。/punctuation-mark
-[[<SYM><DIS>0]]的症状取决于几个因素包括心室率、[[<DIS>1]]、[[<DIS>2]]以及患者感知症状的敏感性。
-命名实体: 房颤 心功能 伴随的疾病
+[[<SYM><DIS>0]]的症状取决于几个因素包括心室率、心功能、伴随的疾病以及患者感知症状的敏感性。
+命名实体: 房颤
 实体关系: 
 ==================================================
 大多数/numeral 患者/noun 有/verb 心悸/verb 症状/noun ，/punctuation-mark 但/conjunction 头晕/verb 、/punctuation-mark 疲乏/adjective 、/punctuation-mark 气/noun 短/adjective 和/conjunction 晕厥/verb 前/noun-of-locality 症状/noun (/punctuation-mark 黑/adjective 矇/punctuation-mark )/punctuation-mark 也/adverb 不/adverb 少见/adjective 。/punctuation-mark
-大多数患者有[[<SYM><DIS>0]]症状，但[[<SYM><DIS>1]]、[[<SYM>2]]、[[<SYM><DIS>3]]和[[<DIS>4]]前症状(黑矇)也不少见。
-命名实体: 心悸 头晕 疲乏 气短 晕厥
+大多数患者有[[<SYM><DIS>0]]症状，但[[<SYM>1]]、[[<SYM>2]]、[[<SYM>3]]和晕厥前症状(黑矇)也不少见。
+命名实体: 心悸 头晕 疲乏 气短
 实体关系: 
 ==================================================
 少数/numeral 房/noun 颤/verb 患者/noun 无/verb 任何/pronoun 症状/noun ，/punctuation-mark 而/conjunction 在/preposition 偶然/adjective 的/particle 机会/noun 被/preposition 发现/verb 。/punctuation-mark
@@ -655,8 +655,8 @@ ibutilide防止外向慢钠电流，也可选用。
 实体关系: 
 ==================================================
 房室/noun 折返/verb 激动/adjective 能够/verb 诱发/verb 房/noun 颤/verb ，/punctuation-mark 如果/conjunction 房/noun 颤/verb 冲动/adjective 经由/preposition 房室/noun 旁/noun-of-locality 路/noun 前/noun-of-locality 传/verb 心室/noun ，/punctuation-mark 引起/verb 十分/adverb 快速/distinguishing-word 的/particle 预/adverb 激/verb 的/particle 心室/noun 反应/verb ，/punctuation-mark 将/adverb 产生/verb 十分/adverb 严重/adjective 的/particle 后果/noun 快速/distinguishing-word 的/particle 心室/noun 率/suffix 能/verb 引起/verb 晕厥/verb ，/punctuation-mark 更有甚者/distinguishing-word ，/punctuation-mark 房/noun 颤/verb 可能/verb 引起/verb 心室/noun 颤动/verb 和/conjunction 心脏/noun 性/noun 猝死/verb 。/punctuation-mark
-房室折返激动能够诱发[[<SYM><DIS>0]]，如果[[<SYM><DIS>0]]冲动经由房室旁路前传心室，引起十分快速的预激的心室反应，将产生十分严重的后果快速的心室率能引起[[<DIS>1]]，更有甚者，[[<SYM><DIS>0]]可能引起[[<SYM><DIS>2]]和[[<SYM>3]]。
-命名实体: 房颤 晕厥 心室颤动 心脏性猝死
+房室折返激动能够诱发[[<SYM><DIS>0]]，如果[[<SYM><DIS>0]]冲动经由房室旁路前传心室，引起十分快速的预激的心室反应，将产生十分严重的后果快速的心室率能引起晕厥，更有甚者，[[<SYM><DIS>0]]可能引起[[<SYM><DIS>1]]和[[<SYM>2]]。
+命名实体: 房颤 心室颤动 心脏性猝死
 实体关系: 
 ==================================================
 对/preposition 这/pronoun 类/classifier 患者/noun 应当/verb 积极/adjective 治疗/verb ，/punctuation-mark 最/adverb 常用/adjective 的/particle 方法/noun 是/verb 射/verb 频/adverb 消融/verb 房室/noun 旁/noun-of-locality 路/noun ，/punctuation-mark 或/conjunction 积极/adjective 的/particle 抗/verb 心律/noun 失常/adjective 药物/noun 治疗/verb 以/preposition 防止/verb 经由/preposition 房室/noun 旁/noun-of-locality 路/noun 的/particle 传导/verb 。/punctuation-mark
@@ -685,8 +685,8 @@ Coumel描述了迷走神经原性和[[<DIS>0]]。
 实体关系: <1,MED-DIS|+,0> <2,MED-DIS|+,0>
 ==================================================
 肾上腺/noun 素/adjective 原/distinguishing-word 性/noun 房/noun 颤/verb 的/particle 临床/verb 特征/noun 是/verb (/punctuation-mark 1/numeral )/punctuation-mark 比/preposition 迷/verb 走/verb 神经原/noun 性/noun 房/noun 颤/verb 少/adjective ；/punctuation-mark (/punctuation-mark 2/numeral )/punctuation-mark 几乎/adverb 总/adverb 在/preposition 白昼/noun 发生/verb ；/punctuation-mark (/punctuation-mark 3/numeral )/punctuation-mark 常/adverb 为/verb 运动/noun 或/conjunction 情绪/noun 激动/adjective 诱发/verb ；/punctuation-mark (/punctuation-mark 4/numeral )/punctuation-mark 多/numeral 尿/noun 常见/adjective ；/punctuation-mark 和/conjunction (/punctuation-mark 5/numeral )/punctuation-mark 往往/adverb 在/preposition 特定/distinguishing-word 的/particle 窦性/noun 频率/noun 时/noun (/punctuation-mark 接近/verb 90/numeral 次/classifier //punctuation-mark min/noun )/punctuation-mark 发作/verb 。/punctuation-mark
-[[<DIS>2]]的临床特征是(1)比[[<DIS>1]]少；(2)几乎总在白昼发生；(3)常为运动或情绪激动诱发；(4)[[<DIS>0]]常见；和(5)往往在特定的窦性频率时(接近90次/min)发作。
-命名实体: 多尿 迷走神经原性房颤 肾上腺素原性房颤
+[[<DIS>1]]的临床特征是(1)比[[<DIS>0]]少；(2)几乎总在白昼发生；(3)常为运动或情绪激动诱发；(4)多尿常见；和(5)往往在特定的窦性频率时(接近90次/min)发作。
+命名实体: 迷走神经原性房颤 肾上腺素原性房颤
 实体关系: 
 ==================================================
 与/preposition 迷/verb 走/verb 神经原/noun 性/noun 房/noun 颤/verb 相反/verb ，/punctuation-mark β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 是/verb 可/verb 选用/verb 的/particle 治疗/verb 药物/noun 。/punctuation-mark
@@ -790,8 +790,8 @@ Coumel描述了迷走神经原性和[[<DIS>0]]。
 实体关系: 
 ==================================================
 房/noun 颤/verb 时/noun 快速/distinguishing-word 心室/noun 率/suffix 对/preposition 心功能/noun 有/verb 不良/adjective 作用/noun ，/punctuation-mark 可/conjunction 致/verb 心动/verb 过速/adjective 引起/verb 的/particle 心肌/noun 病/noun ，/punctuation-mark 心室/noun 率/suffix 得到/verb 控制/verb 后/noun-of-locality ，/punctuation-mark 可以/verb 逆转/verb 。/punctuation-mark
-[[<SYM><DIS>0]]时快速心室率对[[<DIS>1]]有不良作用，可致[[<SYM><DIS>2]]引起的[[<DIS>3]]，心室率得到控制后，可以逆转。
-命名实体: 房颤 心功能 心动过速 心肌病
+[[<SYM><DIS>0]]时快速心室率对心功能有不良作用，可致[[<SYM><DIS>1]]引起的[[<DIS>2]]，心室率得到控制后，可以逆转。
+命名实体: 房颤 心动过速 心肌病
 实体关系: 
 ==================================================
 当然/adverb ，/punctuation-mark 房/noun 颤/verb 时/noun 丧失/verb 心房/noun 对/preposition 心室/noun 充盈/verb 的/particle 辅助/verb 作用/noun ，/punctuation-mark 也/adverb 对/preposition 血流/noun 动力学/noun 产生/verb 不良/adjective 影响/verb 。/punctuation-mark
@@ -970,8 +970,8 @@ Coumel描述了迷走神经原性和[[<DIS>0]]。
 实体关系: 
 ==================================================
 由于/preposition 快速/distinguishing-word 心室/noun 率/suffix 限制/verb 了/particle 运动/verb 能力/noun 和/conjunction 影响/verb 心功能/noun ，/punctuation-mark 有/verb 必要/adjective 控制/verb 静/adjective 息/verb 时/noun 和/conjunction 运动/verb 时/noun 的/particle 心室/noun 率/verb 。/punctuation-mark
-由于快速心室率限制了运动能力和影响[[<DIS>0]]，有必要控制静息时和运动时的心室率。
-命名实体: 心功能
+由于快速心室率限制了运动能力和影响心功能，有必要控制静息时和运动时的心室率。
+命名实体:
 实体关系: 
 ==================================================
 为/preposition 迅速/adjective 地/particle 控制/verb 心室/noun 率/suffix ，/punctuation-mark 可/conjunction 选用/verb 经/preposition 静脉/noun 应用/verb 维拉帕米/noun 、/punctuation-mark 地/noun 尔/pronoun 硫/noun 䓬/punctuation-mark 或/conjunction β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier (/punctuation-mark 一/numeral 线/classifier 药物/noun 治疗/verb )/punctuation-mark 。/punctuation-mark
@@ -1065,8 +1065,8 @@ Rodriquez等的较大系列[[<DIS>0]]患者经射频消融房室交界区后，E
 实体关系: 
 ==================================================
 Brignole/noun 等/particle 报告/noun 1/numeral 组/classifier 合并/verb 明显/adjective 充/verb 血性/noun 心力衰竭/noun 伴/verb 有/verb “/punctuation-mark 不/adverb 能/verb 耐受/verb ”/punctuation-mark 的/particle 症状/noun 的/particle 慢性/distinguishing-word 房/noun 颤/verb 患者/noun ，/punctuation-mark 经/preposition 房室/noun 交界/verb 区/noun 射/verb 频/adverb 消融/verb 和/conjunction VVIR/noun 起/noun-of-locality 搏/verb 器/noun 植入/verb 后/noun-of-locality ，/punctuation-mark 1/numeral ~/punctuation-mark 12/numeral 个/classifier 月/noun 评定/verb 的/particle 生活/verb 质量/noun 显著/adjective 改善/verb ，/punctuation-mark 症状/noun (/punctuation-mark 例如/verb 心悸/verb 和气/adjective 短/adjective )/punctuation-mark 、/punctuation-mark 心功能/noun (/punctuation-mark NYHA/noun 分级/verb )/punctuation-mark 、/punctuation-mark 活动/verb 能量/noun 等/particle 都/adverb 有/verb 显著/adjective 改善/verb 。/punctuation-mark
-Brignole等报告1组合并明显[[<SYM><DIS>0]]伴有“不能耐受”的症状的[[<SYM>1]]患者，经房室交界区射频消融和VVIR起搏器植入后，1~12个月评定的生活质量显著改善，症状(例如[[<SYM><DIS>2]]和[[<SYM><DIS>3]])、[[<DIS>4]](NYHA分级)、活动能量等都有显著改善。
-命名实体: 充血性心力衰竭 慢性房颤 心悸 气短 心功能
+Brignole等报告1组合并明显[[<SYM><DIS>0]]伴有“不能耐受”的症状的[[<SYM>1]]患者，经房室交界区射频消融和VVIR起搏器植入后，1~12个月评定的生活质量显著改善，症状(例如[[<SYM><DIS>2]]和[[<SYM>3]])、心功能(NYHA分级)、活动能量等都有显著改善。
+命名实体: 充血性心力衰竭 慢性房颤 心悸 气短
 实体关系: 
 ==================================================
 Mark/noun 等/particle 荟萃/verb 分析/verb 了/particle 已/adverb 发表/verb 的/particle 文献/noun 中/noun-of-locality 的/particle 21/numeral 个/classifier 研究/verb ，/punctuation-mark 总共/adverb 1181/numeral 例/classifier 患者/noun 经/preposition 射/verb 频/adverb 消融/verb 房室/noun 交界/verb 区/noun 和/conjunction 心脏/noun 起/verb 搏/verb 器/noun 治疗/verb 后/noun-of-locality 的/particle 临床/verb 结局/noun 。/punctuation-mark
@@ -1270,17 +1270,17 @@ Benavento等对5个抗凝药对[[<DIS>0]]一级预防的规模较大的前瞻性
 实体关系: 
 ==================================================
 然而/conjunction ，/punctuation-mark 应用/verb 华法林/noun 伴随/verb 以/preposition 出/verb 血/noun 的/particle 危险/adjective 增高/verb ，/punctuation-mark 若/conjunction INR/noun ≧/punctuation-mark 4/numeral ，/punctuation-mark 出血/verb 危险/adjective 更/adverb 高/adjective 。/punctuation-mark
-然而，应用[[<MED>0]]伴随以[[<SYM><DIS>1]]的危险增高，若INR≧4，[[<SYM><DIS>1]]危险更高。
+然而，应用[[<MED>0]]伴随以[[<SYM>1]]的危险增高，若INR≧4，[[<SYM>1]]危险更高。
 命名实体: 华法林 出血
 实体关系: 
 ==================================================
 波士顿/noun 地区/noun 抗/verb 凝/verb 试验/verb (/punctuation-mark Boston/noun Area/noun Anticoagulation/noun Trial/noun ，/punctuation-mark BAAT/noun )/punctuation-mark 表明/verb ，/punctuation-mark INR/noun 为/preposition 2/numeral ~/punctuation-mark 3时/time-word 华法林/noun 的/particle 抗/verb 凝/verb 效果/noun 是/verb 肯定/verb 的/particle ，/punctuation-mark 不/adverb 伴/verb 以/preposition 增高/verb 的/particle 出血/verb 危险/adjective ，/punctuation-mark 并且/conjunction 病/noun 死/verb 率/suffix 也/adverb 降低/verb 。/punctuation-mark
-波士顿地区抗凝试验(Boston Area Anticoagulation Trial，BAAT)表明，INR为2~3时[[<MED>0]]的抗凝效果是肯定的，不伴以增高的[[<SYM><DIS>1]]危险，并且病死率也降低。
+波士顿地区抗凝试验(Boston Area Anticoagulation Trial，BAAT)表明，INR为2~3时[[<MED>0]]的抗凝效果是肯定的，不伴以增高的[[<SYM>1]]危险，并且病死率也降低。
 命名实体: 华法林 出血
 实体关系: 
 ==================================================
 Benavento/noun 等/particle 归纳/verb 的/particle 5/numeral 个/classifier 抗/verb 凝/verb 治疗/verb 预防/verb 脑/noun 卒/noun 中/noun-of-locality 的/particle 随机/distinguishing-word 对照/verb 试验/verb 结果/noun 也/adverb 表明/verb ，/punctuation-mark INR/noun 为/preposition 2.0/numeral ~/punctuation-mark 2.6/numeral 之间/noun-of-locality 出血/verb 并发症/noun 也/adverb 无/verb 明显/adjective 增加/verb 。/punctuation-mark
-Benavento等归纳的5个抗凝治疗预防[[<DIS>0]]的随机对照试验结果也表明，INR为2.0~2.6之间[[<SYM><DIS>1]]并发症也无明显增加。
+Benavento等归纳的5个抗凝治疗预防[[<DIS>0]]的随机对照试验结果也表明，INR为2.0~2.6之间[[<SYM>1]]并发症也无明显增加。
 命名实体: 脑卒中 出血
 实体关系: 
 ==================================================
@@ -1315,8 +1315,8 @@ SPAFII试验中，[[<MED>0]]和[[<MED>1]]在75岁以下的[[<SYM><DIS>2]]患者�
 实体关系: 
 ==================================================
 在/preposition 75/numeral 岁/classifier 以上/noun-of-locality 的/particle 高龄/noun 患者/noun ，/punctuation-mark 轻度/adverb 出血/verb 事件/noun 华法林/noun 组/noun (/punctuation-mark 20%/numeral )/punctuation-mark 高于/verb 阿司匹林/noun 组/noun (/punctuation-mark 11%/numeral )/punctuation-mark ，/punctuation-mark 而/conjunction 大出血/verb 事件/noun 在/preposition 这/pronoun 两/numeral 组/classifier 分别/adverb 为/verb 5%/numeral 和/conjunction 1.6%/numeral 。/punctuation-mark
-在75岁以上的高龄患者，[[<DIS>3]]事件[[<MED>1]]组(20%)高于[[<MED>2]]组(11%)，而大[[<SYM><DIS>0]]事件在这两组分别为5%和1.6%。
-命名实体: 出血 华法林 阿司匹林 轻度出血
+在75岁以上的高龄患者，轻度[[<SYM>0]]事件[[<MED>1]]组(20%)高于[[<MED>2]]组(11%)，而大[[<SYM>0]]事件在这两组分别为5%和1.6%。
+命名实体: 出血 华法林 阿司匹林
 实体关系: 
 ==================================================
 根据/preposition 在/preposition 有/verb 脑/noun 卒/noun 中/noun-of-locality 高/adjective 危险/adjective 的/particle SPAFIII/noun 试验/verb ，/punctuation-mark 小/adjective 剂量/noun 华法林/noun (/punctuation-mark INR/noun 1.2/numeral ~/punctuation-mark 1.5/numeral )/punctuation-mark 和/conjunction 阿司匹林/noun (/punctuation-mark 325mg/d/string )/punctuation-mark 联合/verb 治疗/verb 组/noun 的/particle 病/noun 死/verb 率/verb 和/conjunction 脑/noun 卒/noun 中/noun-of-locality 发生率/noun 均/adverb 高于/verb 单/adverb 用/verb 华法林/noun 组/noun (/punctuation-mark INR/noun 2/numeral ~/punctuation-mark 3/numeral )/punctuation-mark 。/punctuation-mark
@@ -1335,7 +1335,7 @@ SPAFII试验中，[[<MED>0]]和[[<MED>1]]在75岁以下的[[<SYM><DIS>2]]患者�
 实体关系: 
 ==================================================
 对/preposition 非/distinguishing-word 风湿/noun 性/noun 房/noun 颤/verb ，/punctuation-mark 疗效/noun 与/conjunction 出血/verb 危险/adjective 之间/noun-of-locality 最/adverb 好/adjective 的/particle 折中/verb 办法/noun 是/verb INR/noun 只/adverb 维持/verb 在/preposition 2.0/numeral 和/conjunction 3.0/numeral 之间/noun-of-locality 。/punctuation-mark
-对[[<DIS>1]]，疗效与[[<SYM><DIS>0]]危险之间最好的折中办法是INR只维持在2.0和3.0之间。
+对[[<DIS>1]]，疗效与[[<SYM>0]]危险之间最好的折中办法是INR只维持在2.0和3.0之间。
 命名实体: 出血 非风湿性房颤
 实体关系: 
 ==================================================
@@ -1345,8 +1345,8 @@ SPAFII试验中，[[<MED>0]]和[[<MED>1]]在75岁以下的[[<SYM><DIS>2]]患者�
 实体关系: 
 ==================================================
 日本/noun 的/particle 一个/numeral 非/distinguishing-word 瓣膜/noun 性/noun 房/noun 颤/verb 患者/noun 服用/verb 华法林/noun 二级/distinguishing-word 预防/verb 脑/noun 卒/noun 中/noun-of-locality 的/particle 前瞻性/noun 多/adjective 中心/noun 随机/adverb 试验/verb 的/particle 结果/noun ，/punctuation-mark 值得/verb 引起/verb 我国/noun 学者/noun 注意/verb 。/punctuation-mark
-日本的一个非瓣[[<DIS>0]][[<SYM><DIS>1]]患者服用[[<MED>2]]二级预防[[<DIS>3]]的前瞻性多中心随机试验的结果，值得引起我国学者注意。
-命名实体: 膜性 房颤 华法林 脑卒中
+日本的一个非瓣膜性[[<SYM><DIS>0]]患者服用[[<MED>1]]二级预防[[<DIS>2]]的前瞻性多中心随机试验的结果，值得引起我国学者注意。
+命名实体: 房颤 华法林 脑卒中
 实体关系: 
 ==================================================
 研究/verb 的/particle 人群/noun 包括/verb 非/distinguishing-word 风湿/noun 性/noun 房/noun 颤/verb 患者/noun 115/numeral 例/classifier ，/punctuation-mark 年龄/noun </punctuation-mark 80/numeral 岁/classifier ，/punctuation-mark 平均/verb (/punctuation-mark 66.7±6.5/numeral )/punctuation-mark 岁/noun ，/punctuation-mark 曾经/adverb 有/verb 过/particle 脑/noun 卒/noun 中/noun-of-locality 或/conjunction TIA/noun 随机/adverb 分为/verb 两/numeral 个/classifier 组/noun ，/punctuation-mark 传统/noun 华法/noun 林抗凝/noun 组/noun (/punctuation-mark INR/noun 2.2/numeral 至/preposition 3.5/numeral )/punctuation-mark 55/numeral 例/classifier ，/punctuation-mark 低/adjective 强度/noun 华法/noun 林抗凝/noun 组/noun (/punctuation-mark INR/noun 1.5/numeral 至/preposition 2.1/numeral )/punctuation-mark 60/numeral 例/classifier 。/punctuation-mark
@@ -1360,12 +1360,12 @@ SPAFII试验中，[[<MED>0]]和[[<MED>1]]在75岁以下的[[<SYM><DIS>2]]患者�
 实体关系: 
 ==================================================
 在/preposition 平均/adjective 随/adverb 访/verb (/punctuation-mark 658±432/numeral )/punctuation-mark d/onomatopoeia 后/noun-of-locality 这个/pronoun 试验/verb 终止/verb ，/punctuation-mark 因为/preposition 那时/pronoun 传统/noun 抗/verb 凝/verb 组/noun 中/noun-of-locality 6/numeral 例/classifier 发生/verb 了/particle 大出血/verb 并发症/noun ，/punctuation-mark 且/conjunction 出血/verb 并发症/noun (/punctuation-mark 1/numeral 年/classifier 6.6%/numeral )/punctuation-mark 显著/adjective 高于/verb 低/adjective 强度/noun 抗/verb 凝/verb 组/noun (/punctuation-mark 1/numeral 年/classifier 0%/numeral ，/punctuation-mark P=0.01/noun )/punctuation-mark 。/punctuation-mark
-在平均随访(658±432)d后这个试验终止，因为那时传统抗凝组中6例发生了大[[<SYM><DIS>0]]并发症，且[[<SYM><DIS>0]]并发症(1年6.6%)显著高于低强度抗凝组(1年0%，P=0.01)。
+在平均随访(658±432)d后这个试验终止，因为那时传统抗凝组中6例发生了大[[<SYM>0]]并发症，且[[<SYM>0]]并发症(1年6.6%)显著高于低强度抗凝组(1年0%，P=0.01)。
 命名实体: 出血
 实体关系: 
 ==================================================
 发生/verb 大出血/verb 并发症/noun 的/particle 患者/noun 平均/adjective 年龄/noun 74/numeral 岁/classifier ，/punctuation-mark 大出血/verb 并发症/noun 前/noun-of-locality 的/particle 平均/adjective INR/noun 是/verb 2.8/numeral 。/punctuation-mark
-发生大[[<SYM><DIS>0]]并发症的患者平均年龄74岁，大[[<SYM><DIS>0]]并发症前的平均INR是2.8。
+发生大[[<SYM>0]]并发症的患者平均年龄74岁，大[[<SYM>0]]并发症前的平均INR是2.8。
 命名实体: 出血
 实体关系: 
 ==================================================
@@ -1410,7 +1410,7 @@ SPAFII试验中，[[<MED>0]]和[[<MED>1]]在75岁以下的[[<SYM><DIS>2]]患者�
 实体关系: 
 ==================================================
 随机/adverb 对照/verb 的/particle 试验/verb 已/adverb 表明/verb 用/preposition 华法/noun 林抗凝/noun 治疗/verb 显著/adjective 降低/verb 缺/verb 血性/noun 脑/noun 卒/noun 中/noun-of-locality 的/particle 发生率/noun ，/punctuation-mark 然而/conjunction 增高/verb 出/verb 血性/noun 事件/noun 的/particle 危险/adjective 。/punctuation-mark
-随机对照的试验已表明用[[<MED>0]]抗凝治疗显著降低[[<DIS>2]]的发生率，然而增高[[<SYM><DIS>1]]性事件的危险。
+随机对照的试验已表明用[[<MED>0]]抗凝治疗显著降低[[<DIS>2]]的发生率，然而增高[[<SYM>1]]性事件的危险。
 命名实体: 华法林 出血 缺血性脑卒中
 实体关系: <0,MED-DIS|+,2>
 ==================================================
@@ -1590,8 +1590,8 @@ ibutilide的主要不良作用是发生[[<DIS>1]]的危险，但这个不良作�
 实体关系: 
 ==================================================
 也/adverb 可/verb 用/preposition 口服/verb 抗/verb 心律/noun 失常/adjective 药/noun 进行/verb 心律/noun 转/verb 复/verb ，/punctuation-mark 如/verb 有/verb 心功能/noun 不/adverb 全/adjective ，/punctuation-mark 首选/verb 胺/noun 碘/noun 酮/punctuation-mark ;/punctuation-mark 如/verb 心功能/noun 正常/adjective ，/punctuation-mark 可/conjunction 首先/adverb 用/verb 普/adjective 罗/distinguishing-word 帕/noun 酮/punctuation-mark ，/punctuation-mark 也/adverb 可/verb 用/preposition 氟/noun 卡/noun 尼/distinguishing-word 或/conjunction 索他洛尔/noun 。/punctuation-mark
-也可用口服[[<MED>0]]进行心律转复，如有[[<SYM><DIS>1]]，首选[[<MED>2]];如[[<DIS>3]]正常，可首先用[[<MED>4]]，也可用[[<MED>5]]或[[<MED>6]]。
-命名实体: 抗心律失常药 心功能不全 胺碘酮 心功能 普罗帕酮 氟卡尼 索他洛尔
+也可用口服[[<MED>0]]进行心律转复，如有[[<SYM><DIS>1]]，首选[[<MED>2]];如心功能正常，可首先用[[<MED>3]]，也可用[[<MED>4]]或[[<MED>5]]。
+命名实体: 抗心律失常药 心功能不全 胺碘酮 普罗帕酮 氟卡尼 索他洛尔
 实体关系: 
 ==================================================
 新近/adverb 经/preposition 美国/noun FDA/noun 批准/verb 并/conjunction 已/adverb 投放/verb 市场/noun 的/particle III/noun 类/classifier 药/noun dofetilide/noun ，/punctuation-mark 在/preposition 1999年/time-word 发表/verb 的/particle EMERALD/noun 对照/verb 研究/verb 结果/noun 表明/verb ，/punctuation-mark 能/verb 有效/adjective 地/particle 使/verb 房/noun 颤/verb 转/verb 复/adverb 为/verb 窦性/noun 心律/noun ，/punctuation-mark 但是/conjunction dofetilide/noun 没有/adverb 与/preposition I/noun 类/classifier 药/noun 直接/adjective 对比/verb ，/punctuation-mark 其/pronoun 转/verb 复/verb 心律/noun 的/particle 疗效/noun 有待/verb 进一步/adverb 确定/verb 。/punctuation-mark
@@ -1625,8 +1625,8 @@ ibutilide的主要不良作用是发生[[<DIS>1]]的危险，但这个不良作�
 实体关系: 
 ==================================================
 这样/pronoun 的/particle 患者/noun 不必/adverb 采用/verb 每天/pronoun 服药/verb 的/particle 预防/verb 措施/noun ，/punctuation-mark 而/conjunction 只/adverb 在/preposition “/punctuation-mark 需要/noun ”/punctuation-mark 时/noun 才/adverb 服药/verb ，/punctuation-mark 1/numeral 年/classifier 服用/verb 少数/numeral 几/numeral 次/classifier 药物/noun 就/adverb 可以/verb 了/modal-particle 。/punctuation-mark
-这样的患者不必采用每天服药的[[<DIS>0]]，而只在“需要”时才服药，1年服用少数几次药物就可以了。
-命名实体: 预防措施
+这样的患者不必采用每天服药的预防措施，而只在“需要”时才服药，1年服用少数几次药物就可以了。
+命名实体:
 实体关系: 
 ==================================================
 但/conjunction 采用/verb 这种/pronoun 治疗/verb 的/particle 房/noun 颤/verb 患者/noun 必须/adverb (/punctuation-mark 1/numeral )/punctuation-mark 没有/adverb 对/preposition I/noun 类/classifier 药物/noun 的/particle 禁忌/noun 证/noun (/punctuation-mark 诸如/verb 心肌/noun 缺血/verb 、/punctuation-mark 严重/adjective 的/particle 器/noun 质/noun 性/noun 心脏病/noun 、/punctuation-mark 窦/noun 房/noun 结/verb 功能/noun 低下/adjective 、/punctuation-mark 或/conjunction 束/verb 支/classifier 阻滞/verb )/punctuation-mark ；/punctuation-mark (/punctuation-mark 2/numeral )/punctuation-mark 若/verb 24h/noun 后/noun-of-locality 仍/adverb 未/adverb 转/verb 复/adverb 为/verb 窦性/noun 心律/noun ，/punctuation-mark 而/conjunction 改用/verb 别的/pronoun 方法/noun 来/verb 转/verb 复/adverb 时/noun ，/punctuation-mark 需/verb 用/preposition 华法/noun 林抗凝/noun 治疗/verb 。/punctuation-mark
@@ -1880,8 +1880,8 @@ ibutilide的主要不良作用是发生[[<DIS>1]]的危险，但这个不良作�
 实体关系: 
 ==================================================
 如果/conjunction 没有/verb 暂时性/noun 禁忌/noun 证/noun 存在/verb ，/punctuation-mark 诸如/verb 洋地黄/noun 毒性/noun 反应/verb 、/punctuation-mark 低/adjective 钾/noun 血/noun 症/noun 、/punctuation-mark 急性/distinguishing-word 感染/verb 性/noun 或/conjunction 炎/noun 性/noun 疾病/noun 、/punctuation-mark 以及/conjunction 未/adverb 代/verb 偿/verb 的/particle 心力衰竭/noun 等/particle ，/punctuation-mark 体/noun 外电/noun 转/verb 复/adverb 是/verb 首选/verb 的/particle 治疗/verb 措施/noun 。/punctuation-mark
-如果没有暂时性禁忌证存在，诸如[[<DIS>2]]、[[<SYM><DIS>0]]、[[<DIS>3]]性或炎性疾病、以及未代偿的[[<SYM><DIS>1]]等，体外电转复是首选的治疗措施。
-命名实体: 低钾血症 心力衰竭 洋地黄毒性反应 急性感染
+如果没有暂时性禁忌证存在，诸如[[<DIS>2]]、[[<SYM><DIS>0]]、急性感染性或炎性疾病、以及未代偿的[[<SYM><DIS>1]]等，体外电转复是首选的治疗措施。
+命名实体: 低钾血症 心力衰竭 洋地黄毒性反应
 实体关系: 
 ==================================================
 体/noun 外电/noun 转/verb 复/adverb 对/preposition 左/adjective 心室/noun 功能/noun 严重/adjective 损害/verb 的/particle 患者/noun 要/verb 十分/adverb 谨慎/adjective ，/punctuation-mark 因为/conjunction 有/verb 发生/verb 肺水肿/noun 的/particle 可能/noun 房/noun 颤/verb 持续/verb 时间/noun ≧/punctuation-mark 48h/noun 或/conjunction 持续/verb 时间/noun 不/adverb 明/adjective 的/particle 患者/noun ，/punctuation-mark 在/preposition 转/verb 复/verb 心律/noun 之前/noun-of-locality 3/numeral 个/classifier 星期/noun 和/conjunction 转/verb 复/verb 后/noun-of-locality 至少/adverb 4/numeral 个/classifier 星期/noun 应/verb 继续/verb 抗凝/noun 治疗/verb 。/punctuation-mark
@@ -1905,8 +1905,8 @@ TEE检查心房(尤其左心房)有无血栓是有用的。
 实体关系: 
 ==================================================
 对/preposition 血栓/noun 栓塞/noun 形成/verb 有/verb 特别/adverb 高危/adjective 的/particle 患者/noun ，/punctuation-mark 例如/verb 有/verb 脑血管/noun 意外/adjective 病史/noun 、/punctuation-mark 左/adjective 心室/noun 功能/noun 异常/adjective 或/conjunction 瓣膜/noun 性/noun 心脏病/noun 者/suffix ，/punctuation-mark 也/adverb 应/verb 作/verb TEE/noun 检查/verb 。/punctuation-mark
-对血栓栓塞形成有特别高危的患者，例如有[[<DIS>0]]病史、左心室功能异常或瓣[[<DIS>1]][[<DIS>2]]者，也应作TEE检查。
-命名实体: 脑血管意外 膜性 心脏病
+对血栓栓塞形成有特别高危的患者，例如有[[<DIS>0]]病史、左心室功能异常或瓣膜性[[<DIS>1]]者，也应作TEE检查。
+命名实体: 脑血管意外 心脏病
 实体关系: 
 ==================================================
 经/preposition 体/noun 外电/noun 转/verb 复/adverb 失败/verb 的/particle 房/noun 颤/verb 患者/noun ，/punctuation-mark TEE/noun 和/conjunction 肝素/noun 结合/verb 的/particle 方法/noun ，/punctuation-mark 对/preposition 采用/verb 心/noun 内/noun-of-locality 电/noun 转/verb 复/verb 方法/noun 很/adverb 有/verb 帮助/verb 。/punctuation-mark
@@ -1915,8 +1915,8 @@ TEE检查心房(尤其左心房)有无血栓是有用的。
 实体关系: 
 ==================================================
 择/verb 期/classifier 电/noun 转/verb 复/verb 心律/noun 之前/noun-of-locality ，/punctuation-mark 应/verb 作/verb 实验室/noun 检查/verb 包括/verb 甲状腺/noun 功能/noun 、/punctuation-mark 血清/noun 肌/noun 酐/punctuation-mark 、/punctuation-mark 和/conjunction 血清/noun 钾/noun 等/particle 。/punctuation-mark
-择期电转复心律之前，应作[[<DIS>0]]包括甲状腺功能、血清肌酐、和血清钾等。
-命名实体: 实验室检查
+择期电转复心律之前，应作实验室检查包括甲状腺功能、血清肌酐、和血清钾等。
+命名实体:
 实体关系: 
 ==================================================
 至于/preposition 中国/noun 的/particle 患者/noun 有效/adjective 抗凝/noun 治疗/verb 所/particle 需/verb 的/particle INR/noun 是/verb 多少/pronoun ，/punctuation-mark 前面/noun-of-locality 已/adverb 作/verb 了/particle 讨论/verb 。/punctuation-mark
@@ -2175,8 +2175,8 @@ azimilide也可作为第二选择。
 实体关系: 
 ==================================================
 如果/conjunction 患者/noun 的/particle 心功能/noun 好/adjective 或/conjunction 仅/adverb 有/verb 轻度/adverb 损害/verb ，/punctuation-mark 而/conjunction 药物/noun 治疗/verb 前/noun-of-locality 的/particle 房/noun 颤/verb 是/verb 阵/noun 发/verb 性/noun 的/particle 也/adverb 无/verb 明显/adjective 的/particle 血流/noun 动力学/noun 恶化/verb ，/punctuation-mark 停/verb 用/preposition 抗/verb 心律/noun 失常/adjective 药物/noun 观察/verb 一/numeral 段/classifier 时间/noun 是/verb 可以/verb 的/particle 。/punctuation-mark
-如果患者的[[<DIS>0]]好或仅有轻度损害，而药物治疗前的[[<SYM><DIS>1]]是阵发性的也无明显的血流动力学恶化，停用[[<MED>2]]观察一段时间是可以的。
-命名实体: 心功能 房颤 抗心律失常药物
+如果患者的心功能好或仅有轻度损害，而药物治疗前的[[<SYM><DIS>0]]是阵发性的也无明显的血流动力学恶化，停用[[<MED>1]]观察一段时间是可以的。
+命名实体: 房颤 抗心律失常药物
 实体关系: 
 ==================================================
 但是/conjunction 这些/pronoun 患者/noun 仍/adverb 有/verb 房/noun 颤/verb 复发/verb 的/particle 可能/noun ，/punctuation-mark 华法林/noun (/punctuation-mark 如果/conjunction 需要/verb 用/verb 的/particle )/punctuation-mark 不要/adverb 停/verb 用/verb 。/punctuation-mark
@@ -2210,8 +2210,8 @@ azimilide也可作为第二选择。
 实体关系: 
 ==================================================
 房/noun 颤/verb 经/preposition 转/verb 复/verb 心律/noun 后/noun-of-locality ，/punctuation-mark 设法/verb 维持/verb 窦/noun 性/noun 心律/noun 、/punctuation-mark 防止/verb 房/noun 颤/verb 复发/verb ，/punctuation-mark 对/preposition 保护/verb 心功能/noun 、/punctuation-mark 减少/verb 并发症/noun 和/conjunction 改善/verb 生活/verb 质量/noun 有/verb 重要/adjective 意义/noun 。/punctuation-mark
-[[<SYM><DIS>0]]经转复心律后，设法维持窦性心律、防止[[<SYM><DIS>0]]复发，对保护[[<DIS>1]]、减少并发症和改善生活质量有重要意义。
-命名实体: 房颤 心功能
+[[<SYM><DIS>0]]经转复心律后，设法维持窦性心律、防止[[<SYM><DIS>0]]复发，对保护心功能、减少并发症和改善生活质量有重要意义。
+命名实体: 房颤
 实体关系: 
 ==================================================
 以/preposition 目前/time-word 有/verb 的/particle 抗/verb 心律/noun 失常/adjective 药物/noun 来/verb 防止/verb 房/noun 颤/verb 复发/verb ，/punctuation-mark 有/verb 一定/distinguishing-word 效果/noun ，/punctuation-mark 但/conjunction 不/adverb 尽/verb 人意/noun 。/punctuation-mark
@@ -2220,8 +2220,8 @@ azimilide也可作为第二选择。
 实体关系: 
 ==================================================
 如果/conjunction 患者/noun 有/verb 基础/noun 心脏病/noun 存在/verb ，/punctuation-mark 心功能/noun 受损/verb 较/adverb 明显/adjective ，/punctuation-mark 房/noun 颤/verb 发作/verb 时/noun 有/verb 血流/noun 动力学/noun 恶化/verb 的/particle 倾向/noun ，/punctuation-mark 或/conjunction 虽/conjunction 在/preposition 药物/noun 预防/verb 性/noun 治疗/verb 下/verb 房/noun 颤/verb 复发/verb 次数/noun 较/adverb 多/adjective 且/conjunction 每/pronoun 次/classifier 发作/verb 持续/verb 时间/noun 较/adverb 长/adjective ，/punctuation-mark 可以/verb 考虑/verb 采用/verb 非/distinguishing-word 药物/noun 方法/noun 来/verb 防止/verb 房/noun 颤/verb 复发/verb 。/punctuation-mark
-如果患者有基础[[<DIS>0]]存在，[[<DIS>1]]受损较明显，[[<SYM><DIS>2]]发作时有血流动力学恶化的倾向，或虽在药物预防性治疗下[[<SYM><DIS>2]]复发次数较多且每次发作持续时间较长，可以考虑采用非药物方法来防止[[<SYM><DIS>2]]复发。
-命名实体: 心脏病 心功能 房颤
+如果患者有基础[[<DIS>0]]存在，心功能受损较明显，[[<SYM><DIS>1]]发作时有血流动力学恶化的倾向，或虽在药物预防性治疗下[[<SYM><DIS>1]]复发次数较多且每次发作持续时间较长，可以考虑采用非药物方法来防止[[<SYM><DIS>1]]复发。
+命名实体: 心脏病 房颤
 实体关系: 
 ==================================================
 另/pronoun 一/numeral 途径/noun 是/verb 等待/verb 新药/noun 问世/verb ，/punctuation-mark 尤其/adverb 新/adjective 的/particle III/noun 类/noun 抗/verb 心律/noun 失常/adjective 药物/noun 。/punctuation-mark
@@ -2300,8 +2300,8 @@ Metrix成功终止了96%的[[<SYM><DIS>0]]自身发作，在27%的发作中，�
 实体关系: 
 ==================================================
 5/numeral 例/classifier 患者/noun 的/particle IAD/noun 被迫/adverb 取出/verb ，/punctuation-mark 由于/conjunction 感染/verb (/punctuation-mark 2/numeral 例/classifier )/punctuation-mark 、/punctuation-mark 心包/noun 填/verb 塞/verb (/punctuation-mark 1/numeral 例/classifier )/punctuation-mark 、/punctuation-mark 遥测/verb 功能/noun 丧失/verb (/punctuation-mark 1/numeral 例/classifier )/punctuation-mark 、/punctuation-mark 以及/conjunction 1/numeral 例/classifier 因/preposition 房/noun 颤/verb 发作/verb 时/noun 心室/noun 反应/verb 太/adverb 快/adjective 而/conjunction 需/verb 进行/verb 希/distinguishing-word 氏/noun 束/verb 消融/verb 。/punctuation-mark
-5例患者的IAD被迫取出，由于[[<DIS>0]](2例)、[[<SYM>1]](1例)、遥测功能丧失(1例)、以及1例因[[<SYM><DIS>2]]发作时心室反应太快而需进行希氏束消融。
-命名实体: 感染 心包填塞 房颤
+5例患者的IAD被迫取出，由于感染(2例)、[[<SYM>0]](1例)、遥测功能丧失(1例)、以及1例因[[<SYM><DIS>1]]发作时心室反应太快而需进行希氏束消融。
+命名实体: 心包填塞 房颤
 实体关系: 
 ==================================================
 我国/noun 香港/noun 地区/noun 刘柱柏/noun 等/particle 报告/noun 了/particle 11/numeral 例/classifier 阵/noun 发/verb 性/noun 或/conjunction 持续性/noun 房/noun 颤/verb 患者/noun 植/verb 入/verb 了/particle Metrix/noun 的/particle 经验/noun ，/punctuation-mark 随/adverb 访/verb 6/numeral 个/classifier 月/noun IAD/noun 发放/verb 了/particle 226/numeral 次/classifier 电击/verb ，/punctuation-mark 成功/adjective 地/particle 使/verb 93.4%/numeral 的/particle 房/noun 颤/verb 转/verb 复/adverb 为/verb 窦性/noun 心律/noun 。/punctuation-mark
@@ -2450,8 +2450,8 @@ McCarthy等报道了克利夫兰中心(Cleveland Clinic)1991年至1999年6月100
 实体关系: 
 ==================================================
 24%/numeral 的/particle 患者/noun 迷宫/noun 术前/noun 有/verb 晕厥/verb 发作/verb 术/noun 后/noun-of-locality 均/adverb 无/verb 发作/verb 14%/numeral 的/particle 患者/noun 在/preposition 迷宫/noun 术前/noun 有/verb 脑/noun 动脉/noun 栓塞/noun 或/conjunction 体/noun 动脉/noun 栓塞/noun ，/punctuation-mark 而/conjunction 术/noun 后/noun-of-locality 无/verb 1/numeral 例/classifier 发生/verb 围/verb 术/noun 期/noun 或/conjunction 晚期/time-word 栓塞/noun 性/noun 事件/noun 。/punctuation-mark
-24%的患者迷宫术前有[[<DIS>0]]发作术后均无发作14%的患者在迷宫术前有[[<DIS>1]]或体[[<DIS>2]]，而术后无1例发生围术期或晚期栓塞性事件。
-命名实体: 晕厥 脑动脉栓塞 动脉栓塞
+24%的患者迷宫术前有晕厥发作术后均无发作14%的患者在迷宫术前有[[<DIS>0]]或体[[<DIS>1]]，而术后无1例发生围术期或晚期栓塞性事件。
+命名实体: 脑动脉栓塞 动脉栓塞
 实体关系: 
 ==================================================
 Izumoto/noun 等/particle 报道/verb 了/particle 自/preposition 1995年/time-word 期间/noun-of-locality 为/verb 连续/adjective 104/numeral 例/classifier 伴/verb 有/verb 其它/pronoun 心脏病/noun 的/particle 慢性/distinguishing-word 房/noun 颤/verb 患者/noun 同时/noun 进行/verb 了/particle 心脏病/noun 的/particle 手术/verb 和/conjunction 迷宫/noun -/punctuation-mark III/noun 的/particle 中期/noun-of-locality 观察/verb 结果/noun 。/punctuation-mark
@@ -2470,8 +2470,8 @@ Izumoto等报道了自1995年期间为连续104例伴有其它[[<DIS>0]]的[[<SY
 实体关系: 
 ==================================================
 1/numeral 年/classifier 和/conjunction 5/numeral 年/classifier 生存率/noun 为/preposition 95.1%/numeral 和/conjunction 87.8%/numeral ，/punctuation-mark 术前/noun 心功能/noun (/punctuation-mark NYHA/noun )/punctuation-mark 平均/adjective 为/verb (/punctuation-mark 2.5/numeral 士/noun 0.7/numeral )/punctuation-mark 级/noun ，/punctuation-mark 中期/noun-of-locality (/punctuation-mark 5/numeral 年/classifier )/punctuation-mark 平均/adjective 为/verb (/punctuation-mark 1.5/numeral 士/noun 0.5/numeral )/punctuation-mark 级/noun (/punctuation-mark P/noun </punctuation-mark 0.001/numeral )/punctuation-mark 。/punctuation-mark
-1年和5年生存率为95.1%和87.8%，术前[[<DIS>0]](NYHA)平均为(2.5士0.7)级，中期(5年)平均为(1.5士0.5)级(P<0.001)。
-命名实体: 心功能
+1年和5年生存率为95.1%和87.8%，术前心功能(NYHA)平均为(2.5士0.7)级，中期(5年)平均为(1.5士0.5)级(P<0.001)。
+命名实体:
 实体关系: 
 ==================================================
 随/preposition 访/verb 期间/noun-of-locality 窦/noun 性/noun 心律/noun 组/noun 中/noun-of-locality 72%/numeral 仍/adverb 维持/verb 窦/noun 性/noun 心律/noun ，/punctuation-mark 22%/numeral 转/verb 回/verb 为/preposition 房/noun 颤/verb ，/punctuation-mark 另/adverb 有/verb 6/numeral 例/classifier 患者/noun 新/adverb 发生/verb 病态/noun 窦/noun 房/noun 结/verb 综合征/noun 。/punctuation-mark
@@ -2575,7 +2575,7 @@ Andersen等前瞻性地比较了对225例[[<SYM>0]]患者以AAI与VVI起搏对�
 实体关系: 
 ==================================================
 加拿大/noun 生/verb 理性/noun 起/verb 搏/verb 试验/verb (/punctuation-mark Canadian/noun Trial/noun of/preposition Physiologic/noun Pacing/noun )/punctuation-mark ，/punctuation-mark 比较/adverb 了/particle 慢/adjective -/punctuation-mark 快/adjective 综合征/noun 患者/noun DDDR/noun 与/preposition VVIR/noun 起/noun-of-locality 搏/verb 对/preposition 预防/verb 房/noun 性/noun 快速/distinguishing-word 心律/noun 失常/adjective 的/particle 作用/noun 。/punctuation-mark
-加拿大生理性起搏试验(Canadian Trial of Physiologic Pacing)，比较了慢-快[[<SYM><DIS>0]]患者DDDR与VVIR起搏对预防房性快速[[<SYM><DIS>1]]的作用。
+加拿大生理性起搏试验(Canadian Trial of Physiologic Pacing)，比较了慢-快[[<SYM>0]]患者DDDR与VVIR起搏对预防房性快速[[<SYM><DIS>1]]的作用。
 命名实体: 综合征 心律失常
 实体关系: 
 ==================================================
@@ -2660,8 +2660,8 @@ Daoud等的一项双盲随机试验中，118例进行了心脏直视手术后的
 实体关系: 
 ==================================================
 Fan/noun 等/particle 进行/verb 了/particle 类似/adjective 的/particle 临床/verb 观察/verb ，/punctuation-mark 也/adverb 发现/verb 双/numeral 心房/noun 超速/verb 起/verb 搏/verb 对/preposition 冠状动脉/noun 搭桥/verb 术/noun 后/noun-of-locality 预防/verb 房/noun 颤/verb 发生/verb 的/particle 作用/noun ，/punctuation-mark 显著/adjective 比/preposition 心房/noun 单/distinguishing-word 部位/noun 起/verb 搏/verb 好/adjective 。/punctuation-mark
-Fan等进行了类似的临床观察，也发现双心房超速起搏对[[<DIS>0]]预防[[<SYM><DIS>1]]发生的作用，显著比心房单部位起搏好。
-命名实体: 冠状动脉搭桥术后 房颤
+Fan等进行了类似的临床观察，也发现双心房超速起搏对[[<TRE>0]]后预防[[<SYM><DIS>1]]发生的作用，显著比心房单部位起搏好。
+命名实体: 冠状动脉搭桥术 房颤
 实体关系: 
 ==================================================
 郭继鸿/noun 等/particle 也/adverb 对/preposition 双/numeral 心房/noun 起/verb 搏/verb 预防/verb 房/noun 颤/verb 发生/verb 作/verb 了/particle 临床/verb 研究/verb ，/punctuation-mark 初步/adverb 结果/adverb 表明/verb 双/numeral 心房/noun 起/verb 搏/verb 与/preposition 高位/noun 右/noun-of-locality 心房/noun 起/verb 搏/verb 相比/verb ，/punctuation-mark 在/preposition 随/adverb 访/verb 期/classifier (/punctuation-mark 平均/adjective 1/numeral 年/classifier )/punctuation-mark 内/noun-of-locality 房/noun 颤/verb 的/particle 发生率/noun 较/adverb 低/adjective 。/punctuation-mark
@@ -2700,8 +2700,8 @@ Fan等进行了类似的临床观察，也发现双心房超速起搏对[[<DIS>0
 实体关系: 
 ==================================================
 右/noun-of-locality 心房/noun 双/classifier 部位/noun 起/verb 搏/verb 和/conjunction 双/numeral 心房/noun 起/verb 搏/verb 预防/verb 房/noun 颤/verb 复发/verb 的/particle 效果/noun 是/verb 比较/adverb 肯定/verb 的/particle ，/punctuation-mark 尽管/conjunction 积累/verb 的/particle 病例/noun 数量/noun 还/adverb 不/adverb 够/verb 多/numeral ;/punctuation-mark 而/conjunction 单/distinguishing-word 心房/noun 起/verb 搏/verb ，/punctuation-mark 不论/conjunction 左/adjective 或/conjunction 右/noun-of-locality 心房/noun 起/verb 搏/verb ，/punctuation-mark 以及/conjunction 双/numeral 腔/classifier (/punctuation-mark DDD/noun )/punctuation-mark 起/noun-of-locality 搏/verb ，/punctuation-mark 预防/verb 房/noun 颤/verb 发作/verb 的/particle 效果/noun 不/adverb 好/adjective ，/punctuation-mark 不论是/conjunction 在/preposition 窦/noun 房/noun 结/verb 病变/verb 的/particle 患者/noun 、/punctuation-mark 心脏/noun 直视/verb 手术/noun 后/noun-of-locality 或/conjunction 冠状动脉/noun 搭桥/verb 术/noun 后/noun-of-locality 的/particle 患者/noun 。/punctuation-mark
-右心房双部位起搏和双心房起搏预防[[<SYM><DIS>0]]复发的效果是比较肯定的，尽管积累的病例数量还不够多;而[[<DIS>1]]起搏，不论左或右心房起搏，以及双腔(DDD)起搏，预防[[<SYM><DIS>0]]发作的效果不好，不论是在[[<SYM>2]]的患者、心脏直视手术后或[[<DIS>3]]的患者。
-命名实体: 房颤 单心房 窦房结病变 冠状动脉搭桥术后
+右心房双部位起搏和双心房起搏预防[[<SYM><DIS>0]]复发的效果是比较肯定的，尽管积累的病例数量还不够多;而[[<DIS>1]]起搏，不论左或右心房起搏，以及双腔(DDD)起搏，预防[[<SYM><DIS>0]]发作的效果不好，不论是在[[<SYM>2]]的患者、心脏直视手术后或[[<TRE>3]]后的患者。
+命名实体: 房颤 单心房 窦房结病变 冠状动脉搭桥术
 实体关系: 
 ==================================================
 有/verb 房间/noun 阻滞/verb 表现/verb 的/particle (/punctuation-mark 体表/noun 心动/verb 图/noun 上/noun-of-locality P/noun 波/noun 宽大/adjective 和/conjunction //punctuation-mark 或/conjunction P/noun 波/noun 有/verb 切/verb 迹/noun )/punctuation-mark 和/conjunction 有/verb 较/adverb 多/adjective 房/noun 性/suffix 早/adjective 搏/verb 的/particle 患者/noun 是/verb 适宜/verb 双/numeral 心房/noun 或/conjunction 右/noun-of-locality 心房/noun 双/classifier 部位/noun 起/verb 搏/verb 的/particle 患者/noun ，/punctuation-mark 可能/verb 在/preposition 多数/numeral 患者/noun 可以/verb 达到/verb 消除/verb 或/conjunction 减少/verb 房/noun 颤/verb 发作/verb 或/conjunction 复发/verb 的/particle 目的/noun 。/punctuation-mark
@@ -2750,8 +2750,8 @@ Swartz等(1994)报告了28例[[<SYM>0]]以导管射频消融的结果，是临�
 实体关系: 
 ==================================================
 根据/preposition Cox/noun 迷宫/noun 术/noun 的/particle 原理/noun ，/punctuation-mark 采用/verb 导管/noun 射/verb 频/adverb 消融/verb 技术/noun 在/preposition 心/noun 房/noun 内/noun-of-locality 造成/verb 多/numeral 条/classifier 线性/noun (/punctuation-mark 连续/adjective 的/particle )/punctuation-mark 损伤/verb ，/punctuation-mark 减/verb 小/adjective 相互/adverb 连接/verb 的/particle 心房/noun 组织/noun 块/classifier ，/punctuation-mark 从而/conjunction 减少/verb 可能/verb 发生/verb 折返/verb 激动/adjective 的/particle 折返/verb 径/noun 路/noun 的/particle 数目/noun ，/punctuation-mark 防止/verb 多/adjective 个子/noun 波折/noun 返/verb 激动/adjective 从而/conjunction 防止/verb 房/noun 颤/verb 的/particle 发生/verb 。/punctuation-mark
-根据Cox迷宫术的原理，采用导管射频消融技术在心房内造成多条线性(连续的)[[<DIS>0]]，减小相互连接的心房组织块，从而减少可能发生折返激动的折返径路的数目，防止多个子波折返激动从而防止[[<SYM><DIS>1]]的发生。
-命名实体: 损伤 房颤
+根据Cox迷宫术的原理，采用导管射频消融技术在心房内造成多条线性(连续的)损伤，减小相互连接的心房组织块，从而减少可能发生折返激动的折返径路的数目，防止多个子波折返激动从而防止[[<SYM><DIS>0]]的发生。
+命名实体: 房颤
 实体关系: 
 ==================================================
 Cox/noun 迷宫/noun 术/noun 和/conjunction 导管/noun 射/verb 频/adjective 线性/noun 消融/verb 都/adverb 是/verb 针对/preposition 房/noun 颤/verb 发生/verb 机制/noun 中/noun-of-locality 的/particle 异常/adjective 电/noun 生理/noun 基/noun 质/noun ，/punctuation-mark 通过/preposition 改变/verb 基/noun 质/noun 而/conjunction 达到/verb 防止/verb 房/noun 颤/verb 的/particle 发生/verb 和/conjunction 维持/verb 。/punctuation-mark
@@ -2775,13 +2775,13 @@ Cox迷宫术和导管射频线性消融都是针对[[<SYM><DIS>0]]发生机制�
 实体关系: 
 ==================================================
 以/preposition Jais/noun 等/particle 1999年/time-word 报道/verb 的/particle 1/numeral 组/classifier 47/numeral 例/classifier 药物/noun 治疗/verb 无效/verb 的/particle 慢性/distinguishing-word 房/noun 颤/verb 患者/noun (/punctuation-mark 平均/adjective 年龄/noun 54.7/numeral 岁/classifier )/punctuation-mark 进行/verb 线性/noun 消融/verb 结果/noun 为/preposition 例/noun ，/punctuation-mark 通过/preposition 射/verb 频/adverb 消融/verb 在/preposition 右/noun-of-locality 心房/noun 内/noun-of-locality 造成/verb 2/numeral 条/classifier 线性/noun 损伤/verb (/punctuation-mark 间隔/noun 部/classifier 1/numeral 条/classifier ，/punctuation-mark 下/noun-of-locality 腔/classifier 静脉/noun 至/preposition 三/numeral 尖/noun 瓣/noun 环/verb 1/numeral 条/classifier )/punctuation-mark ，/punctuation-mark 经/preposition 房/noun 间隔/verb 穿刺/verb 送入/verb 消融/verb 导管/noun 在/preposition 左/adjective 心房/noun 成功/adjective 地/particle 消融/verb 造成/verb 3-4/numeral 条/classifier 线性/noun 损伤/verb 其中/pronoun 2/numeral 条/classifier 分别/adverb 自/preposition 左/adjective 、/punctuation-mark 右/noun-of-locality 上/verb 肺静脉/noun 至/preposition 二尖瓣/noun 环/noun 后/noun-of-locality 部/classifier ，/punctuation-mark 另/pronoun 1/numeral 条/classifier 连接/verb 他们/pronoun 。/punctuation-mark
-以Jais等1999年报道的1组47例药物治疗无效的[[<SYM>0]]患者(平均年龄54.7岁)进行线性消融结果为例，通过射频消融在右心房内造成2条线性[[<DIS>1]](间隔部1条，下腔静脉至三尖瓣环1条)，经房间隔穿刺送入消融导管在左心房成功地消融造成3-4条线性[[<DIS>1]]其中2条分别自左、右上肺静脉至二尖瓣环后部，另1条连接他们。
-命名实体: 慢性房颤 损伤
+以Jais等1999年报道的1组47例药物治疗无效的[[<SYM>0]]患者(平均年龄54.7岁)进行线性消融结果为例，通过射频消融在右心房内造成2条线性损伤(间隔部1条，下腔静脉至三尖瓣环1条)，经房间隔穿刺送入消融导管在左心房成功地消融造成3-4条线性损伤其中2条分别自左、右上肺静脉至二尖瓣环后部，另1条连接他们。
+命名实体: 慢性房颤
 实体关系: 
 ==================================================
 对/preposition 23/numeral 例/classifier 患者/noun 增加/verb 了/particle 1/numeral 条/classifier 左/adjective 心房/noun 间隔/noun 部/classifier 线性/noun 损伤/verb ，/punctuation-mark 自/preposition 右/noun-of-locality 上/verb 肺静脉/noun 至/preposition 卵/noun 圆/verb 孔/noun 。/punctuation-mark
-对23例患者增加了1条左心房间隔部线性[[<DIS>0]]，自右上肺静脉至卵圆孔。
-命名实体: 损伤
+对23例患者增加了1条左心房间隔部线性损伤，自右上肺静脉至卵圆孔。
+命名实体:
 实体关系: 
 ==================================================
 44/numeral 例/classifier 中/noun-of-locality ，/punctuation-mark 25/numeral 例/classifier (/punctuation-mark 57%/numeral )/punctuation-mark 成功/adjective 地/particle 使/verb 房/noun 颤/verb 转/verb 复/adverb 为/verb 窦性/noun 心律/noun ，/punctuation-mark 不用/adverb 抗/verb 心律/noun 失常/adjective 药物/noun 。/punctuation-mark
@@ -2815,8 +2815,8 @@ Cox迷宫术和导管射频线性消融都是针对[[<SYM><DIS>0]]发生机制�
 实体关系: 
 ==================================================
 研究/verb 表明/verb ，/punctuation-mark 消融/verb 径/noun 线/noun 的/particle 连续/adjective 完整/adjective 和/conjunction 透/verb 壁/noun 损伤/verb 是/verb 决定/verb 线性/noun 消融/verb 效果/noun 的/particle 最/adverb 重要/adjective 因素/noun ，/punctuation-mark 而/conjunction 传统/noun 的/particle 消融/verb 及/conjunction 标/verb 测/verb 系统/noun 常/adverb 难以/adverb 实现/verb 连续/adjective 透/verb 壁/noun 损伤/verb ，/punctuation-mark 也/adverb 很/adverb 难/adjective 对/preposition 损伤/verb 程度/noun 作出/verb 准确/adjective 判断/verb 。/punctuation-mark
-研究表明，消融径线的连续完整和透壁[[<DIS>0]]是决定线性消融效果的最重要因素，而传统的消融及标测系统常难以实现连续透壁[[<DIS>0]]，也很难对[[<DIS>0]]程度作出准确判断。
-命名实体: 损伤
+研究表明，消融径线的连续完整和透壁损伤是决定线性消融效果的最重要因素，而传统的消融及标测系统常难以实现连续透壁损伤，也很难对损伤程度作出准确判断。
+命名实体:
 实体关系: 
 ==================================================
 新型/distinguishing-word 的/particle 消融/verb 导管/noun (/punctuation-mark 如/verb 多极/noun 同步/verb 放电/verb 消融/verb 导管/noun )/punctuation-mark 和/conjunction 标/verb 测/verb 系统/noun (/punctuation-mark 如/verb CARTO/noun 系统/noun )/punctuation-mark 虽/conjunction 可能/verb 具有/verb 这/pronoun 方面/noun 的/particle 优势/noun ，/punctuation-mark 但/conjunction 目前/time-word 的/particle 研究/verb 尚/adverb 不/adverb 充分/adjective ；/punctuation-mark (/punctuation-mark 3/numeral )/punctuation-mark 安全性/noun 亟待/verb 提高/verb 。/punctuation-mark
@@ -2900,8 +2900,8 @@ Cox迷宫术和导管射频线性消融都是针对[[<SYM><DIS>0]]发生机制�
 实体关系: 
 ==================================================
 需要/verb 说明/verb 的/particle 是/verb ，/punctuation-mark 应/verb 用/verb X/noun 线/noun 影像/noun 和/conjunction 传统/noun 的/particle 标/noun 测/verb //punctuation-mark 消融/verb 系统/noun ，/punctuation-mark 常/adverb 难以/adverb 在/preposition 肺静脉/noun 开口/verb 部/classifier 实现/verb 连续/adjective 透/verb 壁/noun 的/particle 损伤/verb ；/punctuation-mark 而/conjunction 在/preposition 新型/distinguishing-word 标/noun 测/verb 系统/noun (/punctuation-mark 如/verb CARTO/noun 标/noun 测/verb 系统/noun 和/conjunction 非/distinguishing-word 接触/verb 标/noun 测/verb 系统/noun )/punctuation-mark 或/conjunction 影像/noun 设备/noun (/punctuation-mark 如/verb 心/noun 腔/noun 内/noun-of-locality 超声/noun )/punctuation-mark 指引/verb 下/noun-of-locality 进行/verb 消融/verb 或/conjunction 使用/verb 新型/distinguishing-word 的/particle 消融/verb 器械/noun (/punctuation-mark 如/verb 肺静脉/noun 超声/noun 球/noun 囊/noun 导管/noun )/punctuation-mark 则/adverb 可望/verb 达到/verb 这/pronoun 一/numeral 目标/noun 。/punctuation-mark
-需要说明的是，应用X线影像和传统的标测/消融系统，常难以在肺静脉开口部实现连续透壁的[[<DIS>0]]；而在新型标测系统(如CARTO标测系统和非接触标测系统)或影像设备(如心腔内超声)指引下进行消融或使用新型的消融器械(如肺静脉超声球囊导管)则可望达到这一目标。
-命名实体: 损伤
+需要说明的是，应用X线影像和传统的标测/消融系统，常难以在肺静脉开口部实现连续透壁的损伤；而在新型标测系统(如CARTO标测系统和非接触标测系统)或影像设备(如心腔内超声)指引下进行消融或使用新型的消融器械(如肺静脉超声球囊导管)则可望达到这一目标。
+命名实体:
 实体关系: 
 ==================================================
 最近/time-word 有/verb 作者/noun 报道/verb ，/punctuation-mark 心房/noun 冲动/adjective 在/preposition 向/preposition 肺静脉/noun 传导/verb 过程/noun 中/noun-of-locality ，/punctuation-mark 在/preposition 肺静脉/noun 开口/verb 处/verb 存在/verb 优势/noun 激动/adjective 部位/noun 或/conjunction 称/verb 为/preposition 突破口/noun (/punctuation-mark breakthrough/noun )/punctuation-mark ，/punctuation-mark 即/verb 此处/locative-word 的/particle 激动/adjective 较/adverb 开口/verb 部/noun 的/particle 其它/pronoun 部位/noun 领先/verb 。/punctuation-mark

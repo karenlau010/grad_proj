@@ -52,7 +52,7 @@ IVUS检查可识别[[<TRE>0]]低估的病变，评价[[<SYM>1]][[<SYM><DIS>2]]�
 命名实体: 冠状动脉造影 冠状 动脉粥样硬化
 ==================================================
 近年来/adverb ，/punctuation-mark IVUS/noun 的/particle 应用/verb 在/preposition 我国/noun 介入/verb 心脏病/noun 学/verb 中/noun-of-locality 已/adverb 发挥/verb 越来越/adverb 重要/adjective 的/particle 作用/noun ，/punctuation-mark 有/verb 研究/verb 表明/verb 它/pronoun 证实/verb 斑块/noun 的/particle 破裂/verb 与/conjunction 急性/distinguishing-word 冠状动脉/noun 综合征/noun (/punctuation-mark ACS/noun )/punctuation-mark 临床/verb 事件/noun 有关/verb [2，3]/string 。/punctuation-mark
-近年来，IVUS的应用在我国介入[[<DIS>0]]学中已发挥越来越重要的作用，有研究表明它证实斑块的破裂与[[<DIS>2]]动脉[[<SYM><DIS>1]](ACS)临床事件有关[2，3]。
+近年来，IVUS的应用在我国介入[[<DIS>0]]学中已发挥越来越重要的作用，有研究表明它证实斑块的破裂与[[<DIS>2]]动脉[[<SYM>1]](ACS)临床事件有关[2，3]。
 命名实体: 心脏病 综合征 急性冠状
 ==================================================
 对/preposition 血管/noun 壁/noun 病变/verb 的/particle 早期/noun-of-locality 检/verb 出/verb 、/punctuation-mark 甚至/adverb 早期/noun-of-locality 预防/verb 干预/verb ，/punctuation-mark 这/pronoun 是/verb 减少/verb 或/conjunction 控制/verb 心血管/noun 不良/adjective 事件/noun 的/particle 最/adverb 根本/adjective 策略/noun 。/punctuation-mark
@@ -300,8 +300,8 @@ Colombo等报道了共有368个患者的735个狭窄病变，以sirolimus洗脱�
 命名实体: CABG的治疗
 ==================================================
 对/preposition 有/verb 较/adverb 大/adjective 室/noun 壁/noun 瘤/noun 并/conjunction 明显/adjective 影响/verb 心功能/noun 者/suffix ，/punctuation-mark 可/verb 在/preposition CABG/noun 时/noun 切除/verb 室/noun 壁/noun 瘤/noun 以/preposition 改善/verb 临床/verb 症状/noun [19]/string 。/punctuation-mark
-对有较大室壁瘤并明显影响[[<DIS>0]]者，可在CABG时切除室壁瘤以改善临床症状[19]。
-命名实体: 心功能
+对有较大室壁瘤并明显影响心功能者，可在CABG时切除室壁瘤以改善临床症状[19]。
+命名实体: 
 ==================================================
 近/adjective 几/numeral 年/classifier 国内/locative-word 冠心病/noun 的/particle CABG/noun 治疗/verb 发展/verb 较为/adverb 迅速/adjective 。/punctuation-mark
 近几年国内[[<DIS>0]]的CABG治疗发展较为迅速。
@@ -332,7 +332,7 @@ OPCAB对一些高龄、合并多种疾病的高危患者，可能较常规旁路
 命名实体: 
 ==================================================
 ACS/noun 系/noun 不/adverb 稳定性/noun 冠状动脉/noun 粥/noun 样/noun 硬化/verb 斑块/noun 破裂/verb 、/punctuation-mark 血栓/noun 形成/verb ，/punctuation-mark 引起/verb 急性/distinguishing-word 心肌/noun 缺血/verb 的/particle 一/numeral 组/classifier 临床/verb 综合征/noun 。/punctuation-mark
-ACS系不稳定性[[<SYM>0]][[<SYM><DIS>1]]斑块破裂、[[<DIS>2]]，引起[[<DIS>3]]的一组临床[[<SYM><DIS>4]]。
+ACS系不稳定性[[<SYM>0]][[<SYM><DIS>1]]斑块破裂、[[<DIS>2]]，引起[[<DIS>3]]的一组临床[[<SYM>4]]。
 命名实体: 冠状 动脉粥样硬化 血栓形成 急性心肌缺血 综合征
 ==================================================
 因/preposition 其/pronoun 病情/noun 变化/verb 快/adjective 、/punctuation-mark 临床/verb 表现/verb 及/conjunction 危险性/noun 差异/noun 极大/adjective ，/punctuation-mark 加强/verb 早期/noun-of-locality 识别/verb 、/punctuation-mark 危险/adjective 分层/verb 并/conjunction 采取/verb 积极/adjective 、/punctuation-mark 合理/adjective 的/particle 干预/verb 措施/noun 尤为/adverb 重要/adjective 。/punctuation-mark
@@ -364,8 +364,8 @@ ACS系不稳定性[[<SYM>0]][[<SYM><DIS>1]]斑块破裂、[[<DIS>2]]，引起[[<
 命名实体: 
 ==================================================
 STEMI/noun 治疗/verb 关键/noun 在于/verb 早期/noun-of-locality 开通/verb 梗/noun 死/verb 相关/verb 动脉/noun ，/punctuation-mark 迅速/adjective 恢复/verb 心肌/noun 血流/noun ，/punctuation-mark 可/conjunction 减轻/verb 心肌/noun 损伤/verb 程度/noun 、/punctuation-mark 降低/verb 并发症/noun ，/punctuation-mark 并/conjunction 改善/verb 临床/verb 预后/noun 。/punctuation-mark
-STEMI治疗关键在于早期开通梗死相关动脉，迅速恢复心肌血流，可减轻心肌[[<DIS>0]]程度、降低并发症，并改善临床预后。
-命名实体: 损伤
+STEMI治疗关键在于早期开通梗死相关动脉，迅速恢复心肌血流，可减轻心肌损伤程度、降低并发症，并改善临床预后。
+命名实体: 
 ==================================================
 目前/time-word ，/punctuation-mark 开通/verb 梗/noun 死/verb 相关/verb 动脉/noun 的/particle 主要/distinguishing-word 方法/noun 有/verb 静脉/noun 溶/verb 栓/noun 治疗/verb 与/preposition 直接/adjective PCI/noun 。/punctuation-mark
 目前，开通梗死相关动脉的主要方法有静脉溶栓治疗与直接PCI。
@@ -380,7 +380,7 @@ STEMI治疗关键在于早期开通梗死相关动脉，迅速恢复心肌血流
 命名实体: 尿激酶 溶栓药物
 ==================================================
 国内/locative-word 链/noun 激酶/noun 溶/verb 栓/noun 治疗/verb STEMI/noun 的/particle 多/adjective 中心/noun 临床/verb 试验/verb ，/punctuation-mark 结果/adverb 显示/verb 60min/noun 内/noun-of-locality 输/verb 注/verb 150万U/noun 链/noun 激酶/noun 溶/verb 栓/noun 治疗/verb 在/preposition 国人/noun 是/verb 安全/adjective 有效/adjective 的/particle ，/punctuation-mark 临床/verb 开通/verb 率/verb 66.6%/numeral ，/punctuation-mark 出血/verb 发生率/noun 9.8%/numeral ，/punctuation-mark 35d/noun 死亡率/noun 8.4%/numeral ，/punctuation-mark 与/preposition 国外/locative-word 报道/verb 相近/adjective [26]/string 。/punctuation-mark
-国内[[<TRE>1]]治疗STEMI的多中心临床试验，结果显示60min内输注150万U[[<TRE>1]]治疗在国人是安全有效的，临床开通率66.6%，[[<SYM><DIS>0]]发生率9.8%，35d死亡率8.4%，与国外报道相近[26]。
+国内[[<TRE>1]]治疗STEMI的多中心临床试验，结果显示60min内输注150万U[[<TRE>1]]治疗在国人是安全有效的，临床开通率66.6%，[[<SYM>0]]发生率9.8%，35d死亡率8.4%，与国外报道相近[26]。
 命名实体: 出血 链激酶溶栓
 ==================================================
 在/preposition 我国/noun 溶/verb 栓/noun 治疗/verb 进入/verb 20/numeral 世纪/noun 90/numeral 年代/noun 后/noun-of-locality 才/adverb 逐步/adverb 规范/verb 与/conjunction 完善/verb ，/punctuation-mark 并/conjunction 再次/adverb 修订/verb 了/particle 急性/distinguishing-word 心肌/noun 梗/noun 死/verb 溶/verb 栓/noun 治疗/verb 参考/verb 方案/noun [27]/string 。/punctuation-mark
@@ -420,8 +420,8 @@ STEMI的溶栓治疗在国内较为普及，但目前所用药物多系半衰期
 命名实体: 心原性休克
 ==================================================
 直接/adjective PCI/noun 较/adverb 溶/verb 栓/noun 治疗/verb 能/verb 明显/adjective 减少/verb 患者/noun 的/particle 再/adverb 闭塞/verb 率/verb 、/punctuation-mark 改善/verb 心功能/noun 及/conjunction 临床/verb 预后/noun 、/punctuation-mark 降低/verb 对/preposition 再次/adverb 血管/noun 重建/verb 治疗/verb 的/particle 需求/noun [35-37]/string 。/punctuation-mark
-直接PCI较溶栓治疗能明显减少患者的再闭塞率、改善[[<DIS>0]]及[[<DIS>1]]、降低对再次血管重建治疗的需求[35-37]。
-命名实体: 心功能 临床预后
+直接PCI较溶栓治疗能明显减少患者的再闭塞率、改善心功能及临床预后、降低对再次血管重建治疗的需求[35-37]。
+命名实体: 
 ==================================================
 国外/locative-word 也/adverb 有/verb 研究/verb 表明/verb STEMI/noun 的/particle 直接/adjective PCI/noun 优于/verb 静脉/noun 溶/verb 栓/noun 治疗/verb ，/punctuation-mark 即使/conjunction 将/preposition 患者/noun 转运/verb 至/preposition 可行/adjective 介入/verb 治疗/verb 的/particle 中心/noun (/punctuation-mark 若/conjunction 转运/verb 时间/noun 不/adverb 超过/verb 3h/noun )/punctuation-mark ，/punctuation-mark 其/pronoun 疗效/noun 也/adverb 优于/verb 就地/adverb 静脉/noun 溶/verb 栓/noun 者/suffix 。/punctuation-mark
 国外也有研究表明STEMI的直接PCI优于静脉溶栓治疗，即使将患者转运至可行[[<TRE>0]]的中心(若转运时间不超过3h)，其疗效也优于就地静脉溶栓者。
@@ -456,7 +456,7 @@ STEMI的溶栓治疗在国内较为普及，但目前所用药物多系半衰期
 命名实体: 血浆
 ==================================================
 研究/verb 提示/verb 拟/verb 诊/verb 无/verb ST/noun 段/noun 抬高/verb 的/particle ACS/noun ，/punctuation-mark 若/conjunction 患者/noun 有/verb 持续性/noun 胸/noun 痛/adjective 、/punctuation-mark 胸/noun 痛/adverb 发作/verb 时/noun 伴/verb 心电图/noun ST/noun 段/classifier 一/numeral 过/verb 性/noun 抬高/verb 或/conjunction 持续性/noun 压低/verb 、/punctuation-mark 肌/noun 钙/noun 蛋白/noun 升高/verb 、/punctuation-mark 运动/verb 负荷/noun 试验/verb 阳性/noun 或/conjunction 左/adjective 室/noun 射/verb 血/noun 分数/noun ≤40%/numeral 者/suffix ，/punctuation-mark 系/verb 高危/distinguishing-word 患者/noun ，/punctuation-mark 这/pronoun 类/classifier 患者/noun 易/adjective 发生/verb 心肌/noun 梗/noun 死/verb 或/conjunction 死亡/verb 事件/noun 。/punctuation-mark
-研究提示拟诊无ST[[<SYM>0]]的ACS，若患者有[[<DIS>4]]、[[<SYM><DIS>1]]发作时伴[[<TRE>2]]ST段一过性抬高或持续性压低、肌钙蛋白升高、运动负荷试验阳性或左室射血分数≤40%者，系高危患者，这类患者易发生[[<SYM><DIS>3]]或死亡事件。
+研究提示拟诊无ST[[<SYM>0]]的ACS，若患者有[[<DIS>4]]、[[<SYM>1]]发作时伴[[<TRE>2]]ST段一过性抬高或持续性压低、肌钙蛋白升高、运动负荷试验阳性或左室射血分数≤40%者，系高危患者，这类患者易发生[[<SYM><DIS>3]]或死亡事件。
 命名实体: 段抬高 胸痛 心电图 心肌梗死 持续性胸痛
 ==================================================
 国外/locative-word 研究/verb 还/adverb 显示/verb 高/adjective 敏感/adjective 性/noun C/noun -/punctuation-mark 反应/verb 蛋白/noun (/punctuation-mark hs/noun CRP/noun )/punctuation-mark 是/verb 心血管/noun 事件/noun 独立/adjective 危险/adjective 因素/noun ，/punctuation-mark ACS/noun 患者/noun CRP/noun 水平/noun 的/particle 高低/noun 对/preposition 未来/time-word 心脏/noun 不良/adjective 事件/noun 有/verb 良好/adjective 的/particle 预测/verb 作用/noun 。/punctuation-mark
@@ -492,7 +492,7 @@ TIMI危险评分法定量评估患者的危险性，研究表明出现心脏事�
 命名实体: 血小板 氯吡格雷
 ==================================================
 CURE/noun 及/conjunction PCI/noun -/punctuation-mark CURE/noun 试验/verb 均/adverb 显示/verb 氯/noun 吡/punctuation-mark 格雷/noun 虽/conjunction 一定/distinguishing-word 程度/noun 上/noun-of-locality 增加/verb 了/particle 出血/verb 危险性/noun ，/punctuation-mark 但/conjunction 明显/adjective 降低/verb 了/particle 患者/noun 的/particle 心血管/noun 不良/adjective 事件/noun ，/punctuation-mark 及早/adverb 应用/verb 及早/adverb 获益/verb ，/punctuation-mark 长期/adverb 应用/verb 长期/adverb 获益/verb 。/punctuation-mark
-CURE及PCI-CURE试验均显示[[<MED>0]]虽一定程度上增加了[[<SYM><DIS>1]]危险性，但明显降低了患者的心血管不良事件，及早应用及早获益，长期应用长期获益。
+CURE及PCI-CURE试验均显示[[<MED>0]]虽一定程度上增加了[[<SYM>1]]危险性，但明显降低了患者的心血管不良事件，及早应用及早获益，长期应用长期获益。
 命名实体: 氯吡格雷 出血
 ==================================================
 而/conjunction 另/pronoun 一/numeral 类/classifier 抗/verb 血小板/noun 制剂/noun ———/punctuation-mark 血小板/noun GP/noun Ⅱ/numeral b/IIIa/string 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier 的/particle 应用/verb 价值/noun 却/adverb 有/verb 下降/verb 趋势/noun 。/punctuation-mark
@@ -520,7 +520,7 @@ CURE及PCI-CURE试验均显示[[<MED>0]]虽一定程度上增加了[[<SYM><DIS>1
 命名实体: 
 ==================================================
 4.ACS/noun 干预/verb 模式/noun 的/particle 转变/verb ：/punctuation-mark 要/verb 达到/verb 对/preposition ACS/noun 的/particle 早期/noun-of-locality 识别/verb 、/punctuation-mark 危险/adjective 分层/verb 、/punctuation-mark 正确/adjective 分流/verb 与/preposition 积极/adjective 处理/verb ，/punctuation-mark 目前/time-word 的/particle CCU/noun 形式/noun 及/conjunction 其/pronoun 地位/noun 是/verb 难以/adverb 适应/verb 的/particle ，/punctuation-mark 应/verb 建立/verb 更加/adverb 高效/distinguishing-word 、/punctuation-mark 规范/noun 、/punctuation-mark 并/adverb 能/verb 早期/noun-of-locality 干预/verb 的/particle 胸/noun 痛/adjective 中心/noun (/punctuation-mark CPC/noun )/punctuation-mark 及/conjunction 紧急/adjective 救护/verb 的/particle 绿色/noun 通道/noun [1，45]/string 。/punctuation-mark
-4.ACS干预模式的转变：要达到对ACS的早期识别、危险分层、正确分流与积极处理，目前的CCU形式及其地位是难以适应的，应建立更加高效、规范、并能早期干预的[[<SYM><DIS>0]]中心(CPC)及紧急救护的绿色通道[1，45]。
+4.ACS干预模式的转变：要达到对ACS的早期识别、危险分层、正确分流与积极处理，目前的CCU形式及其地位是难以适应的，应建立更加高效、规范、并能早期干预的[[<SYM>0]]中心(CPC)及紧急救护的绿色通道[1，45]。
 命名实体: 胸痛
 ==================================================
 这种/pronoun 新型/distinguishing-word 的/particle 医疗/noun 模式/noun 由/preposition 心脏/noun 科/noun 、/punctuation-mark 急诊科/noun 等/particle 相关/verb 多/adjective 学科/noun 共同/adverb 参与/verb ，/punctuation-mark 它/pronoun 整合/verb 了/particle 新近/adverb 大量/numeral 新/adjective 技术/noun 、/punctuation-mark 新/adjective 药物/noun 及/conjunction 新/adjective 器械/noun 的/particle 科学/noun 应用/verb ，/punctuation-mark 并/conjunction 促进/verb 了/particle 先进/adjective 医疗/noun 技术/noun 的/particle 临床/verb 实践/verb ，/punctuation-mark 这/pronoun 在/preposition 我们/pronoun 近/verb 几/numeral 年/classifier 的/particle 工作/verb 中/noun-of-locality 也/adverb 得到/verb 了/particle 充分/adjective 的/particle 印证/verb 。/punctuation-mark
@@ -560,8 +560,8 @@ CURE及PCI-CURE试验均显示[[<MED>0]]虽一定程度上增加了[[<SYM><DIS>1
 命名实体: 冠状
 ==================================================
 此外/conjunction ，/punctuation-mark 进入/verb 21/numeral 世纪/noun ，/punctuation-mark 分子生物学/noun 的/particle 影响/verb ，/punctuation-mark 使/verb 冠心病/noun 的/particle 基因/noun 治疗/verb 也/adverb 在/preposition 不断/adverb 的/particle 探索/verb 之中/noun-of-locality ，/punctuation-mark 如/conjunction 应用/verb c/onomatopoeia -/punctuation-mark myc/noun 的/particle 反/verb 义/noun 寡/adjective 核/noun 苷/noun 酸/noun 链/noun 导入/verb 置/verb 入/verb 支架/noun 处/verb 的/particle 冠状动脉/noun 病变/verb 处/noun ，/punctuation-mark 以期/verb 降低/verb 再/adverb 狭窄/adjective 事件/noun 。/punctuation-mark
-此外，进入21世纪，分子生物学的影响，使[[<DIS>0]]的基因治疗也在不断的探索之中，如应用c-myc的反义寡核苷酸链导入置入支架处的[[<DIS>1]]处，以期降低再狭窄事件。
-命名实体: 冠心病 冠状动脉病变
+此外，进入21世纪，分子生物学的影响，使[[<DIS>0]]的基因治疗也在不断的探索之中，如应用c-myc的反义寡[[<MED>1]]链导入置入支架处的[[<DIS>2]]处，以期降低再狭窄事件。
+命名实体: 冠心病 核苷酸 冠状动脉病变
 ==================================================
 随着/preposition 基因/noun 技术/noun 与/conjunction 导管/noun 器械/noun 的/particle 不断/adverb 改进/verb ，/punctuation-mark 我们/pronoun 将/adverb 会/verb 以/conjunction 更加/adverb 微/adjective 创/verb 的/particle 方式/noun 使/verb 心血管/noun 病/noun 的/particle 基因/noun 治疗/verb 更加/adverb 有效/adjective 、/punctuation-mark 便捷/adjective ，/punctuation-mark 使/verb 这/pronoun 一/numeral 充满/verb 希望/verb 的/particle 治疗/verb 造福/verb 于/preposition 人类/noun 。/punctuation-mark
 随着基因技术与导管器械的不断改进，我们将会以更加微创的方式使心血管病的基因治疗更加有效、便捷，使这一充满希望的治疗造福于人类。

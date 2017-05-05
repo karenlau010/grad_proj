@@ -25,7 +25,7 @@
 实体关系: 
 ==================================================
 糖尿病/noun (/punctuation-mark diabetes/noun mellitus/noun ，/punctuation-mark DM/noun )/punctuation-mark 是/verb 胰岛素/noun 分泌/verb 绝对/adjective 或/conjunction 相对/adverb 不足/adjective ，/punctuation-mark 并/conjunction 以/preposition 高/adjective 血糖/noun 、/punctuation-mark 高/adjective 血脂/noun 为/preposition 特征/noun 的/particle 代谢/verb 紊乱/adjective 综合征/noun 。/punctuation-mark
-[[<DIS>0]](diabetes mellitus，DM)是[[<MED>1]]分泌绝对或相对不足，并以[[<DIS>2]]、高血脂为特征的代谢紊乱[[<SYM><DIS>3]]。
+[[<DIS>0]](diabetes mellitus，DM)是[[<MED>1]]分泌绝对或相对不足，并以[[<DIS>2]]、高血脂为特征的代谢紊乱[[<SYM>3]]。
 命名实体: 糖尿病 胰岛素 高血糖 综合征
 实体关系: 
 ==================================================
@@ -85,8 +85,8 @@
 实体关系: 
 ==================================================
 非/distinguishing-word 心肌/noun 细胞/noun 占/verb 多数/numeral ，/punctuation-mark 其中/pronoun 90%/numeral 以上/noun-of-locality 是/verb 成/verb 纤维/noun 细胞/noun ，/punctuation-mark 成/verb 纤维/noun 细胞/noun 能够/verb 合成/verb 胶/noun 原/distinguishing-word 等/particle 细胞/noun 外/noun-of-locality 基/noun 质/noun 成分/noun 及/conjunction 胶/noun 原/distinguishing-word 酶/noun 。/punctuation-mark
-非心肌细胞占多数，其中90%以上是成纤维细胞，成纤维细胞能够合成[[<MED>0]]等细胞外基质成分及[[<MED>0]]酶。
-命名实体: 胶原
+非心肌细胞占多数，其中90%以上是成纤维细胞，成纤维细胞能够合成[[<MED>0]]等细胞外基质成分及[[<MED>1]]。
+命名实体: 胶原 胶原酶
 实体关系: 
 ==================================================
 细胞/noun 外/noun-of-locality 基/noun 质/noun (/punctuation-mark extracellular/adjective matrix/noun ，/punctuation-mark ECM/noun )/punctuation-mark 成分/noun 的/particle 含量/noun 常/adverb 被/preposition 用/verb 来/verb 评估/verb 器官/noun 纤维/noun 化/suffix 的/particle 程度/noun ，/punctuation-mark 主要/adverb 由/preposition 多/numeral 种/classifier 蛋白质/noun 构成/verb ，/punctuation-mark 如/verb 胶/noun 原/distinguishing-word (/punctuation-mark collagen/noun ，/punctuation-mark CL/noun )/punctuation-mark 、/punctuation-mark 层/noun 粘连/verb 蛋白/noun (/punctuation-mark laminin/noun ，/punctuation-mark LN/noun )/punctuation-mark 及/conjunction 纤维/noun 连接/verb 蛋白/noun (/punctuation-mark fibronectin/noun ，/punctuation-mark FN/noun )/punctuation-mark 等/particle ，/punctuation-mark 其中/pronoun 主要/adverb 是/verb Ⅰ/numeral 型/suffix 胶/noun 原/distinguishing-word (/punctuation-mark 占/verb 心肌/noun 间/noun-of-locality 质/noun 总/distinguishing-word 胶/noun 原/distinguishing-word 80%/numeral 以上/noun-of-locality )/punctuation-mark 和/conjunction Ⅲ/numeral 型/suffix 胶/noun 原/distinguishing-word (/punctuation-mark 占/verb 心肌/noun 间/noun-of-locality 质/noun 总/distinguishing-word 胶/noun 原/distinguishing-word 11%/numeral )/punctuation-mark 。/punctuation-mark
@@ -125,8 +125,8 @@
 实体关系: 
 ==================================================
 糖尿病/noun 心肌/noun 病/noun 早期/noun-of-locality 阶段/noun 只/adverb 有/verb 一/numeral 系列/classifier 超/verb 微/adjective 结构/noun 改变/verb ，/punctuation-mark 包括/verb 肌纤维/noun 排列/verb 的/particle 改变/verb ，/punctuation-mark 线粒体/noun 的/particle 断裂/verb (/punctuation-mark 与/preposition 氧化/verb 应/verb 激/verb 和/conjunction 损伤/verb 的/particle 线粒体/noun 功能/noun 有关/verb )/punctuation-mark ，/punctuation-mark 胞/punctuation-mark 质/noun 面积/noun 增大/verb ，/punctuation-mark 伴随/verb 胞/punctuation-mark 质/noun 脂/punctuation-mark 质/noun 含量/noun 增加/verb ，/punctuation-mark 胶/noun 原/distinguishing-word 纤维/noun 横断面/noun 积/verb 增加/verb 。/punctuation-mark
-[[<DIS>0]]早期阶段只有一系列超微结构改变，包括肌纤维排列的改变，线粒体的断裂(与氧化应激和[[<DIS>1]]的线粒体功能有关)，胞质面积增大，伴随胞质脂质含量增加，[[<MED>2]]纤维横断面积增加。
-命名实体: 糖尿病心肌病 损伤 胶原
+[[<DIS>0]]早期阶段只有一系列超微结构改变，包括肌纤维排列的改变，线粒体的断裂(与氧化应激和损伤的线粒体功能有关)，胞质面积增大，伴随胞质脂质含量增加，[[<MED>1]]纤维横断面积增加。
+命名实体: 糖尿病心肌病 胶原
 实体关系: 
 ==================================================
 随着/preposition 病程/noun 发展/verb ，/punctuation-mark 逐渐/adverb 出现/verb 左/adjective 心室/noun 重量/noun 增加/verb ，/punctuation-mark 室/noun 壁/noun 增/verb 厚/adjective ，/punctuation-mark 与此同时/conjunction ，/punctuation-mark 心脏/noun 舒张/verb 期/classifier 顺应/verb 性/noun 降低/verb ，/punctuation-mark 射/verb 血/noun 分数/noun 减少/verb ，/punctuation-mark 功能/noun 障碍/noun ，/punctuation-mark 进而/conjunction 出现/verb 收缩/verb 期/classifier 功能/noun 障碍/noun 。/punctuation-mark
@@ -280,8 +280,8 @@ Herrero等[5]研究发现，[[<DIS>1]]患者脂肪酸摄取比正常人高三倍
 实体关系: 
 ==================================================
 这种/pronoun 改变/verb 虽/conjunction 可/verb 维持/verb 心/noun 输出/verb 量/noun 的/particle 需要/noun ，/punctuation-mark 但/conjunction 游离/verb 脂肪酸/noun 在/preposition 代谢/verb 过程/noun 中/noun-of-locality 因为/preposition 三/numeral 磷酸/noun 腺/punctuation-mark 苷/noun 的/particle 产生/verb 而/conjunction 消耗/verb 了/particle 大量/numeral 氧/noun ，/punctuation-mark 同时/conjunction ，/punctuation-mark 脂/punctuation-mark 质/noun 代谢/verb 产生/verb 的/particle 有毒/verb 中间/noun-of-locality 产物/noun 的/particle 积聚/verb ，/punctuation-mark 损伤/verb 了/particle 心肌/noun 钙/noun 处理/verb 能力/noun ，/punctuation-mark 使/verb 心肌/noun 结构/noun 和/conjunction 功能/noun 发生/verb 改变/verb 。/punctuation-mark
-这种改变虽可维持心输出量的需要，但游离脂肪酸在代谢过程中因为三磷酸[[<MED>0]]的产生而消耗了大量氧，同时，脂质代谢产生的有毒中间产物的积聚，[[<DIS>1]]了心肌钙处理能力，使心肌结构和功能发生改变。
-命名实体: 腺苷 损伤
+这种改变虽可维持心输出量的需要，但游离脂肪酸在代谢过程中因为三磷酸[[<MED>0]]的产生而消耗了大量氧，同时，脂质代谢产生的有毒中间产物的积聚，损伤了心肌钙处理能力，使心肌结构和功能发生改变。
+命名实体: 腺苷
 实体关系: 
 ==================================================
 游离/verb 脂肪酸/noun 抑制/verb 丙酮/noun 酸/adjective 脱/verb 氢/noun 酶/noun ，/punctuation-mark 从而/conjunction 减少/verb 心肌/noun 能量/noun 产生/verb ，/punctuation-mark 并/conjunction 导致/verb 糖/noun 酵/punctuation-mark 解/verb 中间/noun-of-locality 产物/noun 和/conjunction 神经/noun 酰/noun 胺/noun 的/particle 堆积/verb ，/punctuation-mark 加剧/verb 心肌/noun 细胞/noun 凋/verb 亡/verb 。/punctuation-mark
@@ -290,8 +290,8 @@ Herrero等[5]研究发现，[[<DIS>1]]患者脂肪酸摄取比正常人高三倍
 实体关系: 
 ==================================================
 肉/noun 毒/noun 碱/noun 是/verb 脂肪酸/noun 代谢/verb 的/particle 必需/verb 物质/noun ，/punctuation-mark 患/verb 糖尿病/noun 时/noun 通常/adverb 下降/verb ，/punctuation-mark 在/preposition 糖尿病/noun 大/adjective 鼠/noun 中/noun-of-locality 发现/verb 线粒体/noun 异常/adjective 及/conjunction 肉/noun 毒/noun 碱/noun 缺乏/verb ，/punctuation-mark 非/distinguishing-word 氧化/verb 的/particle 脂肪酸/noun 在/preposition 心肌/noun 沉积/verb 而/conjunction 损伤/verb 细胞/noun 。/punctuation-mark
-肉毒碱是脂肪酸代谢的必需物质，患[[<DIS>0]]时通常下降，在[[<DIS>0]]大鼠中发现线粒体异常及肉毒碱缺乏，非氧化的脂肪酸在心肌沉积而[[<DIS>1]]细胞。
-命名实体: 糖尿病 损伤
+肉毒碱是脂肪酸代谢的必需物质，患[[<DIS>0]]时通常下降，在[[<DIS>0]]大鼠中发现线粒体异常及肉毒碱缺乏，非氧化的脂肪酸在心肌沉积而损伤细胞。
+命名实体: 糖尿病
 实体关系: 
 ==================================================
 另外/conjunction ，/punctuation-mark 在/preposition 糖尿病/noun 状态/noun 下/verb 肝脏/noun 释放/verb 脂/punctuation-mark 蛋白酶/noun 增多/verb ，/punctuation-mark 可/verb 催化/verb 脂/punctuation-mark 蛋白/noun 三/numeral 酰/noun 甘油/noun 分解/verb ，/punctuation-mark 增加/verb 游离/verb 脂肪酸/noun 转运/verb 到/verb 心肌/noun 细胞/noun ，/punctuation-mark 加重/verb 心肌/noun 脂肪/noun 代谢/verb 的/particle 异常/adjective [6]/string 。/punctuation-mark
@@ -340,8 +340,8 @@ Basu等(2009)发现[[<DIS>0]]模型Akita(In2WT/C96Y)小鼠早期出现持久性�
 实体关系: 
 ==================================================
 高/adjective 血糖/noun 损伤/verb 了/particle 铜/noun 和/conjunction 血浆/noun 铜/noun 蓝/adjective 蛋白/noun 、/punctuation-mark 白/adjective 蛋白/noun (/punctuation-mark 血浆/noun 主要/distinguishing-word 铜/noun 结合/verb 蛋白/noun )/punctuation-mark 的/particle 结合/verb 能力/noun ，/punctuation-mark 导致/verb 细胞/noun 外/noun-of-locality 基/noun 质/noun 中/noun-of-locality 铜/noun 水平/noun 增加/verb 。/punctuation-mark
-[[<DIS>0]][[<DIS>1]]了铜和[[<MED>2]]铜蓝蛋白、[[<MED>3]]([[<MED>2]]主要铜结合蛋白)的结合能力，导致细胞外基质中铜水平增加。
-命名实体: 高血糖 损伤 血浆 白蛋白
+[[<DIS>0]]损伤了铜和[[<MED>1]]铜蓝蛋白、[[<MED>2]]([[<MED>1]]主要铜结合蛋白)的结合能力，导致细胞外基质中铜水平增加。
+命名实体: 高血糖 血浆 白蛋白
 实体关系: 
 ==================================================
 而/conjunction 糖/noun 基/noun 化/verb 蛋白/noun 可/verb 增强/verb 与/preposition 铜/noun 的/particle 亲和力/noun 。/punctuation-mark
@@ -375,13 +375,13 @@ Basu等(2009)发现[[<DIS>0]]模型Akita(In2WT/C96Y)小鼠早期出现持久性�
 实体关系: 
 ==================================================
 STZ/noun 糖尿病/noun 大/adjective 鼠/noun 中/noun-of-locality 观察/verb 到/verb 胰岛素/noun 作用/noun 不/adverb 足/adverb 可/verb 使/verb 心肌/noun 肥大/adjective 、/punctuation-mark 间/noun-of-locality 质/noun 胶/noun 原/distinguishing-word 增生/verb 、/punctuation-mark 心肌/noun 肥厚/adjective 、/punctuation-mark 纤维/noun 化/verb 和/conjunction 心功能/noun 减退/verb 。/punctuation-mark
-STZ[[<DIS>0]]大鼠中观察到[[<MED>1]]作用不足可使[[<DIS>2]]、间质[[<MED>3]]增生、[[<SYM>4]]、纤维化和[[<DIS>5]]减退。
-命名实体: 糖尿病 胰岛素 心肌肥大 胶原 心肌肥厚 心功能
+STZ[[<DIS>0]]大鼠中观察到[[<MED>1]]作用不足可使[[<DIS>2]]、间质[[<MED>3]]增生、[[<SYM>4]]、纤维化和心功能减退。
+命名实体: 糖尿病 胰岛素 心肌肥大 胶原 心肌肥厚
 实体关系: 
 ==================================================
 而/conjunction 胰岛素/noun 抵抗/verb 时/noun 伴/verb 发/verb 的/particle 3/numeral 个/classifier 特征/noun 性/noun 代谢/verb 紊乱/adjective (/punctuation-mark 高/adjective 血糖/noun 症/noun 、/punctuation-mark 高/adjective 胰岛素/noun 血/noun 症/noun 、/punctuation-mark 高/adjective 脂/punctuation-mark 血/noun 症/noun )/punctuation-mark 通过/preposition 各种/pronoun 途径/noun 导致/verb 心肌/noun 间/noun-of-locality 质/noun 纤维/noun 化/suffix 的/particle 发生/verb ，/punctuation-mark 并/conjunction 直接/adjective 造成/verb 心功能/noun 的/particle 损害/verb 。/punctuation-mark
-而[[<MED>0]]抵抗时伴发的3个特征性代谢紊乱([[<DIS>1]]症、[[<DIS>2]]、[[<DIS>3]])通过各种途径导致心肌间质纤维化的发生，并直接造成[[<DIS>4]]的损害。
-命名实体: 胰岛素 高血糖 高胰岛素血症 高脂血症 心功能
+而[[<MED>0]]抵抗时伴发的3个特征性代谢紊乱([[<DIS>1]]症、[[<DIS>2]]、[[<DIS>3]])通过各种途径导致心肌间质纤维化的发生，并直接造成心功能的损害。
+命名实体: 胰岛素 高血糖 高胰岛素血症 高脂血症
 实体关系: 
 ==================================================
 HIRayama/noun 等/particle (/punctuation-mark 2001/numeral )/punctuation-mark 报道/verb ，/punctuation-mark 2/numeral 型/suffix 糖尿病/noun 不/adverb 合并/verb 高血压/noun 的/particle 患者/noun 口服/verb 胰岛素/noun 增/verb 敏/adjective 剂/noun 罗/distinguishing-word 格/distinguishing-word 列/noun 酮/punctuation-mark ，/punctuation-mark 可以/verb 明显/adjective 减轻/verb 左/adjective 心室/noun 肥厚/adjective ，/punctuation-mark 并/conjunction 改善/verb 心肌/noun 舒张/verb 功能/noun 。/punctuation-mark
@@ -415,8 +415,8 @@ Ma等(2008)发现，[[<DIS>0]]心肌组织[[<MED>1]]上残留的[[<MED>2]]糖基
 实体关系: 
 ==================================================
 AGEs/noun 与/conjunction 血管/noun 内/noun-of-locality 皮/noun 细胞/noun AGE/noun s/verb 受体/noun 结合/verb 后/noun-of-locality 使/verb 血管/noun 壁/noun 通/verb 透/verb 性/noun 增加/verb ，/punctuation-mark 减少/verb 内/noun-of-locality 皮/noun 细胞/noun 表面/noun 抗凝/noun 酶/noun 的/particle 表达/verb ，/punctuation-mark 增加/verb 前/noun-of-locality 凝/verb 血/noun 因子/noun 的/particle 活性/noun ，/punctuation-mark 改变/verb 血流/noun 动力学/noun ，/punctuation-mark 加速/verb 糖尿病/noun 微血管/noun 病变/verb 的/particle 形成/verb ;/punctuation-mark AGE/noun s/verb 与/conjunction 心肌/noun 细胞/noun 表面/noun AG/noun Es/noun 受体/noun 结合/verb 后/noun-of-locality 可/verb 促使/verb 单/distinguishing-word 核/noun 细胞/noun 释放/verb 多种/numeral 细胞/noun 因子/noun 及/conjunction 生长/verb 因子/noun ，/punctuation-mark 增加/verb 内/noun-of-locality 皮/noun 细胞/noun 通/verb 透/verb 性/noun 及/conjunction 单/distinguishing-word 核/noun 细胞/noun 趋/verb 化/verb 性/noun ;/punctuation-mark AGE/noun s/verb 还/adverb 可/verb 促进/verb 心肌/noun 细胞/noun NOS/noun 表达/verb ，/punctuation-mark 使/verb 心肌/noun 组织/noun 中/noun-of-locality NO/noun 过度/adverb 增加/verb ，/punctuation-mark 损伤/verb 心肌/noun 细胞/noun 的/particle 结构/noun 及/conjunction 功能/noun 。/punctuation-mark
-AGEs与血管内皮细胞AGE s受体结合后使血管壁通透性增加，减少内皮细胞表面抗凝酶的表达，增加前凝血因子的活性，改变血流动力学，加速[[<DIS>0]]微血管病变的形成;AGE s与心肌细胞表面AG Es受体结合后可促使单核细胞释放多种细胞因子及生长因子，增加内皮细胞通透性及单核细胞趋化性;AGE s还可促进心肌细胞NOS表达，使心肌组织中NO过度增加，[[<DIS>1]]心肌细胞的结构及功能。
-命名实体: 糖尿病 损伤
+AGEs与血管内皮细胞AGE s受体结合后使血管壁通透性增加，减少内皮细胞表面抗凝酶的表达，增加前凝血因子的活性，改变血流动力学，加速[[<DIS>0]]微血管病变的形成;AGE s与心肌细胞表面AG Es受体结合后可促使单核细胞释放多种细胞因子及生长因子，增加内皮细胞通透性及单核细胞趋化性;AGE s还可促进心肌细胞NOS表达，使心肌组织中NO过度增加，损伤心肌细胞的结构及功能。
+命名实体: 糖尿病
 实体关系: 
 ==================================================
 此外/conjunction ，/punctuation-mark 高/adjective 血糖/noun 使/verb 心肌/noun 细胞/noun 、/punctuation-mark 血管/noun 平滑肌/noun 细胞/noun 、/punctuation-mark 内/noun-of-locality 皮/noun 细胞/noun 中/noun-of-locality 二/numeral 酰/noun 甘油/noun (/punctuation-mark DAG/noun )/punctuation-mark 合成/verb 增加/verb ，/punctuation-mark 是/verb 导致/verb 心肌/noun 功能/noun 降低/verb 的/particle 重要/adjective 途径/noun 。/punctuation-mark
@@ -445,8 +445,8 @@ AGEs与血管内皮细胞AGE s受体结合后使血管壁通透性增加，减�
 实体关系: 
 ==================================================
 糖尿病/noun 大/adjective 鼠/noun 研究/verb 表明/verb ，/punctuation-mark 心肌/noun 局部/noun Ang/noun Ⅱ/numeral 水平/noun 增加/verb ，/punctuation-mark 使/verb NADP/noun H/noun 氧化酶/noun 活性/distinguishing-word 增强/verb ，/punctuation-mark 继而/conjunction 活性氧/noun (/punctuation-mark ROS/noun )/punctuation-mark 产生/verb 增加/verb ，/punctuation-mark 引起/verb 心肌/noun 氧化/verb 损伤/verb ，/punctuation-mark 加速/verb 心肌/noun 细胞/noun 和/conjunction 内/noun-of-locality 皮/noun 细胞/noun 凋/verb 亡/verb 和/conjunction 坏死/verb ，/punctuation-mark 并且/conjunction Ang/noun Ⅱ/numeral 浓度/noun 与/conjunction 胶/noun 原/adverb 分泌/verb 呈/verb 正/adverb 相关/verb ，/punctuation-mark 导致/verb 心/noun 肌纤维/noun 化/verb [7]/string 。/punctuation-mark
-[[<DIS>0]]大鼠研究表明，心肌局部Ang Ⅱ水平增加，使NADP H氧化酶活性增强，继而活性氧(ROS)产生增加，引起心肌氧化[[<DIS>1]]，加速心肌细胞和内皮细胞凋亡和坏死，并且Ang Ⅱ浓度与[[<MED>2]]分泌呈正相关，导致心肌纤维化[7]。
-命名实体: 糖尿病 损伤 胶原
+[[<DIS>0]]大鼠研究表明，心肌局部Ang Ⅱ水平增加，使NADP H氧化酶活性增强，继而活性氧(ROS)产生增加，引起心肌氧化损伤，加速心肌细胞和内皮细胞凋亡和坏死，并且Ang Ⅱ浓度与[[<MED>1]]分泌呈正相关，导致心肌纤维化[7]。
+命名实体: 糖尿病 胶原
 实体关系: 
 ==================================================
 此外/conjunction ，/punctuation-mark STZ/noun 诱导/verb 的/particle 糖尿病/noun 大/adjective 鼠/noun 肾/noun 素/adjective -/punctuation-mark 血管/noun 紧张/adjective 素/adverb 系统/adjective 的/particle 阻断/verb 可/verb 修复/verb 肌/noun 质/noun 网/noun Ca2+/noun -/punctuation-mark ATP/noun 酶/noun (/punctuation-mark SERCA/noun )/punctuation-mark 活性/noun ，/punctuation-mark 改善/verb 肌/noun 浆/noun 网/noun 钙/noun 处理/verb 能力/noun ，/punctuation-mark 缓解/verb 心脏/noun 功能/noun 障碍/noun 。/punctuation-mark
@@ -480,8 +480,8 @@ Chen等(2003)研究表明[[<DIS>0]]大鼠心肌纤维连接蛋白mRNA和ET-1mRNA
 实体关系: 
 ==================================================
 2/numeral 型/suffix 糖尿病/noun 大/adjective 鼠/noun 左/noun-of-locality 心室/noun TGF/noun -/punctuation-mark β/punctuation-mark 1/numeral 受体/noun 表达/verb 明显/adjective 增加/verb ，/punctuation-mark TGF/noun -/punctuation-mark β/punctuation-mark 1/numeral 通过/preposition 受体/noun 刺激/verb 心脏/noun 成/verb 纤维/noun 细胞/noun 合成/verb Ⅰ/numeral 、/punctuation-mark Ⅲ/numeral 型/suffix 胶/noun 原/distinguishing-word 及/conjunction 纤维/noun 连接/verb 蛋白/noun ，/punctuation-mark 下调/verb 蛋白/noun 水解/verb 酶/noun 活性/distinguishing-word ，/punctuation-mark 抑制/verb 纤/noun 溶/verb 酶/noun 原/distinguishing-word 、/punctuation-mark 胶/noun 原/distinguishing-word 酶/noun 原/distinguishing-word 、/punctuation-mark 基/noun 质/noun 酶/noun 原/distinguishing-word 等/particle 酶/noun 原/adverb 激活/verb 物/noun 的/particle 产生/verb ，/punctuation-mark 减少/verb 胶/noun 原/distinguishing-word 降解/verb ，/punctuation-mark 增加/verb 心肌/noun 组织/verb 细胞/noun 外/noun-of-locality 基/noun 质/noun 的/particle 含量/noun ，/punctuation-mark 最终/adverb 使/verb 细胞/noun 外/noun-of-locality 基/noun 质/noun 在/preposition 细胞/noun 间/noun-of-locality 沉积/verb ，/punctuation-mark 使/verb 心肌/noun 变/verb 僵硬/adjective ，/punctuation-mark 舒张/verb 功能/noun 障碍/noun ，/punctuation-mark 最终/adverb 出现/verb 心力衰竭/noun 。/punctuation-mark
-[[<DIS>2]]大鼠左心室TGF-β1受体表达明显增加，TGF-β1通过受体刺激心脏成纤维细胞合成Ⅰ、Ⅲ型[[<MED>0]]及纤维连接蛋白，下调蛋白水解酶活性，抑制纤溶酶原、[[<MED>0]]酶原、基质酶原等酶原激活物的产生，减少[[<MED>0]]降解，增加心肌组织细胞外基质的含量，最终使细胞外基质在细胞间沉积，使心肌变僵硬，舒张功能障碍，最终出现[[<SYM><DIS>1]]。
-命名实体: 胶原 心力衰竭 2型糖尿病
+[[<DIS>3]]大鼠左心室TGF-β1受体表达明显增加，TGF-β1通过受体刺激心脏成纤维细胞合成Ⅰ、Ⅲ型[[<MED>0]]及纤维连接蛋白，下调蛋白水解酶活性，抑制纤溶酶原、[[<MED>1]]原、基质酶原等酶原激活物的产生，减少[[<MED>0]]降解，增加心肌组织细胞外基质的含量，最终使细胞外基质在细胞间沉积，使心肌变僵硬，舒张功能障碍，最终出现[[<SYM><DIS>2]]。
+命名实体: 胶原 胶原酶 心力衰竭 2型糖尿病
 实体关系: 
 ==================================================
 在/preposition 心脏/noun 间/noun-of-locality 质/noun 重构/verb 中/noun-of-locality Ang/noun Ⅱ/numeral 、/punctuation-mark ET/noun 和/conjunction 去/verb 甲/noun 肾上腺/noun 素/adjective 都/adverb 可以/verb 刺激/verb TGF/noun -/punctuation-mark β/punctuation-mark 1分/time-word 泌/noun 增加/verb ，/punctuation-mark 从而/conjunction 增强/verb 以上/noun-of-locality 因素/noun 的/particle 致/verb 心/noun 肌纤维/noun 化作/verb 用/verb [8]/string 。/punctuation-mark
@@ -620,8 +620,8 @@ TNF-α可诱导原癌基因c-myc和c-fos mRNA表达，引起心肌间质[[<MED>0
 实体关系: 
 ==================================================
 据/preposition 报道/verb ，/punctuation-mark 自主/verb 神经病/noun 变/verb 的/particle 糖尿病/noun 患者/noun 其/pronoun β/punctuation-mark 及/verb α/punctuation-mark 受体/noun 虽/conjunction 正常/adjective 或/conjunction 降低/verb ，/punctuation-mark 但/conjunction 这些/pronoun 患者/noun 去/verb 神经/noun 后/noun-of-locality 对/preposition 去/verb 甲/noun 肾上腺/noun 素/adjective 的/particle 敏感/adjective 性/noun 明显/adjective 增高/verb ，/punctuation-mark 提示/verb 副/distinguishing-word 交感神经/noun 病变/verb 也/adverb 可/verb 导致/verb 心功能/noun 异常/adjective 。/punctuation-mark
-据报道，自主神经病变的[[<DIS>0]]患者其β及α受体虽正常或降低，但这些患者去神经后对[[<MED>1]]的敏感性明显增高，提示副交感神经病变也可导致[[<DIS>2]]异常。
-命名实体: 糖尿病 去甲肾上腺素 心功能
+据报道，自主神经病变的[[<DIS>0]]患者其β及α受体虽正常或降低，但这些患者去神经后对[[<MED>1]]的敏感性明显增高，提示副交感神经病变也可导致心功能异常。
+命名实体: 糖尿病 去甲肾上腺素
 实体关系: 
 ==================================================
 (/punctuation-mark 四/numeral )/punctuation-mark 干细胞/noun 近年/time-word 研究/verb 表明/verb 糖尿病/noun 心肌/noun 病/noun 可能/verb 是/verb 一/numeral 种/classifier 干细胞/noun 疾病/noun 。/punctuation-mark
@@ -635,8 +635,8 @@ TNF-α可诱导原癌基因c-myc和c-fos mRNA表达，引起心肌间质[[<MED>0
 实体关系: 
 ==================================================
 Elisa/noun 等/particle 研究/verb 发现/verb ，/punctuation-mark 在/preposition STZ/noun 诱导/verb 的/particle 糖尿病/noun 小/adjective 鼠/noun 中/noun-of-locality 敲/verb 除/preposition P66Shc/noun 基因/noun 可/verb 保护/verb 心脏/noun 免受/verb 氧化/verb 应/verb 激/verb 的/particle 损伤/verb ，/punctuation-mark 野生/distinguishing-word 型/suffix 糖尿病/noun 小/adjective 鼠/noun 发生/verb 的/particle 心肌/noun 祖/noun 细胞/noun 数量/noun 减少/verb ，/punctuation-mark 端/verb 粒/noun 缩短/verb (/punctuation-mark 细胞/noun 衰老/adjective 的/particle 表现/verb )/punctuation-mark 的/particle 现象/noun 在/preposition P66Shc/noun -/punctuation-mark //punctuation-mark -/punctuation-mark 小/adjective 鼠/noun 中/noun-of-locality 并/adverb 未/adverb 观察/verb 到/verb ，/punctuation-mark 提示/verb 与/preposition 心肌/noun 祖/noun 细胞/noun 命运/noun 相关/verb 的/particle P66Shc/noun 切除/verb 可/verb 改善/verb 心肌/noun 祖/noun 细胞/noun 衰老/adjective 、/punctuation-mark 凋/verb 亡/verb 和/conjunction 心力衰竭/noun [13]/string 。/punctuation-mark
-Elisa等研究发现，在STZ诱导的[[<DIS>0]]小鼠中敲除P66Shc基因可保护心脏免受氧化应激的[[<DIS>1]]，野生型[[<DIS>0]]小鼠发生的心肌祖细胞数量减少，端粒缩短(细胞衰老的表现)的现象在P66Shc-/-小鼠中并未观察到，提示与心肌祖细胞命运相关的P66Shc切除可改善心肌祖细胞衰老、凋亡和[[<SYM><DIS>2]][13]。
-命名实体: 糖尿病 损伤 心力衰竭
+Elisa等研究发现，在STZ诱导的[[<DIS>0]]小鼠中敲除P66Shc基因可保护心脏免受氧化应激的损伤，野生型[[<DIS>0]]小鼠发生的心肌祖细胞数量减少，端粒缩短(细胞衰老的表现)的现象在P66Shc-/-小鼠中并未观察到，提示与心肌祖细胞命运相关的P66Shc切除可改善心肌祖细胞衰老、凋亡和[[<SYM><DIS>1]][13]。
+命名实体: 糖尿病 心力衰竭
 实体关系: 
 ==================================================
 三/numeral 、/punctuation-mark 结语/noun
@@ -650,8 +650,8 @@ Elisa等研究发现，在STZ诱导的[[<DIS>0]]小鼠中敲除P66Shc基因可�
 实体关系: 
 ==================================================
 近年/time-word 代谢/verb 综合征/noun 的/particle 血管/noun 研究/verb 揭示/verb 了/particle 代谢/verb 性/noun 疾病/noun 和/conjunction 心血管/noun 疾病/noun 的/particle 分界线/noun ，/punctuation-mark 并/conjunction 指出/verb 两者/pronoun 的/particle 协同/verb 作用/noun 构成/verb 了/particle 影响/verb 西方/locative-word 人群/noun 健康/adjective 的/particle 最/adverb 大/adjective 威胁/verb 。/punctuation-mark
-近年[[<SYM>0]]的血管研究揭示了代谢性疾病和[[<DIS>1]]的分界线，[[<DIS>2]]出两者的协同作用构成了影响西方人群健康的最大威胁。
-命名实体: 代谢综合征 心血管疾病 并指
+近年[[<SYM>0]]的血管研究揭示了代谢性疾病和[[<DIS>1]]的分界线，并指出两者的协同作用构成了影响西方人群健康的最大威胁。
+命名实体: 代谢综合征 心血管疾病
 实体关系: 
 ==================================================
 存在/verb 的/particle 主要/distinguishing-word 问题/noun 是/verb 糖尿病/noun 患者/noun 易/adjective 发生/verb 心力衰竭/noun 毋庸置疑/verb ，/punctuation-mark 但/conjunction 这/pronoun 一/numeral 过程/noun 并/conjunction 不/adverb 是/verb 糖尿病/noun 心肌/noun 病/noun 的/particle 晚期/time-word 阶段/noun ，/punctuation-mark 而是/conjunction 由/preposition 与/preposition 糖尿病/noun 心肌/noun 病/noun 重要/adjective 病理/noun 生理/noun 过程/noun 相互/adverb 影响/verb 的/particle 一些/numeral 因素/noun 引起/verb 的/particle 。/punctuation-mark
@@ -705,11 +705,11 @@ Elisa等研究发现，在STZ诱导的[[<DIS>0]]小鼠中敲除P66Shc基因可�
 实体关系: 
 ==================================================
 即使/conjunction 早期/time-word 心脏/noun 代谢/verb 损伤/verb 发生/verb 在/preposition 细胞/noun 或/conjunction 亚/distinguishing-word 细胞/noun 水平/noun ，/punctuation-mark 不足以/verb 导致/verb 心肌/noun 功能/noun 改变/verb ，/punctuation-mark 但/conjunction 心肌/noun 累积/verb 受损/verb 超过/verb 一定/distinguishing-word 时间/noun 就/adverb 会/verb 导致/verb 糖尿病/noun 心肌/noun 病/noun 。/punctuation-mark
-即使早期心脏代谢[[<DIS>0]]发生在细胞或亚细胞水平，不足以导致心肌功能改变，但心肌累积受损超过一定时间就会导致[[<DIS>1]]。
-命名实体: 损伤 糖尿病心肌病
+即使早期心脏代谢损伤发生在细胞或亚细胞水平，不足以导致心肌功能改变，但心肌累积受损超过一定时间就会导致[[<DIS>0]]。
+命名实体: 糖尿病心肌病
 实体关系: 
 ==================================================
 所以/conjunction 应该/verb 采用/verb 方便/adjective 合适/adjective 的/particle 手段/noun 鉴定/verb 这些/pronoun 早期/noun-of-locality 损伤/verb ，/punctuation-mark 并/conjunction 提供/verb 干预/verb 和/conjunction 防护/verb 措施/noun ，/punctuation-mark 来/verb 阻止/verb 或/conjunction 延缓/verb 糖尿病/noun 心肌/noun 病/noun 以后/noun-of-locality 阶段/noun 的/particle 发展/verb 。/punctuation-mark
-所以应该采用方便合适的手段鉴定这些早期[[<DIS>0]]，并提供干预和防护措施，来阻止或延缓[[<DIS>1]]以后阶段的发展。
-命名实体: 损伤 糖尿病心肌病
+所以应该采用方便合适的手段鉴定这些早期损伤，并提供干预和防护措施，来阻止或延缓[[<DIS>0]]以后阶段的发展。
+命名实体: 糖尿病心肌病
 实体关系: 

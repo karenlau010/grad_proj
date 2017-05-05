@@ -8,7 +8,7 @@
 命名实体: 冠心病
 ==================================================
 首先/adverb 是/verb 预防/verb 动脉/noun 粥/noun 样/noun 硬化/verb 的/particle 发生/verb ，/punctuation-mark 即/adverb 在/preposition 疾病/noun 的/particle 源头/noun 进行/verb 干预/verb ;/punctuation-mark 其次/conjunction 是/verb 延缓/verb 动脉/noun 粥/noun 样/noun 硬化/verb 的/particle 进展/verb ;/punctuation-mark 对于/preposition 已/adverb 发生/verb 心肌/noun 缺血/verb 的/particle 患者/noun 进行/verb 治疗/verb ，/punctuation-mark 缓解/verb 症状/noun ;/punctuation-mark 发生/verb 了/particle 急性/distinguishing-word 心肌/noun 梗/noun 死/verb 或/conjunction 其他/pronoun 急性/distinguishing-word 冠状动脉/noun 综合征/noun 的/particle 患者/noun ，/punctuation-mark 更/adverb 应/verb 积极/adjective 治疗/verb ，/punctuation-mark 尽力/adverb 挽救/verb 患者/noun 的/particle 生命/noun ，/punctuation-mark 减少/verb 严重/adjective 并发症/noun 的/particle 发生/verb ;/punctuation-mark 最后/noun-of-locality ，/punctuation-mark 对/preposition 继发/noun 于/preposition 心肌/noun 缺血/verb //punctuation-mark 坏死/verb 的/particle 后果/noun 进行/verb 干预/verb ，/punctuation-mark 重点/adverb 是/verb 对/preposition 易/adjective 损/verb 的/particle 心肌/noun 进行/verb 治疗/verb ，/punctuation-mark 延长/verb 患者/noun 的/particle 生命/noun ，/punctuation-mark 改善/verb 生活/verb 质量/noun 。/punctuation-mark
-首先是预防[[<SYM><DIS>0]]的发生，即在疾病的源头进行干预;其次是延缓[[<SYM><DIS>0]]的进展;对于已发生[[<SYM><DIS>1]]的患者进行治疗，缓解症状;发生了[[<DIS>2]]或其他[[<DIS>4]]动脉[[<SYM><DIS>3]]的患者，更应积极治疗，尽力挽救患者的生命，减少严重并发症的发生;最后，对继发于[[<SYM><DIS>1]]/坏死的后果进行干预，重点是对易损的心肌进行治疗，延长患者的生命，改善生活质量。
+首先是预防[[<SYM><DIS>0]]的发生，即在疾病的源头进行干预;其次是延缓[[<SYM><DIS>0]]的进展;对于已发生[[<SYM><DIS>1]]的患者进行治疗，缓解症状;发生了[[<DIS>2]]或其他[[<DIS>4]]动脉[[<SYM>3]]的患者，更应积极治疗，尽力挽救患者的生命，减少严重并发症的发生;最后，对继发于[[<SYM><DIS>1]]/坏死的后果进行干预，重点是对易损的心肌进行治疗，延长患者的生命，改善生活质量。
 命名实体: 动脉粥样硬化 心肌缺血 急性心肌梗死 综合征 急性冠状
 ==================================================
 现有/verb 的/particle 研究/verb 证据/noun 表明/verb ，/punctuation-mark 在/preposition 冠心病/noun 各/pronoun 阶段/noun 或/conjunction 各/pronoun 层面/noun 的/particle 预防/verb 和/conjunction 治疗/verb 中/noun-of-locality ，/punctuation-mark 他汀类/noun 药都/noun 可/verb 发挥/verb 重要/adjective 作用/noun 。/punctuation-mark
@@ -40,8 +40,8 @@
 命名实体: 血脂异常 高血压 糖尿病 动脉粥样硬化
 ==================================================
 血浆/noun 胆固醇/noun 尤其/adverb 是/verb 低/adjective 密度/noun 脂/punctuation-mark 蛋白/noun 胆固醇/noun (/punctuation-mark LDL/noun -/punctuation-mark C/noun )/punctuation-mark 升高/verb 是/verb 动脉/noun 粥/noun 样/noun 硬化/verb 发生/verb 、/punctuation-mark 发展/verb 的/particle 必备/verb 条件/noun 。/punctuation-mark
-[[<MED>0]][[<DIS>1]]尤其是低密度脂蛋白[[<DIS>1]](LDL-C)升高是[[<SYM><DIS>2]]发生、发展的必备条件。
-命名实体: 血浆 胆固醇 动脉粥样硬化
+[[<MED>0]][[<DIS>1]]尤其是[[<TRE>2]]升高是[[<SYM><DIS>3]]发生、发展的必备条件。
+命名实体: 血浆 胆固醇 低密度脂蛋白胆固醇(LDL-C) 动脉粥样硬化
 ==================================================
 最新/adjective 的/particle 系列/noun 冠状动脉/noun 内/noun-of-locality 超声/noun 检测/verb 研究/verb 表明/verb ，/punctuation-mark 当/preposition 血浆/noun LDL/noun -/punctuation-mark C/noun </punctuation-mark 1.9mmol/L/string (/punctuation-mark 75mg/dl/string )/punctuation-mark 时/noun ，/punctuation-mark 动脉/noun 粥/noun 样/noun 硬化/verb 斑块/noun 的/particle 进展/verb 即可/verb 停止/verb 。/punctuation-mark
 最新的系列[[<SYM>0]]动脉内超声检测研究表明，当[[<MED>1]]LDL-C<1.9mmol/L(75mg/dl)时，[[<SYM><DIS>2]]斑块的进展即可停止。
@@ -152,7 +152,7 @@
 命名实体: 
 ==================================================
 四/numeral 、/punctuation-mark 防治/verb 急性/distinguishing-word 冠状动脉/noun 综合征/noun
-四、防治[[<DIS>1]]动脉[[<SYM><DIS>0]]
+四、防治[[<DIS>1]]动脉[[<SYM>0]]
 命名实体: 综合征 急性冠状
 ==================================================
 瑞典/noun 心血管/noun 重症/noun 监护/verb 中心/noun 分析/verb 了/particle 1995/numeral ~/punctuation-mark 1998年/time-word 中/noun-of-locality 58/numeral 个/classifier 冠心病/noun 监护/verb 病房/noun 收治/verb 的/particle 非/distinguishing-word 选择性/noun 的/particle 急性/distinguishing-word 心肌/noun 梗/noun 死/verb (/punctuation-mark AMI/noun )/punctuation-mark 患者/noun 1/numeral 年/classifier 后/noun-of-locality 的/particle 死亡率/noun 和/conjunction 早期/time-word 应用/verb 他汀类/noun 降/verb 脂/punctuation-mark 药物/noun 治疗/verb (/punctuation-mark 住院/verb 期间/noun-of-locality )/punctuation-mark 的/particle 关系/noun ，/punctuation-mark 共计/verb 19599/numeral 例/classifier AMI/noun 患者/noun ，/punctuation-mark 5528/numeral 例/classifier 服用/verb 他汀类/noun 药物/noun (/punctuation-mark 主要/distinguishing-word 为/verb 辛/noun 伐/verb 他汀/noun )/punctuation-mark ，/punctuation-mark 14071/numeral 例/classifier 未/adverb 服用/verb 此类/pronoun 降/verb 脂/punctuation-mark 剂/classifier ，/punctuation-mark 1/numeral 年/classifier 内/noun-of-locality 前者/pronoun 死亡率/noun 较/adverb 后者/pronoun 降低/verb 25%/numeral ，/punctuation-mark 而且/conjunction 在/preposition 应用/verb 他汀类/noun 药物/noun 3/numeral 个/classifier 月/noun 内/noun-of-locality 即/adverb 显示/verb 有益/adjective 效应/noun ，/punctuation-mark 且/conjunction 早期/time-word 血管/noun 重建/verb 术/noun (/punctuation-mark AMI/noun 14/numeral 天/classifier 以内/noun-of-locality )/punctuation-mark 的/particle 死亡率/noun 下降/verb 36%/numeral ，/punctuation-mark 早期/time-word 他汀类/noun 治疗/verb 与/conjunction 血管/noun 再/adverb 通/verb 术/noun 使/verb 1/numeral 年/classifier 内/noun-of-locality 的/particle 死亡/verb 危险/adjective 减低/verb 64%/numeral ，/punctuation-mark 提示/verb AMI/noun 早期/noun-of-locality 应用/verb 他汀类/noun 能/verb 明显/adjective 改善/verb 预后/noun 。/punctuation-mark
@@ -164,7 +164,7 @@
 命名实体: 他汀类
 ==================================================
 积极/adjective 降/verb 脂/punctuation-mark 治疗/verb 减少/verb 心肌/noun 缺血/verb 事件/noun 研究/verb (/punctuation-mark MIRACL/noun )/punctuation-mark 是/verb 他汀类/noun 治疗/verb 急性/distinguishing-word 冠状动脉/noun 综合征/noun 的/particle 第一/numeral 项/classifier 大规模/distinguishing-word 的/particle 临床/verb 试验/verb ，/punctuation-mark 旨在/verb 评价/verb 早期/noun-of-locality 、/punctuation-mark 快速/distinguishing-word 、/punctuation-mark 强/adjective 效/noun 降/verb 脂/punctuation-mark 治疗/verb 是否/verb 能/verb 减少/verb 不/adverb 稳定性/noun 心绞痛/noun 或/conjunction 非/distinguishing-word Q/noun 波/distinguishing-word 心肌/noun 梗/noun 死/verb 患者/noun 的/particle 心肌/noun 缺血/verb 事件/noun 复发/verb 。/punctuation-mark
-积极降脂治疗减少[[<SYM><DIS>0]]事件研究(MIRACL)是[[<MED>1]]治疗[[<DIS>5]]动脉[[<SYM><DIS>2]]的第一项大规模的临床试验，旨在评价早期、快速、强效降脂治疗是否能减少[[<SYM><DIS>3]]或非Q波[[<SYM><DIS>4]]患者的[[<SYM><DIS>0]]事件复发。
+积极降脂治疗减少[[<SYM><DIS>0]]事件研究(MIRACL)是[[<MED>1]]治疗[[<DIS>5]]动脉[[<SYM>2]]的第一项大规模的临床试验，旨在评价早期、快速、强效降脂治疗是否能减少[[<SYM><DIS>3]]或非Q波[[<SYM><DIS>4]]患者的[[<SYM><DIS>0]]事件复发。
 命名实体: 心肌缺血 他汀类 综合征 不稳定性心绞痛 心肌梗死 急性冠状
 ==================================================
 受/verb 试/verb 对象/noun 为/preposition 3086/numeral 例/classifier 不/adverb 稳定性/noun 心绞痛/noun 或/conjunction 无/verb ST/noun 段/classifier 上/noun-of-locality 抬/verb 的/particle AMI/noun 住院/verb 患者/noun 。/punctuation-mark
@@ -188,7 +188,7 @@
 命名实体: 阿托伐他汀
 ==================================================
 目前/time-word 提倡/verb 对于/preposition 急性/distinguishing-word 冠状动脉/noun 综合征/noun 患者/noun ，/punctuation-mark 尽早/adverb 开始/verb 应用/verb 他汀类/noun 药物/noun ，/punctuation-mark 不仅/conjunction 能/verb 降低/verb 急性/distinguishing-word 期/classifier 病/noun 死/verb 率/verb 和/conjunction 改善/verb 心肌/noun 缺血/verb 症状/noun ，/punctuation-mark 还/adverb 具有/verb 另外/pronoun 两/numeral 点/classifier 益处/noun ：/punctuation-mark (/punctuation-mark 1/numeral )/punctuation-mark 能/verb 调动/verb 患者/noun 坚持/verb 降/verb 脂/punctuation-mark 治疗/verb 的/particle 积极性/noun 。/punctuation-mark
-目前提倡对于[[<DIS>4]]动脉[[<SYM><DIS>0]]患者，尽早开始应用[[<MED>1]]，不仅能降低[[<DIS>3]]死率和改善[[<SYM><DIS>2]]症状，还具有另外两点益处：(1)能调动患者坚持降脂治疗的积极性。
+目前提倡对于[[<DIS>4]]动脉[[<SYM>0]]患者，尽早开始应用[[<MED>1]]，不仅能降低[[<DIS>3]]死率和改善[[<SYM><DIS>2]]症状，还具有另外两点益处：(1)能调动患者坚持降脂治疗的积极性。
 命名实体: 综合征 他汀类药物 心肌缺血 急性期病 急性冠状
 ==================================================
 (/punctuation-mark 2/numeral )/punctuation-mark 能/verb 缩小/verb 临床/verb 上/noun-of-locality 的/particle “/punctuation-mark 治疗/verb 空隙/noun “/punctuation-mark ，/punctuation-mark 使/verb 更/adverb 多/adjective 的/particle 患者/noun 得到/verb 必要/adjective 的/particle 降/verb 脂/punctuation-mark 治疗/verb 。/punctuation-mark
@@ -240,16 +240,16 @@
 命名实体: 他汀类药物 缺血性扩张型心肌病
 ==================================================
 对/preposition 有/verb 心功能/noun 不/adverb 全/adjective (/punctuation-mark NYHA/noun 心功能/noun 2/numeral ~/punctuation-mark 3/numeral 级/classifier )/punctuation-mark 的/particle 扩张型/distinguishing-word 心肌/noun 病/noun 患者/noun ，/punctuation-mark 给予/verb 辛/noun 伐/verb 他汀/noun 5/numeral ~/punctuation-mark 10mg/d/string 治疗/verb 3/numeral 个/classifier 月/noun 。/punctuation-mark
-对有[[<SYM><DIS>0]](NYHA[[<DIS>1]]2~3级)的[[<DIS>2]]患者，给予[[<MED>3]]5~10mg/d治疗3个月。
-命名实体: 心功能不全 心功能 扩张型心肌病 辛伐他汀
+对有[[<SYM><DIS>0]](NYHA心功能2~3级)的[[<DIS>1]]患者，给予[[<MED>2]]5~10mg/d治疗3个月。
+命名实体: 心功能不全 扩张型心肌病 辛伐他汀
 ==================================================
 与/preposition 对照/verb 组/noun 比较/verb ，/punctuation-mark 辛/noun 伐/verb 他汀/noun 治疗/verb 使/verb 左/adjective 室/noun 心功能/noun 明显/adjective 改善/verb 。/punctuation-mark
-与对照组比较，[[<MED>0]]治疗使左室[[<DIS>1]]明显改善。
-命名实体: 辛伐他汀 心功能
+与对照组比较，[[<MED>0]]治疗使左室心功能明显改善。
+命名实体: 辛伐他汀
 ==================================================
 我们/pronoun 也/adverb 观察/verb 了/particle 慢性/distinguishing-word 心力衰竭/noun 患者/noun 在/preposition 常规/noun 治疗/verb 的/particle 基础/noun 上/noun-of-locality 加/verb 用/verb 辛/noun 伐/verb 他汀/noun 治疗/verb 的/particle 疗效/noun ，/punctuation-mark 并/conjunction 证实/verb 辛/noun 伐/verb 他汀/noun 能/verb 使/verb 影响/verb 心功能/noun 的/particle 细胞/noun 因子/noun 如/verb 肿瘤/noun 坏死/verb 因子/noun 、/punctuation-mark 白介素/noun -/punctuation-mark 6/numeral 浓度/noun 明显/adjective 降低/verb ，/punctuation-mark 并/conjunction 有利于/verb 心功能/noun 的/particle 改善/verb 。/punctuation-mark
-我们也观察了[[<DIS>0]]患者在常规治疗的基础上加用[[<MED>1]]治疗的疗效，并证实[[<MED>1]]能使影响[[<DIS>2]]的细胞因子如肿瘤坏死因子、白介素-6浓度明显降低，并有利于[[<DIS>2]]的改善。
-命名实体: 慢性心力衰竭 辛伐他汀 心功能
+我们也观察了[[<DIS>0]]患者在常规治疗的基础上加用[[<MED>1]]治疗的疗效，并证实[[<MED>1]]能使影响心功能的细胞因子如肿瘤坏死因子、白介素-6浓度明显降低，并有利于心功能的改善。
+命名实体: 慢性心力衰竭 辛伐他汀
 ==================================================
 他汀类/noun 可以/verb 减少/verb 急性/distinguishing-word 冠状动脉/noun 事件/noun 的/particle 发生/verb ，/punctuation-mark 而/conjunction 后者/pronoun 可/verb 加速/verb 心力衰竭/noun 的/particle 发展/verb 。/punctuation-mark
 [[<MED>0]]可以减少[[<DIS>2]]动脉事件的发生，而后者可加速[[<SYM><DIS>1]]的发展。
@@ -308,8 +308,8 @@ AVID是一前瞻性、多中心、随机对照试验。
 命名实体: 
 ==================================================
 受试者/noun 为/verb VF/VT/string 伴/verb 晕厥/verb 心/noun 肺/noun 复苏/verb 成功者/noun 、/punctuation-mark 持续性/noun VT/noun 伴/verb 左/adjective 室/noun 射/verb 血/noun 分数/noun ≤40%/numeral 并/conjunction 有/verb 血流/noun 动力学/noun 失/verb 代/verb 偿/verb 症状/noun 。/punctuation-mark
-受试者为VF/VT伴[[<DIS>0]][[<DIS><TRE>1]]成功者、持续性VT伴左室射血分数≤40%并有血流动力学失代偿症状。
-命名实体: 晕厥 心肺复苏
+受试者为VF/VT伴晕厥[[<DIS><TRE>0]]成功者、持续性VT伴左室射血分数≤40%并有血流动力学失代偿症状。
+命名实体: 心肺复苏
 ==================================================
 结果/noun 表明/verb ，/punctuation-mark 服/verb 降/verb 脂/punctuation-mark 治疗/verb 组/noun VT/VF/string 发作/verb 的/particle 危险性/noun 降低/verb 40%/numeral ，/punctuation-mark 全/adverb 因/preposition 死亡率/noun 降低/verb 36%/numeral ，/punctuation-mark 心脏/noun 死亡率/noun 的/particle 危险性/noun 降低/verb 39%/numeral 。/punctuation-mark
 结果表明，服降脂治疗组VT/VF发作的危险性降低40%，全因死亡率降低36%，心脏死亡率的危险性降低39%。
@@ -332,8 +332,8 @@ AVID是一前瞻性、多中心、随机对照试验。
 命名实体: 冠状 心肌缺血
 ==================================================
 (/punctuation-mark 4/numeral )/punctuation-mark 抗/verb 氧化/verb 作用/noun ，/punctuation-mark 减少/verb 氧/noun 自由/adjective 基/noun 对/preposition 心肌/noun 损伤/verb 。/punctuation-mark
-(4)抗氧化作用，减少氧自由基对心肌[[<DIS>0]]。
-命名实体: 损伤
+(4)抗氧化作用，减少氧自由基对心肌损伤。
+命名实体: 
 ==================================================
 (/punctuation-mark 5/numeral )/punctuation-mark 改善/verb 对/preposition 心脏/noun 植物/noun 神经/noun 控制/verb 功能/noun 。/punctuation-mark
 (5)改善对心脏植物神经控制功能。

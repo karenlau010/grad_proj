@@ -16,8 +16,8 @@ AS是血管壁的慢性炎症，是对血管壁损害的反应和修复过程。
 命名实体:
 ==================================================
 高/adjective 胆固醇/noun 血/noun 症/noun 、/punctuation-mark 高血压/noun 、/punctuation-mark 糖尿病/noun 、/punctuation-mark 吸烟/verb 等/particle 冠心病/noun 主要/adverb 危险/adjective 因子/noun 都/adverb 能/verb 损伤/verb 血管/noun 内/noun-of-locality 皮/noun ，/punctuation-mark 内/noun-of-locality 皮/noun 受损/verb 后/noun-of-locality LDL/noun 渗入/verb 并/conjunction 积聚/verb 于/preposition 内/noun-of-locality 皮/noun 下/noun-of-locality 腔/classifier (/punctuation-mark 高/adjective 胆固醇/noun 血/noun 症/noun 时/noun 更/adverb 甚/verb )/punctuation-mark ，/punctuation-mark 被/preposition 血管/noun 壁/noun 细胞/noun 的/particle 脂/punctuation-mark 氧/noun 合/verb 酶/noun 及/conjunction 反应/verb 性/noun 氧/noun 基团/noun (/punctuation-mark 各种/pronoun 氧/noun 自由/adjective 基/noun )/punctuation-mark 氧化/verb 为/preposition 氧化/verb LDL/noun 。/punctuation-mark
-[[<DIS>0]]、[[<DIS>1]]、[[<DIS>2]]、吸烟等[[<DIS>3]]主要危险因子都能[[<DIS>4]]血管内皮，内皮受损后LDL渗入并积聚于内皮下腔([[<DIS>0]]时更甚)，被血管壁细胞的脂氧合酶及反应性氧基团(各种氧自由基)氧化为氧化LDL。
-命名实体: 高胆固醇血症 高血压 糖尿病 冠心病 损伤
+[[<DIS>0]]、[[<DIS>1]]、[[<DIS>2]]、吸烟等[[<DIS>3]]主要危险因子都能损伤血管内皮，内皮受损后LDL渗入并积聚于内皮下腔([[<DIS>0]]时更甚)，被血管壁细胞的脂氧合酶及反应性氧基团(各种氧自由基)氧化为氧化LDL。
+命名实体: 高胆固醇血症 高血压 糖尿病 冠心病
 ==================================================
 氧化/verb LDL/noun 分子/noun 中/noun-of-locality 的/particle 某些/pronoun 脂/punctuation-mark 类/classifier ，/punctuation-mark 如/verb 溶/verb 血/noun 磷脂/noun 、/punctuation-mark 氧/noun 固/adverb 醇/adjective 、/punctuation-mark 血小板/noun 活化/verb 因子/noun 样/noun 磷脂/noun 等/particle 作为/verb 信号/noun 分子/noun ，/punctuation-mark 与/preposition 细胞/noun 的/particle 受体/noun 结合/verb 后/noun-of-locality 可/verb 激活/verb 基因/noun 表达/verb ，/punctuation-mark 生成/verb 许多/numeral 促进/verb 炎症/noun 的/particle 细胞/noun 因子/noun 。/punctuation-mark
 氧化LDL分子中的某些脂类，如溶血磷脂、氧固醇、[[<MED>0]]活化因子样磷脂等作为信号分子，与细胞的受体结合后可激活基因表达，生成许多促进炎症的细胞因子。
@@ -264,8 +264,8 @@ Semb等报告他汀能降低[[<DIS>0]]患者血CD40配体，而且与[[<DIS>1]]�
 命名实体: 肺炎 衣原体感染
 ==================================================
 但/conjunction 有/verb 报导/verb ，/punctuation-mark 在/preposition 已/adverb 发生/verb AS/noun 的/particle 基础/noun 上/noun-of-locality ，/punctuation-mark 肺炎/noun 衣/noun 原/distinguishing-word 体/noun 等/particle 感染/verb 可能/verb 会/verb 加重/verb AS/noun 的/particle 炎症/noun 反应/verb ，/punctuation-mark 导致/verb 斑块/noun 不/adverb 稳定/adjective 。/punctuation-mark
-但有报导，在已发生AS的基础上，[[<DIS>0]]衣原体等[[<DIS>1]]可能会加重AS的炎症反应，导致斑块不稳定。
-命名实体: 肺炎 感染
+但有报导，在已发生AS的基础上，[[<DIS>0]]衣原体等感染可能会加重AS的炎症反应，导致斑块不稳定。
+命名实体: 肺炎
 ==================================================
 但是/conjunction WIZARD/noun 、/punctuation-mark AZACS/noun 等/particle 临床/verb 试验/verb 中/noun-of-locality 应用/verb 抗/verb 肺炎/noun 衣/noun 原/adverb 体/noun 的/particle azithromycin/noun 治疗/verb 并/conjunction 不/adverb 能/verb 降低/verb 心血管/noun 事件/noun 。/punctuation-mark
 但是WIZARD、AZACS等临床试验中应用抗[[<DIS>0]]衣原体的azithromycin治疗并不能降低心血管事件。

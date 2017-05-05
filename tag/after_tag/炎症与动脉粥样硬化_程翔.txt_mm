@@ -4,8 +4,8 @@
 命名实体: 动脉粥样硬化
 ==================================================
 动脉/noun 粥/noun 样/noun 硬化/verb (/punctuation-mark atherosclerosis/noun ，/punctuation-mark AS/noun )/punctuation-mark 发病/verb 机制/noun 的/particle 研究/verb 已经/adverb 经历/verb 了/particle 一个/numeral 多/adjective 世纪/noun ，/punctuation-mark 主要/adverb 围绕/verb 4/numeral 种/classifier 学说/noun ：/punctuation-mark 脂肪/noun 浸润/verb 学说/noun 、/punctuation-mark 血小板/noun 聚集/verb 和/conjunction 血栓/noun 形成/verb 学说/noun 、/punctuation-mark 平滑肌/noun 细胞/noun 克隆/verb 学说/noun 和/conjunction 损伤/verb 反应/verb 学说/noun 。/punctuation-mark
-[[<SYM><DIS>0]](atherosclerosis，AS)发病机制的研究已经经历了一个多世纪，主要围绕4种学说：[[<SYM>1]]学说、[[<MED>2]]聚集和[[<DIS>3]]学说、平滑肌细胞克隆学说和[[<DIS>4]]反应学说。
-命名实体: 动脉粥样硬化 脂肪浸润 血小板 血栓形成 损伤
+[[<SYM><DIS>0]](atherosclerosis，AS)发病机制的研究已经经历了一个多世纪，主要围绕4种学说：[[<SYM>1]]学说、[[<MED>2]]聚集和[[<DIS>3]]学说、平滑肌细胞克隆学说和损伤反应学说。
+命名实体: 动脉粥样硬化 脂肪浸润 血小板 血栓形成
 ==================================================
 近年来/adverb 研究者/noun 发现/verb ，/punctuation-mark 动脉/noun 粥/noun 样/noun 硬化/verb 的/particle 病理/noun 表现/verb 具有/verb 炎症/noun 病理/noun 的/particle 基本/adjective 表现/verb 形式/noun ：/punctuation-mark 变质/verb 、/punctuation-mark 渗出/verb 和/conjunction 增生/verb 。/punctuation-mark
 近年来研究者发现，[[<SYM><DIS>0]]的病理表现具有炎症病理的基本表现形式：变质、渗出和增生。
@@ -20,28 +20,28 @@
 命名实体: 动脉粥样硬化
 ==================================================
 因此/conjunction ，/punctuation-mark Ross/noun 教授/noun 在/preposition 其/pronoun 损伤/verb 反应/verb 学说/noun 的/particle 基础/noun 上/noun-of-locality ，/punctuation-mark 明确/adjective 提出/verb “/punctuation-mark 动脉/noun 粥/noun 样/noun 硬化/verb 是/verb 一/numeral 种/classifier 炎症/noun 性/noun 疾病/noun ”/punctuation-mark 。/punctuation-mark
-因此，Ross教授在其[[<DIS>0]]反应学说的基础上，明确提出“[[<SYM><DIS>1]]是一种炎症性疾病”。
-命名实体: 损伤 动脉粥样硬化
+因此，Ross教授在其损伤反应学说的基础上，明确提出“[[<SYM><DIS>0]]是一种炎症性疾病”。
+命名实体: 动脉粥样硬化
 ==================================================
 一/numeral 、/punctuation-mark 动脉/noun 粥/noun 样/noun 硬化/verb 过程/noun 中/distinguishing-word 炎症/noun 的/particle 触发/verb 机制/noun
 一、[[<SYM><DIS>0]]过程中炎症的触发机制
 命名实体: 动脉粥样硬化
 ==================================================
 动脉/noun 粥/noun 样/noun 硬化/verb 斑块/noun 中/noun-of-locality 有/verb 大量/numeral 炎症/noun 细胞/noun 浸润/verb ，/punctuation-mark 以/preposition 血管/noun 壁/noun 积聚/verb 大量/numeral 的/particle 单/distinguishing-word 核/noun 细胞/noun 和/conjunction 淋巴细胞/noun 为/preposition 特征/noun ，/punctuation-mark 其中/pronoun 的/particle 触发/verb 机制/noun 主要/adverb 包括/verb 感染/verb 、/punctuation-mark 氧化/verb 修饰/verb 的/particle 低/adjective 密度/noun 脂/punctuation-mark 蛋白/noun (/punctuation-mark LDL/noun )/punctuation-mark 堆积/verb 、/punctuation-mark 血流/noun 动力学/noun 异常/adjective 和/conjunction 性激素/noun 水平/noun 等/particle 因素/noun 刺激/verb 内/noun-of-locality 皮/noun 细胞/noun 产生/verb 促/verb 炎/noun 因子/noun ，/punctuation-mark 包括/verb 黏附/verb 分子/noun 和/conjunction 生长/verb 因子/noun 等/particle 。/punctuation-mark
-[[<SYM><DIS>0]]斑块中有大量炎症细胞浸润，以血管壁积聚大量的单核细胞和淋巴细胞为特征，其中的触发机制主要包括[[<DIS>1]]、氧化修饰的低密度脂蛋白(LDL)堆积、血流动力学异常和性激素水平等因素刺激内皮细胞产生促炎因子，包括黏附分子和生长因子等。
-命名实体: 动脉粥样硬化 感染
+[[<SYM><DIS>0]]斑块中有大量炎症细胞浸润，以血管壁积聚大量的单核细胞和淋巴细胞为特征，其中的触发机制主要包括感染、氧化修饰的低密度脂蛋白(LDL)堆积、血流动力学异常和性激素水平等因素刺激内皮细胞产生促炎因子，包括黏附分子和生长因子等。
+命名实体: 动脉粥样硬化
 ==================================================
 1./numeral 感染/verb ：/punctuation-mark 自/preposition 20/numeral 世纪/noun 70/numeral 年代/noun Minick/noun 等/particle 最/adverb 早/adjective 报道/verb 疱疹/noun 病毒/noun 感染/verb 可能/verb 与/preposition 动脉/noun 粥/noun 样/noun 硬化/verb 有关/verb 以来/noun-of-locality ，/punctuation-mark 人们/noun 就/preposition 病原体/noun 感染/verb 与/conjunction 动脉/noun 粥/noun 样/noun 硬化/verb 的/particle 关系/noun 进行/verb 了/particle 大量/numeral 的/particle 研究/verb 。/punctuation-mark
-1.[[<DIS>0]]：自20世纪70年代Minick等最早报道[[<SYM><DIS>1]][[<DIS>2]]可能与[[<SYM><DIS>3]]有关以来，人们就病原体[[<DIS>0]]与[[<SYM><DIS>3]]的关系进行了大量的研究。
-命名实体: 感染 疱疹 病毒感染 动脉粥样硬化
+1.感染：自20世纪70年代Minick等最早报道[[<SYM><DIS>0]][[<DIS>1]]可能与[[<SYM><DIS>2]]有关以来，人们就病原体感染与[[<SYM><DIS>2]]的关系进行了大量的研究。
+命名实体: 疱疹 病毒感染 动脉粥样硬化
 ==================================================
 研究/verb 工作/verb 涉及/verb 到/verb 的/particle 微生物/noun 包括/verb 肺炎/noun 衣/noun 原/adverb 体/noun 、/punctuation-mark 巨细/noun 胞/punctuation-mark 病毒/noun 、/punctuation-mark 幽门/noun 螺/noun 杆菌/noun 、/punctuation-mark 肠道/noun 病毒/noun 、/punctuation-mark EB/noun 病毒/noun 、/punctuation-mark 麻疹/noun 病毒/noun 、/punctuation-mark 人类/noun 免疫/verb 缺陷/noun 病毒/noun 等/particle 。/punctuation-mark
 研究工作涉及到的微生物包括[[<DIS>0]]衣原体、巨细胞病毒、幽门螺杆菌、肠道病毒、EB病毒、[[<DIS>1]]病毒、人类[[<DIS>2]]毒等。
 命名实体: 肺炎 麻疹 免疫缺陷病
 ==================================================
 生物/noun 化学/noun 、/punctuation-mark 组织/noun 病理学/noun 、/punctuation-mark 临床/verb 和/conjunction 流行病/noun 学/verb 的/particle 研究/verb 提供/verb 了/particle 慢性/distinguishing-word 感染/verb 可能/noun 对/preposition 动脉/noun 粥/noun 样/noun 硬化/verb 起/verb 促进/verb 作用/noun 的/particle 证据/noun ，/punctuation-mark 然而/conjunction 对/preposition 其/pronoun 真正/distinguishing-word 的/particle 病因/noun 学/verb 作用/noun 尚未/adverb 达成/verb 一致/adjective 意见/noun 。/punctuation-mark
-生物化学、组织病理学、临床和流行病学的研究提供了慢性[[<DIS>0]]可能对[[<SYM><DIS>1]]起促进作用的证据，然而对其真正的病因学作用尚未达成一致意见。
-命名实体: 感染 动脉粥样硬化
+生物化学、组织病理学、临床和流行病学的研究提供了慢性感染可能对[[<SYM><DIS>0]]起促进作用的证据，然而对其真正的病因学作用尚未达成一致意见。
+命名实体: 动脉粥样硬化
 ==================================================
 目前/time-word 的/particle 研究/verb 认为/verb ，/punctuation-mark 病原/noun 微生物/noun 可以/verb 通过/preposition 释放/verb 内毒素/noun 和/conjunction 热/adjective 休克/verb 蛋白/noun 作用/noun 于/preposition 血管/noun 内/noun-of-locality 皮/noun 细胞/noun 和/conjunction 血管/noun 平滑肌/noun 细胞/noun 产生/verb 前/noun-of-locality 炎症/noun 反应/verb ，/punctuation-mark 并/conjunction 可以/verb 影响/verb 血液/noun 的/particle 凝集/verb 状态/noun 及/verb 脂/punctuation-mark 类/noun 代谢/verb 的/particle 改变/verb ，/punctuation-mark 造成/verb 各类/pronoun 促/verb 炎/noun 因子/noun 和/conjunction 急性/distinguishing-word 时/noun 相/adverb 蛋白/noun 的/particle 升高/verb ，/punctuation-mark 从而/conjunction 触发/verb 炎症/noun 反应/verb 。/punctuation-mark
 目前的研究认为，病原微生物可以通过释放内毒素和热[[<SYM><DIS>0]]蛋白作用于血管内皮细胞和血管平滑肌细胞产生前炎症反应，并可以影响血液的凝集状态及脂类代谢的改变，造成各类促炎因子和急性时相蛋白的升高，从而触[[<SYM>1]]症反应。
@@ -76,8 +76,8 @@ Ox-LDL可以诱导巨噬细胞和血管内皮细胞表达黏附分子、趋化�
 命名实体: 高同型半胱氨酸血症 动脉粥样硬化 冠心病
 ==================================================
 研究/verb 证实/verb ，/punctuation-mark 高/adjective 同/preposition 型/suffix 半/numeral 胱/noun 氨/noun 酸/adjective 可以/verb 通过/preposition 引起/verb 内/noun-of-locality 皮/noun 细胞/noun 功能/noun 紊乱/adjective 、/punctuation-mark 损伤/verb 凝/verb 血/noun 系统/noun 、/punctuation-mark 诱导/verb 平滑肌/noun 细胞/noun 增殖/verb 和/conjunction Ox/noun -/punctuation-mark LDL/noun 生成/verb 促进/verb 动脉/noun 粥/noun 样/noun 硬化/verb 发展/verb 。/punctuation-mark
-研究证实，高同型半胱氨酸可以通过引起内皮细胞功能紊乱、[[<DIS>0]]凝血系统、诱导平滑肌细胞增殖和Ox-LDL生成促进[[<SYM><DIS>1]]发展。
-命名实体: 损伤 动脉粥样硬化
+研究证实，高同型半胱氨酸可以通过引起内皮细胞功能紊乱、损伤凝血系统、诱导平滑肌细胞增殖和Ox-LDL生成促进[[<SYM><DIS>0]]发展。
+命名实体: 动脉粥样硬化
 ==================================================
 近年来/adverb 的/particle 研究/verb 发现/verb ，/punctuation-mark 同/preposition 型/suffix 半/numeral 胱/noun 氨/noun 酸/adjective 可以/verb 激活/verb 血管/noun 平滑肌/noun 细胞/noun 的/particle 核/noun 因子/noun NF/noun -/punctuation-mark κ/punctuation-mark B/noun 信号/noun 通/verb 路/noun ，/punctuation-mark 从而/conjunction 促进/verb 炎症/noun 和/conjunction 动脉/noun 粥/noun 样/noun 硬化/verb 的/particle 发展/verb 。/punctuation-mark
 近年来的研究发现，同型半胱氨酸可以激活血管平滑肌细胞的核因子NF-κB信号通路，从而促进炎症和[[<SYM><DIS>0]]的发展。
@@ -92,8 +92,8 @@ Ox-LDL可以诱导巨噬细胞和血管内皮细胞表达黏附分子、趋化�
 命名实体: 紧张
 ==================================================
 Ang/noun Ⅱ/numeral 可以/verb 诱发/verb 血管/noun 内/noun-of-locality 皮/noun 细胞/noun 和/conjunction 血管/noun 平滑肌/noun 细胞/noun 产生/verb 超/prefix 氧/noun 阴离子/noun ，/punctuation-mark 直接/adjective 损伤/verb 血管/noun 壁/noun 。/punctuation-mark
-AngⅡ可以诱发血管内皮细胞和血管平滑肌细胞产生超氧阴离子，直接[[<DIS>0]]血管壁。
-命名实体: 损伤
+AngⅡ可以诱发血管内皮细胞和血管平滑肌细胞产生超氧阴离子，直接损伤血管壁。
+命名实体:
 ==================================================
 Ang/noun Ⅱ/numeral 还/adverb 可/verb 诱发/verb 血管/noun 内/noun-of-locality 皮/noun 细胞/noun 和/conjunction 平滑肌/noun 细胞/noun 表达/verb 白细胞/noun 介/verb 素/adjective -/punctuation-mark 6/numeral (/punctuation-mark IL/noun -/punctuation-mark 6/numeral )/punctuation-mark 、/punctuation-mark 单/distinguishing-word 核/noun 细胞/noun 趋/verb 化/verb 蛋白/noun -/punctuation-mark 1/numeral (/punctuation-mark MCP/noun -/punctuation-mark 1/numeral )/punctuation-mark 、/punctuation-mark 血管/noun 间/noun-of-locality 黏附/verb 分子/noun -/punctuation-mark 1/numeral (/punctuation-mark VCAM/noun -/punctuation-mark 1/numeral )/punctuation-mark 及/conjunction 细胞/noun 间/noun-of-locality 黏附/verb 分子/noun -/punctuation-mark 1/numeral (/punctuation-mark ICAM/noun -/punctuation-mark 1/numeral )/punctuation-mark 等/particle 炎症/noun 因子/noun ，/punctuation-mark 促进/verb 炎症/noun 和/conjunction 动脉/noun 粥/noun 样/noun 硬化/verb 的/particle 发生/verb 发展/verb 。/punctuation-mark
 Ang Ⅱ还可诱发血管内皮细胞和平滑肌细胞表达白细胞介素-6(IL-6)、单核细胞趋化蛋白-1(MCP-1)、血管间黏附分子-1(VCAM-1)及细胞间黏附分子-1(ICAM-1)等炎症因子，促进炎症和[[<SYM><DIS>0]]的发生发展。
@@ -208,8 +208,8 @@ IL-4和IL-10可以抑制炎性反应如环氧化酶2和诱生型一氧化氮合�
 命名实体: 动脉粥样硬化
 ==================================================
 内/noun-of-locality 皮/noun 细胞/noun 损伤/verb 是/verb 动脉/noun 粥/noun 样/noun 硬化/verb 发生/verb 的/particle 启动/verb 步骤/noun ，/punctuation-mark 其/pronoun 功能/noun 降低/verb 主要/adverb 表现/verb 为/preposition 正常/adjective 的/particle 抗凝/noun 、/punctuation-mark 抗/verb 细胞/noun 黏附/verb 和/conjunction 抗/verb 氧化/verb 机能/noun 减弱/verb 。/punctuation-mark
-内皮细胞[[<DIS>0]]是[[<SYM><DIS>1]]发生的启动步骤，其功能降低主要表现为正常的抗凝、抗细胞黏附和抗氧化机能减弱。
-命名实体: 损伤 动脉粥样硬化
+内皮细胞损伤是[[<SYM><DIS>0]]发生的启动步骤，其功能降低主要表现为正常的抗凝、抗细胞黏附和抗氧化机能减弱。
+命名实体: 动脉粥样硬化
 ==================================================
 平滑肌/noun 细胞/noun 增殖/verb 是/verb 动脉/noun 粥/noun 样/noun 硬化/verb 形成/verb 的/particle 重要/adjective 环节/noun 。/punctuation-mark
 平滑肌细胞增殖是[[<SYM><DIS>0]]形成的重要环节。
@@ -272,7 +272,7 @@ IL-4和IL-10可以抑制炎性反应如环氧化酶2和诱生型一氧化氮合�
 命名实体:
 ==================================================
 三/numeral 、/punctuation-mark 炎症/noun 与/preposition 急性/distinguishing-word 冠状动脉/noun 综合征/noun (/punctuation-mark ACS/noun )/punctuation-mark
-三、炎症与急性[[<SYM>0]]动脉[[<SYM><DIS>1]](ACS)
+三、炎症与急性[[<SYM>0]]动脉[[<SYM>1]](ACS)
 命名实体: 冠状 综合征
 ==================================================
 ACS/noun 中/noun-of-locality 的/particle 不/adverb 稳定/adjective 心绞痛/noun (/punctuation-mark UA/noun )/punctuation-mark 和/conjunction 急性/distinguishing-word 心肌/noun 梗/noun 死/verb (/punctuation-mark AMI/noun )/punctuation-mark 绝大多数/numeral 是/verb 因为/preposition 粥/noun 样/noun 硬化/verb 斑块/noun 破裂/verb 或/conjunction 裂隙/noun 伴随/verb 血栓/noun 形成/verb 造成/verb 血管/noun 堵塞/verb 所/particle 致/verb 。/punctuation-mark
@@ -352,20 +352,20 @@ ACS患者全身性炎症反应也日益受到学者的重视。
 命名实体: 动脉粥样硬化
 ==================================================
 感染/verb 在/preposition 动脉/noun 粥/noun 样/noun 硬化/verb 发病/verb 中/noun-of-locality 可能/verb 起/verb 到/verb 促进/verb 作用/noun ，/punctuation-mark 抗/verb 感染/verb 治疗/verb 曾/adverb 被/preposition 寄予/verb 了/particle 很/adverb 大/adjective 希望/verb 。/punctuation-mark
-[[<DIS>0]]在[[<SYM><DIS>1]]发病中可能起到促进作用，抗[[<DIS>0]]治疗曾被寄予了很大希望。
-命名实体: 感染 动脉粥样硬化
+感染在[[<SYM><DIS>0]]发病中可能起到促进作用，抗感染治疗曾被寄予了很大希望。
+命名实体: 动脉粥样硬化
 ==================================================
 然而/conjunction 近期/time-word 的/particle 抗生素/noun 实验/verb 并/conjunction 未/adverb 显示/verb 抗/verb 感染/verb 治疗/verb 对/preposition 心血管/noun 终点/noun 产生/verb 明显/adjective 益处/noun 。/punctuation-mark
-然而近期的[[<MED>0]]实验并未显示抗[[<DIS>1]]治疗对心血管终点产生明显益处。
-命名实体: 抗生素 感染
+然而近期的[[<MED>0]]实验并未显示抗感染治疗对心血管终点产生明显益处。
+命名实体: 抗生素
 ==================================================
 多数/numeral 研究/verb 认为/verb 即使/conjunction 在/preposition 动脉/noun 损伤/verb 处/noun 证实/verb 有/verb 病原体/noun 的/particle 存在/verb ，/punctuation-mark 仍/adverb 不/adverb 能/verb 肯定/verb 其/pronoun 是/verb “/punctuation-mark 因/preposition ”/punctuation-mark 还是/conjunction “/punctuation-mark 果/noun ”/punctuation-mark 。/punctuation-mark
 多数研究认为即使在[[<DIS>0]]处证实有病原体的存在，仍不能肯定其是“因”还是“果”。
 命名实体: 动脉损伤
 ==================================================
 因此/conjunction ，/punctuation-mark 对/preposition 动脉/noun 粥/noun 样/noun 硬化/verb 中/noun-of-locality 的/particle 感染/verb //punctuation-mark 炎症/noun 因素/noun 尚/adverb 需/verb 更/adverb 深入/adjective 的/particle 研究/verb 。/punctuation-mark
-因此，对[[<SYM><DIS>0]]中的[[<DIS>1]]/炎症因素尚需更深入的研究。
-命名实体: 动脉粥样硬化 感染
+因此，对[[<SYM><DIS>0]]中的感染/炎症因素尚需更深入的研究。
+命名实体: 动脉粥样硬化
 ==================================================
 促/verb 炎/noun 途径/noun 在/preposition 动脉/noun 粥/noun 样/noun 硬化/verb 发生/verb 中/noun-of-locality 起/verb 重要/adjective 作用/noun ，/punctuation-mark 阻断/verb 促/verb 炎/noun 因子/noun ，/punctuation-mark 促进/verb 抗炎/noun 因子/noun 的/particle 免疫/verb 调节/verb 疗法/noun 具有/verb 较/adverb 好/adjective 的/particle 治疗/verb 前景/noun 。/punctuation-mark
 促炎途径在[[<SYM><DIS>0]]发生中起重要作用，阻断促炎因子，促进抗炎因子的免疫调节疗法具有较好的治疗前景。

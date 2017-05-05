@@ -190,8 +190,8 @@
 实体关系: 
 ==================================================
 风湿/noun 性/noun 心脏病/noun 心/noun 衰/adjective 患者/noun 左/noun-of-locality 室/noun 心肌/noun 的/particle 研究/verb 表明/verb ，/punctuation-mark 心肌/noun 肌/noun 球蛋白/noun 轻/verb 链/noun (/punctuation-mark VMLC/noun )/punctuation-mark -/punctuation-mark 1/numeral 、/punctuation-mark 2/numeral 相对/distinguishing-word 含量/noun 较/adverb 正常/adjective 对照/verb 组/noun 显著/adjective 下降/verb ，/punctuation-mark 尤/adverb 以/preposition VMLC/noun -/punctuation-mark 2/numeral 含量/noun 下降/verb 更为/adverb 显著/adjective ;/punctuation-mark VMLC/noun -/punctuation-mark 1/numeral 、/punctuation-mark VMLC/noun -/punctuation-mark 2/numeral 组成/verb 比例/noun 发生/verb 了/particle 明显/adjective 的/particle 改变/verb ;/punctuation-mark VMLC/noun -/punctuation-mark 1/numeral 、/punctuation-mark 2/numeral 相对/distinguishing-word 含量/noun 的/particle 变化/verb 与/conjunction 心/noun 排/verb 血/noun 量/noun 、/punctuation-mark 心脏/noun 指数/noun 、/punctuation-mark 左/adjective 心/noun 做功/noun 、/punctuation-mark 左/adjective 心/noun 做功/noun 指数/noun 、/punctuation-mark 每/pronoun 搏/verb 量/noun 、/punctuation-mark 每/pronoun 搏/verb 指数/noun 等/particle 心功能/noun 指标/noun 密切/adjective 相关/verb 。/punctuation-mark
-[[<DIS>0]][[<DIS>1]]患者左室心肌的研究表明，心肌[[<DIS>2]]轻链(VMLC)-1、2相对含量较正常对照组显著下降，尤以VMLC-2含量下降更为显著;VMLC-1、VMLC-2组成比例发生了明显的改变;VMLC-1、2相对含量的变化与心排血量、心脏指数、左心做功、左心做功指数、每搏量、每搏指数等[[<DIS>3]]指标密切相关。
-命名实体: 风湿性心脏病 心衰 肌球蛋白 心功能
+[[<DIS>0]][[<DIS>1]]患者左室心肌的研究表明，心肌[[<DIS>2]]轻链(VMLC)-1、2相对含量较正常对照组显著下降，尤以VMLC-2含量下降更为显著;VMLC-1、VMLC-2组成比例发生了明显的改变;VMLC-1、2相对含量的变化与心排血量、心脏指数、左心做功、左心做功指数、每搏量、每搏指数等心功能指标密切相关。
+命名实体: 风湿性心脏病 心衰 肌球蛋白
 实体关系: 
 ==================================================
 提示/verb VMLC/noun 两/numeral 亚型/noun 含量/noun 的/particle 下降/verb 和/conjunction 比值/noun 的/particle 改变/verb 参与/verb 了/particle 心/noun 衰/adjective 的/particle 发生/verb 发展/verb 。/punctuation-mark
@@ -280,8 +280,8 @@
 实体关系: 
 ==================================================
 国内/locative-word 心/noun 衰/adjective 患者/noun 的/particle 心肌/noun 活/verb 检/noun 标本/noun 显示/verb ，/punctuation-mark 心肌/noun 细胞/noun 线粒体/noun 膜/noun 磷脂/noun 定位/verb 呈现/verb 不同/adjective 程度/noun 的/particle 脱/verb 失/verb 性/noun 改变/verb ，/punctuation-mark 脱/verb 失/verb 程度/noun 愈/adverb 重/adjective ，/punctuation-mark 心功能/noun 愈/adverb 差/adjective ，/punctuation-mark 生存率/noun 亦/adverb 愈/adverb 低/adjective 。/punctuation-mark
-国内[[<DIS>0]]患者的心肌活检标本显示，心肌细胞线粒体膜磷脂定位呈现不同程度的脱失性改变，脱失程度愈重，[[<DIS>1]]愈差，生存率亦愈低。
-命名实体: 心衰 心功能
+国内[[<DIS>0]]患者的心肌活检标本显示，心肌细胞线粒体膜磷脂定位呈现不同程度的脱失性改变，脱失程度愈重，心功能愈差，生存率亦愈低。
+命名实体: 心衰
 实体关系: 
 ==================================================
 另/pronoun 有/verb 报道/verb 换/verb 瓣/classifier 手术/noun 者/suffix 左/adjective 室/noun 细胞/noun 总/distinguishing-word ATP/noun 酶/noun 、/punctuation-mark 线粒体/noun ATP/noun 酶/noun 、/punctuation-mark 琥珀酸/noun 脱/verb 氢/noun 酶/noun 、/punctuation-mark 细胞/noun 色素/noun 氧化酶/noun 活性/distinguishing-word 均/adverb 较/adverb 正常人/noun 明显/adjective 降低/verb ，/punctuation-mark 提示/verb 心肌/noun 细胞/noun 能量/noun 产生/verb 和/conjunction 利用/verb 均/adverb 有/verb 障碍/noun ，/punctuation-mark 上述/distinguishing-word 指标/noun 与/preposition LVEF/noun 呈/verb 正/adverb 相关/verb 。/punctuation-mark
@@ -290,13 +290,13 @@
 实体关系: 
 ==================================================
 2./numeral 神经/noun 内分泌/noun 的/particle 激活/verb ：/punctuation-mark 在/preposition 初始/time-word 的/particle 心肌/noun 损伤/verb 以后/noun-of-locality ，/punctuation-mark 有/verb 多种/numeral 内/noun-of-locality 源/noun 性/noun 的/particle 神经/noun 内分泌/noun 和/conjunction 细胞/noun 因子/noun 的/particle 激活/verb ，/punctuation-mark 例如/verb ：/punctuation-mark 去/verb 甲/noun 肾上腺/noun 素/adjective (/punctuation-mark NE/noun )/punctuation-mark 、/punctuation-mark Ang/noun Ⅱ/numeral 、/punctuation-mark 醛/noun 固/verb 酮/punctuation-mark (/punctuation-mark ALD/noun )/punctuation-mark 、/punctuation-mark 内/noun-of-locality 皮/noun 素/adjective (/punctuation-mark ET/noun )/punctuation-mark 、/punctuation-mark 肿瘤/noun 坏死/verb 因子/noun (/punctuation-mark TNF/noun -/punctuation-mark α/punctuation-mark )/punctuation-mark 等/particle ，/punctuation-mark 在/preposition 心/noun 衰/adjective 患者/noun 均/adverb 有/verb 循环/verb 水平/noun 或/conjunction 组织/verb 水平/noun 的/particle 升高/verb 。/punctuation-mark
-2.神经内分泌的激活：在初始的心肌[[<DIS>0]]以后，有多种内源性的神经内分泌和细胞因子的激活，例如：[[<MED>1]](NE)、Ang Ⅱ、醛固酮(ALD)、内皮素(ET)、肿瘤坏死因子(TNF-α)等，在[[<DIS>2]]患者均有循环水平或组织水平的升高。
-命名实体: 损伤 去甲肾上腺素 心衰
+2.神经内分泌的激活：在初始的心肌损伤以后，有多种内源性的神经内分泌和细胞因子的激活，例如：[[<MED>0]](NE)、Ang Ⅱ、醛固酮(ALD)、内皮素(ET)、肿瘤坏死因子(TNF-α)等，在[[<DIS>1]]患者均有循环水平或组织水平的升高。
+命名实体: 去甲肾上腺素 心衰
 实体关系: 
 ==================================================
 神经/noun 内分泌/noun -/punctuation-mark 细胞/noun 因/preposition 子系统/noun 的/particle 长期/distinguishing-word 、/punctuation-mark 慢性/distinguishing-word 激活/verb 促进/verb 心肌/noun 重塑/verb ，/punctuation-mark 加重/verb 心肌/noun 损伤/verb 和/conjunction 心功能/noun 恶化/verb ，/punctuation-mark 后者/pronoun 又/adverb 进一步/adverb 激活/verb 神经/noun 内分泌/noun -/punctuation-mark 细胞/noun 因子/noun 等/particle ，/punctuation-mark 如此/pronoun 形成/verb 恶性循环/noun 。/punctuation-mark
-神经内分泌-细胞因子系统的长期、慢性激活促进心肌重塑，加重心肌[[<DIS>0]]和[[<DIS>1]]恶化，后者又进一步激活神经内分泌-细胞因子等，如此形成恶性循环。
-命名实体: 损伤 心功能
+神经内分泌-细胞因子系统的长期、慢性激活促进心肌重塑，加重心肌损伤和心功能恶化，后者又进一步激活神经内分泌-细胞因子等，如此形成恶性循环。
+命名实体:
 实体关系: 
 ==================================================
 有关/preposition 这/pronoun 方面/noun 的/particle 报道/noun ，/punctuation-mark 国内/locative-word 亦/adverb 愈来愈/adverb 多/adjective 。/punctuation-mark
@@ -310,8 +310,8 @@
 实体关系: 
 ==================================================
 有/verb 报道/verb ，/punctuation-mark 换/verb 瓣/classifier 手术/noun 取材/verb 心肌/noun 的/particle β/punctuation-mark -/punctuation-mark 受体/noun 密度/noun (/punctuation-mark β/punctuation-mark max/noun )/punctuation-mark 和/conjunction cAMP/noun 均/adverb 与/preposition 左/adjective 心室/noun 重量/noun 指数/noun (/punctuation-mark LVMI/noun )/punctuation-mark 显著/adjective 负/verb 相关/verb ;/punctuation-mark NYHA/noun Ⅲ/numeral 级/classifier 患者/noun 较之/preposition Ⅱ/numeral 级/classifier 患者/noun 更/adverb 低/adjective ，/punctuation-mark 提示/verb 心肌/noun Bmax/noun 能/verb 反映/verb 心室/noun 重塑/verb 和/conjunction 心功能/noun 受损/verb 程度/noun 。/punctuation-mark
-有报道，换瓣手术取材心肌的β-受体密度(βmax)和cAMP均与左心室重量指数(LVMI)显著负相关;NYHA Ⅲ级患者较之Ⅱ级患者更低，提示心肌Bmax能反映心室重塑和[[<DIS>0]]受损程度。
-命名实体: 心功能
+有报道，换瓣手术取材心肌的β-受体密度(βmax)和cAMP均与左心室重量指数(LVMI)显著负相关;NYHA Ⅲ级患者较之Ⅱ级患者更低，提示心肌Bmax能反映心室重塑和心功能受损程度。
+命名实体:
 实体关系: 
 ==================================================
 同时/conjunction 测定/verb 外/noun-of-locality 周/noun 血/noun 淋巴细胞/noun 的/particle Bmax/noun ，/punctuation-mark 其/pronoun 变化/verb 与/conjunction 心肌/noun 细胞/noun 相似/adjective ，/punctuation-mark 二者/pronoun 密切/adjective 正/adverb 相关/verb ，/punctuation-mark 提示/verb 血/noun 淋巴细胞/noun 的/particle Bmax/noun 可/verb 作为/preposition 心肌/noun Bmax/noun 的/particle 替代/verb 指标/noun 。/punctuation-mark
@@ -410,13 +410,13 @@
 实体关系: 
 ==================================================
 应用/verb 异/adjective 丙/numeral 肾上腺/noun 素/adverb 诱导/verb 的/particle 大/adjective 鼠/noun 心/noun 衰/adjective 模型/noun 的/particle 研究/verb 表明/verb ，/punctuation-mark 血清/noun 及/conjunction 心肌/noun 组织/verb 肿瘤/noun 坏死/verb 因子/noun (/punctuation-mark TNF/noun -/punctuation-mark α/punctuation-mark )/punctuation-mark 均/adverb 明显/adjective 增高/verb ，/punctuation-mark 应/verb 用/verb TNF/noun -/punctuation-mark α/punctuation-mark 拮/punctuation-mark 抗/verb 剂/classifier Enbrel/noun 能/verb 改善/verb 心功能/noun ，/punctuation-mark 减轻/verb 左/adjective 室/noun 重塑/verb ，/punctuation-mark 且/conjunction 使/verb 心肌/noun IL/noun -/punctuation-mark 1/numeral β/punctuation-mark 表达/verb 水平/noun 亦/adverb 下降/verb ，/punctuation-mark 可能/verb 是/verb 细胞/noun 因子/noun 之间/noun-of-locality 的/particle 相互作用/noun 结果/noun 。/punctuation-mark
-应用[[<MED>0]]诱导的大鼠[[<DIS>1]]模型的研究表明，血清及心肌组织肿瘤坏死因子(TNF-α)均明显增高，应用TNF-[[<MED>3]]Enbrel能改善[[<DIS>2]]，减轻左室重塑，且使心肌IL-1β表达水平亦下降，可能是细胞因子之间的相互作用结果。
-命名实体: 异丙肾上腺素 心衰 心功能 α拮抗剂
+应用[[<MED>0]]诱导的大鼠[[<DIS>1]]模型的研究表明，血清及心肌组织肿瘤坏死因子(TNF-α)均明显增高，应用TNF-[[<MED>2]]Enbrel能改善心功能，减轻左室重塑，且使心肌IL-1β表达水平亦下降，可能是细胞因子之间的相互作用结果。
+命名实体: 异丙肾上腺素 心衰 α拮抗剂
 实体关系: 
 ==================================================
 临床/verb 上/noun-of-locality ，/punctuation-mark 有/verb 多/numeral 篇/classifier 报道/verb ，/punctuation-mark 心/noun 衰/adjective 时/noun ，/punctuation-mark TNF/noun -/punctuation-mark α/punctuation-mark 、/punctuation-mark 白介素/noun (/punctuation-mark IL/noun -/punctuation-mark 2/numeral 和/conjunction IL/noun -/punctuation-mark 6/numeral )/punctuation-mark 、/punctuation-mark 细胞/noun 间/noun-of-locality 黏附/verb 分子/noun (/punctuation-mark ICAM/noun -/punctuation-mark 1/numeral )/punctuation-mark 均/adverb 有/verb 升高/verb ，/punctuation-mark 且/conjunction 随/preposition 心功能/noun 损害/verb 程度/noun 加重/verb 而/conjunction 升高/verb 。/punctuation-mark
-临床上，有多篇报道，[[<DIS>0]]时，TNF-α、白介素(IL-2和IL-6)、细胞间黏附分子(ICAM-1)均有升高，且随[[<DIS>1]]损害程度加重而升高。
-命名实体: 心衰 心功能
+临床上，有多篇报道，[[<DIS>0]]时，TNF-α、白介素(IL-2和IL-6)、细胞间黏附分子(ICAM-1)均有升高，且随心功能损害程度加重而升高。
+命名实体: 心衰
 实体关系: 
 ==================================================
 培/verb 哚/noun 普利/noun 较/adverb 常规/noun 治疗/verb 降低/verb TNF/noun -/punctuation-mark α/punctuation-mark 、/punctuation-mark IL/noun -/punctuation-mark 1/numeral 、/punctuation-mark IL/noun -/punctuation-mark 6/numeral 、/punctuation-mark sICAM/noun -/punctuation-mark 1/numeral 和/conjunction Fas/Apo1/string 的/particle 作用/noun 更为/adverb 明显/adjective 。/punctuation-mark
@@ -465,8 +465,8 @@
 实体关系: 
 ==================================================
 另/pronoun 有/verb 报道/verb ，/punctuation-mark 在/preposition 常规/noun 治疗/verb 基础/noun 上/noun-of-locality 加/verb 用/verb β/punctuation-mark -/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 比索/noun 洛尔/noun 治疗/verb ，/punctuation-mark 可/conjunction 使/verb 心/noun 衰/adjective 患者/noun β/punctuation-mark 1/numeral 和/conjunction M2/noun 受体/noun 自身/pronoun 抗体/noun 转/verb 阴/adjective 、/punctuation-mark 滴/verb 度/classifier 下降/verb ，/punctuation-mark 同时/conjunction 伴有/verb 心功能/noun 的/particle 明显/adjective 改善/verb 。/punctuation-mark
-另有报道，在常规治疗基础上加用[[<MED>3]][[<MED>0]]治疗，可使[[<DIS>1]]患者β1和M2受体自身抗体转阴、滴度下降，同时伴有[[<DIS>2]]的明显改善。
-命名实体: 比索洛尔 心衰 心功能 β-受体阻滞剂
+另有报道，在常规治疗基础上加用[[<MED>2]][[<MED>0]]治疗，可使[[<DIS>1]]患者β1和M2受体自身抗体转阴、滴度下降，同时伴有心功能的明显改善。
+命名实体: 比索洛尔 心衰 β-受体阻滞剂
 实体关系: 
 ==================================================
 三/numeral 、/punctuation-mark 诊断/verb
@@ -540,8 +540,8 @@ ACEI[[<MED>0]]治疗[[<DIS>1]]于20世纪80年代中期已有报道，最初作�
 实体关系: 
 ==================================================
 有/verb 报道/verb 应用/verb 培/verb 哚/noun 普利/noun 治疗/verb 心/noun 衰/adjective 72/numeral 例/classifier ，/punctuation-mark 随/adverb 访/verb 时间/noun 长/adjective 达/verb 4/numeral 年/classifier ，/punctuation-mark 结果/adverb 培/verb 哚/noun 普利/noun 组/noun 心功能/noun 改善/verb ，/punctuation-mark 因/preposition 心/noun 衰/adjective 再/adverb 住院/verb 率/verb 和/conjunction 死亡率/noun 均/adverb 较/adverb 常规/noun 治疗/verb 对照/verb 组/noun 有/verb 显著/adjective 下降/verb 。/punctuation-mark
-有报道应用[[<MED>0]]治疗[[<DIS>1]]72例，随访时间长达4年，结果[[<MED>0]]组[[<DIS>2]]改善，因[[<DIS>1]]再住院率和死亡率均较常规治疗对照组有显著下降。
-命名实体: 培哚普利 心衰 心功能
+有报道应用[[<MED>0]]治疗[[<DIS>1]]72例，随访时间长达4年，结果[[<MED>0]]组心功能改善，因[[<DIS>1]]再住院率和死亡率均较常规治疗对照组有显著下降。
+命名实体: 培哚普利 心衰
 实体关系: 
 ==================================================
 醛/noun 固/verb 酮/punctuation-mark 有/verb 独立/adjective 于/preposition Ang/noun Ⅱ/numeral 和/conjunction 相加/verb 于/preposition Ang/noun Ⅱ/numeral 的/particle 对/preposition 心肌/noun 重塑/verb 的/particle 不良/adjective 作用/noun ，/punctuation-mark 特别/adverb 是/verb 对/preposition 心/noun 肌纤维/noun 化/suffix 的/particle 作用/noun 。/punctuation-mark
@@ -560,7 +560,7 @@ ACEI[[<MED>0]]治疗[[<DIS>1]]于20世纪80年代中期已有报道，最初作�
 实体关系: 
 ==================================================
 在/preposition 严密/adjective 监测/verb 血/noun 钾/noun 与/conjunction 血/noun 肌/noun 酐/punctuation-mark 的/particle 情况/noun 下/noun-of-locality ，/punctuation-mark 并/conjunction 无/verb 不良/adjective 反应/verb ，/punctuation-mark 当心/verb 衰/adjective 患者/noun 因/preposition 咳嗽/verb 等/particle 不良/adjective 反应/verb 不/adverb 能/verb 耐受/verb ACEI/noun 时/noun ，/punctuation-mark 血管/noun 紧张/adjective 素/adverb Ⅱ/numeral 1/numeral 型/suffix 受体/noun 拮/punctuation-mark 抗/verb 剂/classifier (/punctuation-mark ARB/noun )/punctuation-mark 可/verb 作为/preposition 二线/locative-word 药物/noun 替代/verb 应用/verb 。/punctuation-mark
-在严密监测血钾与血肌酐的情况下，并无不良反应，当[[<DIS>0]]患者因[[<SYM><DIS>1]]等不良反应不能耐受ACEI时，血管[[<SYM>2]]素Ⅱ1型受体拮抗剂(ARB)可作为二线药物替代应用。
+在严密监测血钾与血肌酐的情况下，并无不良反应，当[[<DIS>0]]患者因[[<SYM>1]]等不良反应不能耐受ACEI时，血管[[<SYM>2]]素Ⅱ1型受体拮抗剂(ARB)可作为二线药物替代应用。
 命名实体: 心衰 咳嗽 紧张
 实体关系: 
 ==================================================
@@ -620,8 +620,8 @@ ACEI[[<MED>0]]治疗[[<DIS>1]]于20世纪80年代中期已有报道，最初作�
 实体关系: 
 ==================================================
 与/preposition 常规/noun 治疗/verb 相比/verb ，/punctuation-mark 结果/noun 均/adverb 能/verb 改善/verb 临床/verb 心功能/noun ，/punctuation-mark 还/adverb 有/verb 报道/verb LVEF/noun 上升/verb ，/punctuation-mark 左/adjective 室/noun 收缩/verb 末/noun-of-locality 容积/noun 和/conjunction 舒张/verb 末/noun-of-locality 容积/noun 缩小/verb 者/suffix 。/punctuation-mark
-与常规治疗相比，结果均能改善临床[[<DIS>0]]，还有报道LVEF上升，左室收缩末容积和舒张末容积缩小者。
-命名实体: 心功能
+与常规治疗相比，结果均能改善临床心功能，还有报道LVEF上升，左室收缩末容积和舒张末容积缩小者。
+命名实体:
 实体关系: 
 ==================================================
 此外/conjunction ，/punctuation-mark 有/verb 报道/noun 将/adverb 环/verb 磷酸/noun 腺/punctuation-mark 苷/noun 葡/distinguishing-word 甲/noun 胺/noun 与/preposition 美托洛尔/noun 合用/verb 治疗/verb 难/adjective 治/verb 性/noun 心力衰竭/noun ，/punctuation-mark 以/conjunction 对/preposition 抗/verb 美托洛尔/noun 初期/noun-of-locality 的/particle 负/verb 性/noun 肌/noun 力/noun 作用/noun 。/punctuation-mark
@@ -710,8 +710,8 @@ ACEI[[<MED>0]]治疗[[<DIS>1]]于20世纪80年代中期已有报道，最初作�
 实体关系: 
 ==================================================
 心功能/noun 分级/verb 均/adverb 为/verb NYHA/noun Ⅲ/numeral 、/punctuation-mark Ⅳ/numeral 级/classifier 。/punctuation-mark
-[[<DIS>0]]分级均为NYHA Ⅲ、Ⅳ级。
-命名实体: 心功能
+心功能分级均为NYHA Ⅲ、Ⅳ级。
+命名实体:
 实体关系: 
 ==================================================
 QRS/noun 时限/noun 均/adverb >/punctuation-mark 0.12s/noun 。/punctuation-mark
@@ -735,8 +735,8 @@ QRS时限均>0.12s。
 实体关系: 
 ==================================================
 上述/distinguishing-word 研究/verb 资料/noun 提示/verb ，/punctuation-mark 对/preposition 心功能/noun 为/verb NYHA/noun Ⅲ/numeral 级/classifier 或/conjunction Ⅳ/numeral 级/classifier 伴有/verb 室内/locative-word 传导/verb 阻滞/verb 的/particle 心/noun 衰/adjective 患者/noun ，/punctuation-mark 同步/verb 化/verb 双/numeral 心室/noun 起/verb 搏/verb 能/verb 逆转/verb 左/noun-of-locality 室/noun 重塑/verb ，/punctuation-mark 改善/verb 心功能/noun 。/punctuation-mark
-上述研究资料提示，对[[<DIS>0]]为NYHA Ⅲ级或Ⅳ级[[<DIS>1]]患者，同步化双心室起搏能逆转左室重塑，改善[[<DIS>0]]。
-命名实体: 心功能 伴有室内传导阻滞的心衰
+上述研究资料提示，对心功能为NYHA Ⅲ级或Ⅳ级[[<DIS>0]]患者，同步化双心室起搏能逆转左室重塑，改善心功能。
+命名实体: 伴有室内传导阻滞的心衰
 实体关系: 
 ==================================================
 另/pronoun 有/verb 报道/verb ，/punctuation-mark 应用/verb 心房/noun 心室/noun 顺序/noun 起/verb 搏/verb 的/particle 生理/noun 型/suffix 起/verb 搏/verb 器/noun (/punctuation-mark DDD/noun )/punctuation-mark 治疗/verb 晚期/time-word 慢性/distinguishing-word 心/noun 衰/adjective 18/numeral 例/classifier ，/punctuation-mark AV/noun 间/noun-of-locality 期/classifier 调/verb 短/adjective 至/preposition 100/numeral ~/punctuation-mark 150ms/noun ;/punctuation-mark 起/noun-of-locality 搏/verb 器/noun 频率/noun 调整/verb 至/preposition 90/numeral ~/punctuation-mark 120/numeral 次/classifier //punctuation-mark min/noun 。/punctuation-mark
@@ -750,8 +750,8 @@ QRS时限均>0.12s。
 实体关系: 
 ==================================================
 结果/noun 显示/verb ，/punctuation-mark 两/numeral 组/classifier 的/particle 生存/verb 时间/noun 、/punctuation-mark 病/noun 死/verb 率/verb 、/punctuation-mark 心功能/noun 分级/verb 和/conjunction LVEF/noun 、/punctuation-mark 左/adjective 室/noun 舒张/verb 末/noun-of-locality 径/noun 缩小/verb 值/noun 均/adverb 有/verb 显著/adjective 差异/noun ，/punctuation-mark 治疗/verb 组/noun 显著/adjective 优于/verb 对照/verb 组/noun 。/punctuation-mark
-结果显示，两组的生存时间、病死率、[[<DIS>0]]分级和LVEF、左室舒张末径缩小值均有显著差异，治疗组显著优于对照组。
-命名实体: 心功能
+结果显示，两组的生存时间、病死率、心功能分级和LVEF、左室舒张末径缩小值均有显著差异，治疗组显著优于对照组。
+命名实体:
 实体关系: 
 ==================================================
 2002年/time-word 1月/time-word 公布/verb 了/particle “/punctuation-mark 慢性/distinguishing-word 收缩/verb 性/noun 心力衰竭/noun 治疗/verb 建议/noun ”/punctuation-mark ，/punctuation-mark 这/pronoun 是/verb 第一/numeral 个/classifier 遵循/verb 循/verb 证/noun 医学/noun 原则/noun 撰写/verb 的/particle “/punctuation-mark 建议/noun ”/punctuation-mark 。/punctuation-mark
