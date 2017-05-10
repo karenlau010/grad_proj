@@ -1,400 +1,400 @@
 ==================================================
-室/noun 性/noun 心律/noun 失常/adjective 药物/noun 治疗/verb 选择/verb
+﻿室性心律失常药物治疗选择
 ﻿[[<DIS>0]]药物治疗选择
 命名实体: 室性心律失常
 ==================================================
-药物/noun 治疗/verb 仍/adverb 是/verb 室/noun 性/noun 心律/noun 失常/adjective 的/particle 主要/distinguishing-word 治疗/verb 手段/noun ，/punctuation-mark 但/conjunction 至今/adverb 尚/adverb 无/verb 理想/adjective 的/particle 抗/verb 心律/noun 失常/adjective 药物/noun (/punctuation-mark AAD/noun )/punctuation-mark ，/punctuation-mark 如/conjunction 治疗/verb 不当/adjective ，/punctuation-mark 反而/adverb 造成/verb 失/verb 大于/verb 得/verb ，/punctuation-mark 因此/conjunction 药物/noun 治疗/verb 要/verb 选择/verb ：/punctuation-mark (/punctuation-mark 1/numeral )/punctuation-mark 何种/pronoun 室/noun 性/noun 心律/noun 失常/adjective 需要/noun 治疗/verb ，/punctuation-mark 何/pronoun 种/classifier 室/noun 性/noun 心律/noun 失常/adjective 不/adverb 需/verb 治疗/verb 。/punctuation-mark
+药物治疗仍是室性心律失常的主要治疗手段，但至今尚无理想的抗心律失常药物(AAD)，如治疗不当，反而造成失大于得，因此药物治疗要选择：(1)何种室性心律失常需要治疗，何种室性心律失常不需治疗。
 药物治疗仍是[[<DIS>0]]的主要治疗手段，但至今尚无理想的[[<MED>1]]物(AAD)，如治疗不当，反而造成失大于得，因此药物治疗要选择：(1)何种[[<DIS>0]]需要治疗，何种[[<DIS>0]]不需治疗。
 命名实体: 室性心律失常 抗心律失常药
 ==================================================
-(/punctuation-mark 2/numeral )/punctuation-mark 选用/verb 何种/pronoun 药物/noun 较/adverb 安全/adjective 有效/adjective ，/punctuation-mark 何/pronoun 种/classifier 药物/noun 风险/noun 较/adverb 大/adjective 。/punctuation-mark
+(2)选用何种药物较安全有效，何种药物风险较大。
 (2)选用何种药物较安全有效，何种药物风险较大。
 命名实体:
 ==================================================
-(/punctuation-mark 3/numeral )/punctuation-mark 哪些/pronoun 药物/noun 有/verb 较/adverb 多/adjective 的/particle 循/verb 证/noun 依据/noun ，/punctuation-mark 因此/conjunction 室/noun 性/noun 心律/noun 失常/adjective 治疗/verb 药物/noun 选择/verb 至今/adverb 还/adverb 是/verb 一/numeral 难题/noun 。/punctuation-mark
+(3)哪些药物有较多的循证依据，因此室性心律失常治疗药物选择至今还是一难题。
 (3)哪些药物有较多的循证依据，因此[[<DIS>0]]治疗药物选择至今还是一难题。
 命名实体: 室性心律失常
 ==================================================
-在/preposition 实践/verb 中/noun-of-locality 虽/conjunction 形成/verb 了/particle 一些/numeral 共识/noun ，/punctuation-mark 但/conjunction 在/preposition 治疗/verb 上/noun-of-locality 各持己见/verb 的/particle 也/adverb 不/adverb 少/adjective ，/punctuation-mark 为此/adverb 在/preposition 室/noun 性/noun 心律/noun 失常/adjective 中/noun-of-locality 如何/pronoun 选用/verb 药物/noun 稍/adverb 作/verb 讨论/verb 。/punctuation-mark
+在实践中虽形成了一些共识，但在治疗上各持己见的也不少，为此在室性心律失常中如何选用药物稍作讨论。
 在实践中虽形成了一些共识，但在治疗上各持己见的也不少，为此在[[<DIS>0]]中如何选用药物稍作讨论。
 命名实体: 室性心律失常
 ==================================================
-一/numeral 、/punctuation-mark 病因/noun 治疗/verb
+一、病因治疗
 一、病因治疗
 命名实体:
 ==================================================
-室/noun 性/noun 心律/noun 失常/adjective 基本/adjective 有/verb 病/noun 因/conjunction 可/verb 査/punctuation-mark ，/punctuation-mark 最/adverb 常见/adjective 的/particle 室/noun 性/suffix 早/adjective 搏/verb ，/punctuation-mark 多数/numeral 为/preposition 良性/distinguishing-word ，/punctuation-mark 见于/verb 结构/noun 正常/adjective 的/particle 心脏/noun ，/punctuation-mark 可能/verb 与/conjunction 高度/adverb 交/verb 感/verb 张力/noun 有关/verb ，/punctuation-mark 因此/conjunction 对/preposition β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 有/verb 较/adverb 好/adjective 的/particle 疗效/noun 。/punctuation-mark
+室性心律失常基本有病因可査，最常见的室性早搏，多数为良性，见于结构正常的心脏，可能与高度交感张力有关，因此对β受体阻滞剂有较好的疗效。
 [[<DIS>0]]基本有病因可査，最常见的[[<SYM><DIS>1]]，多数为良性，见于结构正常的心脏，可能与高度交感张力有关，因此对β受体阻滞剂有较好的疗效。
 命名实体: 室性心律失常 室性早搏
 ==================================================
-持续性/noun 室/noun 性/noun 心动/verb 过速/adjective (/punctuation-mark 室/noun 速/verb )/punctuation-mark 多/adjective 见于/verb 器/noun 质/noun 性/noun 心脏病/noun ，/punctuation-mark 常/adverb 见/verb 有/verb 心肌/noun 梗/noun 死/verb 、/punctuation-mark 急性/distinguishing-word 心肌/noun 供/verb 血/noun 不足/adjective 、/punctuation-mark 心肌/noun 病/noun 等/particle ，/punctuation-mark 治疗/verb 上/noun-of-locality 重在/verb 病因/noun 治疗/verb ，/punctuation-mark 冠心病/noun 患者/noun 冠状动脉/noun 血/noun 运/verb 重建/verb ，/punctuation-mark 恢复/verb 心肌/noun 供/verb 血/noun ，/punctuation-mark 心肌/noun 病/noun 无论/conjunction 何/pronoun 种/classifier 形式/noun ，/punctuation-mark 一般/adjective 为/verb 进行/verb 性/noun ，/punctuation-mark 病程/noun 不/adverb 可逆/verb ，/punctuation-mark 在/preposition 治疗/verb 上/noun-of-locality 应/verb 重视/verb 延缓/verb 心肌/noun 重构/verb 的/particle 治疗/verb 。/punctuation-mark
+持续性室性心动过速(室速)多见于器质性心脏病，常见有心肌梗死、急性心肌供血不足、心肌病等，治疗上重在病因治疗，冠心病患者冠状动脉血运重建，恢复心肌供血，心肌病无论何种形式，一般为进行性，病程不可逆，在治疗上应重视延缓心肌重构的治疗。
 持续性[[<SYM><DIS>0]](室速)多见于[[<SYM>1]]，常见有[[<SYM><DIS>2]]、急性心肌供血不足、[[<DIS>3]]等，治疗上重在病因治疗，[[<DIS>4]]患者[[<SYM>5]]动脉血运重建，恢复心肌供血，[[<DIS>3]]无论何种形式，一般为进行性，病程不可逆，在治疗上应重视延缓心肌重构的治疗。
 命名实体: 室性心动过速 器质性心脏病 心肌梗死 心肌病 冠心病 冠状
 ==================================================
-因此/conjunction 常规/noun 使用/verb 血管/noun 紧张/adjective 素/adverb 转换/verb 酶/noun 抑/verb 制剂/noun (/punctuation-mark ACEI/noun )/punctuation-mark 、/punctuation-mark 血管/noun 紧张/adjective 素/adjective 受体/noun 阻滞/verb 剂/classifier (/punctuation-mark ARB/noun )/punctuation-mark 、/punctuation-mark 醛/noun 固/verb 酮/punctuation-mark 拮/punctuation-mark 抗/verb 剂/classifier 和/preposition β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 治疗/verb 等/particle 。/punctuation-mark
+因此常规使用血管紧张素转换酶抑制剂(ACEI)、血管紧张素受体阻滞剂(ARB)、醛固酮拮抗剂和β受体阻滞剂治疗等。
 因此常规使用[[<MED>0]](ACEI)、血管[[<SYM>1]]素受体阻滞剂(ARB)、醛固酮拮抗剂和β受体阻滞剂治疗等。
 命名实体: 血管紧张素转换酶抑制剂 紧张
 ==================================================
-也/adverb 有/verb 特/adverb 发/verb 性/noun 室/noun 速/adjective ，/punctuation-mark 无/verb 病/noun 因/conjunction 可/verb 查/verb ，/punctuation-mark 有/verb 起/classifier 自/preposition 右/noun-of-locality 室/noun 流出/verb 道/noun 或/conjunction 左/adjective 室/noun 间隔/noun 心尖/noun ，/punctuation-mark 往往/adverb 采用/verb 消融/verb 治疗/verb 可/verb 获/verb 根治/verb 。/punctuation-mark
+也有特发性室速，无病因可查，有起自右室流出道或左室间隔心尖，往往采用消融治疗可获根治。
 也有特发性室速，无病因可查，有起自右室流出道或左室间隔心尖，往往采用消融治疗可获根治。
 命名实体:
 ==================================================
-也/adverb 有/verb 先/adverb 天/classifier 的/particle 通道/noun 分子/noun 疾病/noun ，/punctuation-mark 如/verb 长/adjective QT/noun 综合征/noun (/punctuation-mark LQTS/noun )/punctuation-mark 、/punctuation-mark Brugada/noun 综合征/noun 、/punctuation-mark 儿/noun 茶/noun 酚/noun 胺/noun 依赖/verb 多/numeral 形/noun 性/noun 室/noun 速/adjective 等/particle ，/punctuation-mark 难以/adverb 纠正/verb 病因/noun ，/punctuation-mark 为/preposition 预防/verb 猝死/verb ，/punctuation-mark 置/verb 入/verb 除/preposition 颤/verb 器/noun (/punctuation-mark ICD/noun )/punctuation-mark 是/verb 治疗/verb 主要/distinguishing-word 手段/noun 。/punctuation-mark
+也有先天的通道分子疾病，如长QT综合征(LQTS)、Brugada综合征、儿茶酚胺依赖多形性室速等，难以纠正病因，为预防猝死，置入除颤器(ICD)是治疗主要手段。
 也有先天的通道分子疾病，如长QT[[<SYM>0]](LQTS)、Brugada[[<SYM>0]]、儿茶酚胺依赖多形性室速等，难以纠正病因，为预防[[<SYM><DIS>1]]，置入除颤器(ICD)是治疗主要手段。
 命名实体: 综合征 猝死
 ==================================================
-心室/noun 颤动/verb (/punctuation-mark 室/noun 颤/verb )/punctuation-mark 远/adjective 比/preposition 室/noun 速/adjective 少/adjective 见/verb ，/punctuation-mark 但是/conjunction 致命/verb 性/noun 的/particle 室/noun 颤/verb 多/adjective 见于/verb 心肌/noun 梗/noun 死/verb 、/punctuation-mark 心力衰竭/noun (/punctuation-mark 心/noun 衰/adjective )/punctuation-mark 、/punctuation-mark 心肌/noun 病/noun 或/conjunction 通道/noun 疾病/noun ，/punctuation-mark 心/noun 衰/adjective 早期/noun-of-locality 死亡/verb 者/suffix 以/preposition 室/noun 颤/verb 多/adjective 见/verb ，/punctuation-mark 心/noun 衰/adjective 末期/noun-of-locality 死亡/verb 者/suffix 多/adverb 以/preposition 泵/noun 功能/noun 不/adverb 全/adjective 多/adjective 见/verb ，/punctuation-mark 因此/conjunction 心/noun 衰/adjective 早期/noun-of-locality 就/adverb 应/verb 接受/verb β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 治疗/verb ，/punctuation-mark 以/preposition 降低/verb 交/verb 感/verb 张力/noun 。/punctuation-mark
+心室颤动(室颤)远比室速少见，但是致命性的室颤多见于心肌梗死、心力衰竭(心衰)、心肌病或通道疾病，心衰早期死亡者以室颤多见，心衰末期死亡者多以泵功能不全多见，因此心衰早期就应接受β受体阻滞剂治疗，以降低交感张力。
 [[<SYM><DIS>0]]([[<SYM><DIS>1]])远比室速少见，但是致命性的[[<SYM><DIS>1]]多见于[[<SYM><DIS>2]]、[[<SYM><DIS>3]]([[<DIS>4]])、[[<DIS>5]]或通道疾病，[[<DIS>4]]早期死亡者以[[<SYM><DIS>1]]多见，[[<DIS>4]]末期死亡者多以泵功能不全多见，因此[[<DIS>4]]早期就应接受β受体阻滞剂治疗，以降低交感张力。
 命名实体: 心室颤动 室颤 心肌梗死 心力衰竭 心衰 心肌病
 ==================================================
-室/noun 速/noun //punctuation-mark 室/noun 颤/verb 都/adverb 有/verb 复发/verb 的/particle 倾向/noun ，/punctuation-mark 如/conjunction 无/verb 应用/verb β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 禁忌/noun 证/noun ，/punctuation-mark 都/adverb 应/verb 接受/verb 足/adjective 量/noun 的/particle β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 长期/distinguishing-word 治疗/verb 。/punctuation-mark
+室速/室颤都有复发的倾向，如无应用β受体阻滞剂禁忌证，都应接受足量的β受体阻滞剂长期治疗。
 室速/[[<SYM><DIS>0]]都有复发的倾向，如无应用β受体阻滞剂禁忌证，都应接受足量的β受体阻滞剂长期治疗。
 命名实体: 室颤
 ==================================================
-二/numeral 、/punctuation-mark 逆转/verb 心脏/noun 重构/verb 的/particle 治疗/verb
+二、逆转心脏重构的治疗
 二、逆转心脏重构的治疗
 命名实体:
 ==================================================
-当/preposition 心脏/noun 受/verb 压力/noun 、/punctuation-mark 容积/noun 负荷/noun 、/punctuation-mark 心肌/noun 缺血/verb 、/punctuation-mark 心/noun 动/verb 过/particle 缓/adjective 、/punctuation-mark 心动/verb 过速/adjective 等/particle 都/adverb 将/adverb 激发/verb 心室/noun 重构/verb ，/punctuation-mark 重构/verb 心肌/noun 倾向/noun 于/preposition 功能/noun 减退/verb 和/conjunction 致/verb 心律/noun 失常/adjective ，/punctuation-mark 因此/conjunction 逆转/verb 重构/verb 或/conjunction 延缓/verb 重构/verb 的/particle 治疗/verb 有利于/verb 抗/verb 心律/noun 失常/adjective 和/conjunction 保护/verb 心脏/noun 功能/noun 。/punctuation-mark
+当心脏受压力、容积负荷、心肌缺血、心动过缓、心动过速等都将激发心室重构，重构心肌倾向于功能减退和致心律失常，因此逆转重构或延缓重构的治疗有利于抗心律失常和保护心脏功能。
 当心脏受压力、容积负荷、[[<SYM><DIS>0]]、[[<SYM>1]]、[[<SYM><DIS>2]]等都将激发心室重构，重构心肌倾向于功能减退和致[[<SYM><DIS>3]]，因此逆转重构或延缓重构的治疗有利于抗[[<SYM><DIS>3]]和保护心脏功能。
 命名实体: 心肌缺血 心动过缓 心动过速 心律失常
 ==================================================
-逆转/verb 心肌/noun 重构/verb 首先/adverb 是/verb 消除/verb 病因/noun ，/punctuation-mark 如/conjunction 纠正/verb 血液/noun 动力学/noun 异常/adjective ，/punctuation-mark 恢复/verb 心肌/noun 供/verb 血/noun 等/particle 措施/noun 已/adverb 如/verb 上述/distinguishing-word 。/punctuation-mark
+逆转心肌重构首先是消除病因，如纠正血液动力学异常，恢复心肌供血等措施已如上述。
 逆转心肌重构首先是消除病因，如纠正血液动力学异常，恢复心肌供血等措施已如上述。
 命名实体:
 ==================================================
-左/adjective 室/noun 肥大/adjective 、/punctuation-mark 左/adjective 室/noun 扩张/verb 是/verb 心室/noun 结构/noun 重构/verb 的/particle 基本/adjective 表现/verb ，/punctuation-mark 心肌/noun 细胞/noun 被/preposition 纤维/noun 组织/verb 代替/verb ，/punctuation-mark 细胞/noun 间/noun-of-locality 偶/adverb 联/verb 减少/verb (/punctuation-mark 裂隙/noun 功能/noun 降低/verb )/punctuation-mark 、/punctuation-mark 胚胎/noun 基因/noun 表达/verb ，/punctuation-mark 促使/verb 心室/noun 收缩/verb 功能/noun 下降/verb 。/punctuation-mark
+左室肥大、左室扩张是心室结构重构的基本表现，心肌细胞被纤维组织代替，细胞间偶联减少(裂隙功能降低)、胚胎基因表达，促使心室收缩功能下降。
 左室肥大、左室扩张是心室结构重构的基本表现，心肌细胞被纤维组织代替，细胞间偶联减少(裂隙功能降低)、胚胎基因表达，促使心室收缩功能下降。
 命名实体:
 ==================================================
-心室/noun 电/noun 重构/verb 的/particle 主要/distinguishing-word 标志/noun 为/preposition 动作/noun 电位/noun 时/noun 程/noun (/punctuation-mark APD/noun )/punctuation-mark 延长/verb ，/punctuation-mark 它/pronoun 有/verb 不同/adjective 的/particle 复/adverb 极/verb 电流/noun 支持/verb ，/punctuation-mark 存在/verb 着/particle 物种/noun 的/particle 差异/noun ，/punctuation-mark 如/verb 小/adjective 动物/noun (/punctuation-mark 鼠/noun )/punctuation-mark 心肌/noun 肥大/adjective ，/punctuation-mark APD/noun 延长/verb 以/preposition Ito/noun 电流/noun 降低/verb ，/punctuation-mark 而/conjunction 大/adjective 动物/noun 的/particle 心肌/noun 肥大/adjective 电/noun 重构/verb 表现/verb 为/preposition 延迟/verb 整流/noun 钾/noun 流/verb 降低/verb 为主/verb ，/punctuation-mark 而/conjunction 兔/noun 的/particle 肥大/adjective 心肌/noun 电/noun 重构/verb 与/conjunction 人体/noun 相似/adjective ，/punctuation-mark 以/preposition Ik/noun 电流/noun 降低/verb 为主/verb 。/punctuation-mark
+心室电重构的主要标志为动作电位时程(APD)延长，它有不同的复极电流支持，存在着物种的差异，如小动物(鼠)心肌肥大，APD延长以Ito电流降低，而大动物的心肌肥大电重构表现为延迟整流钾流降低为主，而兔的肥大心肌电重构与人体相似，以Ik电流降低为主。
 心室电重构的主要标志为动作电位时程(APD)延长，它有不同的复极电流支持，存在着物种的差异，如小动物(鼠)[[<DIS>0]]，APD延长以Ito电流降低，而大动物的[[<DIS>0]]电重构表现为延迟整流钾流降低为主，而兔的肥大心肌电重构与人体相似，以Ik电流降低为主。
 命名实体: 心肌肥大
 ==================================================
-故/adverb 肥大/adjective 心肌/noun 电/noun 重构/verb 中/noun-of-locality Ik/noun 电流/noun 备受/verb 关注/verb ，/punctuation-mark 它/pronoun 由/preposition Ikr/noun 和/conjunction Iks/noun 组成/verb ，/punctuation-mark 而/conjunction Ikr/noun 和/conjunction Iks/noun 在/preposition 心室/noun 肌/noun 不同/adjective 层次/noun 分布/verb 不/adverb 同/verb ，/punctuation-mark 如/verb 心肌/noun 中层/noun-of-locality Ikr/noun 密度/noun >/punctuation-mark Iks/noun ，/punctuation-mark 而/conjunction 心肌/noun 外层/noun 和/conjunction 内/noun-of-locality 层/classifier 则/adverb Iks/noun 密度/noun >/punctuation-mark Ikr/noun ，/punctuation-mark 由此/adverb 造成/verb 肥大/adjective 心肌/noun 复/adverb 极/adverb 离散/verb 加大/verb ，/punctuation-mark 而且/conjunction 对/preposition 心/noun 率/suffix 加快/verb 难以/adverb 产生/verb APD/noun 适应性/noun 缩短/verb ，/punctuation-mark 尤其/adverb 在/preposition 心/noun 率/suffix 突然/adjective 加快/verb 时/noun ，/punctuation-mark 显出/verb 复/adverb 极/adverb 离散/verb 差异/noun 更/adverb 大/adjective ，/punctuation-mark 对/preposition 此/pronoun 具/verb 心律/noun 失常/adjective 原/distinguishing-word 性质/noun 。/punctuation-mark
+故肥大心肌电重构中Ik电流备受关注，它由Ikr和Iks组成，而Ikr和Iks在心室肌不同层次分布不同，如心肌中层Ikr密度>Iks，而心肌外层和内层则Iks密度>Ikr，由此造成肥大心肌复极离散加大，而且对心率加快难以产生APD适应性缩短，尤其在心率突然加快时，显出复极离散差异更大，对此具心律失常原性质。
 故肥大心肌电重构中Ik电流备受关注，它由Ikr和Iks组成，而Ikr和Iks在心室肌不同层次分布不同，如心肌中层Ikr密度>Iks，而心肌外层和内层则Iks密度>Ikr，由此造成肥大心肌复极离散加大，而且对心率加快难以产生APD适应性缩短，尤其在心率突然加快时，显出复极离散差异更大，对此具[[<SYM><DIS>0]]原性质。
 命名实体: 心律失常
 ==================================================
-肥大/adjective 心肌/noun 和/conjunction 心/noun 衰/adjective 心肌/noun 电/noun 重构/verb Ito/noun 、/punctuation-mark ICa/noun -/punctuation-mark L/noun 、/punctuation-mark Na+/Ca2+/string 交换/verb (/punctuation-mark NCX/noun )/punctuation-mark 的/particle 变化/verb ，/punctuation-mark 以往/time-word 已/adverb 受到/verb 关注/verb ，/punctuation-mark 心/noun 衰/adjective 心肌/noun 肌/noun 浆/noun 网/noun (/punctuation-mark SR/noun )/punctuation-mark 摄取/verb Ca/noun ：/punctuation-mark +/numeral 能力/noun 降低/verb ，/punctuation-mark 胞/punctuation-mark 质/noun 游离/verb Ca2+/noun 上升/verb ，/punctuation-mark NCX/noun 活性/distinguishing-word 增加/verb ，/punctuation-mark 有利于/verb 早期/time-word 后/noun-of-locality 除/preposition 极/noun 、/punctuation-mark 延迟/verb 性/noun 后/noun-of-locality 除/preposition 极/adverb 产生/verb ，/punctuation-mark 诱发/verb 触发/verb 自律/verb 性/noun 。/punctuation-mark
+肥大心肌和心衰心肌电重构Ito、ICa-L、Na+/Ca2+交换(NCX)的变化，以往已受到关注，心衰心肌肌浆网(SR)摄取Ca：+能力降低，胞质游离Ca2+上升，NCX活性增加，有利于早期后除极、延迟性后除极产生，诱发触发自律性。
 肥大心肌和[[<DIS>0]]心肌电重构Ito、ICa-L、Na+/Ca2+交换(NCX)的变化，以往已受到关注，[[<DIS>0]]心肌肌浆网(SR)摄取Ca：+能力降低，胞质游离Ca2+上升，NCX活性增加，有利于早期后除极、延迟性后除极产生，诱发触发自律性。
 命名实体: 心衰
 ==================================================
-膜/noun 电位/noun 降低/verb 、/punctuation-mark 传导/verb 减慢/verb 有利于/verb 产生/verb 单向/distinguishing-word 传导/verb 阻滞/verb ，/punctuation-mark 另/adverb 有/verb 纤维/noun 组织/noun 分隔/verb 产生/verb 迁/verb 回/classifier 传导/verb (/punctuation-mark Eig/noun -/punctuation-mark Zag/noun Conduction/noun )/punctuation-mark ，/punctuation-mark 形成/verb 折返/verb 基/noun 质/noun ，/punctuation-mark 易于/verb 产生/verb 折返/verb 性/noun 心律/noun 失常/adjective 。/punctuation-mark
+膜电位降低、传导减慢有利于产生单向传导阻滞，另有纤维组织分隔产生迁回传导(Eig-Zag Conduction)，形成折返基质，易于产生折返性心律失常。
 膜电位降低、传导减慢有利于产生单向[[<SYM>0]]，另有纤维组织分隔产生迁回传导(Eig-Zag Conduction)，形成折返基质，易于产生折返性[[<SYM><DIS>1]]。
 命名实体: 传导阻滞 心律失常
 ==================================================
-可见/conjunction 心肌/noun 电/noun 重构/verb 带有/verb 致/verb 心律/noun 失常/adjective 性质/noun ，/punctuation-mark ACEI/noun 虽/conjunction 不/adverb 属/verb 抗/verb 室/noun 性/noun 心律/noun 失常/adjective 药物/noun ，/punctuation-mark 但/conjunction ACEI/noun 和/conjunction ARB/noun 有益/adjective 于/preposition 减轻/verb 心室/noun 电/noun 重构/verb ，/punctuation-mark V/noun -/punctuation-mark HeFT/noun -/punctuation-mark 2/numeral 试验/verb 、/punctuation-mark CONSENSUS/noun 1/numeral 试验/verb ；/None /punctuation-mark S0LVD/noun -/punctuation-mark T/noun 试验/verb 等/particle 都/adverb 表明/verb ACEI/noun 能/verb 降低/verb 心/noun 衰/adjective 死亡率/noun 。/punctuation-mark
+可见心肌电重构带有致心律失常性质，ACEI虽不属抗室性心律失常药物，但ACEI和ARB有益于减轻心室电重构，V-HeFT-2试验、CONSENSUS 1试验； S0LVD-T试验等都表明ACEI能降低心衰死亡率。
 可见心肌电重构带有致[[<SYM><DIS>0]]性质，ACEI虽不属抗[[<DIS>1]]药物，但ACEI和ARB有益于减轻心室电重构，V-HeFT-2试验、CONSENSUS 1试验； S0LVD-T试验等都表明ACEI能降低[[<DIS>2]]死亡率。
 命名实体: 心律失常 室性心律失常 心衰
 ==================================================
-当然/adverb ACEI/ARB/string 降低/verb 心/noun 衰/adjective 、/punctuation-mark 心肌/noun 梗/noun 死/verb 的/particle 死亡率/noun 是/verb 综合性/noun 的/particle ，/punctuation-mark 除/preposition 抑制/verb 心室/noun 结构/noun 重构/verb 外/noun-of-locality ，/punctuation-mark 也/adverb 有/verb 削弱/verb 交感神经/noun 活性/noun ，/punctuation-mark 提高/verb 血/noun K+/noun 等/particle 。/punctuation-mark
+当然ACEI/ARB降低心衰、心肌梗死的死亡率是综合性的，除抑制心室结构重构外，也有削弱交感神经活性，提高血K+等。
 当然ACEI/ARB降低[[<DIS>0]]、[[<SYM><DIS>1]]的死亡率是综合性的，除抑制心室结构重构外，也有削弱交感神经活性，提高血K+等。
 命名实体: 心衰 心肌梗死
 ==================================================
-醛/noun 固/verb 酮/punctuation-mark 激活/verb 纤/noun 母/noun 细胞/noun 、/punctuation-mark 炎症/noun 细胞/noun ，/punctuation-mark 促进/verb 心肌/noun 重构/verb ，/punctuation-mark 而/conjunction 其/pronoun 抑制/verb 剂/classifier 能/verb 减轻/verb 其/pronoun 重构/verb ，/punctuation-mark RALES/noun 试验/verb 表明/verb ，/punctuation-mark 应用/verb 醛/noun 固/verb 酮/punctuation-mark 拮/punctuation-mark 抗/verb 剂/classifier 治疗/verb 重症/noun 心/noun 衰/adjective (/punctuation-mark NYHA/noun III/noun 、/punctuation-mark IV/noun 级/noun ≤35%/numeral )/punctuation-mark ，/punctuation-mark 治疗/verb 一/numeral 年/classifier 猝死/verb 比/preposition 安慰/verb 剂/classifier 组/noun 降低/verb 29%/numeral 。/punctuation-mark
+醛固酮激活纤母细胞、炎症细胞，促进心肌重构，而其抑制剂能减轻其重构，RALES试验表明，应用醛固酮拮抗剂治疗重症心衰(NYHA III、IV级≤35%)，治疗一年猝死比安慰剂组降低29%。
 醛固酮激活纤母细胞、炎症细胞，促进心肌重构，而其抑制剂能减轻其重构，RALES试验表明，应用醛固酮拮抗剂治疗重症[[<DIS>0]](NYHA III、IV级≤35%)，治疗一年[[<SYM><DIS>1]]比安慰剂组降低29%。
 命名实体: 心衰 猝死
 ==================================================
-已/adverb 知/verb 刺激/verb β/punctuation-mark 受体/noun ，/punctuation-mark 经/preposition 细胞/noun 内/noun-of-locality 信息/noun 传递/verb ，/punctuation-mark 加快/verb 心肌/noun 结构/noun 和/conjunction 电/noun 重构/verb ，/punctuation-mark 因此/conjunction β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 也/adverb 能/verb 抑制/verb 心肌/noun 重构/verb ，/punctuation-mark 有利于/verb 抗/verb 室/noun 性/noun 心律/noun 失常/adjective 的/particle 治疗/verb 。/punctuation-mark
+已知刺激β受体，经细胞内信息传递，加快心肌结构和电重构，因此β受体阻滞剂也能抑制心肌重构，有利于抗室性心律失常的治疗。
 已知刺激β受体，经细胞内信息传递，加快心肌结构和电重构，因此β受体阻滞剂也能抑制心肌重构，有利于抗[[<DIS>0]]的治疗。
 命名实体: 室性心律失常
 ==================================================
-三/numeral 、/punctuation-mark 抗/verb 心律/noun 失常/adjective 药物/noun (/punctuation-mark AAD/noun )/punctuation-mark
+三、抗心律失常药物(AAD)
 三、[[<MED>0]]物(AAD)
 命名实体: 抗心律失常药
 ==================================================
-室/noun 性/noun 心律/noun 失常/adjective 有/verb 复发/verb 倾向/noun ，/punctuation-mark 因此/conjunction 有/verb 用于/verb 终止/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 药物/noun ，/punctuation-mark 也/adverb 有/verb 用于/verb 远期/distinguishing-word 防治/verb 的/particle 药物/noun ，/punctuation-mark 以/preposition 预防/verb 复发/verb 。/punctuation-mark
+室性心律失常有复发倾向，因此有用于终止室速/室颤的药物，也有用于远期防治的药物，以预防复发。
 [[<DIS>0]]有复发倾向，因此有用于终止室速/[[<SYM><DIS>1]]的药物，也有用于远期防治的药物，以预防复发。
 命名实体: 室性心律失常 室颤
 ==================================================
-几/numeral 经/preposition 变迁/verb ，/punctuation-mark 虽/conjunction 在/preposition 抗/verb 室/noun 性/noun 心律/noun 失常/adjective 药物/noun 选择/verb 上/noun-of-locality 有/verb 了/particle 一些/numeral 共识/noun ，/punctuation-mark 但/conjunction 至今/adverb 尚/adverb 无/verb 理想/adjective 的/particle 药物/noun ，/punctuation-mark 循/verb 证/noun 依据/noun 也/adverb 不/adverb 多/adjective ，/punctuation-mark 在/preposition 药物/noun 选择/verb 上/noun-of-locality 还/adverb 依据/verb 于/preposition 治疗/verb 者/suffix 的/particle 经验/noun 。/punctuation-mark
+几经变迁，虽在抗室性心律失常药物选择上有了一些共识，但至今尚无理想的药物，循证依据也不多，在药物选择上还依据于治疗者的经验。
 几经变迁，虽在抗[[<DIS>0]]药物选择上有了一些共识，但至今尚无理想的药物，循证依据也不多，在药物选择上还依据于治疗者的经验。
 命名实体: 室性心律失常
 ==================================================
-(/punctuation-mark 一/numeral )/punctuation-mark 用于/verb 终止/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 药物/noun
+(一)用于终止室速/室颤的药物
 (一)用于终止室速/[[<SYM><DIS>0]]的药物
 命名实体: 室颤
 ==================================================
-1./numeral 利多卡因/noun ：/punctuation-mark 在/preposition 过去/time-word 的/particle 30/numeral 年/classifier 内利多卡因/noun 是/verb 用于/verb 终止/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 主要/distinguishing-word 药物/noun 。/punctuation-mark
+1.利多卡因：在过去的30年内利多卡因是用于终止室速/室颤的主要药物。
 1.[[<MED>0]]：在过去的30年内[[<MED>0]]是用于终止室速/[[<SYM><DIS>1]]的主要药物。
 命名实体: 利多卡因 室颤
 ==================================================
-因为/preposition 它/pronoun ：/punctuation-mark (/punctuation-mark 1/numeral )/punctuation-mark 有效/adjective 。/punctuation-mark
+因为它：(1)有效。
 因为它：(1)有效。
 命名实体:
 ==================================================
-(/punctuation-mark 2/numeral )/punctuation-mark 安全/adjective 。/punctuation-mark
+(2)安全。
 (2)安全。
 命名实体:
 ==================================================
-(/punctuation-mark 3/numeral )/punctuation-mark 自/preposition 20/numeral 世纪/noun 80/numeral 年代/noun 初期/noun-of-locality 已/adverb 无/verb 普鲁卡因/noun 胺/noun 供应/verb ，/punctuation-mark 所以/conjunction 很快/adverb 地/particle 成为/verb 终止/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 主要/distinguishing-word 药物/noun ，/punctuation-mark 广/adjective 为/verb 应用/verb 。/punctuation-mark
+(3)自20世纪80年代初期已无普鲁卡因胺供应，所以很快地成为终止室速/室颤的主要药物，广为应用。
 (3)自20世纪80年代初期已无[[<MED>0]]供应，所以很快地成为终止室速/[[<SYM><DIS>1]]的主要药物，广为应用。
 命名实体: 普鲁卡因胺 室颤
 ==================================================
-利多卡因/noun 作用/noun 的/particle 特点/noun ：/punctuation-mark 它/pronoun 分布/verb 半衰期/noun 很/adverb 短/adjective (/punctuation-mark 8min/noun )/punctuation-mark ，/punctuation-mark 消除/verb 半衰期/noun 也/adverb 只/adverb 有/verb 1.5/numeral 〜/punctuation-mark 2.0h/noun ，/punctuation-mark 与/preposition 钠/noun 通道/noun 结合/verb 解/verb 离/verb 快/adjective (/punctuation-mark 0.5s/noun )/punctuation-mark ，/punctuation-mark 属/verb IB/noun 类/noun AAD/noun ，/punctuation-mark 因/conjunction 有/verb 首/numeral 过/verb 肝脏/noun 代谢/verb ，/punctuation-mark 因此/conjunction 它/pronoun 需/verb 在/preposition 静脉/noun 给/preposition 药/noun ，/punctuation-mark 首/numeral 次/classifier 负荷/noun (/punctuation-mark 1/numeral ~/punctuation-mark 2mg/kg/string )/punctuation-mark 后/noun-of-locality 持续/verb 点滴/noun (/punctuation-mark 1/numeral ~/punctuation-mark 4mg/min/string )/punctuation-mark 才/adverb 有效/adjective 。/punctuation-mark
+利多卡因作用的特点：它分布半衰期很短(8min)，消除半衰期也只有1.5〜2.0h，与钠通道结合解离快(0.5s)，属IB类AAD，因有首过肝脏代谢，因此它需在静脉给药，首次负荷(1~2mg/kg)后持续点滴(1~4mg/min)才有效。
 [[<MED>0]]作用的特点：它分布半衰期很短(8min)，消除半衰期也只有1.5〜2.0h，与钠通道结合解离快(0.5s)，属IB类AAD，因有首过肝脏代谢，因此它需在静脉给药，首次负荷(1~2mg/kg)后持续点滴(1~4mg/min)才有效。
 命名实体: 利多卡因
 ==================================================
-它/pronoun 的/particle 作用/noun 呈/verb 频率/noun 依赖/verb ，/punctuation-mark 即/verb 室/noun 率/suffix 越/adverb 快/adjective 终止/verb 室/noun 速/adjective 越/adverb 有效/adjective ；/punctuation-mark 电压/noun 依赖/verb ，/punctuation-mark 即/verb 膜/noun 电位/noun 降低/verb 者/suffix 终止/verb 室/noun 速/adjective 有效/adjective ;/punctuation-mark APD/noun 依赖/verb ，/punctuation-mark 即/verb 起/verb 自/preposition 长/adjective 动作/noun 电位/noun 时/noun 程/noun 的/particle 室/noun 速/adjective 有效/adjective ，/punctuation-mark 因此/conjunction 它/pronoun 只/adverb 能/verb 终止/verb 室/noun 速/adjective ，/punctuation-mark 不/adverb 能/verb 用于/verb 终止/verb 房/noun 性/noun 心动/verb 过速/adjective (/punctuation-mark 房/noun 速/verb )/punctuation-mark ；/punctuation-mark 细胞/noun 外/noun-of-locality K+/noun 、/punctuation-mark pH/noun 依赖/verb ，/punctuation-mark 当/preposition 细胞/noun 外/noun-of-locality K+/noun 升高/verb 、/punctuation-mark pH/noun 降低/verb 时/noun ，/punctuation-mark 它/pronoun 的/particle 作用/noun 加强/verb ，/punctuation-mark 因此/conjunction 它/pronoun 对/preposition 终止/verb 急性/distinguishing-word 心肌/noun 梗/noun 死/verb (/punctuation-mark AMI/noun )/punctuation-mark 心肌/noun 缺血/verb 所/particle 致/verb 的/particle 室/noun 性/noun 心律/noun 失常/adjective 很/adverb 有效/adjective ，/punctuation-mark 过去/time-word 广泛/adjective 用于/verb CCL/noun 中/noun-of-locality ，/punctuation-mark 甚至/conjunction 在/preposition AMI/noun 中/noun-of-locality 预防/verb 性/noun 应用/verb ，/punctuation-mark 以/preposition 减少/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 发生/verb 。/punctuation-mark
+它的作用呈频率依赖，即室率越快终止室速越有效；电压依赖，即膜电位降低者终止室速有效;APD依赖，即起自长动作电位时程的室速有效，因此它只能终止室速，不能用于终止房性心动过速(房速)；细胞外K+、pH依赖，当细胞外K+升高、pH降低时，它的作用加强，因此它对终止急性心肌梗死(AMI)心肌缺血所致的室性心律失常很有效，过去广泛用于CCL中，甚至在AMI中预防性应用，以减少室速/室颤的发生。
 它的作用呈频率依赖，即室率越快终止室速越有效；电压依赖，即膜电位降低者终止室速有效;APD依赖，即起自长动作电位时程的室速有效，因此它只能终止室速，不能用于终止[[<DIS>0]](房速)；细胞外K+、pH依赖，当细胞外K+升高、pH降低时，它的作用加强，因此它对终止[[<DIS>1]](AMI)[[<SYM><DIS>2]]所致的[[<DIS>3]]很有效，过去广泛用于CCL中，甚至在AMI中预防性应用，以减少室速/[[<SYM><DIS>4]]的发生。
 命名实体: 房性心动过速 急性心肌梗死 心肌缺血 室性心律失常 室颤
 ==================================================
-但/conjunction 近年来/adverb 发现/verb 利多卡因/noun 的/particle 一些/numeral 不足/adjective ，/punctuation-mark 对/preposition 起/noun-of-locality 自/adverb 正常/adjective 心肌/noun 的/particle 室/noun 速/adjective 终止/verb 有/verb 效率/noun 低/adjective ;/punctuation-mark 终止/verb 器/noun 质/noun 性/noun 心脏病/noun 或/conjunction 心/noun 衰/adjective 中/distinguishing-word 室/noun 速/adjective 有效率/noun 不及/verb 胺/noun 碘/noun 酮/punctuation-mark 和/conjunction 普/adjective 酰/noun 胺/noun ;/punctuation-mark AMI/noun 中/noun-of-locality 预防/verb 性/noun 应用/verb 利多卡因/noun ，/punctuation-mark 室/noun 颤/verb 发生率/noun 降低/verb ，/punctuation-mark 但/conjunction 死亡率/noun 上升/verb 、/punctuation-mark 诱发/verb 心脏/noun 停/verb 搏/verb (/punctuation-mark asystole/noun )/punctuation-mark 的/particle 病例/noun 增多/verb ，/punctuation-mark 因此/conjunction 废弃/verb 了/particle AMI/noun 中/noun-of-locality 预防/verb 性/noun 应用/verb 利多卡因/noun ，/punctuation-mark 更/adverb 有/verb 14000/numeral 例/classifier 心肌/noun 梗/noun 死/verb 患者/noun 的/particle 荟萃/verb 分析/verb 表明/verb ./punctuation-mark 应用/verb 利多卡因/noun 无助于/verb 死亡率/noun 的/particle 降低/verb ;/punctuation-mark 此外/conjunction 终止/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 复发/verb 率/verb 高/adjective ，/punctuation-mark 往往/adverb 不/adverb 能/verb 预测/verb 停/verb 药/noun 后/noun-of-locality 的/particle 效果/noun ，/punctuation-mark 因此/conjunction 在/preposition 院/noun 外/noun-of-locality 抢救/verb //punctuation-mark 转运/verb 心/noun 源/noun 性/noun 猝死/verb 者/suffix ，/punctuation-mark 宁/conjunction 选用/verb 胺/noun 碘/noun 酮/punctuation-mark ，/punctuation-mark 而/conjunction 不/adverb 选用/verb 利多卡因/noun 。/punctuation-mark
+但近年来发现利多卡因的一些不足，对起自正常心肌的室速终止有效率低;终止器质性心脏病或心衰中室速有效率不及胺碘酮和普酰胺;AMI中预防性应用利多卡因，室颤发生率降低，但死亡率上升、诱发心脏停搏(asystole)的病例增多，因此废弃了AMI中预防性应用利多卡因，更有14000例心肌梗死患者的荟萃分析表明.应用利多卡因无助于死亡率的降低;此外终止室速/室颤复发率高，往往不能预测停药后的效果，因此在院外抢救/转运心源性猝死者，宁选用胺碘酮，而不选用利多卡因。
 但近年来发现[[<MED>0]]的一些不足，对起自正常心肌的室速终止有效率低;终止[[<SYM>1]]或[[<DIS>2]]中室速有效率不及[[<MED>3]]和普酰胺;AMI中预防性应用[[<MED>0]]，[[<SYM><DIS>4]]发生率降低，但死亡率上升、诱发[[<SYM>5]](asystole)的病例增多，因此废弃了AMI中预防性应用[[<MED>0]]，更有14000例[[<SYM><DIS>6]]患者的荟萃分析表明.应用[[<MED>0]]无助于死亡率的降低;此外终止室速/[[<SYM><DIS>4]]复发率高，往往不能预测停药后的效果，因此在院外抢救/转运[[<DIS>7]]者，宁选用[[<MED>3]]，而不选用[[<MED>0]]。
 命名实体: 利多卡因 器质性心脏病 心衰 胺碘酮 室颤 心脏停搏 心肌梗死 心源性猝死
 ==================================================
-在/preposition 2004年/time-word ACC/AHA/string ST/noun 段/noun 抬高/verb 心肌/noun 梗/noun 死/verb 治疗/verb 指南/noun ，/punctuation-mark 2005年/time-word ESC/noun CHF/noun 治疗/verb 指南/noun 、/punctuation-mark ACC/AHA/string CHF/noun 治疗/verb 指南/noun 、/punctuation-mark 美国/noun 心/noun 肺/noun 复苏/verb 2005年/time-word 指南/noun (/punctuation-mark ACLS/noun )/punctuation-mark 中/noun-of-locality 室/noun 性/noun 心律/noun 失常/adjective 救治/verb 均/adverb 不/adverb 推荐/verb 利多卡因/noun 的/particle 应用/verb ，/punctuation-mark 都/adverb 建议/verb 应用/verb 胺/noun 碘/noun 酮/punctuation-mark 替代/verb 利多卡因/noun 。/punctuation-mark
+在2004年ACC/AHA ST段抬高心肌梗死治疗指南，2005年ESC CHF治疗指南、ACC/AHA CHF治疗指南、美国心肺复苏2005年指南(ACLS)中室性心律失常救治均不推荐利多卡因的应用，都建议应用胺碘酮替代利多卡因。
 在2004年ACC/AHA ST[[<SYM>0]][[<SYM><DIS>1]]治疗指南，2005年ESC CHF治疗指南、ACC/AHA CHF治疗指南、美国[[<DIS><TRE>2]]2005年指南(ACLS)中[[<DIS>3]]救治均不推荐[[<MED>4]]的应用，都建议应用[[<MED>5]]替代[[<MED>4]]。
 命名实体: 段抬高 心肌梗死 心肺复苏 室性心律失常 利多卡因 胺碘酮
 ==================================================
-因此/conjunction ./punctuation-mark 利多卡因/noun 的/particle 应用/verb 目前/time-word 需/verb 重新/adverb 定位/verb ，/punctuation-mark 它/pronoun 已/adverb 不再/adverb 是/verb 终止/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 首选/verb 药物/noun ，/punctuation-mark 尤其/adverb 在/preposition 心肌/noun 梗/noun 死/verb 、/punctuation-mark 心/noun 衰/adjective 中/distinguishing-word 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 首选/verb 胺/noun 碘/noun 酮/punctuation-mark ，/punctuation-mark 仅/adverb 在/preposition 无/verb 胺/noun 碘/noun 酮/punctuation-mark 药物/noun 时/noun 或/conjunction 在/preposition 胺/noun 碘/noun 酮/punctuation-mark 疗效/noun 不/adverb 佳/adjective 时/noun 选用/verb 或/conjunction 加/verb 用/preposition 利多卡因/noun 。/punctuation-mark
+因此.利多卡因的应用目前需重新定位，它已不再是终止室速/室颤的首选药物，尤其在心肌梗死、心衰中室速/室颤首选胺碘酮，仅在无胺碘酮药物时或在胺碘酮疗效不佳时选用或加用利多卡因。
 因此.[[<MED>0]]的应用目前需重新定位，它已不再是终止室速/[[<SYM><DIS>1]]的首选药物，尤其在[[<SYM><DIS>2]]、[[<DIS>3]]中室速/[[<SYM><DIS>1]]首选[[<MED>4]]，仅在无[[<MED>4]]药物时或在[[<MED>4]]疗效不佳时选用或加用[[<MED>0]]。
 命名实体: 利多卡因 室颤 心肌梗死 心衰 胺碘酮
 ==================================================
-2./numeral 苯/noun 妥/adjective 因/preposition 钠/noun ：/punctuation-mark 亦/adverb 属/verb IIB/noun 类/noun AAD/noun ，/punctuation-mark 它/pronoun 能/verb 有效/adjective 地/particle 消除/verb 由/preposition 洋地黄/noun 过量/verb 引起/verb 的/particle 延迟/verb 性/noun 后/noun-of-locality 除/preposition 极/adverb 触发/verb 活性/distinguishing-word ，/punctuation-mark 因此/conjunction 它/pronoun 几乎/adverb 特指/verb 用于/verb 洋地黄/noun 中毒/verb 引起/verb 的/particle 室/noun 性/noun 和/conjunction 房/noun 性/noun 快速/distinguishing-word 心律/noun 。/punctuation-mark
+2.苯妥因钠：亦属IIB类AAD，它能有效地消除由洋地黄过量引起的延迟性后除极触发活性，因此它几乎特指用于洋地黄中毒引起的室性和房性快速心律。
 2.苯妥因钠：亦属IIB类AAD，它能有效地消除由[[<MED>0]]过量引起的延迟性后除极触发活性，因此它几乎特指用于[[<DIS>1]]引起的室性和房性快速心律。
 命名实体: 洋地黄 洋地黄中毒
 ==================================================
-采用/verb 静脉/noun 注射/verb ，/punctuation-mark 每/pronoun 隔/verb 5min/noun 静/adjective 注/verb 100mg/noun ，/punctuation-mark 直到/verb 心动/verb 过速/adjective 终止/verb ，/punctuation-mark 通常/adverb 需/verb 300/numeral ~/punctuation-mark 500mg/noun ，/punctuation-mark 终止/verb 后/noun-of-locality 口服/verb 0.3/numeral ~/punctuation-mark 0.6g/noun ，/punctuation-mark 每日/pronoun 1/numeral 次/classifier (/punctuation-mark 长/adjective 半衰期/noun )/punctuation-mark 。/punctuation-mark
+采用静脉注射，每隔5min静注100mg，直到心动过速终止，通常需300~500mg，终止后口服0.3~0.6g，每日1次(长半衰期)。
 采用静脉注射，每隔5min静注100mg，直到[[<SYM><DIS>0]]终止，通常需300~500mg，终止后口服0.3~0.6g，每日1次(长半衰期)。
 命名实体: 心动过速
 ==================================================
-也/adverb 可/verb 用于/verb 终止/verb LQTS/noun 所/particle 诱发/verb 的/particle 尖端/distinguishing-word 扭转/verb 型/suffix 室/noun 性/noun 心动/verb 过速/adjective (/punctuation-mark TdP/noun )/punctuation-mark 。/punctuation-mark
+也可用于终止LQTS所诱发的尖端扭转型室性心动过速(TdP)。
 也可用于终止LQTS所诱发的[[<SYM><DIS>0]](TdP)。
 命名实体: 尖端扭转型室性心动过速
 ==================================================
-它/pronoun 的/particle 静脉/noun 注射液/noun 碱性/noun 很/adverb 强/adjective (/punctuation-mark pH/noun 11/numeral )/punctuation-mark ，/punctuation-mark 因此/conjunction 必须/adverb 选用/verb 大静脉/noun ，/punctuation-mark 并/conjunction 保证/verb 不/adverb 渗漏/verb 到/verb 静脉/noun 外/noun-of-locality 。/punctuation-mark
+它的静脉注射液碱性很强(pH 11)，因此必须选用大静脉，并保证不渗漏到静脉外。
 它的静脉注射液碱性很强(pH 11)，因此必须选用大静脉，并保证不渗漏到静脉外。
 命名实体:
 ==================================================
-3./numeral 普/adjective 罗/distinguishing-word 帕/noun 酮/punctuation-mark (/punctuation-mark 心律/noun 平/verb )/punctuation-mark ：/punctuation-mark 属/verb Ic/noun 类/noun AAD/noun ，/punctuation-mark 它/pronoun 与/preposition 钠/noun 通道/noun 结合/verb 的/particle 解/verb 离/verb 时间/noun 常数/noun 最/adverb 长/adjective ，/punctuation-mark 美国/noun FAD/noun 虽/conjunction 批准/verb 用于/verb 危及/verb 生命/noun 的/particle 室/noun 性/noun 快速/distinguishing-word 心律/noun 失常/adjective ，/punctuation-mark 但/conjunction 在/preposition 实践/verb 中/distinguishing-word 心肌/noun 梗/noun 死/verb 、/punctuation-mark 心肌/noun 病/noun 、/punctuation-mark 心/noun 衰/adjective 等/particle 伴/verb 发/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 救治/verb 往往/adverb 不/adverb 选/verb 它/pronoun ，/punctuation-mark 因为/conjunction 它/pronoun 与/preposition 它/pronoun 的/particle 代谢/verb 产物/noun 5/numeral 羟/punctuation-mark 普/adjective 罗/distinguishing-word 帕/noun 酮/punctuation-mark 负/verb 性/noun 肌/noun 力/noun 和/conjunction 促/verb 心律/noun 失常/adjective 作用/noun 强/noun ，/punctuation-mark cash/noun 、/punctuation-mark mustt/noun 试验/verb 证明/verb ，/punctuation-mark 冠心病/noun 室/noun 性/noun 心律/noun 失常/adjective 者/suffix 应用/verb Ic/noun 类/classifier 药物/noun ，/punctuation-mark 致死/verb 性/noun 心血管/noun 事件/noun 增加/verb ，/punctuation-mark 在/preposition 美国/noun 没有/adverb 推荐/verb 静脉/noun 用药/noun ，/punctuation-mark 因此/conjunction 无/verb 规范/adjective 的/particle 静脉/noun 用量/noun ，/punctuation-mark 但/conjunction 通常/adverb 推荐/verb 静/adjective 注/verb 1/numeral 〜/punctuation-mark 2mg/kg/string 。/punctuation-mark
+3.普罗帕酮(心律平)：属Ic类AAD，它与钠通道结合的解离时间常数最长，美国FAD虽批准用于危及生命的室性快速心律失常，但在实践中心肌梗死、心肌病、心衰等伴发室速/室颤的救治往往不选它，因为它与它的代谢产物5羟普罗帕酮负性肌力和促心律失常作用强，cash、mustt试验证明，冠心病室性心律失常者应用Ic类药物，致死性心血管事件增加，在美国没有推荐静脉用药，因此无规范的静脉用量，但通常推荐静注1〜2mg/kg。
 3.[[<MED>0]](心律平)：属Ic类AAD，它与钠通道结合的解离时间常数最长，美国FAD虽批准用于危及生命的室性快速[[<SYM><DIS>1]]，但在实践中[[<SYM><DIS>2]]、[[<DIS>3]]、[[<DIS>4]]等伴发室速/[[<SYM><DIS>5]]的救治往往不选它，因为它与它的代谢产物5羟[[<MED>0]]负性肌力和促[[<SYM><DIS>1]]作用强，cash、mustt试验证明，[[<DIS>6]][[<DIS>7]]者应用Ic类药物，致死性心血管事件增加，在美国没有推荐静脉用药，因此无规范的静脉用量，但通常推荐静注1〜2mg/kg。
 命名实体: 普罗帕酮 心律失常 心肌梗死 心肌病 心衰 室颤 冠心病 室性心律失常
 ==================================================
-在/preposition 我国/noun 静脉/noun 应用/verb 较/adverb 广/adjective ，/punctuation-mark 用于/verb 终止/verb 房/noun 速/adjective 、/punctuation-mark 房室/noun 结/verb 折返/verb 性/noun 心动/verb 过速/adjective 、/punctuation-mark 房室/noun 折返/verb 性/noun 心动/verb 过速/adjective ./punctuation-mark 也/adverb 有/verb 用于/verb 终止/verb 特/adjective 发/verb 性/noun 室/noun 速/adjective ，/punctuation-mark 静/adjective 注/verb 常/adverb 采用/verb 70mg/5min/string 推/verb 注/noun ，/punctuation-mark 必要/adjective 时/noun 可/verb 重复/verb 1/numeral 次/classifier ，/punctuation-mark 不/adverb 推荐/verb 静/adjective 滴/verb 维持/verb 。/punctuation-mark
+在我国静脉应用较广，用于终止房速、房室结折返性心动过速、房室折返性心动过速.也有用于终止特发性室速，静注常采用70mg/5min推注，必要时可重复1次，不推荐静滴维持。
 在我国静脉应用较广，用于终止房速、[[<DIS>0]]、[[<DIS>1]].也有用于终止特发性室速，静注常采用70mg/5min推注，必要时可重复1次，不推荐静滴维持。
 命名实体: 房室结折返性心动过速 房室折返性心动过速
 ==================================================
-不/adverb 主张/verb 用于/verb 终止/verb 器/noun 质/noun 性/noun 心脏病/noun 的/particle 室/noun 速/adjective ，/punctuation-mark 尤其/adverb 心功能/noun 障碍/noun 时/noun 。/punctuation-mark
+不主张用于终止器质性心脏病的室速，尤其心功能障碍时。
 不主张用于终止[[<SYM>0]]的室速，尤其[[<DIS>1]]时。
 命名实体: 器质性心脏病 心功能障碍
 ==================================================
-4./numeral 莫/distinguishing-word 雷/noun 西/noun-of-locality 嗪/punctuation-mark (/punctuation-mark moricizine/noun )/punctuation-mark ：/punctuation-mark 是/verb 前/noun-of-locality 苏联/noun 研发/verb 的/particle AAD/noun ，/punctuation-mark 它/pronoun 的/particle 作用/noun 与/preposition 普/adjective 罗/distinguishing-word 帕/noun 酮/punctuation-mark 相似/adjective ，/punctuation-mark 但/conjunction 并/adverb 不/adverb 延长/verb 心室/noun 复/adverb 极/verb 时间/noun ，/punctuation-mark 甚至/adverb 可/verb 略/adverb 缩短/verb ./punctuation-mark 因此/conjunction 它/pronoun 既/conjunction 具/verb IB/noun 类/classifier 药物/noun 特性/noun ，/punctuation-mark 也/adverb 具/verb Ic/noun 类/classifier 作用/noun 的/particle 强度/noun ，/punctuation-mark 常/adverb 用/preposition 剂量/noun 0.2g/noun ，/punctuation-mark 3/numeral 次/classifier //punctuation-mark d/onomatopoeia ，/punctuation-mark CAPS/noun 试验/verb (/punctuation-mark 心律/noun 失常/adjective 飞行员/noun 试验/verb )/punctuation-mark 服用/verb 剂量/noun 600/numeral ~/punctuation-mark 900mg/d/string ，/punctuation-mark 抑制/verb 室/noun 性/noun 心律/noun 失常/adjective 有效率/noun 67%/numeral ，/punctuation-mark CAST/noun 试验/verb 中/noun-of-locality 它/pronoun 的/particle 安全性/noun 与/preposition 英/distinguishing-word 卡/noun 胺/noun 、/punctuation-mark 氟/noun 卡/noun 胺/noun 相似/adjective ，/punctuation-mark 我国/noun 现/time-word 常/adverb 用/verb 于/preposition 室/noun 早/adjective 的/particle 治疗/verb 。/punctuation-mark
+4.莫雷西嗪(moricizine)：是前苏联研发的AAD，它的作用与普罗帕酮相似，但并不延长心室复极时间，甚至可略缩短.因此它既具IB类药物特性，也具Ic类作用的强度，常用剂量0.2g，3次/d，CAPS试验(心律失常飞行员试验)服用剂量600~900mg/d，抑制室性心律失常有效率67%，CAST试验中它的安全性与英卡胺、氟卡胺相似，我国现常用于室早的治疗。
 4.[[<MED>0]](moricizine)：是前苏联研发的AAD，它的作用与[[<MED>1]]相似，但并不延长心室复极时间，甚至可略缩短.因此它既具IB类药物特性，也具Ic类作用的强度，常用剂量0.2g，3次/d，CAPS试验([[<SYM><DIS>2]]飞行员试验)服用剂量600~900mg/d，抑制[[<DIS>3]]有效率67%，CAST试验中它的安全性与[[<MED>4]]、氟卡胺相似，我国现常用于室早的治疗。
 命名实体: 莫雷西嗪 普罗帕酮 心律失常 室性心律失常 英卡胺
 ==================================================
-5./numeral 胺/noun 碘/noun 酮/punctuation-mark ：/punctuation-mark 为/preposition 目前/time-word 广为/adverb 推荐/verb 静脉/noun 应用/verb 终止/verb 室/noun 性/noun 心律/noun 失常/adjective 的/particle 药物/noun ，/punctuation-mark 它/pronoun 是/verb III/noun 类/classifier 药物/noun ，/punctuation-mark 属/verb 多/adjective 通道/noun 阻滞/verb 剂/classifier ，/punctuation-mark 口服/verb 起/verb 效/noun 慢/adjective ，/punctuation-mark 静/adjective 注/verb 起/verb 效/noun 快/adjective ，/punctuation-mark 因为/conjunction 静/adjective 注/verb 和/conjunction 口服/verb 的/particle 电/noun 生理/noun 不尽/adverb 相同/adjective ，/punctuation-mark 为/preposition 求/verb 快速/adverb 起/verb 效/noun ，/punctuation-mark 常/adverb 选/verb 静脉/noun 注射/verb 。/punctuation-mark
+5.胺碘酮：为目前广为推荐静脉应用终止室性心律失常的药物，它是III类药物，属多通道阻滞剂，口服起效慢，静注起效快，因为静注和口服的电生理不尽相同，为求快速起效，常选静脉注射。
 5.[[<MED>0]]：为目前广为推荐静脉应用终止[[<DIS>1]]的药物，它是III类药物，属多通道阻滞剂，口服起效慢，静注起效快，因为静注和口服的电生理不尽相同，为求快速起效，常选静脉注射。
 命名实体: 胺碘酮 室性心律失常
 ==================================================
-静/adjective 注/verb 胺/noun 碘/noun 酮/punctuation-mark 的/particle 急性/distinguishing-word 电/noun 生理/noun 作用/noun ，/punctuation-mark 表现/verb 为/preposition 阻滞/verb 为主/verb ./punctuation-mark 阻滞/verb 外向/adjective 电流/noun 轻/adjective ，/punctuation-mark QT/noun 间/noun-of-locality 期/classifier 延长/verb 程度/noun 小/adjective ，/punctuation-mark 基本/adjective 无/verb 促/verb 心律/noun 失常/adjective 作用/noun ，/punctuation-mark 也/adverb 无/verb 负/verb 性/noun 肌/noun 力/noun 反应/verb ，/punctuation-mark 因此/conjunction 广/adjective 用于/verb 心肌/noun 梗/noun 死/verb 、/punctuation-mark 心/noun 衰/adjective 中/noun-of-locality 终止/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 发作/verb 。/punctuation-mark
+静注胺碘酮的急性电生理作用，表现为阻滞为主.阻滞外向电流轻，QT间期延长程度小，基本无促心律失常作用，也无负性肌力反应，因此广用于心肌梗死、心衰中终止室速/室颤的发作。
 静注[[<MED>0]]的急性电生理作用，表现为阻滞为主.阻滞外向电流轻，QT[[<SYM>1]]程度小，基本无促[[<SYM><DIS>2]]作用，也无负性肌力反应，因此广用于[[<SYM><DIS>3]]、[[<DIS>4]]中终止室速/[[<SYM><DIS>5]]的发作。
 命名实体: 胺碘酮 间期延长 心律失常 心肌梗死 心衰 室颤
 ==================================================
-静/adjective 注/verb 胺/noun 碘/noun 酮/punctuation-mark 的/particle 有效/adjective 剂量/noun 范围/noun 很/adverb 广/adjective ，/punctuation-mark 因此/conjunction 首/numeral 次/classifier 150mg/10min/string 静/adjective 注/verb ，/punctuation-mark 如/verb 室/noun 速/adjective 不/adverb 终止/verb ，/punctuation-mark 隔/verb 5/numeral 〜/punctuation-mark 10min/noun 可/verb 重复/verb 150mg/noun ，/punctuation-mark 直接/adjective 室/noun 速/adjective 终止/verb 后/noun-of-locality 采用/verb 静/adjective 滴/verb 1mg/min/string 维持/verb 6h/noun ，/punctuation-mark 改/verb 用/verb 0.5mg/min/string 维持/verb ，/punctuation-mark 原则/noun 上/noun-of-locality 24h/noun 不/adverb 超过/verb 2000mg/noun 。/punctuation-mark
+静注胺碘酮的有效剂量范围很广，因此首次150mg/10min静注，如室速不终止，隔5〜10min可重复150mg，直接室速终止后采用静滴1mg/min维持6h，改用0.5mg/min维持，原则上24h不超过2000mg。
 静注[[<MED>0]]的有效剂量范围很广，因此首次150mg/10min静注，如室速不终止，隔5〜10min可重复150mg，直接室速终止后采用静滴1mg/min维持6h，改用0.5mg/min维持，原则上24h不超过2000mg。
 命名实体: 胺碘酮
 ==================================================
-静/adjective 注/verb 胺/noun 碘/noun 酮/punctuation-mark 基本/adjective 不/adverb 诱发/verb TdP/noun ，/punctuation-mark 也/adverb 不/adverb 加重/verb 或/conjunction 诱发/verb 心/noun 衰/adjective ，/punctuation-mark 但/conjunction 静/adjective 注/verb 胺/noun 碘/noun 酮/punctuation-mark 也/adverb 需/verb 在/preposition 监护/verb 下/noun-of-locality 应用/verb ，/punctuation-mark 它/pronoun 可/verb 发生/verb 心/noun 率/suffix 减慢/verb ，/punctuation-mark 一般/adjective 不/adverb 低于/verb 50/numeral 〜/punctuation-mark 55/numeral 次/classifier //punctuation-mark min/noun 窦/noun 率/verb 可/verb 继续/verb 应用/verb ；/punctuation-mark 它/pronoun 具/verb 扩/verb 血管/noun 作用/noun ，/punctuation-mark 能/verb 降低/verb 血压/noun ，/punctuation-mark 一般/adjective 收缩/verb 压/verb 不/adverb 低于/verb 100/numeral ~/punctuation-mark 110mm/noun Hg/noun (/punctuation-mark 1mm/noun Hg=0.133kPa/noun )/punctuation-mark 可/verb 继续/verb 使用/verb 。/punctuation-mark
+静注胺碘酮基本不诱发TdP，也不加重或诱发心衰，但静注胺碘酮也需在监护下应用，它可发生心率减慢，一般不低于50〜55次/min窦率可继续应用；它具扩血管作用，能降低血压，一般收缩压不低于100~110mm Hg(1mm Hg=0.133kPa)可继续使用。
 静注[[<MED>0]]基本不诱发TdP，也不加重或诱发[[<DIS>1]]，但静注[[<MED>0]]也需在监护下应用，它可发生心率减慢，一般不低于50〜55次/min窦率可继续应用；它具扩血管作用，能降[[<SYM><DIS>2]]，一般收缩压不低于100~110mm Hg(1mm Hg=0.133kPa)可继续使用。
 命名实体: 胺碘酮 心衰 低血压
 ==================================================
-在/preposition 老年人/noun 血管/noun 容积/noun 适应/verb 能力/noun 差/adjective 或/conjunction 老年人/noun 潜在/distinguishing-word 窦/noun 房/noun 结/verb 功能/noun 障碍/noun ，/punctuation-mark 则/conjunction 静/adjective 注/verb 胺/noun 碘/noun 酮/punctuation-mark 可能/verb 受到/verb 限制/verb 。/punctuation-mark
+在老年人血管容积适应能力差或老年人潜在窦房结功能障碍，则静注胺碘酮可能受到限制。
 在老年人血管容积适应能力差或老年人潜在窦房结功能障碍，则静注[[<MED>0]]可能受到限制。
 命名实体: 胺碘酮
 ==================================================
-此外/conjunction 低/adjective 排/verb 状态/noun 心/noun 衰/adjective 中/noun-of-locality 发生/verb 持续性/noun 室/noun 速/adjective ，/punctuation-mark 静/adjective 注/verb 胺/noun 碘/noun 酮/punctuation-mark 也/adverb 应/verb 谨慎/adjective 。/punctuation-mark
+此外低排状态心衰中发生持续性室速，静注胺碘酮也应谨慎。
 此外低排状态[[<DIS>0]]中发生持续性室速，静注[[<MED>1]]也应谨慎。
 命名实体: 心衰 胺碘酮
 ==================================================
-长/verb QT/noun 基础/noun 上/noun-of-locality 发生/verb 的/particle 室/noun 速/adjective ，/punctuation-mark 不宜/verb 选用/verb 胺/noun 碘/noun 酮/punctuation-mark 。/punctuation-mark
+长QT基础上发生的室速，不宜选用胺碘酮。
 长QT基础上发生的室速，不宜选用[[<MED>0]]。
 命名实体: 胺碘酮
 ==================================================
-可见/conjunction 常/adverb 用/verb 于/preposition 终止/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 药物/noun 有限/adjective ，/punctuation-mark 胺/noun 碘/noun 酮/punctuation-mark 常/adverb 为/verb 首选/verb 药物/noun ，/punctuation-mark 利多卡因/noun 还/adverb 可/verb 应用/verb ，/punctuation-mark 普/adjective 罗/distinguishing-word 帕/noun 酮/punctuation-mark 应有/verb 限制/verb 地/particle 应用/verb ，/punctuation-mark 至于/preposition 苯/noun 妥/adjective 因/preposition 钠/noun 、/punctuation-mark 维拉帕米/noun 、/punctuation-mark 腺/punctuation-mark 苷/noun 等/particle 仅/adverb 在/preposition 极/adverb 少数/numeral 病例/noun ，/punctuation-mark 具/verb 特殊/adjective 适应/verb 证/noun 才/adverb 会/verb 应用/verb ，/punctuation-mark 而/conjunction 镁/noun 钾盐/noun 仅/adverb 在/preposition 低/adjective 钾/noun 引起/verb 的/particle LQTS/noun 中/noun-of-locality 终止/verb TdP/noun 才/adverb 有效/adjective 。/punctuation-mark
+可见常用于终止室速/室颤药物有限，胺碘酮常为首选药物，利多卡因还可应用，普罗帕酮应有限制地应用，至于苯妥因钠、维拉帕米、腺苷等仅在极少数病例，具特殊适应证才会应用，而镁钾盐仅在低钾引起的LQTS中终止TdP才有效。
 可见常用于终止室速/[[<SYM><DIS>0]]药物有限，[[<MED>1]]常为首选药物，[[<MED>2]]还可应用，[[<MED>3]]应有限制地应用，至于苯妥因钠、[[<MED>4]]、[[<MED>5]]等仅在极少数病例，具特殊适应证才会应用，而镁钾盐仅在低钾引起的LQTS中终止TdP才有效。
 命名实体: 室颤 胺碘酮 利多卡因 普罗帕酮 维拉帕米 腺苷
 ==================================================
-其他/pronoun 的/particle 一些/numeral 药物/noun 氟/noun 卡/noun 尼/distinguishing-word 、/punctuation-mark 索他洛尔/noun 、/punctuation-mark 杜非利/noun 特等/distinguishing-word 国内/locative-word 尚/adverb 无/verb 用于/verb 终止/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 发作/verb 的/particle 经验/noun 。/punctuation-mark
+其他的一些药物氟卡尼、索他洛尔、杜非利特等国内尚无用于终止室速/室颤发作的经验。
 其他的一些药物[[<MED>0]]、[[<MED>1]]、杜非利特等国内尚无用于终止室速/[[<SYM><DIS>2]]发作的经验。
 命名实体: 氟卡尼 索他洛尔 室颤
 ==================================================
-(/punctuation-mark 二/numeral )/punctuation-mark 用于/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 远期/distinguishing-word 防治/verb 的/particle 药物/noun
+(二)用于室速/室颤远期防治的药物
 (二)用于室速/[[<SYM><DIS>0]]远期防治的药物
 命名实体: 室颤
 ==================================================
-CAST/noun 试验/verb 改变/verb 了/particle 人们/noun 抗/verb 心律/noun 失常/adjective 治疗/verb 观念/noun ，/punctuation-mark 抗/verb 心律/noun 失常/adjective 有效/adjective ，/punctuation-mark 不/adverb 等于/verb 远期/distinguishing-word 总体/noun 死亡率/noun 降低/verb ，/punctuation-mark 因此/conjunction 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 远期/distinguishing-word 防治/verb ，/punctuation-mark 既/conjunction 要/verb 减少/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 发作/verb ，/punctuation-mark 又/adverb 要/verb 提高/verb 远期/distinguishing-word 的/particle 存活率/noun ，/punctuation-mark 对/preposition 此/pronoun I/noun 类/noun AAD/noun 基本/adjective 做/verb 不/adverb 到/verb ，/punctuation-mark IA/noun 类/noun 、/punctuation-mark Ic/noun 类/noun AAD/noun 都/adverb 不/adverb 能/verb 用于/verb 远期/distinguishing-word 室/noun 性/noun 心律/noun 失常/adjective 防治/verb ，/punctuation-mark IB/noun 类/noun 美/distinguishing-word 西/distinguishing-word 律/noun 可/verb 减少/verb 自发性/noun 室/noun 性/suffix 早/adjective 搏/verb ，/punctuation-mark 但/conjunction 长期/adverb 应用/verb 也/adverb 需/verb β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 辅助/verb 。/punctuation-mark
+CAST试验改变了人们抗心律失常治疗观念，抗心律失常有效，不等于远期总体死亡率降低，因此室速/室颤远期防治，既要减少室速/室颤的发作，又要提高远期的存活率，对此I类AAD基本做不到，IA类、Ic类AAD都不能用于远期室性心律失常防治，IB类美西律可减少自发性室性早搏，但长期应用也需β受体阻滞剂辅助。
 CAST试验改变了人们抗[[<SYM><DIS>0]]治疗观念，抗[[<SYM><DIS>0]]有效，不等于远期总体死亡率降低，因此室速/[[<SYM><DIS>1]]远期防治，既要减少室速/[[<SYM><DIS>1]]的发作，又要提高远期的存活率，对此I类AAD基本做不到，IA类、Ic类AAD都不能用于远期[[<DIS>2]]防治，IB类[[<MED>3]]可减少自发性[[<SYM><DIS>4]]，但长期应用也需β受体阻滞剂辅助。
 命名实体: 心律失常 室颤 室性心律失常 美西律 室性早搏
 ==================================================
-Ic/noun 类/noun AAD/noun 普/adjective 罗/distinguishing-word 帕/noun 酮/punctuation-mark 可/verb 用于/verb 无/verb 器/noun 质/noun 性/noun 心脏病/noun 自发性/noun 室/noun 早/adjective 患者/noun 的/particle 治疗/verb ，/punctuation-mark 常规/noun 推荐/verb 的/particle 口服/verb 剂量/noun 150mg/noun ，/punctuation-mark 每/pronoun 8h/noun 1/numeral 次/classifier ，/punctuation-mark 最/adverb 大/adjective 口服/verb 剂量/noun 可/verb 达/verb 300mg/noun 每/pronoun 8h/noun 1/numeral 次/classifier ，/punctuation-mark 但/conjunction 需/verb 抽/verb 测/verb QRS/noun 波/noun 宽/adjective ，/punctuation-mark 当/verb QRS/noun 波/noun 延长/verb 超过/verb 用/preposition 药/noun 前/noun-of-locality 20%/numeral 应/verb 停/verb 药/noun 。/punctuation-mark
+Ic类AAD普罗帕酮可用于无器质性心脏病自发性室早患者的治疗，常规推荐的口服剂量150mg，每8h 1次，最大口服剂量可达300mg每8h 1次，但需抽测QRS波宽，当QRS波延长超过用药前20%应停药。
 Ic类AAD[[<MED>0]]可用于无[[<SYM>1]]自发性室早患者的治疗，常规推荐的口服剂量150mg，每8h 1次，最大口服剂量可达300mg每8h 1次，但需抽测QRS波宽，当QRS波延长超过用药前20%应停药。
 命名实体: 普罗帕酮 器质性心脏病
 ==================================================
-普/adjective 罗/distinguishing-word 帕/noun 酮/punctuation-mark 的/particle 药/noun 代/classifier 动力学/noun 复杂/adjective ，/punctuation-mark 它/pronoun 的/particle 血/noun 浓度/noun 与/conjunction 剂量/noun 不/adverb 呈/verb 比例/noun ，/punctuation-mark 当/preposition 剂量/noun 由/preposition 300mg/d/string 增/verb 为/verb 900mg/d/string 上升/verb 3/numeral 倍/classifier ，/punctuation-mark 而/conjunction 血/noun 浓度/noun 上升/verb 10/numeral 倍/classifier ，/punctuation-mark 它/pronoun 还有/verb 强/adjective 代谢/verb 型/suffix 、/punctuation-mark 弱/adjective 代谢/verb 型/noun 之/particle 分/noun ，/punctuation-mark 强/adjective 代谢/verb 型/suffix 者/pronoun 母/noun 药/noun 经/preposition P450/noun 生成/verb 5/numeral 羟/punctuation-mark 普/adjective 罗/distinguishing-word 帕/noun 酮/punctuation-mark ，/punctuation-mark 体内/locative-word 半衰期/noun 5/numeral ~/punctuation-mark 6h/noun ，/punctuation-mark 在/preposition 西方/locative-word 人群/noun 此/pronoun 型/noun 占/verb 93%/numeral ，/punctuation-mark 弱/adjective 代谢/verb 型/noun P450/noun 酶/noun 降解/verb 能力/noun 低/adjective ，/punctuation-mark 半衰期/noun 长/adjective (/punctuation-mark 15/numeral 〜/punctuation-mark 20h/noun )/punctuation-mark ，/punctuation-mark 基本/adjective 以/preposition 母/distinguishing-word 药/noun 的/particle 形式/noun 存在/verb 于/preposition 血/noun 流/verb 中/noun-of-locality ，/punctuation-mark 母/distinguishing-word 药具/noun 轻度/distinguishing-word 的/particle β/punctuation-mark 受体/noun 阻滞/verb 作用/noun ，/punctuation-mark 但/conjunction 阻滞/verb 的/particle 强度/noun 只/adverb 及/verb 普/adjective 萘/punctuation-mark 洛尔/noun 的/particle 2.5%/numeral ~/punctuation-mark 5.0%/numeral ，/punctuation-mark 但/conjunction 普/adjective 罗/distinguishing-word 帕/noun 酮/punctuation-mark 的/particle 血/noun 浓度/noun 为/verb 普/adjective 萘/punctuation-mark 洛尔/noun 的/particle 50/numeral 倍/classifier ，/punctuation-mark 因此/conjunction 弱/adjective 代谢/verb 型/suffix 者/suffix 它/pronoun 的/particle β/punctuation-mark 受体/noun 阻滞/verb 作用/noun 也/adverb 不可/verb 忽略/verb 。/punctuation-mark
+普罗帕酮的药代动力学复杂，它的血浓度与剂量不呈比例，当剂量由300mg/d增为900mg/d上升3倍，而血浓度上升10倍，它还有强代谢型、弱代谢型之分，强代谢型者母药经P450生成5羟普罗帕酮，体内半衰期5~6h，在西方人群此型占93%，弱代谢型P450酶降解能力低，半衰期长(15〜20h)，基本以母药的形式存在于血流中，母药具轻度的β受体阻滞作用，但阻滞的强度只及普萘洛尔的2.5%~5.0%，但普罗帕酮的血浓度为普萘洛尔的50倍，因此弱代谢型者它的β受体阻滞作用也不可忽略。
 [[<MED>0]]的药代动力学复杂，它的血浓度与剂量不呈比例，当剂量由300mg/d增为900mg/d上升3倍，而血浓度上升10倍，它还有强代谢型、弱代谢型之分，强代谢型者母药经P450生成5羟[[<MED>0]]，体内半衰期5~6h，在西方人群此型占93%，弱代谢型P450酶降解能力低，半衰期长(15〜20h)，基本以母药的形式存在于血流中，母药具轻度的β受体阻滞作用，但阻滞的强度只及[[<MED>1]]的2.5%~5.0%，但[[<MED>0]]的血浓度为[[<MED>1]]的50倍，因此弱代谢型者它的β受体阻滞作用也不可忽略。
 命名实体: 普罗帕酮 普萘洛尔
 ==================================================
-II/noun 类/noun AAD/noun ，/punctuation-mark β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 在/preposition 心律/noun 失常/adjective 猝死/verb 的/particle 远期/distinguishing-word 防治/verb 中/noun-of-locality 效果/noun 已/adverb 获/verb 公认/verb ，/punctuation-mark 心律/noun 失常/adjective 猝死/verb 与/preposition 高/adjective 交/noun 感/verb 活性/distinguishing-word 有关/verb ，/punctuation-mark 无论是/conjunction AMI/noun 或/conjunction 陈旧/adjective 性/noun 心肌/noun 梗/noun 死/verb ，/punctuation-mark 急性/distinguishing-word 心/noun 衰/adjective 或/conjunction 慢性/distinguishing-word 心/noun 衰/adjective ，/punctuation-mark LQTS/noun 、/punctuation-mark Brugada/noun 综合征/noun 等/particle ，/punctuation-mark 只要/conjunction 交/verb 感/verb 活性/distinguishing-word 增强/verb ，/punctuation-mark 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 发生/verb 几率/noun 就/adverb 上升/verb ，/punctuation-mark 因此/conjunction 采用/verb 足/adjective 量/noun 的/particle β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier ，/punctuation-mark 坚持/verb 长期/distinguishing-word 治疗/verb ，/punctuation-mark 就/adverb 能/verb 降低/verb 猝死/verb 率/verb ，/punctuation-mark 可见/conjunction 心肌/noun 梗/noun 死者/noun 、/punctuation-mark 心/noun 衰/adjective 者/suffix 、/punctuation-mark 先天性/distinguishing-word 长/adjective QT/noun 者/suffix ，/punctuation-mark 有/verb 过/particle 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 史/noun 者/suffix 都/adverb 应/verb 常规/noun 接受/verb β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 治疗/verb 。/punctuation-mark
+II类AAD，β受体阻滞剂在心律失常猝死的远期防治中效果已获公认，心律失常猝死与高交感活性有关，无论是AMI或陈旧性心肌梗死，急性心衰或慢性心衰，LQTS、Brugada综合征等，只要交感活性增强，室速/室颤的发生几率就上升，因此采用足量的β受体阻滞剂，坚持长期治疗，就能降低猝死率，可见心肌梗死者、心衰者、先天性长QT者，有过室速/室颤史者都应常规接受β受体阻滞剂治疗。
 II类AAD，β受体阻滞剂在[[<SYM><DIS>0]][[<SYM><DIS>1]]的远期防治中效果已获公认，[[<SYM><DIS>0]][[<SYM><DIS>1]]与高交感活性有关，无论是AMI或[[<DIS>2]]，急性[[<DIS>3]]或[[<DIS>4]]，LQTS、Brugada[[<SYM>5]]等，只要交感活性增强，室速/[[<SYM><DIS>6]]的发生几率就上升，因此采用足量的β受体阻滞剂，坚持长期治疗，就能降低[[<SYM><DIS>1]]率，可见[[<SYM><DIS>7]]者、[[<DIS>3]]者、先天性长QT者，有过室速/[[<SYM><DIS>6]]史者都应常规接受β受体阻滞剂治疗。
 命名实体: 心律失常 猝死 陈旧性心肌梗死 心衰 慢性心衰 综合征 室颤 心肌梗死
 ==================================================
-III/noun 类/noun AAD/noun 用于/verb 远期/distinguishing-word 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 防治/verb ，/punctuation-mark 目前/time-word 具/verb 实用/adjective 意义/noun 的/particle 为/preposition 胺/noun 碘/noun 酮/punctuation-mark ，/punctuation-mark 但/conjunction 胺/noun 碘/noun 酮/punctuation-mark 基本/adjective 不/adverb 用于/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 猝死/verb 的/particle 一级/distinguishing-word 预防/verb ，/punctuation-mark 仅/adverb 用于/verb 二级/distinguishing-word 预防/verb 。/punctuation-mark
+III类AAD用于远期室速/室颤防治，目前具实用意义的为胺碘酮，但胺碘酮基本不用于室速/室颤猝死的一级预防，仅用于二级预防。
 III类AAD用于远期室速/[[<SYM><DIS>0]]防治，目前具实用意义的为[[<MED>1]]，但[[<MED>1]]基本不用于室速/[[<SYM><DIS>0]][[<SYM><DIS>2]]的一级预防，仅用于二级预防。
 命名实体: 室颤 胺碘酮 猝死
 ==================================================
-心肌/noun 梗/noun 死/verb 、/punctuation-mark 心/noun 衰/adjective 、/punctuation-mark 心肌/noun 病/noun 等/particle 有/verb 过/particle 持续性/noun 室/noun 速/adjective 或/conjunction 频/adjective 发/verb 非/distinguishing-word 持续性/noun 室/noun 速/adjective 者/suffix ，/punctuation-mark 常/adverb 选用/verb 胺/noun 碘/noun 酮/punctuation-mark 作/verb 远期/distinguishing-word 治疗/verb ，/punctuation-mark 也/adverb 有/verb 猝死/verb 复苏/verb 存活/verb 者/suffix ，/punctuation-mark 也/adverb 选用/verb 胺/noun 碘/noun 酮/punctuation-mark 治疗/verb 。/punctuation-mark
+心肌梗死、心衰、心肌病等有过持续性室速或频发非持续性室速者，常选用胺碘酮作远期治疗，也有猝死复苏存活者，也选用胺碘酮治疗。
 [[<SYM><DIS>0]]、[[<DIS>1]]、[[<DIS>2]]等有过持续性室速或频发非持续性室速者，常选用[[<MED>3]]作远期治疗，也有[[<SYM><DIS>4]]复苏存活者，也选用[[<MED>3]]治疗。
 命名实体: 心肌梗死 心衰 心肌病 胺碘酮 猝死
 ==================================================
-选用/verb 口服/verb 胺/noun 碘/noun 酮/punctuation-mark ，/punctuation-mark 由于/conjunction 它/pronoun 的/particle 分布/verb 容积/noun 大/adjective (/punctuation-mark 60L/kg/string )/punctuation-mark ，/punctuation-mark 因此/conjunction 必须/adverb 在/preposition 负荷/noun 剂量/noun 下/noun-of-locality 才/adverb 能/verb 发挥/verb 作用/noun ，/punctuation-mark 通常/adverb 的/particle 负荷/noun 量/noun 为/verb 10g/10d/string ，/punctuation-mark 我国/noun 现在/time-word 采用/verb 的/particle 负荷/noun 方法/noun 为/verb 0.2g/noun ，/punctuation-mark 3/numeral 次/classifier //punctuation-mark d×7d/noun ，/punctuation-mark 0.2g/noun ，/punctuation-mark 2/numeral 次/classifier //punctuation-mark d×7d/noun ，/punctuation-mark 随后/adverb 0.2g/noun ，/punctuation-mark 1/numeral 次/classifier //punctuation-mark d/onomatopoeia ，/punctuation-mark 此/pronoun 为/verb 7g/14d/string ，/punctuation-mark 比/preposition 国外/locative-word 小/adjective ，/punctuation-mark 但/conjunction 我国/noun 人均/adjective 体重/noun 轻/adjective ，/punctuation-mark 也许/adverb 7g/noun 的/particle 负荷/noun 对/preposition 多数/numeral 人/noun 已/adverb 足够/verb ，/punctuation-mark 控制室/noun 性/noun 心律/noun 失常/adjective 的/particle 维持/verb 量/noun 推荐/verb 为/preposition 0.3/numeral ~/punctuation-mark 0.4g/d/string ，/punctuation-mark 比/preposition 房/noun 颤/verb 患者/noun 维持/verb 窦/noun 性/noun 心律/noun 的/particle 维持/verb 量/noun 0.1/numeral 〜/punctuation-mark 0.2g/d/string 大/adjective 。/punctuation-mark
+选用口服胺碘酮，由于它的分布容积大(60L/kg)，因此必须在负荷剂量下才能发挥作用，通常的负荷量为10g/10d，我国现在采用的负荷方法为0.2g，3次/d×7d，0.2g，2次/d×7d，随后0.2g，1次/d，此为7g/14d，比国外小，但我国人均体重轻，也许7g的负荷对多数人已足够，控制室性心律失常的维持量推荐为0.3~0.4g/d，比房颤患者维持窦性心律的维持量0.1 〜0.2g/d大。
 选用口服[[<MED>0]]，由于它的分布容积大(60L/kg)，因此必须在负荷剂量下才能发挥作用，通常的负荷量为10g/10d，我国现在采用的负荷方法为0.2g，3次/d×7d，0.2g，2次/d×7d，随后0.2g，1次/d，此为7g/14d，比国外小，但我国人均体重轻，也许7g的负荷对多数人已足够，控制[[<DIS>1]]的维持量推荐为0.3~0.4g/d，比[[<SYM><DIS>2]]患者维持窦性心律的维持量0.1 〜0.2g/d大。
 命名实体: 胺碘酮 室性心律失常 房颤
 ==================================================
-胺/noun 碘/noun 酮/punctuation-mark 口服/verb 显示/verb 其/pronoun 慢性/distinguishing-word 电/noun 生理/noun 作用/noun ，/punctuation-mark 主要/adverb 表现/verb 对/preposition 复/adverb 极/noun 的/particle 影响/verb ，/punctuation-mark 明显/adjective 地/particle 阻滞/verb ，/punctuation-mark 显示/verb QT/noun 间/noun-of-locality 期/classifier 延长/verb ，/punctuation-mark 而/conjunction 对/preposition INa/noun 、/punctuation-mark ICa/noun -/punctuation-mark L/noun 的/particle 阻滞/verb 较/adverb 轻/adjective 。/punctuation-mark
+胺碘酮口服显示其慢性电生理作用，主要表现对复极的影响，明显地阻滞，显示QT间期延长，而对INa、ICa-L的阻滞较轻。
 [[<MED>0]]口服显示其慢性电生理作用，主要表现对复极的影响，明显地阻滞，显示QT[[<SYM>1]]，而对INa、ICa-L的阻滞较轻。
 命名实体: 胺碘酮 间期延长
 ==================================================
-胺/noun 碘/noun 酮/punctuation-mark 长期/adverb 口服/verb ，/punctuation-mark 都/adverb 有/verb QT/noun 间/noun-of-locality 期/classifier 延长/verb ，/punctuation-mark 此/pronoun 为/verb 胺/noun 碘/noun 酮/punctuation-mark 应有/verb 的/particle 药理/noun 作用/noun ，/punctuation-mark 并/conjunction 不/adverb 提示/verb 它/pronoun 的/particle 毒性/noun 反应/verb 。/punctuation-mark
+胺碘酮长期口服，都有QT间期延长，此为胺碘酮应有的药理作用，并不提示它的毒性反应。
 [[<MED>0]]长期口服，都有QT[[<SYM>1]]，此为[[<MED>0]]应有的药理作用，并不提示它的毒性反应。
 命名实体: 胺碘酮 间期延长
 ==================================================
-胺/noun 碘/noun 酮/punctuation-mark 几乎/adverb 不/adverb 诱发/verb TdP/noun ，/punctuation-mark 其/pronoun 可能/verb 机制/noun 为/preposition 胺/noun 碘/noun 酮/punctuation-mark 口服/verb 阻滞/verb ，/punctuation-mark Iks/noun 主要/adverb 分布/verb 于/preposition 外/noun-of-locality 膜/noun 下/noun-of-locality 和/conjunction 内/noun-of-locality 膜/noun 下/verb 心肌/noun ，/punctuation-mark 由此/adverb 降低/verb 跨/verb 壁/noun 复/verb 极/adverb 离散/verb ，/punctuation-mark 另外/conjunction 胺/noun 碘/noun 酮/punctuation-mark 对/preposition INa/noun 、/punctuation-mark Ica/noun -/punctuation-mark L/noun 和/conjunction 肾上腺/noun 素/adverb 能/verb 受体/noun (/punctuation-mark α/punctuation-mark 、/punctuation-mark β/punctuation-mark )/punctuation-mark 都/adverb 有/verb 阻滞/verb ，/punctuation-mark 因此/conjunction 即使/conjunction QT/noun 间/noun-of-locality 期/classifier 延长/verb ，/punctuation-mark 也/adverb 不/adverb 诱发/verb TdP/noun 。/punctuation-mark
+胺碘酮几乎不诱发TdP，其可能机制为胺碘酮口服阻滞，Iks主要分布于外膜下和内膜下心肌，由此降低跨壁复极离散，另外胺碘酮对INa、Ica-L和肾上腺素能受体(α、β)都有阻滞，因此即使QT间期延长，也不诱发TdP。
 [[<MED>0]]几乎不诱发TdP，其可能机制为[[<MED>0]]口服阻滞，Iks主要分布于外膜下和内膜下心肌，由此降低跨壁复极离散，另外[[<MED>0]]对INa、Ica-L和[[<MED>1]]能受体(α、β)都有阻滞，因此即使QT[[<SYM>2]]，也不诱发TdP。
 命名实体: 胺碘酮 肾上腺素 间期延长
 ==================================================
-但/conjunction 这/pronoun 不/adverb 是/verb 绝对/adjective 的/particle ./punctuation-mark 如/conjunction 有/verb 其他/pronoun 延长/verb QT/noun 间/noun-of-locality 期/classifier 的/particle 附加/verb 因素/noun 参与/verb ，/punctuation-mark 如/verb 低/adjective 钾/noun 、/punctuation-mark 药物/noun 、/punctuation-mark 原有/verb QT/noun 延长/verb 等/particle ，/punctuation-mark 则/conjunction 同样/adverb 可/verb 诱发/verb TdP/noun ，/punctuation-mark 因此/conjunction 胺/noun 碘/noun 酮/punctuation-mark 不用/adverb 于/preposition QT/noun 间/noun-of-locality 期/classifier 已/adverb 延长/verb 的/particle 患者/noun 。/punctuation-mark
+但这不是绝对的.如有其他延长QT间期的附加因素参与，如低钾、药物、原有QT延长等，则同样可诱发TdP，因此胺碘酮不用于QT间期已延长的患者。
 但这不是绝对的.如有其他延长QT间期的附加因素参与，如低钾、药物、原有QT延长等，则同样可诱发TdP，因此[[<MED>0]]不用于QT间期已延长的患者。
 命名实体: 胺碘酮
 ==================================================
-如/conjunction 服用/verb 胺/noun 碘/noun 酮/punctuation-mark 者/pronoun 发生/verb TdP/noun ，/punctuation-mark 则/conjunction 必须/adverb 查看/verb 是否/verb 有/verb 其他/pronoun 附加/verb 因素/noun 参与/verb 。/punctuation-mark
+如服用胺碘酮者发生TdP，则必须查看是否有其他附加因素参与。
 如服用[[<MED>0]]者发生TdP，则必须查看是否有其他附加因素参与。
 命名实体: 胺碘酮
 ==================================================
-可见/conjunction 有效/adjective 地/particle 用于/verb 远期/distinguishing-word 防治/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 药物/noun ，/punctuation-mark 仅/adverb 为/verb β/punctuation-mark 受体/noun 阻滞/verb 剂/noun 、/punctuation-mark 胺/noun 碘/noun 酮/punctuation-mark 多/numeral 通道/noun 阻滞/verb 剂/classifier 。/punctuation-mark
+可见有效地用于远期防治室速/室颤的药物，仅为β受体阻滞剂、胺碘酮多通道阻滞剂。
 可见有效地用于远期防治室速/[[<SYM><DIS>0]]的药物，仅为β受体阻滞剂、[[<MED>1]]多通道阻滞剂。
 命名实体: 室颤 胺碘酮
 ==================================================
-四/numeral 、/punctuation-mark 室/noun 性/noun 心律/noun 失常/adjective 药物/noun 治疗/verb 措施/noun
+四、室性心律失常药物治疗措施
 四、[[<DIS>0]]药物治疗措施
 命名实体: 室性心律失常
 ==================================================
-1./numeral 药物/noun 治疗/verb 对象/noun ：/punctuation-mark (/punctuation-mark 1/numeral )/punctuation-mark 稳定/verb 型/suffix 室/noun 速/adjective ，/punctuation-mark 此/pronoun 类/classifier 室/noun 速/adjective 多数/numeral 采用/verb 药物/noun 终止/verb ，/punctuation-mark 易/adjective 复发/verb 者/suffix 加/verb 用/preposition 药物/noun 预防/verb ，/punctuation-mark 血流/noun 动力学/noun 不/adverb 稳定/adjective 室/noun 速/adjective 多/adjective 采用/verb 电/noun 复/adverb 律/verb 终止/verb ，/punctuation-mark 如/conjunction 无/verb 药物/noun 预处理/verb ，/punctuation-mark 电/noun 复/adverb 律/verb 后/noun-of-locality 易/adjective 复发/verb ，/punctuation-mark 因此/conjunction 常/adverb 与/preposition AAD/noun 联合/verb 使用/verb 。/punctuation-mark
+1.药物治疗对象：(1)稳定型室速，此类室速多数采用药物终止，易复发者加用药物预防，血流动力学不稳定室速多采用电复律终止，如无药物预处理，电复律后易复发，因此常与AAD联合使用。
 1.药物治疗对象：(1)稳定型室速，此类室速多数采用药物终止，易复发者加用药物预防，血流动力学不稳定室速多采用电复律终止，如无药物预处理，电复律后易复发，因此常与AAD联合使用。
 命名实体:
 ==================================================
-(/punctuation-mark 2/numeral )/punctuation-mark 多/numeral 形/noun 性/noun 室/noun 速/adjective ，/punctuation-mark 如/conjunction 发生/verb 于/preposition 急性/distinguishing-word 心肌/noun 缺血/verb 、/punctuation-mark 药物/noun 中毒/verb 、/punctuation-mark 电解质/noun 紊乱/adjective 等/particle 的/particle 多/numeral 形/noun 性/noun 室/noun 速/adjective ，/punctuation-mark 首选/verb 药物/noun 救治/verb ，/punctuation-mark 此/pronoun 类/classifier 室/noun 速/adjective 病因/noun 可逆/verb ，/punctuation-mark 但/conjunction 在/preposition 病/noun 因/conjunction 未/adverb 纠正/verb 以前/noun-of-locality 易/adjective 复发/verb ，/punctuation-mark 宜/adjective 加/verb 用/preposition 药物/noun 防治/verb 。/punctuation-mark
+(2)多形性室速，如发生于急性心肌缺血、药物中毒、电解质紊乱等的多形性室速，首选药物救治，此类室速病因可逆，但在病因未纠正以前易复发，宜加用药物防治。
 (2)多形性室速，如发生于[[<DIS>0]]、[[<SYM><DIS>1]]、[[<SYM><DIS>2]]等的多形性室速，首选药物救治，此类室速病因可逆，但在病因未纠正以前易复发，宜加用药物防治。
 命名实体: 急性心肌缺血 药物中毒 电解质紊乱
 ==================================================
-(/punctuation-mark 3/numeral )/punctuation-mark 药物/noun 辅助/verb 治疗/verb ：/punctuation-mark 室/noun 颤/verb 复苏/verb 者/suffix ，/punctuation-mark 室/noun 速/adjective 消融/verb 后/noun-of-locality 、/punctuation-mark ICD/noun 置/verb 入/verb 者/suffix 、/punctuation-mark 心脏/noun 手术/verb 后/noun-of-locality 或/conjunction 围/verb 手术/noun 期/classifier ，/punctuation-mark 心/noun 电/noun 多/adverb 不/adverb 稳定/adjective ，/punctuation-mark 为/preposition 减少/verb 复发/verb ，/punctuation-mark 确保/verb 患者/noun 的/particle 安全/adjective ，/punctuation-mark 多数/numeral 术/noun 后/noun-of-locality 一/numeral 段/classifier 时间/noun 辅以/verb 药物/noun 治疗/verb 。/punctuation-mark
+(3)药物辅助治疗：室颤复苏者，室速消融后、ICD置入者、心脏手术后或围手术期，心电多不稳定，为减少复发，确保患者的安全，多数术后一段时间辅以药物治疗。
 (3)药物辅助治疗：[[<SYM><DIS>0]]复苏者，室速消融后、ICD置入者、心脏手术后或围手术期，心电多不稳定，为减少复发，确保患者的安全，多数术后一段时间辅以药物治疗。
 命名实体: 室颤
 ==================================================
-(/punctuation-mark 4/numeral )/punctuation-mark 自发性/noun 室/noun 早/adjective 、/punctuation-mark 非/distinguishing-word 持续性/noun 室/noun 速/adjective ，/punctuation-mark 构成/verb 明显/adjective 症状/noun ，/punctuation-mark 影响/verb 生活/verb 质量/noun ，/punctuation-mark 可/verb 对/preposition 症/suffix 治疗/verb 选用/verb AAD/noun 减少/verb 室/noun 性/noun 心律/noun 失常/adjective ，/punctuation-mark 减轻/verb 症状/noun 。/punctuation-mark
+(4)自发性室早、非持续性室速，构成明显症状，影响生活质量，可对症治疗选用AAD减少室性心律失常，减轻症状。
 (4)自发性室早、非持续性室速，构成明显症状，影响生活质量，可对症治疗选用AAD减少[[<DIS>0]]，减轻症状。
 命名实体: 室性心律失常
 ==================================================
-2./numeral 药物/noun 治疗/verb 原则/noun ：/punctuation-mark (/punctuation-mark 1/numeral )/punctuation-mark 根据/preposition QRS/noun 波形/noun ，/punctuation-mark 正常/adjective QRS/noun 波/noun 心动/verb 过速/adjective 按/preposition 室/noun 上/noun-of-locality 性/noun 心动/verb 过速/adjective 治疗/verb ，/punctuation-mark 宽/adjective QRS/noun 波/noun 心动/verb 过速/adjective 按/preposition 室/noun 速/adjective 治疗/verb 选用/verb 药物/noun 。/punctuation-mark
+2.药物治疗原则：(1)根据QRS波形，正常QRS波心动过速按室上性心动过速治疗，宽QRS波心动过速按室速治疗选用药物。
 2.药物治疗原则：(1)根据QRS波形，正常QRS波[[<SYM><DIS>0]]按[[<SYM><DIS>1]]治疗，宽QRS波[[<SYM><DIS>0]]按室速治疗选用药物。
 命名实体: 心动过速 室上性心动过速
 ==================================================
-单/distinguishing-word 形/noun 性/noun 持续性/noun 室/noun 速/adjective 通常/distinguishing-word 血液/noun 动力学/noun 稳定/adjective ，/punctuation-mark 有/verb 足够/verb 的/particle 时间/noun 供/verb 医生/noun 思考/verb 观察/verb 选择/verb 治疗/verb 方案/noun ，/punctuation-mark 多/numeral 形/noun 性/noun 室/noun 速/adjective 者/suffix ，/punctuation-mark 即使/conjunction 血流/noun 动力学/noun 稳定/adjective ，/punctuation-mark 也/adverb 不/adverb 允许/verb 延误/verb 治疗/verb ，/punctuation-mark 应/verb 立即/adverb 加以/verb 终止/verb 。/punctuation-mark
+单形性持续性室速通常血液动力学稳定，有足够的时间供医生思考观察选择治疗方案，多形性室速者，即使血流动力学稳定，也不允许延误治疗，应立即加以终止。
 单形性持续性室速通常血液动力学稳定，有足够的时间供医生思考观察选择治疗方案，多形性室速者，即使血流动力学稳定，也不允许延误治疗，应立即加以终止。
 命名实体:
 ==================================================
-(/punctuation-mark 2/numeral )/punctuation-mark 根据/preposition 血液/noun 动力学/noun ，/punctuation-mark 凡/adverb 心脏/noun 扩大/verb 、/punctuation-mark 心肌/noun 肥厚/adjective 或/conjunction 左/adjective 室/noun 射/verb 血/noun 分数/noun (/punctuation-mark LVEF/noun )/punctuation-mark 降低/verb 者/suffix ，/punctuation-mark 室/noun 速/adjective 对/preposition 血液/noun 动力学/noun 影响/verb 较/adverb 大/adjective ，/punctuation-mark 不能/verb 耐受/verb 室/noun 速/adjective 持续/verb 发作/verb ;/punctuation-mark 心动/verb 过速/adjective 频率/noun >/punctuation-mark 200/numeral 次/classifier //punctuation-mark min/noun ，/punctuation-mark 即使/conjunction 心功能/noun 正常/adjective 者/suffix ，/punctuation-mark 如/verb 发作/verb 时间/noun 长/adjective ，/punctuation-mark 也/adverb 能/verb 使/verb 血压/noun 下降/verb ，/punctuation-mark 甚至/adverb 出现/verb 心/noun 衰/adjective ；/punctuation-mark 室/noun 速/noun QRS/noun 波/noun 越/adverb 宽/adjective 者/suffix ，/punctuation-mark 血液/noun 动力学/noun 影响/verb 越/adverb 明显/adjective ，/punctuation-mark 室/noun 速/noun QRS≥0.16s/noun ，/punctuation-mark 通常/adverb 多/adjective 应/verb 立即/adverb 终止/verb 。/punctuation-mark
+(2)根据血液动力学，凡心脏扩大、心肌肥厚或左室射血分数(LVEF)降低者，室速对血液动力学影响较大，不能耐受室速持续发作;心动过速频率>200次/min，即使心功能正常者，如发作时间长，也能使血压下降，甚至出现心衰；室速QRS波越宽者，血液动力学影响越明显，室速QRS≥0.16s，通常多应立即终止。
 (2)根据血液动力学，凡[[<SYM><DIS>0]]、[[<SYM>1]]或左室射血分数(LVEF)降低者，室速对血液动力学影响较大，不能耐受室速持续发作;[[<SYM><DIS>2]]频率>200次/min，即使心功能正常者，如发作时间长，也能使[[<SYM><DIS>3]]，甚至出现[[<DIS>4]]；室速QRS波越宽者，血液动力学影响越明显，室速QRS≥0.16s，通常多应立即终止。
 命名实体: 心脏扩大 心肌肥厚 心动过速 血压下降 心衰
 ==================================================
-(/punctuation-mark 3/numeral )/punctuation-mark 根据/preposition QT/noun 间/noun-of-locality 期/classifier ：/punctuation-mark QT/noun 间/noun-of-locality 期/classifier 正常/adjective 的/particle 基础/noun 上/noun-of-locality 发生/verb 的/particle 室/noun 速/adjective 治疗/verb 不同/adjective 于/preposition QT/noun 间/noun-of-locality 期/classifier 延长/verb 基础/noun 上/noun-of-locality 发生/verb 的/particle 室/noun 速/adjective 。/punctuation-mark
+(3)根据QT间期：QT间期正常的基础上发生的室速治疗不同于QT间期延长基础上发生的室速。
 (3)根据QT间期：QT间期正常的基础上发生的室速治疗不同于QT[[<SYM>0]]基础上发生的室速。
 命名实体: 间期延长
 ==================================================
-QT/noun 延长/verb 者/suffix 不/adverb 能/verb 选用/verb III/noun 类/noun AAD/noun ，/punctuation-mark 治疗/verb 纠正/verb 病因/noun 应/verb 放在/verb 首/numeral 位/classifier ，/punctuation-mark 纠正/verb 低/adjective 钾/noun ，/punctuation-mark 提高/verb 基础/noun 心/noun 率/suffix ，/punctuation-mark 可/verb 在/preposition 临时/distinguishing-word 起/noun-of-locality 搏/verb 下/noun-of-locality ，/punctuation-mark 应用/verb β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 。/punctuation-mark
+QT延长者不能选用III类AAD，治疗纠正病因应放在首位，纠正低钾，提高基础心率，可在临时起搏下，应用β受体阻滞剂。
 QT延长者不能选用III类AAD，治疗纠正病因应放在首位，纠正低钾，提高基础心率，可在临时起搏下，应用β受体阻滞剂。
 命名实体:
 ==================================================
-QT/noun 正常/adjective 的/particle 室/noun 速/adjective ，/punctuation-mark 可/conjunction 接受/verb III/noun 类/noun AAD/noun 治疗/verb 。/punctuation-mark
+QT正常的室速，可接受III类AAD治疗。
 QT正常的室速，可接受III类AAD治疗。
 命名实体:
 ==================================================
-(/punctuation-mark 4/numeral )/punctuation-mark 持续性/noun 和/conjunction 非/distinguishing-word 持续性/noun 室/noun 速/adjective ，/punctuation-mark 阵/noun 发/verb 性/noun 持续性/noun 室/noun 速/adjective 对/preposition 血流/noun 动力学/noun 影响/verb 大/adjective ，/punctuation-mark 有/verb 持续/verb 加速/verb 倾向/noun ，/punctuation-mark 并/conjunction 可/verb 恶化/verb 成/verb 室/noun 扑/verb 、/punctuation-mark 室/noun 颤/verb ，/punctuation-mark 因此/conjunction 都/adverb 应/verb 积极/adjective 加以/verb 终止/verb ，/punctuation-mark 室/noun 速/adjective 终止/verb 后/noun-of-locality ，/punctuation-mark 再/adverb 进一步/adverb 检查/verb 其/pronoun 病因/noun 。/punctuation-mark
+(4)持续性和非持续性室速，阵发性持续性室速对血流动力学影响大，有持续加速倾向，并可恶化成室扑、室颤，因此都应积极加以终止，室速终止后，再进一步检查其病因。
 (4)持续性和非持续性室速，阵发性持续性室速对血流动力学影响大，有持续加速倾向，并可恶化成[[<DIS>0]]、[[<SYM><DIS>1]]，因此都应积极加以终止，室速终止后，再进一步检查其病因。
 命名实体: 室扑 室颤
 ==================================================
-非/distinguishing-word 持续性/noun 者/suffix 对/preposition 血液/noun 动力学/noun 影响/verb 小/adjective ，/punctuation-mark 通常/adverb 不/adverb 恶化/verb 成/verb 室/noun 颤/verb ，/punctuation-mark 允许/verb 先/adverb 思考/verb 其/pronoun 可能/verb 病因/noun ，/punctuation-mark 加以/verb 一并/adverb 治疗/verb 。/punctuation-mark
+非持续性者对血液动力学影响小，通常不恶化成室颤，允许先思考其可能病因，加以一并治疗。
 非持续性者对血液动力学影响小，通常不恶化成[[<SYM><DIS>0]]，允许先思考其可能病因，加以一并治疗。
 命名实体: 室颤
 ==================================================
-3./numeral 选用/verb 药物/noun ：/punctuation-mark 目前/time-word 国内/locative-word 可/verb 供/verb 用于/verb 终止/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 药物/noun 仅/adverb 有/verb 胺/noun 碘/noun 酮/punctuation-mark 、/punctuation-mark 利多卡因/noun ，/punctuation-mark 个别/adjective 情况/noun 普/adjective 罗/distinguishing-word 帕/noun 酮/punctuation-mark 、/punctuation-mark 维拉帕米/noun 、/punctuation-mark 腺/punctuation-mark 苷/noun 等/particle 也/adverb 可/verb 应用/verb ，/punctuation-mark 心肌/noun 梗/noun 死/verb 、/punctuation-mark 心肌/noun 病/noun 、/punctuation-mark 心/noun 衰/adjective 者/suffix 发生/verb 室/noun 速/adjective ，/punctuation-mark 胺/noun 碘/noun 酮/punctuation-mark 为/verb 首选/verb 终止/verb 药物/noun ，/punctuation-mark 但/conjunction 利多卡因/noun 也/adverb 可/verb 应用/verb 。/punctuation-mark
+3.选用药物：目前国内可供用于终止室速/室颤的药物仅有胺碘酮、利多卡因，个别情况普罗帕酮、维拉帕米、腺苷等也可应用，心肌梗死、心肌病、心衰者发生室速，胺碘酮为首选终止药物，但利多卡因也可应用。
 3.选用药物：目前国内可供用于终止室速/[[<SYM><DIS>0]]的药物仅有[[<MED>1]]、[[<MED>2]]，个别情况[[<MED>3]]、[[<MED>4]]、[[<MED>5]]等也可应用，[[<SYM><DIS>6]]、[[<DIS>7]]、[[<DIS>8]]者发生室速，[[<MED>1]]为首选终止药物，但[[<MED>2]]也可应用。
 命名实体: 室颤 胺碘酮 利多卡因 普罗帕酮 维拉帕米 腺苷 心肌梗死 心肌病 心衰
 ==================================================
-长/verb QT/noun 间/noun-of-locality 期/classifier 多/adjective 形/noun 性/noun 室/noun 速/adjective ，/punctuation-mark 首选/verb 补/verb 钾/noun 、/punctuation-mark 补/verb 镁/noun 、/punctuation-mark 利多卡因/noun 、/punctuation-mark 苯/noun 妥/adjective 因/preposition 钠/noun 等/particle ，/punctuation-mark 起/verb 搏/verb 治疗/verb 或/conjunction 异/adjective 丙/numeral 肾/noun 素/adverb 提/verb 快/adjective 心室/noun 率/suffix 也/adverb 是/verb 有效/adjective 的/particle TdP/noun 治疗/verb 措施/noun ，/punctuation-mark 但/conjunction 先天性/distinguishing-word 长/adjective QT/noun 者/suffix 应/verb 用/preposition 足/adjective 量/noun β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 应/verb 占有/verb 重要/adjective 位置/noun 。/punctuation-mark
+长QT间期多形性室速，首选补钾、补镁、利多卡因、苯妥因钠等，起搏治疗或异丙肾素提快心室率也是有效的TdP治疗措施，但先天性长QT者应用足量β受体阻滞剂应占有重要位置。
 长QT间期多形性室速，首选补钾、补镁、[[<MED>0]]、苯妥因钠等，起搏治疗或异丙肾素提快心室率也是有效的TdP治疗措施，但先天性长QT者应用足量β受体阻滞剂应占有重要位置。
 命名实体: 利多卡因
 ==================================================
-从/preposition 远期/distinguishing-word 预防/verb 来说/particle ，/punctuation-mark 除/preposition β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 外/noun-of-locality ，/punctuation-mark 其他/pronoun AAD/noun 都/adverb 不/adverb 主张/verb 用于/verb 室/noun 性/noun 心律/noun 失常/adjective 的/particle 一级/distinguishing-word 预防/verb ，/punctuation-mark 在/preposition 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 的/particle 二级/distinguishing-word 预防/verb 中/noun-of-locality ，/punctuation-mark 胺/noun 碘/noun 酮/punctuation-mark 和/preposition β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 用于/verb 高危/distinguishing-word 患者/noun 还/adverb 能/verb 得益/verb ，/punctuation-mark 但/conjunction 可靠/adjective 的/particle 二级/distinguishing-word 预防/verb 措施/noun 还/adverb 是/verb 置/verb 人/noun ICD/noun 。/punctuation-mark
+从远期预防来说，除β受体阻滞剂外，其他AAD都不主张用于室性心律失常的一级预防，在室速/室颤的二级预防中，胺碘酮和β受体阻滞剂用于高危患者还能得益，但可靠的二级预防措施还是置人ICD。
 从远期预防来说，除β受体阻滞剂外，其他AAD都不主张用于[[<DIS>0]]的一级预防，在室速/[[<SYM><DIS>1]]的二级预防中，[[<MED>2]]和β受体阻滞剂用于高危患者还能得益，但可靠的二级预防措施还是置人ICD。
 命名实体: 室性心律失常 室颤 胺碘酮
 ==================================================
-室/noun 速/noun //punctuation-mark 室/noun 颤/verb 最/adverb 有效/adjective 的/particle 终止/verb 措施/noun 是/verb 直流电/noun 复/adverb 律/verb ，/punctuation-mark 室/noun 速/adjective 者/suffix 低/adjective 能量/noun (/punctuation-mark 25/numeral ~/punctuation-mark 50J/noun )/punctuation-mark 放电/verb 就/adverb 能/verb 有效/adjective ，/punctuation-mark 室/noun 颤/verb 者/suffix 200/numeral 〜/punctuation-mark 360J/noun 放电/verb 才/adverb 能/verb 终止/verb ，/punctuation-mark 但/conjunction 电/noun 复/adverb 律/verb 应/verb 与/preposition 药物/noun 配合/verb 使用/verb ，/punctuation-mark 单/adverb 用/preposition 药物/noun 终止/verb 室/noun 速/adjective ，/punctuation-mark 可能/verb 使用/verb 药物/noun 量/noun 过/particle 大/adjective ，/punctuation-mark 产生/verb 促/verb 心律/noun 失常/adjective 反应/verb ，/punctuation-mark 单/adverb 用/preposition 药物/noun 终止/verb 室/noun 颤/verb ，/punctuation-mark 几乎/adverb 以/preposition 失败/verb 告终/verb ，/punctuation-mark 反之/conjunction 单/adverb 用/verb 电击/verb 复/adverb 律/verb 或/conjunction 除/preposition 颤/verb ，/punctuation-mark 复发/verb 率/verb 高/adjective 或/conjunction 不/adverb 易/adjective 转/verb 复/verb ，/punctuation-mark 因此/conjunction 二者/pronoun 应/verb 配合/verb 使用/verb ，/punctuation-mark 如/verb 应用/verb 胺/noun 碘/noun 酮/punctuation-mark 150mg/noun 2/numeral 次/classifier 或/conjunction 3/numeral 次/classifier ，/punctuation-mark 如/conjunction 不/adverb 能/verb 终止/verb 室/noun 速/adjective 者/suffix 应/verb 考虑/verb 加/verb 用/preposition 电/noun 复/adverb 律/verb ，/punctuation-mark 终止/verb 后/noun-of-locality 再/adverb 用/preposition 胺/noun 碘/noun 酮/punctuation-mark 静/adjective 滴/verb 维持/verb ，/punctuation-mark 除非/conjunction 无/verb 电/noun 复/adverb 律/verb 设备/noun ，/punctuation-mark 不得已/verb 而/conjunction 加大/verb 剂量/noun 使用/verb 胺/noun 碘/noun 酮/punctuation-mark 。/punctuation-mark
+室速/室颤最有效的终止措施是直流电复律，室速者低能量(25~50J)放电就能有效，室颤者200〜360J放电才能终止，但电复律应与药物配合使用，单用药物终止室速，可能使用药物量过大，产生促心律失常反应，单用药物终止室颤，几乎以失败告终，反之单用电击复律或除颤，复发率高或不易转复，因此二者应配合使用，如应用胺碘酮150mg 2次或3次，如不能终止室速者应考虑加用电复律，终止后再用胺碘酮静滴维持，除非无电复律设备，不得已而加大剂量使用胺碘酮。
 室速/[[<SYM><DIS>0]]最有效的终止措施是直流电复律，室速者低能量(25~50J)放电就能有效，[[<SYM><DIS>0]]者200〜360J放电才能终止，但电复律应与药物配合使用，单用药物终止室速，可能使用药物量过大，产生促[[<SYM><DIS>1]]反应，单用药物终止[[<SYM><DIS>0]]，几乎以失败告终，反之单用电击复律或除颤，复发率高或不易转复，因此二者应配合使用，如应用[[<MED>2]]150mg 2次或3次，如不能终止室速者应考虑加用电复律，终止后再用[[<MED>2]]静滴维持，除非无电复律设备，不得已而加大剂量使用[[<MED>2]]。
 命名实体: 室颤 心律失常 胺碘酮
 ==================================================
-置/verb 人/noun ICD/noun 者/suffix 也/adverb 常/adverb 配合/verb 远期/noun β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 或/conjunction 胺/noun 碘/noun 酮/punctuation-mark 治疗/verb ，/punctuation-mark 以/preposition 减少/verb 放电/verb 次数/noun 。/punctuation-mark
+置人ICD者也常配合远期β受体阻滞剂或胺碘酮治疗，以减少放电次数。
 置人ICD者也常配合远期β受体阻滞剂或[[<MED>0]]治疗，以减少放电次数。
 命名实体: 胺碘酮
 ==================================================
-五/numeral 、/punctuation-mark 室/noun 性/noun 心律/noun 失常/adjective 治疗/verb 评价/verb
+五、室性心律失常治疗评价
 五、[[<DIS>0]]治疗评价
 命名实体: 室性心律失常
 ==================================================
-快速/distinguishing-word 室/noun 性/noun 心律/noun 失常/adjective 是/verb 致命/verb 性/noun 的/particle 心律/noun 失常/adjective ，/punctuation-mark 而且/conjunction 是/verb 各种/pronoun 心脏病/noun 主要/distinguishing-word 的/particle 死亡/verb 形式/noun ，/punctuation-mark 因此/conjunction 它/pronoun 的/particle 正确/adjective 治疗/verb 至关重要/distinguishing-word ，/punctuation-mark 但/conjunction 至今/adverb 苦/adjective 无/verb 良策/noun ，/punctuation-mark 又/adverb 是/verb 心脏病/noun 治疗/verb 领域/noun 内/noun-of-locality 最/adverb 薄弱/adjective 的/particle 环节/noun 。/punctuation-mark
+快速室性心律失常是致命性的心律失常，而且是各种心脏病主要的死亡形式，因此它的正确治疗至关重要，但至今苦无良策，又是心脏病治疗领域内最薄弱的环节。
 快速[[<DIS>0]]是致命性的[[<SYM><DIS>1]]，而且是各种[[<DIS>2]]主要的死亡形式，因此它的正确治疗至关重要，但至今苦无良策，又是[[<DIS>2]]治疗领域内最薄弱的环节。
 命名实体: 室性心律失常 心律失常 心脏病
 ==================================================
-对/preposition 此/pronoun 治疗/verb 虽/conjunction 有/verb 药物/noun 、/punctuation-mark 消融/verb 、/punctuation-mark 手术/noun 、/punctuation-mark 体内/locative-word 、/punctuation-mark 体/noun 外/noun-of-locality 除/preposition 颤/verb 等/particle 方法/noun ，/punctuation-mark 但/conjunction 目前/time-word 仅/adverb 有/verb 药物/noun 和/conjunction 除/preposition 颤/verb (/punctuation-mark ICD/noun )/punctuation-mark 应用/verb 的/particle 评估/verb 。/punctuation-mark
+对此治疗虽有药物、消融、手术、体内、体外除颤等方法，但目前仅有药物和除颤(ICD)应用的评估。
 对此治疗虽有药物、消融、手术、体内、体外除颤等方法，但目前仅有药物和除颤(ICD)应用的评估。
 命名实体:
 ==================================================
-临床/verb 试验/verb 表明/verb ：/punctuation-mark (/punctuation-mark 1/numeral )/punctuation-mark I/noun 类/noun AAD/noun 不/adverb 能/verb 用于/verb 室/noun 性/noun 心律/noun 失常/adjective 的/particle 远期/distinguishing-word 防治/verb 。/punctuation-mark
+临床试验表明：(1)I类AAD不能用于室性心律失常的远期防治。
 临床试验表明：(1)I类AAD不能用于[[<DIS>0]]的远期防治。
 命名实体: 室性心律失常
 ==================================================
-(/punctuation-mark 2/numeral )/punctuation-mark II/noun 类/noun AAD/noun ，/punctuation-mark β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier ，/punctuation-mark 可/conjunction 用于/verb 远期/distinguishing-word 防治/verb ，/punctuation-mark 猝死/verb 有所/verb 降低/verb 。/punctuation-mark
+(2)II类AAD，β受体阻滞剂，可用于远期防治，猝死有所降低。
 (2)II类AAD，β受体阻滞剂，可用于远期防治，[[<SYM><DIS>0]]有所降低。
 命名实体: 猝死
 ==================================================
-(/punctuation-mark 3/numeral )/punctuation-mark III/noun 类/noun AAD/noun 仅/adverb 胺/noun 碘/noun 酮/punctuation-mark 提示/verb 可/verb 降低/verb 心律/noun 失常/adjective 死亡/verb ，/punctuation-mark 但/conjunction 对/preposition 总体/noun 死亡率/noun 影响/verb 不/adverb 大/adjective ，/punctuation-mark 只/adverb 用于/verb 二级/distinguishing-word 预防/verb ，/punctuation-mark 它/pronoun 在/preposition 防治/verb 猝死/verb 的/particle 远期/distinguishing-word 效果/noun 上/noun-of-locality 不/adverb 及/verb ICD/noun ，/punctuation-mark 不/adverb 能/verb 植/verb 人/noun ICD/noun 者/suffix ，/punctuation-mark 它/pronoun 可/verb 作/verb 代替/verb 治疗/verb 。/punctuation-mark
+(3)III类AAD仅胺碘酮提示可降低心律失常死亡，但对总体死亡率影响不大，只用于二级预防，它在防治猝死的远期效果上不及ICD，不能植人ICD者，它可作代替治疗。
 (3)III类AAD仅[[<MED>0]]提示可降低[[<SYM><DIS>1]]死亡，但对总体死亡率影响不大，只用于二级预防，它在防治[[<SYM><DIS>2]]的远期效果上不及ICD，不能植人ICD者，它可作代替治疗。
 命名实体: 胺碘酮 心律失常 猝死
 ==================================================
-六/numeral 、/punctuation-mark 总结/verb
+六、总结
 六、总结
 命名实体:
 ==================================================
-至今/adverb 室/noun 性/noun 心律/noun 失常/adjective 尚无/verb 有效/adjective 的/particle 防治/verb 措施/noun ，/punctuation-mark 也/adverb 无/verb 理想/adjective 的/particle 药物/noun 。/punctuation-mark
+至今室性心律失常尚无有效的防治措施，也无理想的药物。
 至今[[<DIS>0]]尚无有效的防治措施，也无理想的药物。
 命名实体: 室性心律失常
 ==================================================
-治疗/verb 上/noun-of-locality 首先/adverb 从/preposition 纠/verb 治病/verb 因/preposition 着手/verb ，/punctuation-mark 如/verb 病因/noun 不/adverb 能/verb 消除/verb ，/punctuation-mark 延缓/verb 心肌/noun 重构/verb 也/adverb 是/verb 室/noun 性/noun 心律/noun 失常/adjective 重要/adjective 的/particle 防治/verb 措施/noun ，/punctuation-mark 因此/conjunction 在/preposition 室/noun 性/noun 心律/noun 失常/adjective 治疗/verb 中/noun-of-locality 启用/verb 肾/noun 素/adjective -/punctuation-mark 血管/noun 紧张/adjective 素/adjective 系统/noun 抑制/verb 剂/classifier (/punctuation-mark ACEI/noun 、/punctuation-mark ARB/noun 、/punctuation-mark 醛/noun 固/verb 酮/punctuation-mark 措/verb 抗/verb 剂/classifier )/punctuation-mark ，/punctuation-mark 但/conjunction 其/pronoun 效果/noun 还/adverb 有待/verb 循/verb 证/noun 医学/noun 证明/verb 。/punctuation-mark
+治疗上首先从纠治病因着手，如病因不能消除，延缓心肌重构也是室性心律失常重要的防治措施，因此在室性心律失常治疗中启用肾素-血管紧张素系统抑制剂(ACEI、ARB、醛固酮措抗剂)，但其效果还有待循证医学证明。
 治疗上首先从纠治病因着手，如病因不能消除，延缓心肌重构也是[[<DIS>0]]重要的防治措施，因此在[[<DIS>0]]治疗中启用肾素-血管[[<SYM>1]]素系统抑制剂(ACEI、ARB、醛固酮措抗剂)，但其效果还有待循证医学证明。
 命名实体: 室性心律失常 紧张
 ==================================================
-室/noun 速/noun //punctuation-mark 室/noun 颤/verb 发病/verb 中/noun-of-locality 高/adjective 交/verb 感/verb 活性/noun 起/verb 了/particle 重要/adjective 作用/noun ，/punctuation-mark 因此/conjunction 在/preposition 防治/verb 中/noun-of-locality β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier 为/preposition 常规/noun 用药/noun 。/punctuation-mark
+室速/室颤发病中高交感活性起了重要作用，因此在防治中β受体阻滞剂为常规用药。
 室速/[[<SYM><DIS>0]]发病中高交感活性起了重要作用，因此在防治中β受体阻滞剂为常规用药。
 命名实体: 室颤
 ==================================================
-至于/preposition AAD/noun ，/punctuation-mark 目前/time-word 有/verb 循/verb 证/noun 依据/noun 有利于/verb 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 防治/verb ，/punctuation-mark 仅/adverb 为/verb 胺/noun 碘/noun 酮/punctuation-mark 。/punctuation-mark
+至于AAD，目前有循证依据有利于室速/室颤防治，仅为胺碘酮。
 至于AAD，目前有循证依据有利于室速/[[<SYM><DIS>0]]防治，仅为[[<MED>1]]。
 命名实体: 室颤 胺碘酮
 ==================================================
-也许/adverb ICD/noun 加/verb 用/verb β/punctuation-mark 受体/noun 阻滞/verb 剂/classifier ，/punctuation-mark 必要/adjective 时/noun 配合/verb 胺/noun 碘/noun 酮/punctuation-mark ，/punctuation-mark 是/verb 目前/time-word 室/noun 速/noun //punctuation-mark 室/noun 颤/verb 、/punctuation-mark 猝死/verb 防治/verb 的/particle 最佳/status-word 治疗/verb 措施/noun 。/punctuation-mark
+也许ICD加用β受体阻滞剂，必要时配合胺碘酮，是目前室速/室颤、猝死防治的最佳治疗措施。
 也许ICD加用β受体阻滞剂，必要时配合[[<MED>0]]，是目前室速/[[<SYM><DIS>1]]、[[<SYM><DIS>2]]防治的最佳治疗措施。
 命名实体: 胺碘酮 室颤 猝死
 ==================================================
-消融/verb 治疗/verb 可/verb 治愈/verb 部分/numeral 室/noun 性/noun 心律/noun 失常/adjective ，/punctuation-mark 但/conjunction 需/verb 严格/adjective 选择/verb 病例/noun ，/punctuation-mark 消融/verb 技术/noun 也/adverb 有待/verb 改进/verb 。/punctuation-mark
+消融治疗可治愈部分室性心律失常，但需严格选择病例，消融技术也有待改进。
 消融治疗可治愈部分[[<DIS>0]]，但需严格选择病例，消融技术也有待改进。
 命名实体: 室性心律失常

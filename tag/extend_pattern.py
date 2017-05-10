@@ -21,9 +21,9 @@ id_count = 0
 word_count = 0
 stat_count = 0
 
-def orginal_pattern(pat_name):
+def orginal_rela_pat(pat_name):
     global rep_dict
-    fp = file(os.path.join('./pattern', pat_name), 'rb')
+    fp = file(os.path.join('./manual_pattern/', pat_name), 'rb')
     fp_out = file(os.path.join('./extend_pattern', pat_name), 'wb')
     for pat_line in fp:
         pat_line = (pat_line.strip()).decode('UTF-8')
@@ -38,16 +38,15 @@ def orginal_pattern(pat_name):
     fp_out.close()
     fp.close()
 
-def restore_pattern(pat_name):
+def restore_rela_pat(pat_name):
     global rep_dict
-    fp = file(os.path.join('./extend_pattern', pat_name), 'rb')
-    fp_out = file(os.path.join('./extend_pattern', pat_name+'_restore'), 'wb')
+    fp = file(os.path.join('./manual_pattern', pat_name), 'rb')
+    fp_out = file(os.path.join('./extend_pattern', pat_name+'_ex'), 'wb')
     for pat_line in fp:
         pat_line = (pat_line.strip()).decode('UTF-8')
         pat_line = pat_line.split()
         pat = pat_line[0]
         for k,v in rep_dict.iteritems():
-            print k, v
             pat = pat.replace(v, k) #there is the point different
         fp_out.write(pat.encode('UTF-8'))
         for i in range(1, len(pat_line)):
@@ -221,7 +220,7 @@ def tycl_replace(pat_name):
     global tycl_rep
     global stop_pos
     pynlpir.open()
-    fp = file(os.path.join('./extend_pattern', pat_name), 'rb')
+    fp = file(os.path.join('./manual_pattern', pat_name), 'rb')
     fp_out = file(os.path.join('./extend_pattern', pat_name+'_tycl'), 'wb')
     for pat_line in fp:
         fp_out.write('='*50+'\n')
@@ -354,8 +353,8 @@ if __name__ == "__main__":
     n_stat_path = u'./tongyicilin/n_stat.txt'
     load_tongyicilin_new(cilin_opath, cilin_path, n_stat_path)
     pat_name = u'实体之间关系规则.pat'
-    ###orginal_pattern(pat_name)
+    ###orginal_rela_pat(pat_name)
     tycl_replace(pat_name)
-    #restore_pattern(pat_name)
+    restore_rela_pat(pat_name)
     end = time.clock()
     print "Time to run: %f" % (end-start)

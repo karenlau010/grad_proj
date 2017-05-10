@@ -98,7 +98,8 @@ def comb_drive():
     #comb_dicts(base_path, [u'飞华健康网_心血管内科疾病.txt', u'a-hospital.com_心血管内科疾病_part1.txt', u'a-hospital.com_心血管内科疾病_part2.txt', u'a-hospital.com_心血管内科疾病_part3.txt', u'jbk.99.com.cn_心血管内科疾病大全.txt', u'cndzys.com_心血管内科相关疾病.txt', u'西医病名.scel.txt_UTF-8', u'ICD-10疾病编码1.scel.txt_UTF-8'], u'./dictionary/疾病.dic')
     comb_dicts(base_path, [u'飞华健康网_心血管内科疾病.txt', u'a-hospital.com_心血管内科疾病_part1.txt', u'a-hospital.com_心血管内科疾病_part2.txt', u'a-hospital.com_心血管内科疾病_part3.txt', u'jbk.99.com.cn_心血管内科疾病大全.txt', u'cndzys.com_心血管内科相关疾病.txt', u'疾病_manual_long.txt', u'疾病_manual_short.txt'], u'./dictionary/疾病.dic')
     #comb_dicts(base_path, [u'baidu百科_心脏介入手术.txt', u'a-hospital.com_胸心外科手术.txt', u'a-hospital.com_血管外科手术.txt', u'a-hospital.com_临床常用诊断技术.txt'], u'./dictionary/心血管相关手术.dic')
-    file_list = [u'疾病.dic', u'症状.dic', u'药物.dic', u'手术检查.dic']
+    comb_dicts(base_path, [u'中文停用词库.txt', u'四川大学机器智能实验室停用词库.txt', u'哈工大停用词表.txt', u'百度停用词列表.txt'], u'./dictionary/停用表.dic')
+    file_list = [u'疾病.dic', u'症状.dic', u'药物.dic', u'手术检查.dic', u'停用表.dic']
     cp2tag(file_list)
 
 if __name__ == "__main__":

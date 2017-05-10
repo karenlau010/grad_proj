@@ -14,6 +14,39 @@ MAX_WIN = 5
 dict_list = []
 dict_counter = 0
 
+rep_dict = {u"\[\[<MED>\d+\]\]":u"<MED>", u"\[\[.{0,5}<DIS>.{0,5}\d+\]\]":u"<DIS>", \
+                u"\[\[.{0,5}<SYM>.{0,5}\d+\]\]":u"<SYM>", u"\[\[<TRE>\d+\]\]":u"<TRE>"}
+
+def orginal_ner_pat(pat_name):
+    global rep_dict
+    fp = file(os.path.join('./manual_pattern/', pat_name), 'rb')
+    fp_out = file(os.path.join('./extend_pattern', pat_name), 'wb')
+    for pat_line in fp:
+        pat_line = (pat_line.strip()).decode('UTF-8')
+        for k,v in rep_dict.iteritems():
+            pat_line = pat_line.replace(k, v)
+        fp_out.write(pat_line.encode('UTF-8')+'\n')
+    fp_out.close()
+    fp.close()
+
+def restore_ner_pat(pat_name):
+    global rep_dict
+    fp = file(os.path.join('./manual_pattern', pat_name), 'rb')
+    fp_out = file(os.path.join('./extend_pattern', pat_name+'_ex'), 'wb')
+    for pat_line in fp:
+        pat_line = (pat_line.strip()).decode('UTF-8')
+        pat_line = pat_line.split()
+        for k,v in rep_dict.iteritems():
+            for p_i in range(len(pat_line)):
+                if p_i != 1:
+                    pat_line[p_i] = pat_line[p_i].replace(v, k) #there is the point different
+        fp_out.write(pat_line[0].encode('UTF-8'))
+        for i in range(1, len(pat_line)):
+            fp_out.write(' '+pat_line[i].encode('UTF-8'))
+        fp_out.write('\n')
+    fp.close()
+    fp_out.close()
+
 def map_dict(path, all_dicts, targ_name):
     global dict_list
     global dict_counter
@@ -166,7 +199,8 @@ def ner_drive():
                 else:
                     seg_line[s_i][1] = seg_line[s_i][1].replace(' ', '-')
             seg_line = ' '.join('/'.join(y) for y in seg_line)
-            fp_out.write(seg_line.encode('UTF-8')+'\n')
+            #fp_out.write(seg_line.encode('UTF-8')+'\n')
+            fp_out.write(line.encode('UTF-8')+'\n')
             while i < len(line):
                 target = line[i]
                 bin_ret = binarysearch(low, high, index, target, loc)
@@ -228,7 +262,7 @@ def ner_drive():
     return 
 
 def ne_pattern():
-    fp = file(u'./pattern/命名实体规则.pat', 'rb')
+    fp = file(u'./extend_pattern/命名实体规则.pat_ex', 'rb')
     pat_list = []
     for line in fp:
         line = (line.strip()).decode('UTF-8')
@@ -281,8 +315,7 @@ def ner_rule():
                         print ' '.join(y.encode(encode_type) for y in ret_list)
                         if sub_str == u':':
                             for ret in ret_list:
-                                #print pat_str.encode('UTF-8')
-                                old_ne_pat = re.findall(ur'\[\[.{0,5}<[A-Z]{3}>.{0,5}\d+\]\]', ret)
+                                old_ne_pat = re.findall(ur'\[\[.{0,5}<[A-Z]{3}>\d+\]\]', ret)
                                 old_ne_pat = list(set(old_ne_pat)) #remove the duplication
                                 if len(old_ne_pat) > 0:
                                     ne_new = ret
@@ -299,11 +332,11 @@ def ner_rule():
                                     ne_no_list = list(ne_no_list)
                                     ne_no_list.sort(reverse=True) #Attention point
                                     for no in ne_no_list:
-                                        if len(re.findall('\[\[.{0,5}<[A-Z]{3}>.{0,5}'+str(no)+'\]\]', string)) == 0:
+                                        if len(re.findall('\[\[.{0,5}<[A-Z]{3}>'+str(no)+'\]\]', string)) == 0:
                                             del ne_list[no]
                                             ne_count -= 1
                                             for i in range(no, ne_count):
-                                                big_no = re.findall('\[\[.{0,5}<[A-Z]{3}>.{0,5}'+str(i+1)+'\]\]', string)
+                                                big_no = re.findall('\[\[.{0,5}<[A-Z]{3}>'+str(i+1)+'\]\]', string)
                                                 big_no = list(set(big_no))
                                                 assert len(big_no) == 1
                                                 big_no = big_no[0]
@@ -312,12 +345,10 @@ def ner_rule():
                                     new_mid_str = '[['+ne_type+str(ne_count)+']]'
                                     string = string.replace(old_mid_str, new_mid_str)
                                     ne_list.append(ne_new)
-                                    print '>>> ' + ne_new.encode(encode_type)
                                     ne_count += 1
                                 else:
                                     string = string.replace(ret, '[['+ne_type+str(ne_count)+']]')
                                     ne_list.append(ret)
-                                    print '>>> ' + ret.encode(encode_type)
                                     ne_count += 1
                         elif sub_str == u'x':
                             for ret in ret_list:
@@ -327,8 +358,63 @@ def ner_rule():
                                 if new_ne not in ne_list:
                                     string = string.replace(new_ne, '[['+ne_type+str(ne_count)+']]')
                                     ne_list.append(new_ne)
-                                    print '>>>' + new_ne.encode(encode_type)
                                     ne_count += 1
+                        elif sub_str == u'=':
+                            assert ne_type == u'<xxx>'
+                            for ret in ret_list:
+                                old_ne_pat = re.findall(ur'\[\[.{0,5}<[A-Z]{3}>\d+\]\]', ret)
+                                old_ne_pat = list(set(old_ne_pat)) #remove the duplication
+                                assert len(old_ne_pat) > 0
+                                ne_new = ret
+                                ne_no_list = set()
+                                for pat in old_ne_pat:
+                                    ne_type_no = re.findall(ur'\d+', pat)
+                                    assert len(ne_type_no) == 1
+                                    ne_type_no = int(ne_type_no[0])
+                                    ne_no_list.add(ne_type_no)
+                                    ne_old = ne_list[ne_type_no]
+                                    ne_new = ne_new.replace(pat, ne_list[ne_type_no])
+                                if ne_new == pat_list[pat_i][3]: #disambiguation
+                                    string = string.replace(ret, ne_new)
+                                    ne_no_list = list(ne_no_list)
+                                    ne_no_list.sort(reverse=True) #Attention point
+                                    for no in ne_no_list:
+                                        if len(re.findall('\[\[.{0,5}<[A-Z]{3}>'+str(no)+'\]\]', string)) == 0:
+                                            del ne_list[no]
+                                            ne_count -= 1
+                                            for i in range(no, ne_count):
+                                                big_no = re.findall('\[\[.{0,5}<[A-Z]{3}>'+str(i+1)+'\]\]', string)
+                                                big_no = list(set(big_no))
+                                                assert len(big_no) == 1
+                                                big_no = big_no[0]
+                                                small_no = big_no.replace(str(i+1), str(i))
+                                                string = string.replace(big_no, small_no)
+                        elif sub_str == u'?':
+                            assert ne_type == u'<xxx>'
+                            for ret in ret_list:
+                                old_ne_pat = re.findall(ur'\[\[.{0,5}<[A-Z]{3}>\d+\]\]', ret)
+                                assert len(old_ne_pat) == 1
+                                ne_new = ret
+                                pat = old_ne_pat[0]
+                                ne_type_no = re.findall(ur'\d+', pat)
+                                assert len(ne_type_no) == 1
+                                no = int(ne_type_no[0])
+                                ne_old = ne_list[no]
+                                ne_new = ne_new.replace(pat, ne_old)
+                                if len(re.findall(pat_list[pat_i][3], ne_old)) > 0: #disambiguation
+                                    string = string.replace(ret, ne_new)
+                                    if len(re.findall('\[\[.{0,5}<[A-Z]{3}>'+str(no)+'\]\]', string)) == 0:
+                                        del ne_list[no]
+                                        ne_count -= 1
+                                        for i in range(no, ne_count):
+                                            big_no = re.findall('\[\[.{0,5}<[A-Z]{3}>'+str(i+1)+'\]\]', string)
+                                            big_no = list(set(big_no))
+                                            assert len(big_no) == 1
+                                            big_no = big_no[0]
+                                            small_no = big_no.replace(str(i+1), str(i))
+                                            string = string.replace(big_no, small_no)
+                        else:
+                            assert False
                 fp_out.write(part_lines[0]+'\n')
                 fp_out.write(part_lines[1]+'\n')
                 fp_out.write(string.encode('UTF-8')+'\n')
@@ -342,8 +428,11 @@ if __name__ == '__main__':
     targ_name = u'汇总词典.dic'
     all_dicts = {u'药物':'MED', u'疾病':'DIS', u'症状':'SYM', u'手术检查':'TRE'}
     map_dict('./dictionary', all_dicts, targ_name)
+    pat_name = u'命名实体规则.pat'
+    ###orginal_ner_pat(pat_name)
+    restore_ner_pat(pat_name)
     ner_drive()
-    #cws_drive()
+    ###cws_drive()
     ner_rule()
     end = time.clock()
     print 'used time: %f' % (end-start)

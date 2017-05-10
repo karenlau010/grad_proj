@@ -12,7 +12,7 @@ import time
 encode_type = sys.getfilesystemencoding() #UTF-8 in my machine
 
 def relat_pattern():
-    fp = file(u'./pattern/实体之间关系规则.pat', 'rb')
+    fp = file(u'./extend_pattern/实体之间关系规则.pat_ex', 'rb')
     pat_list = []
     for line in fp:
         line = (line.strip()).decode('UTF-8')
@@ -24,13 +24,16 @@ def relat_pattern():
 def relat_rule():
     texts_list = os.listdir('./after_tag')
     pat_list = relat_pattern()
-    fp_nn = file('eval_ret.txt', 'wb')
+    fp_sample = file('./after_tag/seed_context.xxx', 'wb')
     for text in texts_list:
         print '>>>>>>>>>>>>>>>>>',
         print text
         if len(re.findall(ur'.*_ner$', text)) > 0:
             pass
+        elif text == 'seed.xxx' or len(re.findall(ur'.*_rrule$', text)) > 0:
+            continue
         else:
+            ###os.remove(os.path.join('./after_tag', text))
             continue
         fp = file(os.path.join('./after_tag', text), 'rb')
         fp_out = file(os.path.join('./after_tag', text+'_rrule'), 'wb')
@@ -48,11 +51,6 @@ def relat_rule():
                 fp_out.write(part_lines[3]+'\n')
                 ne_list = ((part_lines[3].decode('UTF-8')).split())[1:]
                 string = part_lines[2].decode('UTF-8')
-                for nn in ne_list:
-                    fp_nn.write(part_lines[0]+'\n')
-                    fp_nn.write(string.encode('UTF-8')+'\n')
-                    fp_nn.write(part_lines[3]+'\n')
-                    fp_nn.write('>>> '+nn.encode('UTF-8')+'\n')
                 relat_list = set()
                 for pat_i in range(len(pat_list)):
                     pat_str = pat_list[pat_i][0]
@@ -82,10 +80,17 @@ def relat_rule():
                                 relat_list.add('<'+str(left_ne)+','+relat_type+','+str(right_ne)+'>')
                         print (u'实体关系: ').encode(encode_type)+' '.join(y.encode('UTF-8') for y in relat_list)
                 fp_out.write('实体关系: '+' '.join(y.encode('UTF-8') for y in relat_list)+'\n')
+                if len(relat_list) > 0:
+                    fp_sample.write(part_lines[0]+'\n')
+                    fp_sample.write(part_lines[1]+'\n')
+                    fp_sample.write(part_lines[2]+'\n')
+                    fp_sample.write(part_lines[3]+'\n')
+                    fp_sample.write('实体关系: '+' '.join(y.encode('UTF-8') for y in relat_list)+'\n')
                 part_lines = []
         fp.close()
         fp_out.close()
-    fp_nn.close()
+        ###os.remove(os.path.join('./after_tag', text))
+    fp_sample.close()
 
 if __name__ == "__main__":
     relat_rule()

@@ -58,7 +58,7 @@ def pretreat_drive(texts_list):
     return 
 
 def copy_to_cws(texts_list):
-    sep_punc = [u'。'] #the separate punctuation
+    sep_punc = [u'。', u'?', u'？', u'!', u'！'] #the separate punctuation
     tran_punc = {u'（':'(', u'）':')', u'０':'0', u'１':'1', u'２':'2', u'３':'3', u'４':'4', u'５':'5', u'６':'6', u'７':'7', u'８':'8', u'９':'9', ',':u'，', u'％':'%', ':':u'：', u'～':'~', u'－':'-'}
     for text in texts_list:
         fp = file(os.path.join('./after_pretreat', text), 'rb')
