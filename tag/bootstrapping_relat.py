@@ -174,6 +174,7 @@ def comb_ne_cws(seg_line, ne_pos_list):
                 new_part.append(ne_type)
                 new_part.append(ne_pos_list[npl_i][:2])
                 seg_line.insert(low_i, new_part)
+                sl_i -= (high_i - low_i) #Attention: don't forget this point
                 sl_i += 1
                 npl_i += 1
                 if npl_i < len(ne_pos_list):
@@ -182,6 +183,7 @@ def comb_ne_cws(seg_line, ne_pos_list):
                 if sl_i < len(seg_line):
                     cur_low = seg_line[sl_i][2][0]
                     cur_high = seg_line[sl_i][2][1]
+                print ne_low, ne_high, cur_low, cur_high
                 ###DONE...
                 low_i = -1
                 high_i = -1
