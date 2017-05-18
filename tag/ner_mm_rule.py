@@ -272,11 +272,12 @@ def ne_pattern():
     return pat_list
 
 def ner_rule():
+    print 'ner-rule ing...'
     texts_list = os.listdir('./after_tag')
     pat_list = ne_pattern()
     for text in texts_list:
-        print '>>>>>>>>>>>>>>>>>',
-        print text
+        ###print '>>>>>>>>>>>>>>>>>',
+        ###print text
         if len(re.findall(ur'.*_mm$', text)) > 0:
             pass
         else:
@@ -312,7 +313,7 @@ def ner_rule():
                         ret_list = ret_list[::-1] 
                         ne_count = len(ne_list)
                     if len(ret_list) > 0:
-                        print ' '.join(y.encode(encode_type) for y in ret_list)
+                        ###print ' '.join(y.encode(encode_type) for y in ret_list)
                         if sub_str == u':':
                             for ret in ret_list:
                                 old_ne_pat = re.findall(ur'\[\[.{0,5}<[A-Z]{3}>\d+\]\]', ret)
