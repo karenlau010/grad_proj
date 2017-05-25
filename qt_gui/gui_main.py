@@ -13,9 +13,10 @@ import tab_widget
 encode_type = sys.getfilesystemencoding() #UTF-8 in my machine
 
 class SearchUI(QtGui.QMainWindow, tab_widget.Ui_MainWindow):
-    def __init__(self):
-        QtGui.QMainWindow.__init__(self)
-        tab_widget.Ui_MainWindow.__init__(self)
+    def __init__(self, parent=None):
+        ###QtGui.QMainWindow.__init__(self)
+        ###tab_widget.Ui_MainWindow.__init__(self)
+        super(SearchUI, self).__init__(parent)
         self.setupUi(self)
 
 if __name__ == "__main__":
