@@ -1,46 +1,46 @@
-<MED> 主要/adverb 用于/verb <DIS> MED-DIS|+ 0-1
-<MED> 主要/adverb 用于/verb <DIS> MED-DIS|+ 0-1
-<MED> * 用于/verb <DIS> MED-DIS|+ 0-1
-<MED> * 用于/verb * 程度/noun * <DIS> MED-DIS|+ 0-1
-<DIS> * <DIS> 患者/noun 禁用/verb <MED> MED-DIS|- 2-1
-<DIS> * <SYM><DIS> 患者/noun 禁用/verb <MED> MED-DIS|- 2-0
-<SYM><DIS> * <DIS> 时/noun 禁用/verb <MED> MED-DIS|- 2-1
-<DIS> * <DIS> 时/noun 禁用/verb <MED> MED-DIS|- 2-0
-<MED> 主要/adverb 用于/verb <DIS> MED-DIS|+ 0-1
-国外/locative-word 研究/verb * 提示/verb <MED> * <MED> * 减少/verb <DIS> * 危险/adjective MED-DIS|+ 0-2
-国外/locative-word 研究/verb * 提示/verb <MED> * <MED> * 减少/verb <DIS> * 危险/adjective MED-DIS|+ 1-2
-<MED> * <DIS> 病人/noun 无益/verb MED-DIS|- 0-1
-* 给予/verb <MED> 防止/verb <DIS> MED-DIS|+ 0-1
-* <DIS> 早期/noun-of-locality * 应/verb 接受/verb <MED> 治疗/verb MED-DIS|+ 1-0
-* 过去/time-word * 30/numeral 年/classifier 内利多卡因/noun * 用于/verb 终止/verb 室/noun 速/noun * <DIS> * 主要/distinguishing-word 药物/noun MED-DIS|+ 0-1
-* III/noun 类/noun AAD/noun 仅/adverb <MED> 提示/verb * 降低/verb <DIS> 死亡/verb MED-DIS|+ 0-1
-* 残/adjective 佘/noun 分流/verb * 周边/noun 结构/noun 包括/verb 左/adjective 房室/noun * 右/noun-of-locality 房室/noun * <SYM> 静脉/noun 窦/noun * 不良/adjective 影响/verb * <TRE> 监测/verb * <DIS> TRE-DIS 1-2
-* <DIS> * 应该/verb 长期/adverb 服用/verb <MED> MED-DIS|+ 1-0
-* 给予/verb <MED> 防止/verb <DIS> 加重/verb 病情/noun MED-DIS|+ 0-1
-<SYM> * 容易/adjective * <TRE> 作出/verb 诊断/verb TRE-SYM 1-0
-<SYM> * 见于/verb <DIS> * <DIS> * <SYM><DIS> * <SYM><DIS> * <DIS> * <DIS> * <DIS> * <SYM><DIS> DIS-SYM 1-0
-4./numeral * 病例/noun 需要/verb 做/verb <TRE> * <TRE> * 确定/verb * <DIS> * 试验/verb * 有助于/verb 评定/verb <DIS> * DIS/noun * 起始/verb 时/noun 自主/verb 神经/noun 系统/noun * 作用/noun TRE-DIS 0-2
-4./numeral * 病例/noun 需要/verb 做/verb <TRE> * <TRE> * 确定/verb * <DIS> * 试验/verb * 有助于/verb 评定/verb <DIS> * DIS/noun * 起始/verb 时/noun 自主/verb 神经/noun 系统/noun * 作用/noun TRE-DIS 1-2
-<SYM> * <DIS> * 早/adjective * 表现/verb DIS-SYM 1-0
-Cox/noun 倡导/verb * <TRE> 能够/verb 成功/adjective * 治疗/verb <DIS> TRE-DIS 0-1
-<SYM> * 引起/verb <DIS> * 迷/verb 走/verb 性/noun 活动/verb 引起/verb * <DIS> * DIS/noun * DIS-SYM 1-0
-<MED> * <MED> * 增加/verb <DIS> 发作/verb MED-DIS|+ 0-2
-<MED> * <MED> * 增加/verb <DIS> 发作/verb MED-DIS|+ 1-2
-* <DIS> 高危/distinguishing-word * 患者/noun * 需/verb 华法/noun 林抗凝/noun 治疗/verb MED-DIS|+ 1-0
-<MED> * 控制/verb <DIS> 时/noun 心室/noun 率/suffix * 药物/noun MED-DIS|+ 0-1
-<MED> 仅/adverb * <DIS> 患者/noun * 线/classifier 治疗/verb MED-DIS|+ 0-1
-<MED> * <DIS> 时/noun 控制/verb 心室/noun 率/suffix * 一线/noun 药物/noun MED-DIS|+ 0-1
-* <DIS> 患者/noun * 华法/noun 林抗凝/noun 治疗/verb * 脑血管/noun 栓塞/noun * 一级/distinguishing-word 预防/verb MED-DIS|+ 1-0
-<MED> * 抗/verb <MED> * <DIS> 患者/noun <DIS> * 一级/distinguishing-word 预防/verb * 有效/adjective MED-DIS|+ 0-1
-<MED> * 抗/verb <MED> * <DIS> 患者/noun <DIS> * 一级/distinguishing-word 预防/verb * 有效/adjective MED-DIS|+ 0-2
-* 具有/verb <DIS> 高危/distinguishing-word * 患者/noun * 需要/verb * <MED> 作/verb 长期/adverb 抗/verb 凝/verb 治疗/verb MED-DIS|+ 1-0
-随机/adverb 对照/verb * 试验/verb * 表明/verb * 华法/noun 林抗凝/noun 治疗/verb 显著/adjective 降低/verb <DIS> * 发生率/noun MED-DIS|+ 0-1
-推荐/verb <MED> * <DIS> 抗/verb 凝/verb * 药物/noun MED-DIS|+ 0-1
-* 方法/noun * <DIS> 住院/verb 患者/noun 做/verb <TRE> * transesophageal/noun * echocardiogram/noun TRE-DIS 1-0
-近年/time-word 不断/adverb 增多/verb * <MED> * 用于/verb <DIS> 转/verb 复/adverb * 窦性/noun 心律/noun * 自行/adverb 转/verb 复/adverb * 药物/noun * 电击/verb 转/verb 复/adverb * 患者/noun 长期/adverb 维持/verb 窦性/noun 心律/noun MED-DIS|+ 0-1
-* <MED> 有助于/verb 防止/verb <DIS> 发作/verb MED-DIS|+ 0-1
-* 资料/noun 提示/verb 加/verb * <MED> * 减少/verb <DIS> * 发生率/noun * 进一步/adverb 减慢/verb 心室/noun 率/verb MED-DIS|+ 0-1
-* <MED> * 降低/verb <DIS> * 发生率/noun MED-DIS|+ 0-1
-采用/verb <MED> 预防/verb <DIS> 复发/verb 过程/noun 中/noun-of-locality MED-DIS|+ 0-1
-* 缺血/verb * <SYM> * 引起/verb <DIS> * <SYM><DIS> * <SYM><DIS> * DIS-SYM 1-0
-* 缺血/verb * <SYM> * 引起/verb <DIS> * <SYM><DIS> * 房室/noun * <SYM><DIS> DIS-SYM 1-0
+<MED>|主要/adverb|用于/verb|<DIS> MED-DIS|+ 0-1
+<MED>|主要/adverb|用于/verb|<DIS> MED-DIS|+ 0-1
+<MED>|*|用于/verb|<DIS> MED-DIS|+ 0-1
+<MED>|*|用于/verb|*|程度/noun|*|<DIS> MED-DIS|+ 0-1
+<DIS>|*|<DIS>|患者/noun|禁用/verb|<MED> MED-DIS|- 2-1
+<DIS>|*|<SYM><DIS>|患者/noun|禁用/verb|<MED> MED-DIS|- 2-0
+<SYM><DIS>|*|<DIS>|时/noun|禁用/verb|<MED> MED-DIS|- 2-1
+<DIS>|*|<DIS>|时/noun|禁用/verb|<MED> MED-DIS|- 2-0
+<MED>|主要/adverb|用于/verb|<DIS> MED-DIS|+ 0-1
+国外/locative-word|研究/verb|*|提示/verb|<MED>|*|<MED>|*|减少/verb|<DIS>|*|危险/adjective MED-DIS|+ 0-2
+国外/locative-word|研究/verb|*|提示/verb|<MED>|*|<MED>|*|减少/verb|<DIS>|*|危险/adjective MED-DIS|+ 1-2
+<MED>|*|<DIS>|病人/noun|无益/verb MED-DIS|- 0-1
+*|给予/verb|<MED>|防止/verb|<DIS> MED-DIS|+ 0-1
+*|<DIS>|早期/noun-of-locality|*|应/verb|接受/verb|<MED>|治疗/verb MED-DIS|+ 1-0
+*|过去/time-word|*|30/numeral|年/classifier|内利多卡因/noun|*|用于/verb|终止/verb|室/noun|速/noun|*|<DIS>|*|主要/distinguishing-word|药物/noun MED-DIS|+ 0-1
+*|III/noun|类/noun|AAD/noun|仅/adverb|<MED>|提示/verb|*|降低/verb|<DIS>|死亡/verb MED-DIS|+ 0-1
+*|残/adjective|佘/noun|分流/verb|*|周边/noun|结构/noun|包括/verb|左/adjective|房室/noun|*|右/noun-of-locality|房室/noun|*|<SYM>|静脉/noun|窦/noun|*|不良/adjective|影响/verb|*|<TRE>|监测/verb|*|<DIS> TRE-DIS 1-2
+*|<DIS>|*|应该/verb|长期/adverb|服用/verb|<MED> MED-DIS|+ 1-0
+*|给予/verb|<MED>|防止/verb|<DIS>|加重/verb|病情/noun MED-DIS|+ 0-1
+<SYM>|*|容易/adjective|*|<TRE>|作出/verb|诊断/verb TRE-SYM 1-0
+<SYM>|*|见于/verb|<DIS>|*|<DIS>|*|<SYM><DIS>|*|<SYM><DIS>|*|<DIS>|*|<DIS>|*|<DIS>|*|<SYM><DIS> DIS-SYM 1-0
+4./numeral|*|病例/noun|需要/verb|做/verb|<TRE>|*|<TRE>|*|确定/verb|*|<DIS>|*|试验/verb|*|有助于/verb|评定/verb|<DIS>|*|DIS/noun|*|起始/verb|时/noun|自主/verb|神经/noun|系统/noun|*|作用/noun TRE-DIS 0-2
+4./numeral|*|病例/noun|需要/verb|做/verb|<TRE>|*|<TRE>|*|确定/verb|*|<DIS>|*|试验/verb|*|有助于/verb|评定/verb|<DIS>|*|DIS/noun|*|起始/verb|时/noun|自主/verb|神经/noun|系统/noun|*|作用/noun TRE-DIS 1-2
+<SYM>|*|<DIS>|*|早/adjective|*|表现/verb DIS-SYM 1-0
+Cox/noun|倡导/verb|*|<TRE>|能够/verb|成功/adjective|*|治疗/verb|<DIS> TRE-DIS 0-1
+<SYM>|*|引起/verb|<DIS>|*|迷/verb|走/verb|性/noun|活动/verb|引起/verb|*|<DIS>|*|DIS/noun|* DIS-SYM 1-0
+<MED>|*|<MED>|*|增加/verb|<DIS>|发作/verb MED-DIS|+ 0-2
+<MED>|*|<MED>|*|增加/verb|<DIS>|发作/verb MED-DIS|+ 1-2
+*|<DIS>|高危/distinguishing-word|*|患者/noun|*|需/verb|华法/noun|林抗凝/noun|治疗/verb MED-DIS|+ 1-0
+<MED>|*|控制/verb|<DIS>|时/noun|心室/noun|率/suffix|*|药物/noun MED-DIS|+ 0-1
+<MED>|仅/adverb|*|<DIS>|患者/noun|*|线/classifier|治疗/verb MED-DIS|+ 0-1
+<MED>|*|<DIS>|时/noun|控制/verb|心室/noun|率/suffix|*|一线/noun|药物/noun MED-DIS|+ 0-1
+*|<DIS>|患者/noun|*|华法/noun|林抗凝/noun|治疗/verb|*|脑血管/noun|栓塞/noun|*|一级/distinguishing-word|预防/verb MED-DIS|+ 1-0
+<MED>|*|抗/verb|<MED>|*|<DIS>|患者/noun|<DIS>|*|一级/distinguishing-word|预防/verb|*|有效/adjective MED-DIS|+ 0-1
+<MED>|*|抗/verb|<MED>|*|<DIS>|患者/noun|<DIS>|*|一级/distinguishing-word|预防/verb|*|有效/adjective MED-DIS|+ 0-2
+*|具有/verb|<DIS>|高危/distinguishing-word|*|患者/noun|*|需要/verb|*|<MED>|作/verb|长期/adverb|抗/verb|凝/verb|治疗/verb MED-DIS|+ 1-0
+随机/adverb|对照/verb|*|试验/verb|*|表明/verb|*|华法/noun|林抗凝/noun|治疗/verb|显著/adjective|降低/verb|<DIS>|*|发生率/noun MED-DIS|+ 0-1
+推荐/verb|<MED>|*|<DIS>|抗/verb|凝/verb|*|药物/noun MED-DIS|+ 0-1
+*|方法/noun|*|<DIS>|住院/verb|患者/noun|做/verb|<TRE>|*|transesophageal/noun|*|echocardiogram/noun TRE-DIS 1-0
+近年/time-word|不断/adverb|增多/verb|*|<MED>|*|用于/verb|<DIS>|转/verb|复/adverb|*|窦性/noun|心律/noun|*|自行/adverb|转/verb|复/adverb|*|药物/noun|*|电击/verb|转/verb|复/adverb|*|患者/noun|长期/adverb|维持/verb|窦性/noun|心律/noun MED-DIS|+ 0-1
+*|<MED>|有助于/verb|防止/verb|<DIS>|发作/verb MED-DIS|+ 0-1
+*|资料/noun|提示/verb|加/verb|*|<MED>|*|减少/verb|<DIS>|*|发生率/noun|*|进一步/adverb|减慢/verb|心室/noun|率/verb MED-DIS|+ 0-1
+*|<MED>|*|降低/verb|<DIS>|*|发生率/noun MED-DIS|+ 0-1
+采用/verb|<MED>|预防/verb|<DIS>|复发/verb|过程/noun|中/noun-of-locality MED-DIS|+ 0-1
+*|缺血/verb|*|<SYM>|*|引起/verb|<DIS>|*|<SYM><DIS>|*|<SYM><DIS>|* DIS-SYM 1-0
+*|缺血/verb|*|<SYM>|*|引起/verb|<DIS>|*|<SYM><DIS>|*|房室/noun|*|<SYM><DIS> DIS-SYM 1-0

@@ -29,8 +29,8 @@ def relat_rule():
     texts_list = os.listdir('./after_tag')
     pat_list = relat_pattern()
     fp_sample = file('./after_tag/seed_context.xxx', 'wb')
-    fp_L = file('./after_tag/L.xxx', 'wb')
-    fp_U = file('./after_tag/U.xxx', 'wb')
+    fp_L = file('./after_tag/L_init.xxx', 'wb')
+    fp_U = file('./after_tag/U_init.xxx', 'wb')
     for text in texts_list:
         ###print '>>>>>>>>>>>>>>>>>',
         ###print text
@@ -194,6 +194,8 @@ def deal_cws(in_str):
     return seg_line
 
 def cal_ne_pos(in_str, ne_list):
+    tmp = []
+    tmp.append(in_str)
     cur_pos = 0
     is_i = 0
     no_str = ''
@@ -237,6 +239,8 @@ def cal_ne_pos(in_str, ne_list):
 def comb_ne_cws(seg_line, ne_pos_list):
     sl_i = 0
     npl_i = 0
+    if len(ne_pos_list) == 0:
+        return seg_line
     ne_low = ne_pos_list[0][0]
     ne_high = ne_pos_list[0][1]
     cur_low = seg_line[0][2][0]
@@ -420,13 +424,15 @@ def gen_rule(seg_line):
             if pre_pos == 'STOP':
                 pass
             else:
-                rule_ret += ' *'
+                rule_ret += '|'+'*'
         else:
             if pos[0] != '<' and pos[-1] != '>':
-                rule_ret += (' '+word+'/'+pos)
+                rule_ret += ('|'+word+'/'+pos)
             else:
-                rule_ret += (' '+pos)
+                rule_ret += ('|'+pos)
         pre_pos = pos
+    if rule_ret[0] == '|':
+        rule_ret = rule_ret[1:]
     return rule_ret
 
 def short_sent(raw_string, tag_string, relat_list, ne_list):
@@ -575,7 +581,7 @@ def generalize():
                 ###fp_out.write('\n')
                 fp_out.write((u'生成规则:').encode('UTF-8')+rule_ret.encode('UTF-8')+' '+pair_type.encode('UTF-8')+\
                             ' '+pair_str.encode('UTF-8')+'\n')
-                fp_r.write(rule_ret[1:].encode('UTF-8')+' '+pair_type.encode('UTF-8')+\
+                fp_r.write(rule_ret.encode('UTF-8')+' '+pair_type.encode('UTF-8')+\
                             ' '+pair_str.encode('UTF-8')+'\n')
             ###DONE...
             part_lines = []

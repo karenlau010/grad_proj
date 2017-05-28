@@ -181,6 +181,8 @@ def ner_drive():
         fp_out = file(os.path.join('./after_tag', text+'_mm'), 'wb')
         for line in fp:
             line = (line.strip()).decode('UTF-8')
+            if line[0] == u'\ufeff': #Attention point
+                line = line[1:]
             low = 0
             high = dict_counter - 1
             index = 0

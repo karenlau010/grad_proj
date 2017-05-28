@@ -32,6 +32,7 @@ class MyHighlighter(QtGui.QSyntaxHighlighter):
         self.matched_format = QtGui.QTextCharFormat()
         brush = QtGui.QBrush(QtCore.Qt.yellow, QtCore.Qt.SolidPattern)
         self.matched_format.setBackground(brush)
+        self.ret_count = 0
     '''
     def highlightBlock(self, text):
         index = 0
@@ -58,15 +59,23 @@ class MyHighlighter(QtGui.QSyntaxHighlighter):
                             length = len(part)
                             self.setFormat(index, length, self.matched_format)
                             is_change = True
+                            self.ret_count += 1
                 else:
                     index = text.indexOf(item, index + length)
                     if index != -1:
                         is_change = True
+                        self.ret_count += 1
                     length = len(item)
                     self.setFormat(index, length, self.matched_format)
     
     def setHighlightData(self, highlight_data):
         self.highlight_data = highlight_data
+    
+    def init_ret_count(self):
+        self.ret_count = 0
+    
+    def return_count(self):
+        return self.ret_count
 
 
 class Ui_MainWindow(object):
@@ -186,7 +195,10 @@ class Ui_MainWindow(object):
         highlight_data = []
         highlight_data.append(self.search_sent)
         self.highlighter.setHighlightData(highlight_data)
+        self.highlighter.init_ret_count()
         self.highlighter.rehighlight()
+        ret_count = self.highlighter.return_count()
+        print 'result_count: %d' % ret_count
         ###DONE...
     
     def check_tips(self):
