@@ -74,20 +74,24 @@ def extend2re(re_rule):
     re_rule = re.sub("@\d+-\d+", '@\\d+-\\d+', re_rule, count=0, flags=0)
     return re_rule
 
+def raw2re_rule_part(raw_rule):
+    raw_rule = raw_rule.split()
+    re_rule = raw_rule[0]
+    re_lest = ' '.join(raw_rule[1:])
+    re_rule = raw2re_extend_part(re_rule)
+    re_rule = extend2re(re_rule)
+    com_rule = re_rule+' '+re_lest
+    return com_rule
+
 def raw2re():
     global cur_rule_set
     global raw_rule_set
     global rep_dict
     fp_re = file('./after_tag/re_generalize.xxx', 'wb')
     for raw_rule in raw_rule_set:
-        raw_rule = raw_rule.split()
-        re_rule = raw_rule[0]
-        re_lest = ' '.join(raw_rule[1:])
-        re_rule = raw2re_extend_part(re_rule)
-        re_rule = extend2re(re_rule)
-        com_rule = re_rule+' '+re_lest
+        com_rule = raw2re_rule_part(raw_rule)
         if  com_rule not in cur_rule_set:
-            fp_re.write('>>> '+(' '.join(raw_rule)).encode('UTF-8')+'\n')
+            #fp_re.write('>>> '+raw_rule.encode('UTF-8')+'\n')
             fp_re.write(com_rule.encode('UTF-8')+'\n')
         cur_rule_set.add(com_rule)
     fp_re.close()
@@ -170,7 +174,82 @@ def L2U_init():
     fp_L.close()
     fp_U.close()
 
+def fetch_tag_flags(in_str, ne_list, low, high):
+    no_str = ''
+    cur_pos = 0
+    is_i = 0
+    new_low = -1
+    new_high = -1
+    while is_i < len(in_str):
+        if cur_pos == low:
+            new_low = is_i
+        if cur_pos == high:
+            new_high = is_i
+        char = in_str[is_i]
+        if char == '[':
+            if is_i < (len(in_str) - 1):
+                is_i += 1
+                char = in_str[is_i]
+                if char == '[':
+                    is_i += 1
+                    char = in_str[is_i]
+                    while not (char >= u'0' and char <= u'9'):
+                        is_i += 1
+                        char = in_str[is_i]
+                    while char != ']':
+                        no_str += char
+                        is_i += 1
+                        char = in_str[is_i]
+                    is_i += 1
+                    char = in_str[is_i]
+                    assert char == ']'
+                    cur_pos += len(ne_list[int(no_str)])
+                    cur_pos -= 1
+                    no_str = ''
+                else:
+                    is_i -= 1
+        is_i += 1
+        cur_pos += 1
+    return (new_low, new_high)
+
+def gen_new_rule(raw_string, tag_string, ne_list, match_pattern, low, high):
+    pat_list = match_pattern.split()
+    pat_type = pat_list[1]
+    left_type = pat_type[0:3]
+    right_type = pat_type[4:7]
+    tag_low, tag_high = fetch_tag_flags(tag_string, ne_list, low, high)
+    assert tag_low != -1 and tag_high != -1
+    short_tag_string = tag_string[tag_low:tag_high]
+    ne_flags = re.findall(ur'\[\[.{0,5}<[A-Z]{3}>.{0,5}\d+\]\]', short_tag_string)
+    assert len(ne_flags) >= 2
+    left_list = set()
+    right_list = set()
+    for nf_i in ne_flags:
+        if len(re.findall(left_type, nf_i)) > 0:
+            left_list.add((re.findall('\d+', nf_i))[0])
+        elif len(re.findall(right_type, nf_i)) > 0:
+            right_list.add((re.findall('\d+', nf_i))[0])
+    relat_list = []
+    for l_i in left_list:
+        for r_i in right_list:
+            new_relat = '<'+l_i+','+pat_type+','+r_i+'>'
+            relat_list.append(new_relat)
+    return (relat_list, tag_low, tag_high)
+
+def add_raw_rule_file(raw_rule):
+    fp_rule_raw = file('./after_tag/rule_generalize.xxx', 'ab')
+    fp_rule_raw.write(raw_rule.encode('UTF-8')+'\n')
+    fp_rule_raw.close()
+
+def write_cur_rule():
+    global cur_rule_set
+    fp_re = file('./after_tag/re_generalize.xxx', 'wb')
+    for com_rule in cur_rule_set:
+        fp_re.write(com_rule.encode('UTF-8')+'\n')
+    fp_re.close()
+
 def single_iterate():
+    global cur_rule_set
     cop_file('./after_tag/U.xxx', './after_tag/U.xxx_tmp')
     fp_U_in = file('./after_tag/U.xxx_tmp', 'rb')
     fp_U_out = file('./after_tag/U.xxx', 'wb')
@@ -185,22 +264,53 @@ def single_iterate():
         if count == 4:
             count = 0
             ###TODO...
-            raw_string = part_lines[1].decode('UTF-8')
-            ner_string = part_lines[2].decode('UTF-8')
+            raw_string_long = part_lines[1].decode('UTF-8')
+            tag_string_long = part_lines[2].decode('UTF-8')
             ne_list = ((part_lines[3].decode('UTF-8')).split())[1:]
-            pre_ret = pre_sent(raw_string, ner_string, ne_list)
-            match_short_list = match_rule(pre_ret, raw_string)
+            pre_ret = pre_sent(raw_string_long, tag_string_long, ne_list)
+            match_short_list = match_rule(pre_ret, raw_string_long)
             if len(match_short_list) > 0:
                 fp_U_prime.write(part_lines[0]+'\n')
                 fp_U_prime.write(part_lines[1]+'\n')
                 fp_U_prime.write(part_lines[2]+'\n')
                 fp_U_prime.write(part_lines[3]+'\n')
                 fp_U_prime.write((u'匹配的短句：').encode('UTF-8')+'\n')
+                relat_list = []
                 for short_i in match_short_list:
                     short_low, short_high = short_i[0]
                     match_pattern = short_i[1]
+                    relat_list_part, tag_low, tag_high = gen_new_rule(raw_string_long, tag_string_long, ne_list, match_pattern, short_low, short_high)
+                    relat_list.extend(relat_list_part)
                     fp_U_prime.write(match_pattern.encode('UTF-8')+'\n')
-                    fp_U_prime.write(raw_string[short_low:short_high].encode('UTF-8')+'\n')
+                    fp_U_prime.write(raw_string_long[short_low:short_high].encode('UTF-8')+'\n')
+                    fp_U_prime.write(tag_string_long[tag_low:tag_high].encode('UTF-8')+'\n')
+                    fp_U_prime.write((u'实体关系:').encode('UTF-8'))
+                relat_list = list(set(relat_list))
+                for relat_i in relat_list:
+                    fp_U_prime.write(' '+relat_i.encode('UTF-8'))
+                fp_U_prime.write('\n')
+                seg_line_long = deal_cws(raw_string_long)
+                ne_pos_list_long = cal_ne_pos(tag_string_long, ne_list)
+                seg_line_long = comb_ne_cws(seg_line_long, ne_pos_list_long)
+                ###SOMETHING...
+                short_ret_list = short_sent(raw_string_long, tag_string_long, relat_list, ne_list)
+                for short_ret in short_ret_list:
+                    raw_string = short_ret[0]
+                    tag_string = short_ret[1]
+                    pair_type = short_ret[2]
+                    pair_index = short_ret[3]
+                    pair_str = str(pair_index[0])+'-'+str(pair_index[1])
+                    seg_line = deal_cws(raw_string)
+                    ne_pos_list = cal_ne_pos(tag_string, ne_list)
+                    seg_line = comb_ne_cws(seg_line, ne_pos_list)
+                    seg_line = rm_stop_w(seg_line)
+                    seg_line = pos_cont_w(seg_line)
+                    rule_ret = gen_rule(seg_line)
+                    #############
+                    raw_rule = rule_ret+' '+pair_type+' '+pair_str
+                    add_raw_rule_file(raw_rule)
+                    com_rule = raw2re_rule_part(raw_rule)
+                    cur_rule_set.add(com_rule)
             else:
                 fp_U_out.write(part_lines[0]+'\n')
                 fp_U_out.write(part_lines[1]+'\n')
@@ -212,6 +322,7 @@ def single_iterate():
             fp_pre.write(pre_ret.encode('UTF-8')+'\n')
             ###DONE...
             part_lines = []
+    write_cur_rule()
     fp_U_in.close()
     os.remove('./after_tag/U.xxx_tmp')
     fp_U_out.close()
@@ -222,12 +333,17 @@ def single_iterate():
 def drive_iterate():
     global match_count
     ### L2U_init() #just for test
-    cop_file('./after_tag/L_init.xxx', './after_tag/L.xxx')
-    cop_file('./after_tag/U_init.xxx', './after_tag/U.xxx')
-    iterate_times = 1 #terminate by the iterate_times
-    for iterate_i in range(iterate_times):
+    max_times = 7 #terminate by the iterate_times
+    iterate_times = 0
+    pre_match_count = 0
+    match_diff = 1 #any number except 0
+    while iterate_times < max_times and match_diff != 0:
+        iterate_times += 1
+        print '%dth iterate...' % iterate_times
         single_iterate()
-    print 'match_count: %d' % match_count
+        match_diff = match_count - pre_match_count
+        print 'match_count: %d' % match_diff
+        pre_match_count = match_count
 
 if __name__ == "__main__":
     start = time.clock()

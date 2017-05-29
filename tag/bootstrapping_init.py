@@ -5,6 +5,7 @@ import sys
 import re
 import os
 import time
+from bootstrapping_iterate import *
 
 #decode: str ==> unicode
 #encode: unicode ==> str
@@ -604,6 +605,8 @@ if __name__ == "__main__":
     fetch_context()
     read_stop_table(u'./dictionary/停用表.dic')
     generalize()
+    cop_file('./after_tag/L_init.xxx', './after_tag/L.xxx')
+    cop_file('./after_tag/U_init.xxx', './after_tag/U.xxx')
     pynlpir.close()
     end = time.clock()
     print 'Time to run: %f' % (end-start)
