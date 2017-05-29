@@ -11,8 +11,9 @@ from bootstrapping_init import *
 #encode: unicode ==> str
 encode_type = sys.getfilesystemencoding() #UTF-8 in my machine
 
-rep_dict = {u"\[\[<MED>\d+\]\]":u"<MED>", u"\[\[.{0,5}<DIS>.{0,5}\d+\]\]":u"<DIS>", \
-                u"\[\[.{0,5}<SYM>.{0,5}\d+\]\]":u"<SYM>", u"\[\[<TRE>\d+\]\]":u"<TRE>"}
+###should't use the dict(disorder)
+rep_dict = [(u"(?:[SYM]<DIS>|<DIS>[SYM]|<DIS>)",u"<DIS>"), (u"(?:<SYM><DIS>|<DIS><SYM>|<SYM>)",u"<SYM>"), (u"<SYM>",u"[SYM]")]
+###...
 
 cur_rule_set = set()
 raw_rule_set = set()
@@ -27,8 +28,29 @@ def init_rule():
     fp_rule_raw.close()
     raw2re()
 
+def gen_sent(seg_line):
+    rule_ret = ""
+    pre_pos = ''
+    for seg_i in range(len(seg_line)):
+        word = seg_line[seg_i][0]
+        pos = seg_line[seg_i][1]
+        region = seg_line[seg_i][2]
+        if pos == 'punctuation-mark' or pos == 'noun' or pos == 'verb': #Maybe add something
+            rule_ret += ('#'+word+'/'+word+'@'+str(region[0])+'-'+str(region[1]))
+        else:
+            if pos[0] != '<' and pos[-1] != '>':
+                rule_ret += ('#'+word+'/'+pos+'@'+str(region[0])+'-'+str(region[1]))
+            else:
+                rule_ret += ('#'+pos+'@'+str(region[0])+'-'+str(region[1]))
+        pre_pos = pos
+        pre_region = region[:]
+    if rule_ret[0] == '#':
+        rule_ret = rule_ret[1:]
+    return rule_ret
+
 def raw2re_extend_part(re_rule):
-    re_rule = re_rule.split('|')
+    ### re_rule = re.sub("@\d+-\d+", '', re_rule, count=0, flags=0) #This is a switch
+    re_rule = re_rule.split('#')
     assert re_rule[0] != u''
     for re_i in range(len(re_rule)):
         re_rule[re_i] = re.sub("^.*/", '', re_rule[re_i], count=1, flags=0) #only retain the tagging
@@ -36,17 +58,20 @@ def raw2re_extend_part(re_rule):
     return re_rule
 
 def extend2re(re_rule):
+    global rep_dict
     re_rule = re_rule.split()
-    if re_rule[0] == '*' or re_rule[0] == u'*': #remove the head
+    if re_rule[0][0] == '*' or re_rule[0][0] == u'*': #remove the head
         re_rule = re_rule[1:]
-    if re_rule[-1] == '*' or re_rule[-1] == u'*': #remove the tail
+    if re_rule[-1][0] == '*' or re_rule[-1][0] == u'*': #remove the tail
         re_rule = re_rule[:-1]
-    re_rule = '|'.join(re_rule)
-    ###for k,v in rep_dict.iteritems(): #Don't need to trans
-    ###    re_rule = re_rule.replace(v, k)
-    re_rule = re_rule.replace('*', '.*')
-    re_rule = re_rule.replace('|.*', '.*')
-    re_rule = re_rule.replace('.*|', '.*')
+    re_rule = '#'.join(re_rule)
+    for k,v in rep_dict:
+        re_rule = re_rule.replace(v, k)
+    re_rule = re.sub("\*@\d+-\d+", '*', re_rule, count=0, flags=0)
+    re_rule = re_rule.replace('*', u'[^，：。;]*')
+    re_rule = re_rule.replace(u'#[^，：。;]*', u'[^，：。;]*')
+    re_rule = re_rule.replace(u'[^，：。;]*#', u'[^，：。;]*')
+    re_rule = re.sub("@\d+-\d+", '@\\d+-\\d+', re_rule, count=0, flags=0)
     return re_rule
 
 def raw2re():
@@ -58,11 +83,13 @@ def raw2re():
         raw_rule = raw_rule.split()
         re_rule = raw_rule[0]
         re_lest = ' '.join(raw_rule[1:])
-        fp_re.write('>>> '+re_rule.encode('UTF-8')+' '+re_lest.encode('UTF-8')+'\n')
         re_rule = raw2re_extend_part(re_rule)
         re_rule = extend2re(re_rule)
-        fp_re.write(re_rule.encode('UTF-8')+' '+re_lest.encode('UTF-8')+'\n')
-        cur_rule_set.add(re_rule+' '+re_lest)
+        com_rule = re_rule+' '+re_lest
+        if  com_rule not in cur_rule_set:
+            fp_re.write('>>> '+(' '.join(raw_rule)).encode('UTF-8')+'\n')
+            fp_re.write(com_rule.encode('UTF-8')+'\n')
+        cur_rule_set.add(com_rule)
     fp_re.close()
 
 def cop_file(in_path, out_path):
@@ -87,24 +114,61 @@ def pre_sent(raw_string, tag_string, ne_list):
     seg_line = comb_ne_cws(seg_line, ne_pos_list)
     #seg_line = rm_stop_w(seg_line) #there should't remove the stop words
     seg_line = pos_cont_w(seg_line) #the function should be completed
-    ret_sent = gen_rule(seg_line)
+    ret_sent = gen_sent(seg_line)
     ret_sent = raw2re_extend_part(ret_sent)
     return ret_sent
 
-def match_rule(pre_sent):
+def find_region(flag_sent, raw_string):
+    sent_parts = flag_sent.split()
+    part_head = sent_parts[0]
+    part_tail = sent_parts[-1]
+    head_num = re.findall(r'\d+', part_head)
+    tail_num = re.findall(r'\d+', part_tail)
+    assert len(head_num) == 2 and len(tail_num) == 2
+    head_num = int(head_num[0])
+    tail_num = int(tail_num[1])
+    # print raw_string.encode(encode_type)
+    # print flag_sent
+    # print raw_string[head_num:tail_num].encode(encode_type)
+    # print head_num, tail_num
+    return (head_num, tail_num)
+
+def match_rule(pre_sent, raw_string):
     global cur_rule_set
     global match_count
+    ret_list = []
     for rule_i in cur_rule_set:
-        rule_i = rule_i.split()
-        rule_part = rule_i[0]
-        rule_type = rule_i[1]
-        rule_flag = rule_i[2:]
-        rule_part = rule_part.replace('|', ' ')
+        rule_l = rule_i.split()
+        rule_part = rule_l[0]
+        rule_part = rule_part.replace('#', ' ')
         find_ret = re.findall(rule_part, pre_sent)
         if len(find_ret) > 0:
-            match_count += 1
-            return True
-    return False
+            for find_i in find_ret:
+                new_ret = []
+                new_ret.append(find_region(find_i, raw_string)) #the elements of the list is tuple type
+                new_ret.append(rule_i)
+                ret_list.append(new_ret)
+                match_count += 1
+    return ret_list
+
+def L2U_init():
+    fp_L = file('./after_tag/L_init.xxx', 'rb')
+    fp_U = file('./after_tag/U_init.xxx', 'wb')
+    part_no = 5
+    count = 0
+    part_lines = []
+    for line in fp_L:
+        part_lines.append(line.strip())
+        count += 1
+        if count == 5:
+            count = 0
+            fp_U.write(part_lines[0]+'\n')
+            fp_U.write(part_lines[1]+'\n')
+            fp_U.write(part_lines[2]+'\n')
+            fp_U.write(part_lines[3]+'\n')
+            part_lines = []
+    fp_L.close()
+    fp_U.close()
 
 def single_iterate():
     cop_file('./after_tag/U.xxx', './after_tag/U.xxx_tmp')
@@ -125,10 +189,18 @@ def single_iterate():
             ner_string = part_lines[2].decode('UTF-8')
             ne_list = ((part_lines[3].decode('UTF-8')).split())[1:]
             pre_ret = pre_sent(raw_string, ner_string, ne_list)
-            if match_rule(pre_ret) == True:
+            match_short_list = match_rule(pre_ret, raw_string)
+            if len(match_short_list) > 0:
                 fp_U_prime.write(part_lines[0]+'\n')
                 fp_U_prime.write(part_lines[1]+'\n')
                 fp_U_prime.write(part_lines[2]+'\n')
+                fp_U_prime.write(part_lines[3]+'\n')
+                fp_U_prime.write((u'匹配的短句：').encode('UTF-8')+'\n')
+                for short_i in match_short_list:
+                    short_low, short_high = short_i[0]
+                    match_pattern = short_i[1]
+                    fp_U_prime.write(match_pattern.encode('UTF-8')+'\n')
+                    fp_U_prime.write(raw_string[short_low:short_high].encode('UTF-8')+'\n')
             else:
                 fp_U_out.write(part_lines[0]+'\n')
                 fp_U_out.write(part_lines[1]+'\n')
@@ -149,6 +221,7 @@ def single_iterate():
 
 def drive_iterate():
     global match_count
+    ### L2U_init() #just for test
     cop_file('./after_tag/L_init.xxx', './after_tag/L.xxx')
     cop_file('./after_tag/U_init.xxx', './after_tag/U.xxx')
     iterate_times = 1 #terminate by the iterate_times

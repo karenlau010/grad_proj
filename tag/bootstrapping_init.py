@@ -420,18 +420,23 @@ def gen_rule(seg_line):
     for seg_i in range(len(seg_line)):
         word = seg_line[seg_i][0]
         pos = seg_line[seg_i][1]
+        region = seg_line[seg_i][2]
         if pos == 'STOP':
             if pre_pos == 'STOP':
+                region[-1] = pre_region[0]
                 pass
             else:
-                rule_ret += '|'+'*'
+                rule_ret += '#'+'*'+'@'+str(region[0])+'-'+str(region[1])
+        elif pos == 'noun' or pos == 'verb': #Maybe add something
+            rule_ret += ('#'+word+'/'+word+'@'+str(region[0])+'-'+str(region[1]))
         else:
             if pos[0] != '<' and pos[-1] != '>':
-                rule_ret += ('|'+word+'/'+pos)
+                rule_ret += ('#'+word+'/'+pos+'@'+str(region[0])+'-'+str(region[1]))
             else:
-                rule_ret += ('|'+pos)
+                rule_ret += ('#'+pos+'@'+str(region[0])+'-'+str(region[1]))
         pre_pos = pos
-    if rule_ret[0] == '|':
+        pre_region = region[:]
+    if rule_ret[0] == '#':
         rule_ret = rule_ret[1:]
     return rule_ret
 
@@ -448,14 +453,15 @@ def short_sent(raw_string, tag_string, relat_list, ne_list):
         right_ne_no = int(no_pare[1])
         left_ne = ne_list[left_ne_no]
         right_ne = ne_list[right_ne_no]
-        short_tag = re.findall(ur'[^，：。;]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[0]+ur'\]\]'+\
-                    ur'[^，：。;]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[1]+'\]\]'+ur'[^，：。;]*',\
+        ###There should be paid attention to, how to short the sentence
+        short_tag = re.findall(ur'[^，：。;\]]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[0]+ur'\]\]'+\
+                    ur'[^，：。;]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[1]+'\]\]'+ur'[^，：。;\[]*',\
                     tag_string
         )
         mid_flag = len(short_tag)
         short_tag.extend(
-                    re.findall(ur'[^，：。;]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[1]+ur'\]\]'+\
-                    ur'[^，：。;]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[0]+'\]\]'+ur'[^，：。;]*',\
+                    re.findall(ur'[^，：。;\]]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[1]+ur'\]\]'+\
+                    ur'[^，：。;]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[0]+'\]\]'+ur'[^，：。;\[]*',\
                     tag_string)
         )
         left_type = '<' + relat_type[:3] + '>'
