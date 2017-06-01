@@ -15,6 +15,8 @@ ne_pare_list = []
 stop_table =[]
 stop_pos = ("punctuation-mark")
 cont_word_pos = {"verb", "noun"}
+#seg_sym = u'，：。;'
+seg_sym = u'。;'
 
 def relat_pattern():
     fp = file(u'./extend_pattern/实体之间关系规则.pat_ex', 'rb')
@@ -237,6 +239,44 @@ def cal_ne_pos(in_str, ne_list):
         cur_pos += 1
     return ne_pos_list
 
+def fetch_tag_flags(in_str, ne_list, low, high):
+    no_str = ''
+    cur_pos = 0
+    is_i = 0
+    new_low = -1
+    new_high = -1
+    while is_i < len(in_str):
+        if cur_pos == low:
+            new_low = is_i
+        if cur_pos == high:
+            new_high = is_i
+        char = in_str[is_i]
+        if char == '[':
+            if is_i < (len(in_str) - 1):
+                is_i += 1
+                char = in_str[is_i]
+                if char == '[':
+                    is_i += 1
+                    char = in_str[is_i]
+                    while not (char >= u'0' and char <= u'9'):
+                        is_i += 1
+                        char = in_str[is_i]
+                    while char != ']':
+                        no_str += char
+                        is_i += 1
+                        char = in_str[is_i]
+                    is_i += 1
+                    char = in_str[is_i]
+                    assert char == ']'
+                    cur_pos += len(ne_list[int(no_str)])
+                    cur_pos -= 1
+                    no_str = ''
+                else:
+                    is_i -= 1
+        is_i += 1
+        cur_pos += 1
+    return (new_low, new_high)
+
 def comb_ne_cws(seg_line, ne_pos_list):
     sl_i = 0
     npl_i = 0
@@ -455,14 +495,14 @@ def short_sent(raw_string, tag_string, relat_list, ne_list):
         left_ne = ne_list[left_ne_no]
         right_ne = ne_list[right_ne_no]
         ###There should be paid attention to, how to short the sentence
-        short_tag = re.findall(ur'[^，：。;\]]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[0]+ur'\]\]'+\
-                    ur'[^，：。;]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[1]+'\]\]'+ur'[^，：。;\[]*',\
+        short_tag = re.findall(ur'[^'+seg_sym+'\]]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[0]+ur'\]\]'+\
+                    ur'[^'+seg_sym+']*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[1]+'\]\]'+ur'[^'+seg_sym+'\[]*',\
                     tag_string
         )
         mid_flag = len(short_tag)
         short_tag.extend(
-                    re.findall(ur'[^，：。;\]]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[1]+ur'\]\]'+\
-                    ur'[^，：。;]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[0]+'\]\]'+ur'[^，：。;\[]*',\
+                    re.findall(ur'[^'+seg_sym+'\]]*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[1]+ur'\]\]'+\
+                    ur'[^'+seg_sym+']*'+ur'\[\[.{0,5}<[A-Z]{3}>'+no_pare[0]+'\]\]'+ur'[^'+seg_sym+'\[]*',\
                     tag_string)
         )
         left_type = '<' + relat_type[:3] + '>'

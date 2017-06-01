@@ -6,6 +6,7 @@ import re
 import os
 import time
 from bootstrapping_init import *
+import extend_pattern
 
 #decode: str ==> unicode
 #encode: unicode ==> str
@@ -59,6 +60,7 @@ def raw2re_extend_part(re_rule):
 
 def extend2re(re_rule):
     global rep_dict
+    global seg_sym
     re_rule = re_rule.split()
     if re_rule[0][0] == '*' or re_rule[0][0] == u'*': #remove the head
         re_rule = re_rule[1:]
@@ -68,9 +70,9 @@ def extend2re(re_rule):
     for k,v in rep_dict:
         re_rule = re_rule.replace(v, k)
     re_rule = re.sub("\*@\d+-\d+", '*', re_rule, count=0, flags=0)
-    re_rule = re_rule.replace('*', u'[^，：。;]*')
-    re_rule = re_rule.replace(u'#[^，：。;]*', u'[^，：。;]*')
-    re_rule = re_rule.replace(u'[^，：。;]*#', u'[^，：。;]*')
+    re_rule = re_rule.replace('*', u'[^'+seg_sym+']*')
+    re_rule = re_rule.replace(u'#[^'+seg_sym+']*', u'[^'+seg_sym+']*')
+    re_rule = re_rule.replace(u'[^'+seg_sym+']*#', u'[^'+seg_sym+']*')
     re_rule = re.sub("@\d+-\d+", '@\\d+-\\d+', re_rule, count=0, flags=0)
     return re_rule
 
@@ -174,44 +176,6 @@ def L2U_init():
     fp_L.close()
     fp_U.close()
 
-def fetch_tag_flags(in_str, ne_list, low, high):
-    no_str = ''
-    cur_pos = 0
-    is_i = 0
-    new_low = -1
-    new_high = -1
-    while is_i < len(in_str):
-        if cur_pos == low:
-            new_low = is_i
-        if cur_pos == high:
-            new_high = is_i
-        char = in_str[is_i]
-        if char == '[':
-            if is_i < (len(in_str) - 1):
-                is_i += 1
-                char = in_str[is_i]
-                if char == '[':
-                    is_i += 1
-                    char = in_str[is_i]
-                    while not (char >= u'0' and char <= u'9'):
-                        is_i += 1
-                        char = in_str[is_i]
-                    while char != ']':
-                        no_str += char
-                        is_i += 1
-                        char = in_str[is_i]
-                    is_i += 1
-                    char = in_str[is_i]
-                    assert char == ']'
-                    cur_pos += len(ne_list[int(no_str)])
-                    cur_pos -= 1
-                    no_str = ''
-                else:
-                    is_i -= 1
-        is_i += 1
-        cur_pos += 1
-    return (new_low, new_high)
-
 def gen_new_rule(raw_string, tag_string, ne_list, match_pattern, low, high):
     pat_list = match_pattern.split()
     pat_type = pat_list[1]
@@ -269,6 +233,7 @@ def single_iterate():
             ne_list = ((part_lines[3].decode('UTF-8')).split())[1:]
             pre_ret = pre_sent(raw_string_long, tag_string_long, ne_list)
             match_short_list = match_rule(pre_ret, raw_string_long)
+            #print raw_string_long.encode(encode_type)
             if len(match_short_list) > 0:
                 fp_U_prime.write(part_lines[0]+'\n')
                 fp_U_prime.write(part_lines[1]+'\n')
