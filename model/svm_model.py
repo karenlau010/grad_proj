@@ -21,11 +21,16 @@ def train_default():
 
 def train_drive(train_file, predict_file):
     global category_set
+    global label_alphabet
     for category_i in category_set:
         y_tr, x_tr = svm_read_problem(train_file[:-4]+'_'+category_i+'.xxx')
         m = svm_train(y_tr, x_tr)
         y_ts, x_ts = svm_read_problem(predict_file[:-4]+'_'+category_i+'.xxx')
         p_label, p_acc, p_val = svm_predict(y_ts, x_ts, m)
+        fp_ret = file(predict_file[:-4]+'_ret_'+category_i+'.xxx', 'wb')
+        for label_i in p_label:
+            fp_ret.write('%d %s\n' % (int(label_i), label_alphabet[category_i][2][int(label_i)]))
+        fp_ret.close()
 
 def get_all_pair(o_train_file, train_file):
     global category_set
@@ -127,22 +132,48 @@ def gen_vect_str(relat_type, seg_line_long, left_index, right_index, left_type, 
     if relat_type != None:
         assert pre_relat_type != None
         if not pre_relat_type in label_alphabet.keys():
-            label_alphabet[pre_relat_type] = [0, dict()]
+            label_alphabet[pre_relat_type] = [0, dict(), dict()]
         if relat_type in label_alphabet[pre_relat_type][1].keys():
             vect_str += str(label_alphabet[pre_relat_type][1][relat_type])+' '
         else:
             new_index = label_alphabet[pre_relat_type][0] + 1
             label_alphabet[pre_relat_type][0] = new_index
             label_alphabet[pre_relat_type][1][relat_type] = new_index
+            label_alphabet[pre_relat_type][2][new_index] = relat_type
             vect_str += str(new_index)+' '
     else:
         vect_str += '1 ' #Arbitrary
     ###TODO...
-    new_feature = ["NE1=%s" % seg_line_long[left_index][0],
-                   "T1=%s" % left_type,
+    new_feature = [#"T1=%s" % left_type,
+                   #"T2=%s" % right_type,
+                   "NE1=%s" % seg_line_long[left_index][0],
                    "NE2=%s" % seg_line_long[right_index][0],
-                   "T1=%s" % right_type
                    ]
+    for lr_i in range(left_index+1, right_index):
+        word = seg_line_long[lr_i][0]
+        tag_flag = seg_line_long[lr_i][1]
+        if tag_flag == 'noun':
+            new_feature.append("M_N=%s" % word)
+        elif tag_flag == 'verb':
+            new_feature.append("M_V=%s" % word)
+    for lr_i in range(left_index-1, -1, -1):
+        word = seg_line_long[lr_i][0]
+        tag_flag = seg_line_long[lr_i][1]
+        if tag_flag == 'noun':
+            new_feature.append("S_N=%s" % word)
+        elif tag_flag == 'verb':
+            new_feature.append("S_V=%s" % word)
+        elif tag_flag == 'punctuation-mark':
+            break
+    for lr_i in range(right_index+1, len(seg_line_long)):
+        word = seg_line_long[lr_i][0]
+        tag_flag = seg_line_long[lr_i][1]
+        if tag_flag == 'noun':
+            new_feature.append("E_N=%s" % word)
+        elif tag_flag == 'verb':
+            new_feature.append("E_V=%s" % word)
+        elif tag_flag == 'punctuation-mark':
+            break
     if is_train == True:
         for feature_part in new_feature:
             if feature_part in feature_alphabet.keys():
@@ -161,6 +192,23 @@ def gen_vect_str(relat_type, seg_line_long, left_index, right_index, left_type, 
         vect_str += '\n'
     ###DONE...
     return vect_str
+
+def output_label_feature():
+    global label_alphabet
+    global feature_alphabet
+    fp_label = file('./input_data/lables.xxx', 'wb')
+    fp_feature = file('./input_data/features.xxx', 'wb')
+    ###TODO...
+    for k,v in label_alphabet.iteritems():
+        fp_label.write(k)
+        for k_i,v_i in v[1].iteritems():
+            fp_label.write(' %s:%d' % (k_i, v_i))
+        fp_label.write('\n')
+    for k,v in feature_alphabet.iteritems():
+        fp_feature.write('%s %d\n' % (k.encode('UTF-8'), v))
+    ###DONE...
+    fp_label.close()
+    fp_feature.close()
 
 def get_train_vect(o_train_file, train_file):
     global category_set
@@ -219,6 +267,7 @@ def get_train_vect(o_train_file, train_file):
             part_lines = []
     fp_in.close()
     fp_out.close()
+    output_label_feature()
 
 def init_predict_file(predict_file):
     global category_set
