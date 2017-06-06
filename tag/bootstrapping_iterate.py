@@ -36,8 +36,16 @@ def gen_sent(seg_line):
         word = seg_line[seg_i][0]
         pos = seg_line[seg_i][1]
         region = seg_line[seg_i][2]
-        if pos == 'punctuation-mark' or pos == 'noun' or pos == 'verb': #Maybe add something
+        if pos == 'punctuation-mark' :
             rule_ret += ('#'+word+'/'+word+'@'+str(region[0])+'-'+str(region[1]))
+        elif pos == 'noun' or pos == 'verb': #Maybe add something
+            num_ret = extend_pattern.sear_num_new(word)
+            if num_ret != None:
+                cilin_str = '|'.join(num_ret)
+                cilin_str = u'￥'+cilin_str+u'￥'
+                rule_ret += ('#'+word+'/'+cilin_str+'@'+str(region[0])+'-'+str(region[1]))
+            else:
+                rule_ret += ('#'+word+'/'+pos+'@'+str(region[0])+'-'+str(region[1]))
         else:
             if pos[0] != '<' and pos[-1] != '>':
                 rule_ret += ('#'+word+'/'+pos+'@'+str(region[0])+'-'+str(region[1]))
@@ -160,18 +168,19 @@ def match_rule(pre_sent, raw_string):
 def L2U_init():
     fp_L = file('./after_tag/L_init.xxx', 'rb')
     fp_U = file('./after_tag/U_init.xxx', 'wb')
-    part_no = 5
+    part_no = 6
     count = 0
     part_lines = []
     for line in fp_L:
         part_lines.append(line.strip())
         count += 1
-        if count == 5:
+        if count == part_no:
             count = 0
             fp_U.write(part_lines[0]+'\n')
             fp_U.write(part_lines[1]+'\n')
             fp_U.write(part_lines[2]+'\n')
             fp_U.write(part_lines[3]+'\n')
+            fp_U.write(part_lines[4]+'\n')
             part_lines = []
     fp_L.close()
     fp_U.close()
@@ -219,18 +228,18 @@ def single_iterate():
     fp_U_out = file('./after_tag/U.xxx', 'wb')
     fp_U_prime = file('./after_tag/U_prime.xxx', 'wb')
     fp_pre = file('./after_tag/pre.xxx', 'wb')
-    part_no = 4
+    part_no = 5
     count = 0
     part_lines = []
     for u_sent in fp_U_in:
         part_lines.append(u_sent.strip())
         count += 1
-        if count == 4:
+        if count == part_no:
             count = 0
             ###TODO...
             raw_string_long = part_lines[1].decode('UTF-8')
-            tag_string_long = part_lines[2].decode('UTF-8')
-            ne_list = ((part_lines[3].decode('UTF-8')).split())[1:]
+            tag_string_long = part_lines[3].decode('UTF-8')
+            ne_list = ((part_lines[4].decode('UTF-8')).split())[1:]
             pre_ret = pre_sent(raw_string_long, tag_string_long, ne_list)
             match_short_list = match_rule(pre_ret, raw_string_long)
             #print raw_string_long.encode(encode_type)
@@ -239,17 +248,18 @@ def single_iterate():
                 fp_U_prime.write(part_lines[1]+'\n')
                 fp_U_prime.write(part_lines[2]+'\n')
                 fp_U_prime.write(part_lines[3]+'\n')
-                fp_U_prime.write((u'匹配的短句：').encode('UTF-8')+'\n')
+                fp_U_prime.write(part_lines[4]+'\n')
+                # fp_U_prime.write((u'匹配的短句：').encode('UTF-8')+'\n')
                 relat_list = []
                 for short_i in match_short_list:
                     short_low, short_high = short_i[0]
                     match_pattern = short_i[1]
                     relat_list_part, tag_low, tag_high = gen_new_rule(raw_string_long, tag_string_long, ne_list, match_pattern, short_low, short_high)
                     relat_list.extend(relat_list_part)
-                    fp_U_prime.write(match_pattern.encode('UTF-8')+'\n')
-                    fp_U_prime.write(raw_string_long[short_low:short_high].encode('UTF-8')+'\n')
-                    fp_U_prime.write(tag_string_long[tag_low:tag_high].encode('UTF-8')+'\n')
-                    fp_U_prime.write((u'实体关系:').encode('UTF-8'))
+                    # fp_U_prime.write(match_pattern.encode('UTF-8')+'\n')
+                    # fp_U_prime.write(raw_string_long[short_low:short_high].encode('UTF-8')+'\n')
+                    # fp_U_prime.write(tag_string_long[tag_low:tag_high].encode('UTF-8')+'\n')
+                fp_U_prime.write((u'实体关系:').encode('UTF-8'))
                 relat_list = list(set(relat_list))
                 for relat_i in relat_list:
                     fp_U_prime.write(' '+relat_i.encode('UTF-8'))
@@ -281,9 +291,10 @@ def single_iterate():
                 fp_U_out.write(part_lines[1]+'\n')
                 fp_U_out.write(part_lines[2]+'\n')
                 fp_U_out.write(part_lines[3]+'\n')
+                fp_U_out.write(part_lines[4]+'\n')
             fp_pre.write(part_lines[0]+'\n')
             fp_pre.write(part_lines[1]+'\n')
-            fp_pre.write(part_lines[2]+'\n')
+            fp_pre.write(part_lines[3]+'\n')
             fp_pre.write(pre_ret.encode('UTF-8')+'\n')
             ###DONE...
             part_lines = []

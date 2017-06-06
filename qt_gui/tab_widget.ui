@@ -81,22 +81,6 @@
        <string>分析查询语句</string>
       </property>
      </widget>
-     <widget class="QLabel" name="label2">
-      <property name="geometry">
-       <rect>
-        <x>40</x>
-        <y>140</y>
-        <width>600</width>
-        <height>30</height>
-       </rect>
-      </property>
-      <property name="styleSheet">
-       <string notr="true">font: 75 italic 12pt &quot;Agency FB&quot;;</string>
-      </property>
-      <property name="text">
-       <string/>
-      </property>
-     </widget>
      <widget class="QPushButton" name="pushButton2">
       <property name="geometry">
        <rect>
@@ -168,6 +152,16 @@
       </property>
       <property name="checked">
        <bool>false</bool>
+      </property>
+     </widget>
+     <widget class="QComboBox" name="comboBox1">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>140</y>
+        <width>491</width>
+        <height>31</height>
+       </rect>
       </property>
      </widget>
     </widget>
@@ -263,11 +257,29 @@
     </hint>
    </hints>
   </connection>
+  <connection>
+   <sender>comboBox1</sender>
+   <signal>currentIndexChanged(QString)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>comboBox_index_change()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>203</x>
+     <y>201</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>-38</x>
+     <y>221</y>
+    </hint>
+   </hints>
+  </connection>
  </connections>
  <slots>
   <slot>click_ok()</slot>
   <slot>click_file_load()</slot>
   <slot>click_search()</slot>
   <slot>check_tips()</slot>
+  <slot>slot1()</slot>
+  <slot>comboBox_index_change()</slot>
  </slots>
 </ui>

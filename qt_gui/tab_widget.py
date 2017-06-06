@@ -2,12 +2,18 @@
 
 # Form implementation generated from reading ui file 'tab_widget.ui'
 #
-# Created: Thu May 25 20:19:34 2017
+# Created: Mon Jun 05 14:50:53 2017
 #      by: PyQt4 UI code generator 4.9.6
 #
 # WARNING! All changes made in this file will be lost!
 
 from PyQt4 import QtCore, QtGui
+import os
+import sys
+import re
+#decode: str ==> unicode
+#encode: unicode ==> str
+encode_type = sys.getfilesystemencoding()
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -103,11 +109,6 @@ class Ui_MainWindow(object):
         self.pushButton1.setGeometry(QtCore.QRect(140, 90, 111, 31))
         self.pushButton1.setStyleSheet(_fromUtf8("font: 75 italic 12pt \"Agency FB\";"))
         self.pushButton1.setObjectName(_fromUtf8("pushButton1"))
-        self.label2 = QtGui.QLabel(self.tab_1)
-        self.label2.setGeometry(QtCore.QRect(40, 140, 600, 30))
-        self.label2.setStyleSheet(_fromUtf8("font: 75 italic 12pt \"Agency FB\";"))
-        self.label2.setText(_fromUtf8(""))
-        self.label2.setObjectName(_fromUtf8("label2"))
         self.pushButton2 = QtGui.QPushButton(self.tab_1)
         self.pushButton2.setGeometry(QtCore.QRect(670, 140, 75, 31))
         self.pushButton2.setStyleSheet(_fromUtf8("font: 75 italic 12pt \"Agency FB\";"))
@@ -128,6 +129,9 @@ class Ui_MainWindow(object):
         self.checkBox1.setCheckable(True)
         self.checkBox1.setChecked(False)
         self.checkBox1.setObjectName(_fromUtf8("checkBox1"))
+        self.comboBox1 = QtGui.QComboBox(self.tab_1)
+        self.comboBox1.setGeometry(QtCore.QRect(40, 140, 491, 31))
+        self.comboBox1.setObjectName(_fromUtf8("comboBox1"))
         self.tabWidget1.addTab(self.tab_1, _fromUtf8(""))
         self.tab_2 = QtGui.QWidget()
         self.tab_2.setObjectName(_fromUtf8("tab_2"))
@@ -140,10 +144,10 @@ class Ui_MainWindow(object):
         self.statusbar = QtGui.QStatusBar(MainWindow)
         self.statusbar.setObjectName(_fromUtf8("statusbar"))
         MainWindow.setStatusBar(self.statusbar)
-        self.filename = u'../tag/medical_texts/中国高血压防治指南_.txt'
+        self.filename = u''
         self.highlighter = MyHighlighter(self.textEdit1)
         self.search_sent = u''
-        
+        self.load_relat_index('../tag/after_tag/L.xxx')
 
         self.retranslateUi(MainWindow)
         self.tabWidget1.setCurrentIndex(0)
@@ -151,7 +155,7 @@ class Ui_MainWindow(object):
         QtCore.QObject.connect(self.pushButton2, QtCore.SIGNAL(_fromUtf8("clicked()")), MainWindow.click_file_load)
         QtCore.QObject.connect(self.pushButton3, QtCore.SIGNAL(_fromUtf8("clicked()")), MainWindow.click_search)
         QtCore.QObject.connect(self.checkBox1, QtCore.SIGNAL(_fromUtf8("stateChanged(int)")), MainWindow.check_tips)
-        self.checkBox1.setChecked(True) #change the state artificially
+        QtCore.QObject.connect(self.comboBox1, QtCore.SIGNAL(_fromUtf8("currentIndexChanged(QString)")), MainWindow.comboBox_index_change)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
         MainWindow.setTabOrder(self.pushButton1, self.pushButton2)
         MainWindow.setTabOrder(self.pushButton2, self.lineEdit1)
@@ -167,10 +171,58 @@ class Ui_MainWindow(object):
         self.checkBox1.setText(_translate("MainWindow", "提示性提问", None))
         self.tabWidget1.setTabText(self.tabWidget1.indexOf(self.tab_1), _translate("MainWindow", "查询", None))
         self.tabWidget1.setTabText(self.tabWidget1.indexOf(self.tab_2), _translate("MainWindow", "其他", None))
+        self.set_combox_items(item_list=[], is_init=True)
+
+    def load_relat_index(self, tag_data_path):
+        fp_in = file(tag_data_path, 'rb')
+        fp_out = file('relat_index.xxx', 'wb')
+        part_no = 6
+        count = 0
+        part_lines = []
+        for a_line in fp_in:
+            part_lines.append(a_line.strip())
+            count += 1
+            if count == part_no:
+                count = 0
+                ###TODO...
+                raw_string = part_lines[1].decode('UTF-8')
+                file_info = ((part_lines[2].decode('UTF-8')).split())[1]
+                ne_list = ((part_lines[4].decode('UTF-8')).split())[1:]
+                relat_list = ((part_lines[5].decode('UTF-8')).split())[1:]
+                for relat_i in relat_list:
+                    fp_out.write('='*50+'\n')
+                    relat_type = re.findall(r',.*,', relat_i)
+                    assert len(relat_type) == 1
+                    relat_type = relat_type[0][1:-1]
+                    lr_ne_flag = re.findall(r'\d+', relat_i)
+                    assert len(lr_ne_flag) == 2
+                    left_no = int(lr_ne_flag[0])
+                    right_no = int(lr_ne_flag[1])
+                    left_ne = ne_list[left_no]
+                    right_ne = ne_list[right_no]
+                    fp_out.write((relat_type+' '+left_ne+' '+right_ne+' '+file_info).encode('UTF-8')+'\n')
+                    fp_out.write(raw_string.encode('UTF-8')+'\n')
+                ###DONE...
+                part_lines = []
+        fp_in.close()
+        fp_out.close()
+
+    def set_combox_items(self, item_list, is_init=False):
+        self.comboBox1.clear()
+        if is_init == True:
+            item_list = os.listdir('../tag/medical_texts')
+            for item_i in range(len(item_list)):
+                item_list[item_i] = item_list[item_i].decode(encode_type)
+                # self.comboBox1.setItemText(item_i, _translate("MainWindow", _fromUtf8(item_list[item_i]), None))
+        self.comboBox1.insertItems(0, item_list)
+        self.filename = unicode(self.comboBox1.currentText().toUtf8(), 'utf-8', 'ignore')
+        self.filename = os.path.join('../tag/medical_texts', self.filename)
+        self.click_file_load()
 
     def click_ok(self):
         self.search_sent = unicode(self.lineEdit1.text().toUtf8(), 'utf-8', 'ignore')
-        self.label2.setText(_fromUtf8(self.search_sent))
+        ###TODO...
+        ###DONE...
 
     def click_file_load(self):
         fh = None
@@ -183,12 +235,12 @@ class Ui_MainWindow(object):
             self.textEdit1.setPlainText(stream.readAll())
             self.textEdit1.document().setModified(False)
         except EnvironmentError as e:
-            QMessageBox.warning(self, "Python Editor -- Load Error",
-                    "Failed to load {0}: {1}".format(self.filename, e))
+            QtGui.QMessageBox.warning(self, u"File Load Error",
+                    u"Failed to load {0}: {1}".format(self.filename, e))
         finally:
             if fh is not None:
                 fh.close()
-    
+
     def click_search(self):
         self.search_sent = unicode(self.lineEdit1.text().toUtf8(), 'utf-8', 'ignore')
         ###TODO...
@@ -200,9 +252,18 @@ class Ui_MainWindow(object):
         ret_count = self.highlighter.return_count()
         print 'result_count: %d' % ret_count
         ###DONE...
-    
+
     def check_tips(self):
         if self.checkBox1.isChecked():
             print 'checked...'
         else:
             print 'not checked...'
+
+    def comboBox_index_change(self):
+        self.filename = unicode(self.comboBox1.currentText().toUtf8(), 'utf-8', 'ignore')
+        self.filename = os.path.join('../tag/medical_texts', self.filename)
+        self.click_file_load()
+        self.highlighter.init_ret_count()
+        self.highlighter.rehighlight()
+        ret_count = self.highlighter.return_count()
+        print 'result_count: %d' % ret_count

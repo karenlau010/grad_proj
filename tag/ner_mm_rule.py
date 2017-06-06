@@ -203,6 +203,7 @@ def ner_drive():
             seg_line = ' '.join('/'.join(y) for y in seg_line)
             #fp_out.write(seg_line.encode('UTF-8')+'\n')
             fp_out.write(line.encode('UTF-8')+'\n')
+            fp_out.write((u'文件信息:').encode('UTF-8')+' '+(text.decode(encode_type)).encode('UTF-8')+'\n')
             while i < len(line):
                 target = line[i]
                 bin_ret = binarysearch(low, high, index, target, loc)
@@ -286,16 +287,16 @@ def ner_rule():
             continue
         fp = file(os.path.join('./after_tag', text), 'rb')
         fp_out = file(os.path.join('./after_tag', text+'_ner'), 'wb')
-        part_no = 4
+        part_no = 5
         count = 0
         part_lines = []
         for line in fp:
             part_lines.append(line.strip())
             count += 1
-            if count == 4:
+            if count == part_no:
                 count = 0
-                ne_list = ((part_lines[3].decode('UTF-8')).split())[1:]
-                string = part_lines[2].decode('UTF-8')
+                ne_list = ((part_lines[4].decode('UTF-8')).split())[1:]
+                string = part_lines[3].decode('UTF-8')
                 for pat_i in range(len(pat_list)):
                     pat_str = pat_list[pat_i][0]
                     ne_type = pat_list[pat_i][1]
@@ -420,6 +421,7 @@ def ner_rule():
                             assert False
                 fp_out.write(part_lines[0]+'\n')
                 fp_out.write(part_lines[1]+'\n')
+                fp_out.write(part_lines[2]+'\n')
                 fp_out.write(string.encode('UTF-8')+'\n')
                 fp_out.write('命名实体: '+' '.join(y.encode('UTF-8') for y in ne_list)+'\n')
                 part_lines = []

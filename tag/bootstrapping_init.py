@@ -6,6 +6,7 @@ import re
 import os
 import time
 from bootstrapping_iterate import *
+import extend_pattern
 
 #decode: str ==> unicode
 #encode: unicode ==> str
@@ -15,8 +16,8 @@ ne_pare_list = []
 stop_table =[]
 stop_pos = ("punctuation-mark")
 cont_word_pos = {"verb", "noun"}
-#seg_sym = u'，：。;'
-seg_sym = u'。;'
+seg_sym = u'，：。;￥'
+#seg_sym = u'。;'
 
 def relat_pattern():
     fp = file(u'./extend_pattern/实体之间关系规则.pat_ex', 'rb')
@@ -46,20 +47,21 @@ def relat_rule():
             continue
         fp = file(os.path.join('./after_tag', text), 'rb')
         fp_out = file(os.path.join('./after_tag', text+'_rrule'), 'wb')
-        part_no = 4
+        part_no = 5
         count = 0
         part_lines = []
         for line in fp:
             part_lines.append(line.strip())
             count += 1
-            if count == 4:
+            if count == part_no:
                 count = 0
                 fp_out.write(part_lines[0]+'\n')
                 fp_out.write(part_lines[1]+'\n')
                 fp_out.write(part_lines[2]+'\n')
                 fp_out.write(part_lines[3]+'\n')
-                ne_list = ((part_lines[3].decode('UTF-8')).split())[1:]
-                string = part_lines[2].decode('UTF-8')
+                fp_out.write(part_lines[4]+'\n')
+                ne_list = ((part_lines[4].decode('UTF-8')).split())[1:]
+                string = part_lines[3].decode('UTF-8')
                 relat_list = set()
                 for pat_i in range(len(pat_list)):
                     pat_str = pat_list[pat_i][0]
@@ -94,17 +96,20 @@ def relat_rule():
                     fp_sample.write(part_lines[1]+'\n')
                     fp_sample.write(part_lines[2]+'\n')
                     fp_sample.write(part_lines[3]+'\n')
+                    fp_sample.write(part_lines[4]+'\n')
                     fp_sample.write('实体关系: '+' '.join(y.encode('UTF-8') for y in relat_list)+'\n')
                     fp_L.write(part_lines[0]+'\n')
                     fp_L.write(part_lines[1]+'\n')
                     fp_L.write(part_lines[2]+'\n')
                     fp_L.write(part_lines[3]+'\n')
+                    fp_L.write(part_lines[4]+'\n')
                     fp_L.write('实体关系: '+' '.join(y.encode('UTF-8') for y in relat_list)+'\n')
                 else:
                     fp_U.write(part_lines[0]+'\n')
                     fp_U.write(part_lines[1]+'\n')
                     fp_U.write(part_lines[2]+'\n')
                     fp_U.write(part_lines[3]+'\n')
+                    fp_U.write(part_lines[4]+'\n')
                 part_lines = []
         fp.close()
         fp_out.close()
@@ -117,16 +122,17 @@ def read_seed(seed_path):
     global ne_pare_list
     fp = file(seed_path, 'rb')
     fp_out = file('./after_tag/seed_pare.xxx', 'wb')
+    part_no = 6
     count = 0
     part_lines = []
     ne_pare_set = set()
     for line in fp:
         part_lines.append(line.strip())
         count += 1
-        if count == 5:
+        if count == part_no:
             count = 0
-            ne_list = ((part_lines[3].decode('UTF-8')).split())[1:]
-            relat_list = ((part_lines[4].decode('UTF-8')).split())[1:]
+            ne_list = ((part_lines[4].decode('UTF-8')).split())[1:]
+            relat_list = ((part_lines[5].decode('UTF-8')).split())[1:]
             for r_i in range(len(relat_list)):
                 new_relat = relat_list[r_i][:]
                 relat_type = re.findall(ur',.*,', new_relat)
@@ -155,14 +161,15 @@ def fetch_context():
         else:
             continue
         fp = file(os.path.join('./after_tag', text), 'rb')
+        part_no = 6
         count = 0
         part_lines = []
         for line in fp:
             part_lines.append(line.strip())
             count += 1
-            if count == 5:
+            if count == part_no:
                 count = 0
-                ne_list = ((part_lines[3].decode('UTF-8')).split())[1:]
+                ne_list = ((part_lines[4].decode('UTF-8')).split())[1:]
                 for ne_pare in ne_pare_list:
                     ne_left = ne_pare[0]
                     ne_right = ne_pare[1]
@@ -172,6 +179,7 @@ def fetch_context():
                         fp_context.write(part_lines[2]+'\n')
                         fp_context.write(part_lines[3]+'\n')
                         fp_context.write(part_lines[4]+'\n')
+                        fp_context.write(part_lines[5]+'\n')
                 part_lines = []
         fp.close()
     fp_context.close()
@@ -469,7 +477,17 @@ def gen_rule(seg_line):
             else:
                 rule_ret += '#'+'*'+'@'+str(region[0])+'-'+str(region[1])
         elif pos == 'noun' or pos == 'verb': #Maybe add something
-            rule_ret += ('#'+word+'/'+word+'@'+str(region[0])+'-'+str(region[1]))
+            num_ret = extend_pattern.sear_num_new(word)
+            if num_ret != None:
+                if len(num_ret) > 1:
+                    cilin_str = '|'.join(num_ret)
+                    cilin_str = '(?:'+cilin_str+')'
+                else:
+                    cilin_str = num_ret[0]
+                cilin_str = u'￥'+'.*'+cilin_str+'.*'+u'￥'
+                rule_ret += ('#'+word+'/'+cilin_str+'@'+str(region[0])+'-'+str(region[1]))
+            else:
+                rule_ret += ('#'+word+'/'+pos+'@'+str(region[0])+'-'+str(region[1]))
         else:
             if pos[0] != '<' and pos[-1] != '>':
                 rule_ret += ('#'+word+'/'+pos+'@'+str(region[0])+'-'+str(region[1]))
@@ -577,22 +595,24 @@ def generalize():
     fp = file('./after_tag/seed_context.xxx', 'rb')
     fp_out = file('./after_tag/seed_generalize.xxx', 'wb')
     fp_r = file('./after_tag/rule_generalize.xxx', 'wb')
+    part_no = 6
     count = 0
     part_lines = []
     for line in fp:
         part_lines.append(line.strip())
         count += 1
-        if count == 5:
+        if count == part_no:
             count = 0
             fp_out.write(part_lines[0]+'\n')
             fp_out.write(part_lines[1]+'\n')
             fp_out.write(part_lines[2]+'\n')
             fp_out.write(part_lines[3]+'\n')
             fp_out.write(part_lines[4]+'\n')
-            ne_list = ((part_lines[3].decode('UTF-8')).split())[1:]
-            relat_list = ((part_lines[4].decode('UTF-8')).split())[1:]
+            fp_out.write(part_lines[5]+'\n')
+            ne_list = ((part_lines[4].decode('UTF-8')).split())[1:]
+            relat_list = ((part_lines[5].decode('UTF-8')).split())[1:]
             raw_string_long = ((part_lines[1]).strip()).decode('UTF-8')
-            tag_string_long = ((part_lines[2]).strip()).decode('UTF-8')
+            tag_string_long = ((part_lines[3]).strip()).decode('UTF-8')
             ###TODO...
             seg_line_long = deal_cws(raw_string_long)
             ne_pos_list_long = cal_ne_pos(tag_string_long, ne_list)
@@ -636,6 +656,12 @@ def generalize():
     fp_out.close()
     fp_r.close()
 
+def load_cilin():
+    cilin_opath = u'./tongyicilin/哈工大同义词林扩展版.txt'
+    cilin_path = u'./tongyicilin/哈工大同义词林扩展版_new_struct.txt'
+    n_stat_path = u'./tongyicilin/n_stat.txt'
+    extend_pattern.load_tongyicilin_new(cilin_opath, cilin_path, n_stat_path)
+
 if __name__ == "__main__":
     start = time.clock()
     pynlpir.open()
@@ -644,6 +670,7 @@ if __name__ == "__main__":
     read_seed(seed_path)
     fetch_context()
     read_stop_table(u'./dictionary/停用表.dic')
+    load_cilin() #Attention point
     generalize()
     cop_file('./after_tag/L_init.xxx', './after_tag/L.xxx')
     cop_file('./after_tag/U_init.xxx', './after_tag/U.xxx')
