@@ -21,10 +21,10 @@ id_count = 0
 word_count = 0
 stat_count = 0
 
-def orginal_rela_pat(pat_name):
+def orginal_rela_pat(pat_name, in_base='./manual_pattern/', out_base='./extend_pattern'):
     global rep_dict
-    fp = file(os.path.join('./manual_pattern/', pat_name), 'rb')
-    fp_out = file(os.path.join('./extend_pattern', pat_name), 'wb')
+    fp = file(os.path.join(in_base, pat_name), 'rb')
+    fp_out = file(os.path.join(out_base, pat_name), 'wb')
     for pat_line in fp:
         pat_line = (pat_line.strip()).decode('UTF-8')
         pat_line = pat_line.split()

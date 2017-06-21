@@ -264,8 +264,8 @@ def ner_drive():
         fp_out.close()
     return 
 
-def ne_pattern():
-    fp = file(u'./extend_pattern/命名实体规则.pat_ex', 'rb')
+def ne_pattern(file_name=u'./extend_pattern/命名实体规则.pat_ex'):
+    fp = file(file_name, 'rb')
     pat_list = []
     for line in fp:
         line = (line.strip()).decode('UTF-8')

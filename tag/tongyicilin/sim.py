@@ -211,15 +211,15 @@ def sim(w_a, w_b):
 
 if __name__ == "__main__":
     start = time.clock()
-    ###cilin_path = u'哈工大同义词林扩展版.txt'
-    ###new_struct(cilin_path) #that function is too slow
+    cilin_path = u'哈工大同义词林扩展版.txt_mini'
+    new_struct(cilin_path) #that function is too slow
     ###load_tongyicilin(cilin_path)
-    cilin_path = u'哈工大同义词林扩展版_new_struct.txt'
-    n_stat_path = u'n_stat.txt'
-    load_tongyicilin_new(cilin_path, n_stat_path)
-    w_a = u'人民'
-    w_b = u'成年人'
-    ret = sim(w_a, w_b)
-    print 'ret: %f' % ret
-    end = time.clock()
-    print 'Time to run: %f' % (end-start)
+    # cilin_path = u'哈工大同义词林扩展版_new_struct.txt'
+    # n_stat_path = u'n_stat.txt'
+    # load_tongyicilin_new(cilin_path, n_stat_path)
+    # w_a = u'人民'
+    # w_b = u'成年人'
+    # ret = sim(w_a, w_b)
+    # print 'ret: %f' % ret
+    # end = time.clock()
+    # print 'Time to run: %f' % (end-start)

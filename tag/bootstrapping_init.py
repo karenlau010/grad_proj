@@ -19,8 +19,8 @@ cont_word_pos = {"verb", "noun"}
 seg_sym = u'，：。;￥'
 #seg_sym = u'。;'
 
-def relat_pattern():
-    fp = file(u'./extend_pattern/实体之间关系规则.pat_ex', 'rb')
+def relat_pattern(file_name = u'./extend_pattern/实体之间关系规则.pat_ex'):
+    fp = file(file_name, 'rb')
     pat_list = []
     for line in fp:
         line = (line.strip()).decode('UTF-8')
@@ -212,39 +212,40 @@ def cal_ne_pos(in_str, ne_list):
     no_str = ''
     ne_type = ''
     ne_pos_list = []
-    while is_i < len(in_str):
-        char = in_str[is_i]
-        if char == '[':
-            if is_i < (len(in_str) - 1):
-                is_i += 1
-                char = in_str[is_i]
-                if char == '[':
+    if len(ne_list) > 0:
+        while is_i < len(in_str):
+            char = in_str[is_i]
+            if char == '[':
+                if is_i < (len(in_str) - 1):
                     is_i += 1
                     char = in_str[is_i]
-                    while not (char >= u'0' and char <= u'9'):
-                        ne_type += char
+                    if char == '[':
                         is_i += 1
                         char = in_str[is_i]
-                    while char != ']':
-                        no_str += char
+                        while not (char >= u'0' and char <= u'9'):
+                            ne_type += char
+                            is_i += 1
+                            char = in_str[is_i]
+                        while char != ']':
+                            no_str += char
+                            is_i += 1
+                            char = in_str[is_i]
                         is_i += 1
                         char = in_str[is_i]
-                    is_i += 1
-                    char = in_str[is_i]
-                    assert char == ']'
-                    ne_pos_pare = []
-                    ne_pos_pare.append(cur_pos)
-                    cur_pos += len(ne_list[int(no_str)])
-                    ne_pos_pare.append(cur_pos)
-                    ne_pos_pare.append(ne_type)
-                    ne_pos_list.append(ne_pos_pare)
-                    cur_pos -= 1
-                    no_str = ''
-                    ne_type = ''
-                else:
-                    is_i -= 1
-        is_i += 1
-        cur_pos += 1
+                        assert char == ']'
+                        ne_pos_pare = []
+                        ne_pos_pare.append(cur_pos)
+                        cur_pos += len(ne_list[int(no_str)])
+                        ne_pos_pare.append(cur_pos)
+                        ne_pos_pare.append(ne_type)
+                        ne_pos_list.append(ne_pos_pare)
+                        cur_pos -= 1
+                        no_str = ''
+                        ne_type = ''
+                    else:
+                        is_i -= 1
+            is_i += 1
+            cur_pos += 1
     return ne_pos_list
 
 def fetch_tag_flags(in_str, ne_list, low, high):
@@ -656,10 +657,7 @@ def generalize():
     fp_out.close()
     fp_r.close()
 
-def load_cilin():
-    cilin_opath = u'./tongyicilin/哈工大同义词林扩展版.txt'
-    cilin_path = u'./tongyicilin/哈工大同义词林扩展版_new_struct.txt'
-    n_stat_path = u'./tongyicilin/n_stat.txt'
+def load_cilin(cilin_opath = u'./tongyicilin/哈工大同义词林扩展版.txt', cilin_path = u'./tongyicilin/哈工大同义词林扩展版_new_struct.txt', n_stat_path = u'./tongyicilin/n_stat.txt'):
     extend_pattern.load_tongyicilin_new(cilin_opath, cilin_path, n_stat_path)
 
 if __name__ == "__main__":
