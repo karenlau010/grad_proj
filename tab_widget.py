@@ -266,6 +266,7 @@ class Ui_MainWindow(object):
         self.tabWidget1.setTabText(self.tabWidget1.indexOf(self.tab), _translate("MainWindow", "标注+测试", None))
         self.set_combox_items(item_list=[], is_init=True)
         retrieve.drive_start()
+        self.setWindowIcon(QtGui.QIcon('images/heart.ico'))
 
     def set_combox_items(self, item_list, is_init=False):
         self.comboBox1.clear()
@@ -475,4 +476,9 @@ class Ui_MainWindow(object):
             print 'checked...'
         else:
             print 'not checked...'
+
+class SearchUI(QtGui.QMainWindow, Ui_MainWindow):
+    def __init__(self, parent=None):
+        super(SearchUI, self).__init__(parent)
+        self.setupUi(self)
 
